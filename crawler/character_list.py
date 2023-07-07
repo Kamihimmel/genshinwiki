@@ -37,9 +37,9 @@ for k in data_dict['en']:
     result['JAname'] = data_jp['name']
     img_ext = 'png'
     path = 'images/character/%s' % k
-    path = util.download_amber_avatar(path, data_en['icon'], img_ext, base_dir)
+    path = util.download_amber_image(path, data_en['icon'], img_ext, base_dir)
     result['imageurl'] = path
-    result['rank'] = data_en['rank']
+    result['rarity'] = data_en['rank']
     result['element'] = data_en['element'].lower()
     result['weapon'] = data_en['weaponType'].split('_')[1].lower()
     result['spoiler'] = data_en['beta'] if 'beta' in data_en else False

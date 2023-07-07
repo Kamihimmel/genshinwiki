@@ -15,6 +15,22 @@
     "80+": 11.943,
     "90": 12.846
   },
+  "levelup_curve_s4": {
+    "1": 1,
+    "20": 2.569,
+    "20+": 3.316,
+    "40": 4.967,
+    "40+": 5.498,
+    "50": 6.324,
+    "50+": 7.032,
+    "60": 7.858,
+    "60+": 8.388,
+    "70": 9.213,
+    "70+": 9.744,
+    "80": 10.57,
+    "80+": 11.101,
+    "90": 11.927
+  },
   "promote_count": {
     "1": 0,
     "20": 0,
@@ -32,7 +48,27 @@
     "90": 4
   },
   "promote_curve_s5": {
+    "charge_efficiency": 0.08,
+    "element_add_hurt": 0.072,
+    "element_mastery": 28.8,
+    "hp_percent": 0.06,
+    "heal_add": 0.0555,
     "critical_hurt": 0.096,
-    "heal_add": 0.0555
+    "defense_percent": 0.075,
+    "physical_add_hurt": 0.075,
+    "critical": 0.048,
+    "attack_percent": 0.072
+  },
+  "promote_curve_s4": {
+    "charge_efficiency": 0.0667,
+    "element_add_hurt": 0.06,
+    "element_mastery": 24,
+    "hp_percent": 0.06,
+    "heal_add": 0.0555,
+    "critical_hurt": 0.096,
+    "defense_percent": 0.075,
+    "physical_add_hurt": 0.075,
+    "critical": 0.048,
+    "attack_percent": 0.06
   }
 }
