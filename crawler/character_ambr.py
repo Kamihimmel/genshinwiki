@@ -69,6 +69,7 @@ def append_level(data_dict):
             break
     if promote_prop.endswith('_add_hurt') and promote != 'physical_add_hurt':
         promote_prop = 'element_add_hurt'
+    promote_init = promote_prop_init[promote_prop] if promote_prop in promote_prop_init else 0
 
     leveldata = []
     for i in range(0, len(promote)):
@@ -78,7 +79,7 @@ def append_level(data_dict):
             d = {'level': '1'}
             for k, v in base_props.items():
                 d[k] = v
-            d[promote_prop] = promote_prop_init[promote_prop] if promote_prop in promote_prop_init else 0
+            d[promote_prop] = promote_init
             leveldata.append(d)
         max_levels = [str(max_level)]
         if i < len(promote) - 1:
@@ -87,8 +88,7 @@ def append_level(data_dict):
             d = {'level': max_level_str}
             for k, v in base_props.items():
                 d[k] = v * levelup_curve[max_level_str]
-            d[promote_prop] = promote_count[max_level_str] * promote_curve[promote_prop] + (
-                promote_prop_init[promote_prop] if promote_prop in promote_prop_init else 0)
+            d[promote_prop] = promote_count[max_level_str] * promote_curve[promote_prop] + promote_init
             leveldata.append(d)
     result['leveldata'] = leveldata
     print('append leveldata, count: %s' % len(leveldata))

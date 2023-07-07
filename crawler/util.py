@@ -32,25 +32,13 @@ def clean_name(name):
     return re.sub(r'\?|!|,|\'|\"', '', name.replace(' ', '-').lower())
 
 
-def download_hhw_skill_image(character, skill_name, skill_type, base_dir):
-    name = clean_name(skill_name)
-    dir = 'images/skills/%s' % character.replace('-', '')
-    path = '%s/%s-%s.webp' % (dir, name, skill_type)
-    if not os.path.exists(base_dir + '/' + dir):
-        os.mkdir(base_dir + '/' + dir)
-    with open(base_dir + '/' + path, 'wb') as f:
-        url = 'https://hsr.honeyhunterworld.com/img/%s/%s-%s_icon.webp' % (skill_type, name, skill_type)
-        res = requests.get(url, headers={'User-Agent': ua.random}, timeout=30)
-        f.write(res.content)
-    return path
-
-
 def download_amber_image(path, icon, img_type, base_dir):
     path = '%s.%s' % (path, img_type)
     with open(base_dir + '/' + path, 'wb') as f:
         url = 'https://api.ambr.top/assets/UI/%s.%s' % (icon, img_type)
         res = requests.get(url, headers={'User-Agent': ua.random}, timeout=30)
-        f.write(res.content)
+        if res is not None and res.content is not None and len(res.content) > 0:
+            f.write(res.content)
     return path
 
 
