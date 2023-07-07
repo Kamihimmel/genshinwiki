@@ -1,0 +1,116 @@
+{
+    "id": "10000003",
+    "ENname": "Jean",
+    "CNname": "琴",
+    "JAname": "ジン",
+    "imageurl": "images/character/10000003.png",
+    "imagelargeurl": "images/character/10000003-large.png",
+    "element": "wind",
+    "weapon": "sword",
+    "rarity": 5,
+    "birthday": [
+        3,
+        14
+    ],
+    "release": 1600131600,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_hp": 1143.98401,
+            "base_attack": 18.62,
+            "base_defense": 59.83,
+            "heal_add": 0
+        },
+        {
+            "level": "20",
+            "base_hp": 2967.4945219399997,
+            "base_attack": 48.30028,
+            "base_defense": 155.19902,
+            "heal_add": 0.0
+        },
+        {
+            "level": "20+",
+            "base_hp": 3947.8888185099995,
+            "base_attack": 64.25762,
+            "base_defense": 206.47333,
+            "heal_add": 0.0
+        },
+        {
+            "level": "40",
+            "base_hp": 5907.533427639999,
+            "base_attack": 96.15368,
+            "base_defense": 308.96211999999997,
+            "heal_add": 0.0
+        },
+        {
+            "level": "40+",
+            "base_hp": 6605.363673739999,
+            "base_attack": 107.51188,
+            "base_defense": 345.45842,
+            "heal_add": 0.0555
+        },
+        {
+            "level": "50",
+            "base_hp": 7599.485778429999,
+            "base_attack": 123.69266,
+            "base_defense": 397.45068999999995,
+            "heal_add": 0.0555
+        },
+        {
+            "level": "50+",
+            "base_hp": 8528.40079455,
+            "base_attack": 138.81210000000002,
+            "base_defense": 446.03265,
+            "heal_add": 0.111
+        },
+        {
+            "level": "60",
+            "base_hp": 9532.81875533,
+            "base_attack": 155.16046,
+            "base_defense": 498.56338999999997,
+            "heal_add": 0.111
+        },
+        {
+            "level": "60+",
+            "base_hp": 10229.505017419999,
+            "base_attack": 166.50004,
+            "base_defense": 534.99986,
+            "heal_add": 0.111
+        },
+        {
+            "level": "70",
+            "base_hp": 11243.074850279998,
+            "base_attack": 182.99736,
+            "base_defense": 588.00924,
+            "heal_add": 0.111
+        },
+        {
+            "level": "70+",
+            "base_hp": 11939.761112369999,
+            "base_attack": 194.33694,
+            "base_defense": 624.44571,
+            "heal_add": 0.1665
+        },
+        {
+            "level": "80",
+            "base_hp": 12964.77078533,
+            "base_attack": 211.02046,
+            "base_defense": 678.05339,
+            "heal_add": 0.1665
+        },
+        {
+            "level": "80+",
+            "base_hp": 13662.601031429998,
+            "base_attack": 222.37866,
+            "base_defense": 714.5496899999999,
+            "heal_add": 0.222
+        },
+        {
+            "level": "90",
+            "base_hp": 14695.61859246,
+            "base_attack": 239.19252,
+            "base_defense": 768.57618,
+            "heal_add": 0.222
+        }
+    ]
+}

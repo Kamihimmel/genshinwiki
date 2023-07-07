@@ -1,0 +1,6 @@
+.vscode
+.idea
+
+crawler/venv
+crawler/ambr
+__pycache__

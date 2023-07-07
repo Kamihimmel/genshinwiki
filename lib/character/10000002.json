@@ -1,0 +1,116 @@
+{
+    "id": "10000002",
+    "ENname": "Kamisato Ayaka",
+    "CNname": "神里绫华",
+    "JAname": "神里綾華",
+    "imageurl": "images/character/10000002.png",
+    "imagelargeurl": "images/character/10000002-large.png",
+    "element": "ice",
+    "weapon": "sword",
+    "rarity": 5,
+    "birthday": [
+        9,
+        28
+    ],
+    "release": 1626814800,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_hp": 1000.98602,
+            "base_attack": 26.6266,
+            "base_defense": 61.0266,
+            "critical_hurt": 0.5
+        },
+        {
+            "level": "20",
+            "base_hp": 2596.55773588,
+            "base_attack": 69.06940039999999,
+            "base_defense": 158.3030004,
+            "critical_hurt": 0.5
+        },
+        {
+            "level": "20+",
+            "base_hp": 3454.4027550200003,
+            "base_attack": 91.88839660000001,
+            "base_defense": 210.6027966,
+            "critical_hurt": 0.5
+        },
+        {
+            "level": "40",
+            "base_hp": 5169.09180728,
+            "base_attack": 137.49976239999998,
+            "base_defense": 315.1413624,
+            "critical_hurt": 0.5
+        },
+        {
+            "level": "40+",
+            "base_hp": 5779.6932794800005,
+            "base_attack": 153.7419884,
+            "base_defense": 352.3675884,
+            "critical_hurt": 0.596
+        },
+        {
+            "level": "50",
+            "base_hp": 6649.5501308600005,
+            "base_attack": 176.88050379999999,
+            "base_defense": 405.3997038,
+            "critical_hurt": 0.596
+        },
+        {
+            "level": "50+",
+            "base_hp": 7462.3507791,
+            "base_attack": 198.501303,
+            "base_defense": 454.953303,
+            "critical_hurt": 0.692
+        },
+        {
+            "level": "60",
+            "base_hp": 8341.21650466,
+            "base_attack": 221.8794578,
+            "base_defense": 508.53465780000005,
+            "critical_hurt": 0.692
+        },
+        {
+            "level": "60+",
+            "base_hp": 8950.816990840001,
+            "base_attack": 238.0950572,
+            "base_defense": 545.6998572,
+            "critical_hurt": 0.692
+        },
+        {
+            "level": "70",
+            "base_hp": 9837.69060456,
+            "base_attack": 261.6862248,
+            "base_defense": 599.7694248,
+            "critical_hurt": 0.692
+        },
+        {
+            "level": "70+",
+            "base_hp": 10447.29109074,
+            "base_attack": 277.90182419999996,
+            "base_defense": 636.9346242,
+            "critical_hurt": 0.788
+        },
+        {
+            "level": "80",
+            "base_hp": 11344.174564660001,
+            "base_attack": 301.7592578,
+            "base_defense": 691.6144578000001,
+            "critical_hurt": 0.788
+        },
+        {
+            "level": "80+",
+            "base_hp": 11954.776036860001,
+            "base_attack": 318.00148379999996,
+            "base_defense": 728.8406838,
+            "critical_hurt": 0.884
+        },
+        {
+            "level": "90",
+            "base_hp": 12858.666412920002,
+            "base_attack": 342.0453036,
+            "base_defense": 783.9477036000001,
+            "critical_hurt": 0.884
+        }
+    ]
+}
