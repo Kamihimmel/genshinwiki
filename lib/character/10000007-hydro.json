@@ -118,7 +118,7 @@
             "id": "0",
             "ENname": "Normal Attack: Foreign Stream",
             "CNname": "普通攻击·异邦激流",
-            "JAname": "通常攻撃·異邦激流JP0B",
+            "JAname": "通常攻撃·異邦の激流",
             "imageurl": "images/talent/10000007-hydro-0.png",
             "DescriptionEN": "Normal Attack Performs up to 5 rapid strikes.  Charged Attack Consumes a certain amount of Stamina to unleash 2 rapid sword strikes.  Plunging Attack Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
             "DescriptionCN": "普通攻击 进行至多五段的连续剑击。  重击 消耗一定体力，瞬间向前方挥出两剑。  下落攻击 从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
@@ -1320,11 +1320,11 @@
             "id": "1",
             "ENname": "Aquacrest Saber",
             "CNname": "水纹剑",
-            "JAname": "水紋剣JP0B",
+            "JAname": "水紋剣",
             "imageurl": "images/talent/10000007-hydro-1.png",
-            "DescriptionEN": "Unleashes a torrent that can cleanse the world.  Press Sends a Torrent Surge forward that will deal Hydro DMG to opponents it comes into contact with.  Hold Enter Aiming Mode and constantly fire off Dewdrops in the direction in which you are aiming that will deal Hydro DMG to opponents they hit. When the skill ends, it will ends a Torrent Surge forward that will deal Hydro DMG to opponents it comes into contact with. Suffusion: When the Traveler's HP is higher than 50%, they will continuously lose HP and cause Dewdrop DMG to increase based on their HP.  Fundamental Force: Pneuma At certain intervals, after using Torrent Surge, this skill will unleash a Spiritbreath Thorn that pierces opponents, dealing Pneuma-aligned Hydro DMG.  You studied the ripples in the water with Paimon.",
+            "DescriptionEN": "Unleashes a torrent that can cleanse the world.  Press Sends a Torrent Surge forward that will deal Hydro DMG to opponents it comes into contact with.  Hold Enter Aiming Mode and constantly fire off Dewdrops in the direction in which you are aiming, dealing Hydro DMG to opponents they hit. When the skill ends, it will send a Torrent Surge forward that will deal Hydro DMG to opponents it comes into contact with. Suffusion: When the Traveler's HP is higher than 50%, they will continuously lose HP and cause Dewdrop DMG to increase based on their HP.  Arkhe: Pneuma At certain intervals, after using Torrent Surge, this skill will unleash a Spiritbreath Thorn that pierces opponents, dealing Pneuma-aligned Hydro DMG.  You studied the ripples in the water with Paimon.",
             "DescriptionCN": "释放能够荡涤大地的激流。  点按 向前释放喷发激流，对触及的敌人造成水元素伤害。  长按 进行瞄准，并不断向瞄准的方向释放露滴，对触及的敌人造成水元素伤害。 结束时，将向前释放喷发激流，对触及的敌人造成水元素伤害。 充盈：当旅行者的生命值高于50%时，将持续消耗生命值，使露滴造成的伤害将提高，提高值基于旅行者的生命值。  始基力：芒性 每隔一段时间，在释放喷发激流后，将出现穿透敌人的灵息之刺，造成具有芒性的水元素伤害。  和派蒙一起观察过水面漾起的涟漪。",
-            "DescriptionJP": "大地を浄化できる激流を放つ。  一回押し 前方に向かって飛び散る激流を放ち、命中した敵に水元素ダメージを与える。  長押し 照準モードに入り、狙った方向に向かって露の雫を放ち続け、命中した敵に水元素ダメージを与える。 終了時、前方に向かって飛び散る激流を放ち、命中した敵に水元素ダメージを与える。 充盈：旅人のHPが50%以上の時、持続的にHPを消費し、露の雫によるダメージをアップさせる。ダメージアップ量は旅人のHPによって決まる。  始源の力：プネウマ 一定間隔ごとに、飛び散る激流を放った後、敵を貫く霊息の棘が現れ、プネウマの帯びた水元素ダメージを与える。  パイモンと一緒に水面のさざ波を観察した。JP0B",
+            "DescriptionJP": "大地を浄化できる激流を放つ。  一回押し 前方に向かって飛び散る激流を放ち、命中した敵に水元素ダメージを与える。  長押し 照準モードに入り、狙った方向に向かって露の雫を放ち続け、命中した敵に水元素ダメージを与える。 終了時、前方に向かって飛び散る激流を放ち、命中した敵に水元素ダメージを与える。 充満：旅人のHPが50%以上の時、持続的にHPを消費し、露の雫によるダメージをアップさせる。ダメージアップ量は旅人のHPによって決まる。  始源の力：プネウマ 一定間隔ごとに、飛び散る激流を放った後、敵を貫く霊息の棘が現れ、プネウマを帯びた水元素ダメージを与える。  パイモンと一緒に水面のさざ波を観察した。",
             "cooldown": 10,
             "cost": 0,
             "type": "combat",
@@ -2522,11 +2522,11 @@
             "id": "3",
             "ENname": "Rising Waters",
             "CNname": "扬水制流",
-            "JAname": "揚水整流JP0B",
+            "JAname": "打ち上げる波流",
             "imageurl": "images/talent/10000007-hydro-3.png",
             "DescriptionEN": "Unleashes a slow-moving floating bubble that deals continuous Hydro DMG to nearby opponents.  You studied the ebb and flow of the tides with Paimon.",
             "DescriptionCN": "释放缓慢移动的浮水泡沫，对附近的敌人持续造成水元素伤害。  和派蒙一起研究过潮水的涨落。",
-            "DescriptionJP": "ゆっくり移動する浮遊水沫を放ち、近くの敵に水元素ダメージを持続的に与える。  パイモンと一緒に潮の干満を研究した。JP0B",
+            "DescriptionJP": "ゆっくりと移動する浮遊水沫を放ち、近くの敵に水元素ダメージを持続的に与える。  パイモンと一緒に潮の満ち引きを研究した。",
             "cooldown": 20,
             "cost": 80,
             "type": "combat",
@@ -3758,61 +3758,61 @@
             "level": 1,
             "ENname": "Swelling Lake",
             "CNname": "微澜的湖水",
-            "JAname": "細波の湖水JP0B",
+            "JAname": "細波の湖水",
             "imageurl": "images/constellation/10000007-hydro-c1.png",
             "DescriptionEN": "Picking up a Sourcewater Droplet will restore 2 Energy to the Traveler. Requires the Passive Talent \"Spotless Waters.\"",
             "DescriptionCN": "拾取源水之滴后，旅行者将恢复2点元素能量。 需要解锁固有天赋「无染的澈水」。",
-            "DescriptionJP": "源水の雫を拾うと、旅人は元素エネルギーを2回復する。 固有天賦「無染の清水」を解放する必要がある。JP0B"
+            "DescriptionJP": "源水の雫を拾うと、旅人は元素エネルギーを2回復する。 固有天賦「無染の清水」を解放する必要がある。"
         },
         {
             "level": 2,
             "ENname": "Trickling Purity",
             "CNname": "潺涓的碧水",
-            "JAname": "潺湲の碧水JP0B",
+            "JAname": "潺湲の碧水",
             "imageurl": "images/constellation/10000007-hydro-c2.png",
             "DescriptionEN": "The Movement SPD of Rising Waters' bubble will be decreased by 30%, and its duration increased by 3s.",
             "DescriptionCN": "扬水制流的浮水泡沫移动的速度降低30%，持续时间延长3秒。",
-            "DescriptionJP": "揚水整流の浮遊水沫の移動速度-30%、継続時間+3秒。JP0B"
+            "DescriptionJP": "打ち上げる波流れの浮遊水沫の移動速度-30%、継続時間+3秒。"
         },
         {
             "level": 3,
             "ENname": "Turbulent Ripples",
             "CNname": "激荡的波水",
-            "JAname": "荒天の波水JP0B",
+            "JAname": "荒天の波水",
             "imageurl": "images/constellation/10000007-hydro-c3.png",
             "DescriptionEN": "Increases the Level of Aquacrest Saber by 3. Maximum upgrade level is 15.",
             "DescriptionCN": "水纹剑的技能等级提高3级。 至多提升至15级。",
-            "DescriptionJP": "水紋剣のスキルLv.+3。 最大Lv.15まで。JP0B"
+            "DescriptionJP": "水紋剣のスキルLv.+3。 最大Lv.15まで。"
         },
         {
             "level": 4,
             "ENname": "Pouring Descent",
             "CNname": "倾落的迸水",
-            "JAname": "傾落の迸水JP0B",
+            "JAname": "傾落の迸水",
             "imageurl": "images/constellation/10000007-hydro-c4.png",
-            "DescriptionEN": "When using Aquacrest Saber, an Aquacrest Aegis that can absorb 10% of the Traveler's Max HP in DMG and will absorb Hydro DMG with 250% effectiveness. It will persist until the Traveler finishes using the skill. Once every 2s, after a Dewdrop hits an opponent, if the Traveler is being protected by Aquacrest Aegis, the DMG Absorption of the Aegis will be restored to 10% of the Traveler's Max HP. If the Traveler is not presently being protected by an Aegis, one will be redeployed.",
+            "DescriptionEN": "When using Aquacrest Saber, an Aquacrest Aegis that can absorb 10% of the Traveler's Max HP in DMG will be created and will absorb Hydro DMG with 250% effectiveness. It will persist until the Traveler finishes using the skill. Once every 2s, after a Dewdrop hits an opponent, if the Traveler is being protected by Aquacrest Aegis, the DMG Absorption of the Aegis will be restored to 10% of the Traveler's Max HP. If the Traveler is not presently being protected by an Aegis, one will be redeployed.",
             "DescriptionCN": "施放水纹剑时，将生成一个伤害吸收量等于生命值上限10%的水纹护盾，对水元素伤害有250%的吸收效果，持续直到施放完成。 每2秒一次，露滴命中敌人后，如果旅行者处于水纹护盾的庇护下，则将水纹护盾的伤害吸收量补充至旅行者生命值上限的10%；如果不处于水纹护盾的庇护下，则重新产生水纹护盾。",
-            "DescriptionJP": "水紋剣を発動するとき、ダメージ吸収量がHP上限の10%に値する水紋シールドを生成する。このシールドは水元素ダメージに対して250%の吸収効果があり、発動完了まで継続する。 2秒毎に1回、露の雫が敵に命中した後、旅人が水紋シールド状態にある場合、水紋シールドのダメージ吸収量を旅人のHP上限の10%まで補充する。旅人が水紋シールド状態でない場合、水紋シールドを再生成する。JP0B"
+            "DescriptionJP": "水紋剣を発動する時、ダメージ吸収量がHP上限の10%に値する水紋シールドを生成する。このシールドは水元素ダメージに対して250%の吸収効果があり、発動完了まで持続する。 2秒毎に1回、露の雫が敵に命中した後、旅人が水紋シールド状態にある場合、水紋シールドのダメージ吸収量を旅人のHP上限の10%まで補充する。旅人が水紋シールド状態でない場合、水紋シールドを再生成する。"
         },
         {
             "level": 5,
             "ENname": "Churning Whirlpool",
             "CNname": "洄旋的曲水",
-            "JAname": "回旋の曲水JP0B",
+            "JAname": "回旋の曲水",
             "imageurl": "images/constellation/10000007-hydro-c5.png",
             "DescriptionEN": "Increases the Level of Rising Waters by 3. Maximum upgrade level is 15.",
             "DescriptionCN": "扬水制流的技能等级提高3级。 至多提升至15级。",
-            "DescriptionJP": "揚水整流のスキルLv.+3。 最大Lv.15まで。JP0B"
+            "DescriptionJP": "打ち上げる波流のスキルLv.+3。 最大Lv.15まで。"
         },
         {
             "level": 6,
             "ENname": "Tides of Justice",
             "CNname": "公义的潮水",
-            "JAname": "公義の潮水JP0B",
+            "JAname": "公義の潮水",
             "imageurl": "images/constellation/10000007-hydro-c6.png",
-            "DescriptionEN": "When the Traveler picks up a Sourcewater Droplet, they will restore to the nearest party member with the lowest HP percentage remaining based on 6% of their Max HP.",
+            "DescriptionEN": "When the Traveler picks up a Sourcewater Droplet, they will restore HP to the nearest party member with the lowest HP percentage remaining based on 6% of their Max HP.",
             "DescriptionCN": "旅行者拾取源水之滴时，还将为队伍中附近的生命值百分比最低的角色，基于其生命值上限的6%，恢复生命值。",
-            "DescriptionJP": "旅人が源水の雫を拾うとき、追加で周囲のHPの割合が最も低いキャラクターのHPを回復する。回復量はそのキャラクターのHP上限の6%に相当する。JP0B"
+            "DescriptionJP": "旅人が源水の雫を拾う時、追加で周囲にいるHP割合の最も低いキャラクターのHPを回復する。回復量はそのキャラクターのHP上限の6%に相当する。"
         }
     ]
 }
