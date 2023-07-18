@@ -36,7 +36,7 @@ def download_amber_image(path, icon, img_type, base_dir):
     path = '%s.%s' % (path, img_type)
     with open(base_dir + '/' + path, 'wb') as f:
         url = 'https://api.ambr.top/assets/UI/%s.%s' % (icon, img_type)
-        res = requests.get(url, headers={'User-Agent': ua.random}, timeout=30)
+        res = requests.get(url, headers={'User-Agent': ua.edge}, timeout=30)
         if res is not None and res.content is not None and len(res.content) > 0:
             f.write(res.content)
     return path

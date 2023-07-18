@@ -233,7 +233,7 @@ def generate_json(character_id):
     data_dict = {}
     for lang in languages:
         url = 'https://api.ambr.top/v2/%s/avatar/%s' % (lang, character_id)
-        res = requests.get(url, headers={'User-Agent': ua.random}, timeout=10)
+        res = requests.get(url, headers={'User-Agent': ua.edge}, timeout=10)
         if res is None or res.content is None:
             print('fetch failed, please try again')
             exit(1)
