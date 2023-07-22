@@ -2,7 +2,6 @@
 
 import json
 import os
-import re
 import requests
 import sys
 
@@ -18,7 +17,7 @@ promote_prop_init = {'critical_hurt': 0.5, 'critical': 0.05}
 ua = UserAgent()  # required for non-browser http request, or you will get a response code of 403
 result = {}
 
-f = open(base_dir + '/lib/base_data.json', 'r', encoding='utf-8')
+f = open(base_dir + '/lib/character_base_data.json', 'r', encoding='utf-8')
 base_data = json.load(f)
 f.close()
 
@@ -51,44 +50,46 @@ def append_basic(data_dict):
 
 
 def append_level(data_dict):
-    levelup_curve = base_data['levelup_curve_s5'] if data_dict['en']['rank'] == 5 else base_data['levelup_curve_s4']
-    promote_count = base_data['promote_count']
-    promote_curve = base_data['promote_curve_s5'] if data_dict['en']['rank'] == 5 else base_data['promote_curve_s4']
     upgrade = data_dict['en']['upgrade']
     promote = upgrade['promote']
-    prop = upgrade['prop']
-    base_props = {}
-    for p in prop:
-        base_props[p['propType'].replace('FIGHT_PROP_', '').lower()] = p['initValue']
-    promote_prop = ''
-    last_promote = promote[len(promote) - 1]
-    for k in last_promote['addProps'].keys():
-        p = k.replace('FIGHT_PROP_', '').lower()
-        if p not in base_props:
-            promote_prop = p
-            break
-    if promote_prop.endswith('_add_hurt') and promote != 'physical_add_hurt':
-        promote_prop = 'element_add_hurt'
-    promote_init = promote_prop_init[promote_prop] if promote_prop in promote_prop_init else 0
-
+    promote_dict = {}
+    for p in promote:
+        promote_dict[p['unlockMaxLevel']] = p
+    props = util.get_props(upgrade['prop'])
+    add_prop_key = util.get_props(promote_dict[40]['addProps']).keys()
     leveldata = []
-    for i in range(0, len(promote)):
-        lvl = promote[i]
-        max_level = lvl['unlockMaxLevel']
-        if i == 0:
-            d = {'level': '1'}
-            for k, v in base_props.items():
-                d[k] = v
-            d[promote_prop] = promote_init
-            leveldata.append(d)
-        max_levels = [str(max_level)]
-        if i < len(promote) - 1:
-            max_levels.append(str(max_level) + '+')
-        for max_level_str in max_levels:
-            d = {'level': max_level_str}
-            for k, v in base_props.items():
-                d[k] = v * levelup_curve[max_level_str]
-            d[promote_prop] = promote_count[max_level_str] * promote_curve[promote_prop] + promote_init
+    d = {'level': '1'}
+    for name, value in props.items():
+        d[name] = value['init']
+    for k in add_prop_key:
+        if k not in props:
+            d[k] = promote_prop_init[k] if k in promote_prop_init else 0
+    leveldata.append(d)
+    for i in range(10, 91, 10):
+        level = str(i)
+        add_props = {}
+        if i in promote_dict and i > 20:
+            add_props = util.get_props(promote_dict[i]['addProps'])
+        d = {'level': level}
+        for name, value in props.items():
+            d[name] = value['init'] * base_data[level]['curveInfos'][value['curve']]
+        for k in add_prop_key:
+            if k in props:
+                d[k] += add_props[k] if k in add_props else 0
+            else:
+                d[k] = (add_props[k] if k in add_props else 0) + (promote_prop_init[k] if k in promote_prop_init else 0)
+        leveldata.append(d)
+        if i in promote_dict and 20 <= i < 90:
+            next_promote = {}
+            for j in range(i + 10, 91, 10):
+                if j in promote_dict:
+                    next_promote = promote_dict[j]
+                    break
+            next_add_props = util.get_props(next_promote['addProps'])
+            d = {'level': level + '+'}
+            for k, v in leveldata[len(leveldata) - 1].items():
+                if k != 'level':
+                    d[k] = v + (next_add_props[k] - (add_props[k] if k in add_props else 0))
             leveldata.append(d)
     result['leveldata'] = leveldata
     print('append leveldata, count: %s' % len(leveldata))
@@ -229,7 +230,6 @@ def generate_json(character_id):
         character_info = json.load(f)
         character = list(filter(lambda i: i['id'] == character_id, character_info['data']))[0]['ENname']
     print('generate lib json from ambr for: %s %s' % (character_id, character))
-    c = character.lower().replace('-', '')
     data_dict = {}
     for lang in languages:
         url = 'https://api.ambr.top/v2/%s/avatar/%s' % (lang, character_id)

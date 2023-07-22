@@ -6,10 +6,9 @@ import requests
 
 from fake_useragent import UserAgent
 
-srs_assets_url = 'https://starrailstation.com/assets'
-yatta_icon_url = 'https://api.yatta.top/hsr/assets/UI/%s/%s.%s'
 amber_icon_url = 'https://api.ambr.top/assets/UI/%s/%s.%s'
-dirs = ['', '/lib', '/lib/lightcones', '/lib/relics', '/images', '/images/character', '/images/skills', '/images/lightcones', '/images/relics']
+dirs = ['', '/lib', '/lib/character', '/lib/weapon', '/lib/artifact', '/images', '/images/character', '/images/talent',
+        '/images/constellation', '/images/weapon', '/images/artifact']
 ua = UserAgent()
 
 
@@ -34,11 +33,13 @@ def clean_name(name):
 
 def download_amber_image(path, icon, img_type, base_dir):
     path = '%s.%s' % (path, img_type)
-    with open(base_dir + '/' + path, 'wb') as f:
-        url = 'https://api.ambr.top/assets/UI/%s.%s' % (icon, img_type)
-        res = requests.get(url, headers={'User-Agent': ua.edge}, timeout=30)
-        if res is not None and res.content is not None and len(res.content) > 0:
-            f.write(res.content)
+    skip = os.getenv('SKIP_IMAGE')
+    if not skip or skip != '1':
+        with open(base_dir + '/' + path, 'wb') as f:
+            url = 'https://api.ambr.top/assets/UI/%s.%s' % (icon, img_type)
+            res = requests.get(url, headers={'User-Agent': ua.edge}, timeout=30)
+            if res is not None and res.content is not None and len(res.content) > 0:
+                f.write(res.content)
     return path
 
 
@@ -59,3 +60,24 @@ def prepare_dirs(source, base_dir):
         path = '%s/crawler/%s%s' % (base_dir, source, d)
         if not os.path.exists(path):
             os.mkdir(path)
+
+
+def get_props(prop):
+    props = {}
+    if isinstance(prop, list):
+        for p in prop:
+            if 'propType' in p:
+                name = p['propType'].replace('FIGHT_PROP_', '').lower()
+                if name.endswith('_add_hurt') and name != 'physical_add_hurt':
+                    name = 'element_add_hurt'
+                props[name] = {
+                    'init': p['initValue'],
+                    'curve': p['type'],
+                }
+    elif isinstance(prop, dict):
+        for k, v in prop.items():
+            name = k.replace('FIGHT_PROP_', '').lower()
+            if name.endswith('_add_hurt') and name != 'physical_add_hurt':
+                name = 'element_add_hurt'
+            props[name] = v
+    return props

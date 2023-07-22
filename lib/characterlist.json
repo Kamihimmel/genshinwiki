@@ -6,10 +6,12 @@
             "CNname": "神里绫华",
             "JAname": "神里綾華",
             "imageurl": "images/character/10000002.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "ice",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 2
         },
         {
             "id": "10000003",
@@ -17,10 +19,12 @@
             "CNname": "琴",
             "JAname": "ジン",
             "imageurl": "images/character/10000003.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "wind",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 26
         },
         {
             "id": "10000006",
@@ -28,10 +32,12 @@
             "CNname": "丽莎",
             "JAname": "リサ",
             "imageurl": "images/character/10000006.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "electric",
             "weapon": "catalyst",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000014",
@@ -39,10 +45,12 @@
             "CNname": "芭芭拉",
             "JAname": "バーバラ",
             "imageurl": "images/character/10000014.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "water",
             "weapon": "catalyst",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000015",
@@ -50,10 +58,12 @@
             "CNname": "凯亚",
             "JAname": "ガイア",
             "imageurl": "images/character/10000015.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "ice",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000016",
@@ -61,10 +71,12 @@
             "CNname": "迪卢克",
             "JAname": "ディルック",
             "imageurl": "images/character/10000016.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "fire",
             "weapon": "claymore",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000020",
@@ -72,10 +84,12 @@
             "CNname": "雷泽",
             "JAname": "レザー",
             "imageurl": "images/character/10000020.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "electric",
             "weapon": "claymore",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000021",
@@ -83,10 +97,12 @@
             "CNname": "安柏",
             "JAname": "アンバー",
             "imageurl": "images/character/10000021.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "fire",
             "weapon": "bow",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000022",
@@ -94,10 +110,12 @@
             "CNname": "温迪",
             "JAname": "ウェンティ",
             "imageurl": "images/character/10000022.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "wind",
             "weapon": "bow",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000023",
@@ -105,10 +123,12 @@
             "CNname": "香菱",
             "JAname": "香菱",
             "imageurl": "images/character/10000023.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "fire",
             "weapon": "pole",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 12
         },
         {
             "id": "10000024",
@@ -116,10 +136,12 @@
             "CNname": "北斗",
             "JAname": "北斗",
             "imageurl": "images/character/10000024.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "electric",
             "weapon": "claymore",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000025",
@@ -127,10 +149,12 @@
             "CNname": "行秋",
             "JAname": "行秋",
             "imageurl": "images/character/10000025.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "water",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 11
         },
         {
             "id": "10000026",
@@ -138,10 +162,12 @@
             "CNname": "魈",
             "JAname": "魈",
             "imageurl": "images/character/10000026.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "wind",
             "weapon": "pole",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 7
         },
         {
             "id": "10000027",
@@ -149,10 +175,12 @@
             "CNname": "凝光",
             "JAname": "凝光",
             "imageurl": "images/character/10000027.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "rock",
             "weapon": "catalyst",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000029",
@@ -160,10 +188,12 @@
             "CNname": "可莉",
             "JAname": "クレー",
             "imageurl": "images/character/10000029.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "fire",
             "weapon": "catalyst",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000030",
@@ -171,10 +201,12 @@
             "CNname": "钟离",
             "JAname": "鍾離",
             "imageurl": "images/character/10000030.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "rock",
             "weapon": "pole",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 8
         },
         {
             "id": "10000031",
@@ -182,10 +214,12 @@
             "CNname": "菲谢尔",
             "JAname": "フィッシュル",
             "imageurl": "images/character/10000031.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "electric",
             "weapon": "bow",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 21
         },
         {
             "id": "10000032",
@@ -193,10 +227,12 @@
             "CNname": "班尼特",
             "JAname": "ベネット",
             "imageurl": "images/character/10000032.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "fire",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000033",
@@ -204,10 +240,12 @@
             "CNname": "达达利亚",
             "JAname": "タルタリヤ",
             "imageurl": "images/character/10000033.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "water",
             "weapon": "bow",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 14
         },
         {
             "id": "10000034",
@@ -215,10 +253,12 @@
             "CNname": "诺艾尔",
             "JAname": "ノエル",
             "imageurl": "images/character/10000034.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "rock",
             "weapon": "claymore",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 27
         },
         {
             "id": "10000035",
@@ -226,10 +266,12 @@
             "CNname": "七七",
             "JAname": "七七",
             "imageurl": "images/character/10000035.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "ice",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000036",
@@ -237,10 +279,12 @@
             "CNname": "重云",
             "JAname": "重雲",
             "imageurl": "images/character/10000036.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "ice",
             "weapon": "claymore",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000037",
@@ -248,10 +292,12 @@
             "CNname": "甘雨",
             "JAname": "甘雨",
             "imageurl": "images/character/10000037.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "ice",
             "weapon": "bow",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 0
         },
         {
             "id": "10000038",
@@ -259,10 +305,12 @@
             "CNname": "阿贝多",
             "JAname": "アルベド",
             "imageurl": "images/character/10000038.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "rock",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000039",
@@ -270,10 +318,12 @@
             "CNname": "迪奥娜",
             "JAname": "ディオナ",
             "imageurl": "images/character/10000039.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "ice",
             "weapon": "bow",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000041",
@@ -281,10 +331,12 @@
             "CNname": "莫娜",
             "JAname": "モナ",
             "imageurl": "images/character/10000041.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "water",
             "weapon": "catalyst",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000042",
@@ -292,10 +344,12 @@
             "CNname": "刻晴",
             "JAname": "刻晴",
             "imageurl": "images/character/10000042.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "electric",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 20
         },
         {
             "id": "10000043",
@@ -303,10 +357,12 @@
             "CNname": "砂糖",
             "JAname": "スクロース",
             "imageurl": "images/character/10000043.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "wind",
             "weapon": "catalyst",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000044",
@@ -314,10 +370,12 @@
             "CNname": "辛焱",
             "JAname": "辛炎",
             "imageurl": "images/character/10000044.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "fire",
             "weapon": "claymore",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000045",
@@ -325,10 +383,12 @@
             "CNname": "罗莎莉亚",
             "JAname": "ロサリア",
             "imageurl": "images/character/10000045.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "ice",
             "weapon": "pole",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000046",
@@ -336,10 +396,12 @@
             "CNname": "胡桃",
             "JAname": "胡桃",
             "imageurl": "images/character/10000046.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "fire",
             "weapon": "pole",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 5
         },
         {
             "id": "10000047",
@@ -347,10 +409,12 @@
             "CNname": "枫原万叶",
             "JAname": "楓原万葉",
             "imageurl": "images/character/10000047.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "wind",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000048",
@@ -358,10 +422,12 @@
             "CNname": "烟绯",
             "JAname": "煙緋",
             "imageurl": "images/character/10000048.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "fire",
             "weapon": "catalyst",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000049",
@@ -369,10 +435,12 @@
             "CNname": "宵宫",
             "JAname": "宵宮",
             "imageurl": "images/character/10000049.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "fire",
             "weapon": "bow",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 1
         },
         {
             "id": "10000050",
@@ -380,10 +448,12 @@
             "CNname": "托马",
             "JAname": "トーマ",
             "imageurl": "images/character/10000050.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "fire",
             "weapon": "pole",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000051",
@@ -391,10 +461,12 @@
             "CNname": "优菈",
             "JAname": "エウルア",
             "imageurl": "images/character/10000051.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "ice",
             "weapon": "claymore",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 4
         },
         {
             "id": "10000052",
@@ -402,10 +474,12 @@
             "CNname": "雷电将军",
             "JAname": "雷電将軍",
             "imageurl": "images/character/10000052.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "electric",
             "weapon": "pole",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 3
         },
         {
             "id": "10000053",
@@ -413,10 +487,12 @@
             "CNname": "早柚",
             "JAname": "早柚",
             "imageurl": "images/character/10000053.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "wind",
             "weapon": "claymore",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000054",
@@ -424,10 +500,12 @@
             "CNname": "珊瑚宫心海",
             "JAname": "珊瑚宮心海",
             "imageurl": "images/character/10000054.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "water",
             "weapon": "catalyst",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 15
         },
         {
             "id": "10000055",
@@ -435,10 +513,12 @@
             "CNname": "五郎",
             "JAname": "ゴロー",
             "imageurl": "images/character/10000055.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "rock",
             "weapon": "bow",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000056",
@@ -446,10 +526,12 @@
             "CNname": "九条裟罗",
             "JAname": "九条裟羅",
             "imageurl": "images/character/10000056.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "electric",
             "weapon": "bow",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000057",
@@ -457,10 +539,12 @@
             "CNname": "荒泷一斗",
             "JAname": "荒瀧一斗",
             "imageurl": "images/character/10000057.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "rock",
             "weapon": "claymore",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 6
         },
         {
             "id": "10000058",
@@ -468,10 +552,12 @@
             "CNname": "八重神子",
             "JAname": "八重神子",
             "imageurl": "images/character/10000058.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "electric",
             "weapon": "catalyst",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 9
         },
         {
             "id": "10000059",
@@ -479,10 +565,12 @@
             "CNname": "鹿野院平藏",
             "JAname": "鹿野院平蔵",
             "imageurl": "images/character/10000059.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "wind",
             "weapon": "catalyst",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000060",
@@ -490,10 +578,12 @@
             "CNname": "夜兰",
             "JAname": "夜蘭",
             "imageurl": "images/character/10000060.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "water",
             "weapon": "bow",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 13
         },
         {
             "id": "10000061",
@@ -501,10 +591,12 @@
             "CNname": "绮良良",
             "JAname": "綺良々",
             "imageurl": "images/character/10000061.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "grass",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000062",
@@ -512,10 +604,12 @@
             "CNname": "埃洛伊",
             "JAname": "アーロイ",
             "imageurl": "images/character/10000062.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "ice",
             "weapon": "bow",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000063",
@@ -523,10 +617,12 @@
             "CNname": "申鹤",
             "JAname": "申鶴",
             "imageurl": "images/character/10000063.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "ice",
             "weapon": "pole",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000064",
@@ -534,10 +630,12 @@
             "CNname": "云堇",
             "JAname": "雲菫",
             "imageurl": "images/character/10000064.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "rock",
             "weapon": "pole",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000065",
@@ -545,10 +643,12 @@
             "CNname": "久岐忍",
             "JAname": "久岐忍",
             "imageurl": "images/character/10000065.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "electric",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000066",
@@ -556,10 +656,12 @@
             "CNname": "神里绫人",
             "JAname": "神里綾人",
             "imageurl": "images/character/10000066.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "water",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 10
         },
         {
             "id": "10000067",
@@ -567,10 +669,12 @@
             "CNname": "柯莱",
             "JAname": "コレイ",
             "imageurl": "images/character/10000067.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "grass",
             "weapon": "bow",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000068",
@@ -578,10 +682,12 @@
             "CNname": "多莉",
             "JAname": "ドリー",
             "imageurl": "images/character/10000068.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "electric",
             "weapon": "claymore",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000069",
@@ -589,10 +695,12 @@
             "CNname": "提纳里",
             "JAname": "ティナリ",
             "imageurl": "images/character/10000069.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "grass",
             "weapon": "bow",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 16
         },
         {
             "id": "10000070",
@@ -600,10 +708,12 @@
             "CNname": "妮露",
             "JAname": "ニィロウ",
             "imageurl": "images/character/10000070.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "water",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 17
         },
         {
             "id": "10000071",
@@ -611,10 +721,12 @@
             "CNname": "赛诺",
             "JAname": "セノ",
             "imageurl": "images/character/10000071.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "electric",
             "weapon": "pole",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 18
         },
         {
             "id": "10000072",
@@ -622,10 +734,12 @@
             "CNname": "坎蒂丝",
             "JAname": "キャンディス",
             "imageurl": "images/character/10000072.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "water",
             "weapon": "pole",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000073",
@@ -633,10 +747,12 @@
             "CNname": "纳西妲",
             "JAname": "ナヒーダ",
             "imageurl": "images/character/10000073.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "grass",
             "weapon": "catalyst",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 19
         },
         {
             "id": "10000074",
@@ -644,10 +760,12 @@
             "CNname": "莱依拉",
             "JAname": "レイラ",
             "imageurl": "images/character/10000074.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "ice",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000075",
@@ -655,10 +773,12 @@
             "CNname": "流浪者",
             "JAname": "放浪者",
             "imageurl": "images/character/10000075.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "wind",
             "weapon": "catalyst",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 22
         },
         {
             "id": "10000076",
@@ -666,10 +786,12 @@
             "CNname": "珐露珊",
             "JAname": "ファルザン",
             "imageurl": "images/character/10000076.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "wind",
             "weapon": "bow",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000077",
@@ -677,10 +799,12 @@
             "CNname": "瑶瑶",
             "JAname": "ヨォーヨ",
             "imageurl": "images/character/10000077.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "grass",
             "weapon": "pole",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000078",
@@ -688,10 +812,12 @@
             "CNname": "艾尔海森",
             "JAname": "アルハイゼン",
             "imageurl": "images/character/10000078.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "grass",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 23
         },
         {
             "id": "10000079",
@@ -699,10 +825,12 @@
             "CNname": "迪希雅",
             "JAname": "ディシア",
             "imageurl": "images/character/10000079.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "fire",
             "weapon": "claymore",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 24
         },
         {
             "id": "10000080",
@@ -710,10 +838,12 @@
             "CNname": "米卡",
             "JAname": "ミカ",
             "imageurl": "images/character/10000080.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "ice",
             "weapon": "pole",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000081",
@@ -721,10 +851,12 @@
             "CNname": "卡维",
             "JAname": "カーヴェ",
             "imageurl": "images/character/10000081.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "grass",
             "weapon": "claymore",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000082",
@@ -732,10 +864,12 @@
             "CNname": "白术",
             "JAname": "白朮",
             "imageurl": "images/character/10000082.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "grass",
             "weapon": "catalyst",
-            "spoiler": false
+            "spoiler": false,
+            "supported": true,
+            "order": 25
         },
         {
             "id": "10000083",
@@ -743,10 +877,12 @@
             "CNname": "琳妮特",
             "JAname": "リネット",
             "imageurl": "images/character/10000083.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "wind",
             "weapon": "sword",
-            "spoiler": true
+            "spoiler": true,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000084",
@@ -754,10 +890,12 @@
             "CNname": "林尼",
             "JAname": "リネ",
             "imageurl": "images/character/10000084.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "fire",
             "weapon": "bow",
-            "spoiler": true
+            "spoiler": true,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000085",
@@ -765,10 +903,12 @@
             "CNname": "菲米尼",
             "JAname": "フレミネ",
             "imageurl": "images/character/10000085.png",
-            "rank": 4,
+            "rarity": 4,
             "element": "ice",
             "weapon": "claymore",
-            "spoiler": true
+            "spoiler": true,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000005-anemo",
@@ -776,10 +916,12 @@
             "CNname": "旅行者",
             "JAname": "旅人",
             "imageurl": "images/character/10000005-anemo.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "wind",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000005-geo",
@@ -787,10 +929,12 @@
             "CNname": "旅行者",
             "JAname": "旅人",
             "imageurl": "images/character/10000005-geo.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "rock",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000005-electro",
@@ -798,10 +942,12 @@
             "CNname": "旅行者",
             "JAname": "旅人",
             "imageurl": "images/character/10000005-electro.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "electric",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000005-dendro",
@@ -809,10 +955,12 @@
             "CNname": "旅行者",
             "JAname": "旅人",
             "imageurl": "images/character/10000005-dendro.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "grass",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000007-anemo",
@@ -820,10 +968,12 @@
             "CNname": "旅行者",
             "JAname": "旅人",
             "imageurl": "images/character/10000007-anemo.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "wind",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000007-geo",
@@ -831,10 +981,12 @@
             "CNname": "旅行者",
             "JAname": "旅人",
             "imageurl": "images/character/10000007-geo.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "rock",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000007-electro",
@@ -842,10 +994,12 @@
             "CNname": "旅行者",
             "JAname": "旅人",
             "imageurl": "images/character/10000007-electro.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "electric",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000007-dendro",
@@ -853,10 +1007,12 @@
             "CNname": "旅行者",
             "JAname": "旅人",
             "imageurl": "images/character/10000007-dendro.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "grass",
             "weapon": "sword",
-            "spoiler": false
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000005-hydro",
@@ -864,10 +1020,12 @@
             "CNname": "旅行者",
             "JAname": "旅人",
             "imageurl": "images/character/10000005-hydro.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "water",
             "weapon": "sword",
-            "spoiler": true
+            "spoiler": true,
+            "supported": false,
+            "order": 999
         },
         {
             "id": "10000007-hydro",
@@ -875,10 +1033,12 @@
             "CNname": "旅行者",
             "JAname": "旅人",
             "imageurl": "images/character/10000007-hydro.png",
-            "rank": 5,
+            "rarity": 5,
             "element": "water",
             "weapon": "sword",
-            "spoiler": true
+            "spoiler": true,
+            "supported": false,
+            "order": 999
         }
     ]
 }

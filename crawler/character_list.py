@@ -43,6 +43,8 @@ for k in data_dict['en']:
     result['element'] = data_en['element'].lower()
     result['weapon'] = data_en['weaponType'].split('_')[1].lower()
     result['spoiler'] = data_en['beta'] if 'beta' in data_en else False
+    result['supported'] = False
+    result['order'] = 999
     print("fetch data for: %s" % result['ENname'])
     characters.append(result)
 

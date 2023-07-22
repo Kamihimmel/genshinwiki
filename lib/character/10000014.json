@@ -22,94 +22,108 @@
             "hp_percent": 0
         },
         {
+            "level": "10",
+            "base_hp": 1430.32650684,
+            "base_attack": 23.279508,
+            "base_defense": 97.74831150000001,
+            "hp_percent": 0
+        },
+        {
             "level": "20",
             "base_hp": 2108.15191972,
             "base_attack": 34.311564,
             "base_defense": 144.0708045,
-            "hp_percent": 0.0
+            "hp_percent": 0
         },
         {
             "level": "20+",
-            "base_hp": 2721.14899408,
-            "base_attack": 44.288495999999995,
-            "base_defense": 185.96293799999998,
-            "hp_percent": 0.0
+            "base_hp": 2721.19103972,
+            "base_attack": 44.289413999999994,
+            "base_defense": 185.96580450000002,
+            "hp_percent": 0
+        },
+        {
+            "level": "30",
+            "base_hp": 2785.15672072,
+            "base_attack": 45.330264,
+            "base_defense": 190.337217,
+            "hp_percent": 0
         },
         {
             "level": "40",
-            "base_hp": 4075.9792079599997,
-            "base_attack": 66.33925199999999,
-            "base_defense": 278.55184349999996,
-            "hp_percent": 0.0
+            "base_hp": 4076.0212536,
+            "base_attack": 66.34017,
+            "base_defense": 278.55471,
+            "hp_percent": 0
         },
         {
             "level": "40+",
-            "base_hp": 4511.7241162400005,
-            "base_attack": 73.43128800000001,
-            "base_defense": 308.33058900000003,
+            "base_hp": 4511.6016436,
+            "base_attack": 73.4297,
+            "base_defense": 308.32221,
             "hp_percent": 0.06
         },
         {
             "level": "50",
-            "base_hp": 5189.54952912,
-            "base_attack": 84.46334399999999,
-            "base_defense": 354.653082,
+            "base_hp": 5189.427056480001,
+            "base_attack": 84.46175600000001,
+            "base_defense": 354.64470300000005,
             "hp_percent": 0.06
         },
         {
             "level": "50+",
-            "base_hp": 5770.54274016,
-            "base_attack": 93.919392,
-            "base_defense": 394.358076,
+            "base_hp": 5770.2009764800005,
+            "base_attack": 93.91444600000001,
+            "base_defense": 394.33470300000005,
             "hp_percent": 0.12
         },
         {
             "level": "60",
-            "base_hp": 6448.36815304,
-            "base_attack": 104.951448,
-            "base_defense": 440.680569,
+            "base_hp": 6448.02638936,
+            "base_attack": 104.946502,
+            "base_defense": 440.657196,
             "hp_percent": 0.12
         },
         {
             "level": "60+",
-            "base_hp": 6883.29244944,
-            "base_attack": 112.03012799999999,
-            "base_defense": 470.403234,
+            "base_hp": 6883.60683936,
+            "base_attack": 112.03603199999999,
+            "base_defense": 470.424696,
             "hp_percent": 0.12
         },
         {
             "level": "70",
-            "base_hp": 7560.2972504399995,
-            "base_attack": 123.04882799999999,
-            "base_defense": 516.6696465,
+            "base_hp": 7560.611640360001,
+            "base_attack": 123.054732,
+            "base_defense": 516.6911084999999,
             "hp_percent": 0.12
         },
         {
             "level": "70+",
-            "base_hp": 7996.04215872,
-            "base_attack": 130.140864,
-            "base_defense": 546.448392,
+            "base_hp": 7996.191960360001,
+            "base_attack": 130.144252,
+            "base_defense": 546.4586084999999,
             "hp_percent": 0.18
         },
         {
             "level": "80",
-            "base_hp": 8673.8675716,
-            "base_attack": 141.17292,
-            "base_defense": 592.770885,
+            "base_hp": 8674.01737324,
+            "base_attack": 141.176308,
+            "base_defense": 592.7811015,
             "hp_percent": 0.18
         },
         {
             "level": "80+",
-            "base_hp": 9109.612479880001,
-            "base_attack": 148.264956,
-            "base_defense": 622.5496305,
+            "base_hp": 9109.59794324,
+            "base_attack": 148.265838,
+            "base_defense": 622.5486015,
             "hp_percent": 0.24
         },
         {
             "level": "90",
-            "base_hp": 9787.437892760001,
-            "base_attack": 159.297012,
-            "base_defense": 668.8721234999999,
+            "base_hp": 9787.42335612,
+            "base_attack": 159.29789399999999,
+            "base_defense": 668.8710945,
             "hp_percent": 0.24
         }
     ],
