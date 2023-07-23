@@ -19,112 +19,112 @@
             "base_hp": 819.85522,
             "base_attack": 20.482,
             "base_defense": 52.0521,
-            "charge_efficiency": 0
+            "charge_efficiency": 1
         },
         {
             "level": "10",
             "base_hp": 1435.5664902199999,
             "base_attack": 35.863982,
             "base_defense": 91.1432271,
-            "charge_efficiency": 0
+            "charge_efficiency": 1
         },
         {
             "level": "20",
             "base_hp": 2126.70444068,
             "base_attack": 53.13030799999999,
             "base_defense": 135.0231474,
-            "charge_efficiency": 0
+            "charge_efficiency": 1
         },
         {
             "level": "20+",
             "base_hp": 2829.65616068,
             "base_attack": 70.69048799999999,
             "base_defense": 179.6541474,
-            "charge_efficiency": 0
+            "charge_efficiency": 1
         },
         {
             "level": "30",
             "base_hp": 2825.2210881200003,
             "base_attack": 70.580972,
             "base_defense": 179.3715366,
-            "charge_efficiency": 0
+            "charge_efficiency": 1
         },
         {
             "level": "40",
             "base_hp": 4234.0681525400005,
             "base_attack": 105.776154,
             "base_defense": 268.81939470000003,
-            "charge_efficiency": 0
+            "charge_efficiency": 1
         },
         {
             "level": "40+",
             "base_hp": 4733.53379254,
             "base_attack": 118.25312400000001,
             "base_defense": 300.53089470000003,
-            "charge_efficiency": 0.08
+            "charge_efficiency": 1.08
         },
         {
             "level": "50",
             "base_hp": 5445.987978720001,
             "base_attack": 136.051982,
             "base_defense": 345.76416960000006,
-            "charge_efficiency": 0.08
+            "charge_efficiency": 1.08
         },
         {
             "level": "50+",
             "base_hp": 6111.94219872,
             "base_attack": 152.68794200000002,
             "base_defense": 388.04616960000004,
-            "charge_efficiency": 0.16
+            "charge_efficiency": 1.1600000000000001
         },
         {
             "level": "60",
             "base_hp": 6831.7750818800005,
             "base_attack": 170.671138,
             "base_defense": 433.7479134,
-            "charge_efficiency": 0.16
+            "charge_efficiency": 1.16
         },
         {
             "level": "60+",
             "base_hp": 7331.240901880001,
             "base_attack": 183.148108,
             "base_defense": 465.4594134,
-            "charge_efficiency": 0.16
+            "charge_efficiency": 1.16
         },
         {
             "level": "70",
             "base_hp": 8057.632626800001,
             "base_attack": 201.29516,
             "base_defense": 511.577574,
-            "charge_efficiency": 0.16
+            "charge_efficiency": 1.16
         },
         {
             "level": "70+",
             "base_hp": 8557.098206800001,
             "base_attack": 213.77213,
             "base_defense": 543.289074,
-            "charge_efficiency": 0.24
+            "charge_efficiency": 1.24
         },
         {
             "level": "80",
             "base_hp": 9291.688483920001,
             "base_attack": 232.124002,
             "base_defense": 589.9277556000001,
-            "charge_efficiency": 0.24
+            "charge_efficiency": 1.24
         },
         {
             "level": "80+",
             "base_hp": 9791.15430392,
             "base_attack": 244.600972,
             "base_defense": 621.6392556000001,
-            "charge_efficiency": 0.32
+            "charge_efficiency": 1.32
         },
         {
             "level": "90",
             "base_hp": 10531.48356758,
             "base_attack": 263.096218,
             "base_defense": 668.6423019,
-            "charge_efficiency": 0.32
+            "charge_efficiency": 1.32
         }
     ],
     "talentdata": [

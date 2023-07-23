@@ -19,112 +19,112 @@
             "base_hp": 1004.79926,
             "base_attack": 26.2542,
             "base_defense": 61.44541,
-            "charge_efficiency": 0
+            "charge_efficiency": 1
         },
         {
             "level": "10",
             "base_hp": 1759.4035042599999,
             "base_attack": 45.9711042,
             "base_defense": 107.59091291,
-            "charge_efficiency": 0
+            "charge_efficiency": 1
         },
         {
             "level": "20",
             "base_hp": 2606.4492804399997,
             "base_attack": 68.1033948,
             "base_defense": 159.38939354,
-            "charge_efficiency": 0
+            "charge_efficiency": 1
         },
         {
             "level": "20+",
             "base_hp": 3467.9738204399996,
             "base_attack": 90.6123548,
             "base_defense": 212.07449354,
-            "charge_efficiency": 0
+            "charge_efficiency": 1
         },
         {
             "level": "30",
             "base_hp": 3462.53824996,
             "base_attack": 90.47197320000001,
             "base_defense": 211.74088286000003,
-            "charge_efficiency": 0
+            "charge_efficiency": 1
         },
         {
             "level": "40",
             "base_hp": 5189.194952820001,
             "base_attack": 135.5857994,
             "base_defense": 317.33048087000003,
-            "charge_efficiency": 0
+            "charge_efficiency": 1
         },
         {
             "level": "40+",
             "base_hp": 5801.3308128200015,
             "base_attack": 151.57900940000002,
             "base_defense": 354.76463087,
-            "charge_efficiency": 0.08
+            "charge_efficiency": 1.08
         },
         {
             "level": "50",
             "base_hp": 6674.50136976,
             "base_attack": 174.39390920000002,
             "base_defense": 408.16069216000005,
-            "charge_efficiency": 0.08
+            "charge_efficiency": 1.08
         },
         {
             "level": "50+",
             "base_hp": 7490.68251976,
             "base_attack": 195.7181792,
             "base_defense": 458.07289216000004,
-            "charge_efficiency": 0.16
+            "charge_efficiency": 1.1600000000000001
         },
         {
             "level": "60",
             "base_hp": 8372.89627004,
             "base_attack": 218.7693668,
             "base_defense": 512.02196214,
-            "charge_efficiency": 0.16
+            "charge_efficiency": 1.16
         },
         {
             "level": "60+",
             "base_hp": 8985.03201004,
             "base_attack": 234.7625768,
             "base_defense": 549.45612214,
-            "charge_efficiency": 0.16
+            "charge_efficiency": 1.16
         },
         {
             "level": "70",
             "base_hp": 9875.2841544,
             "base_attack": 258.023798,
             "base_defense": 603.8967554000001,
-            "charge_efficiency": 0.16
+            "charge_efficiency": 1.16
         },
         {
             "level": "70+",
             "base_hp": 10487.420144400001,
             "base_attack": 274.01700800000003,
             "base_defense": 641.3308954000001,
-            "charge_efficiency": 0.24
+            "charge_efficiency": 1.24
         },
         {
             "level": "80",
             "base_hp": 11387.72028136,
             "base_attack": 297.5407712,
             "base_defense": 696.38598276,
-            "charge_efficiency": 0.24
+            "charge_efficiency": 1.24
         },
         {
             "level": "80+",
             "base_hp": 11999.85602136,
             "base_attack": 313.5339712,
             "base_defense": 733.82012276,
-            "charge_efficiency": 0.32
+            "charge_efficiency": 1.32
         },
         {
             "level": "90",
             "base_hp": 12907.189753140003,
             "base_attack": 337.2415138,
             "base_defense": 789.30532799,
-            "charge_efficiency": 0.32
+            "charge_efficiency": 1.32
         }
     ],
     "talentdata": [

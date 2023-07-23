@@ -13,7 +13,7 @@ base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # absolu
 languages = ['en', 'chs', 'jp']
 name_lang_mapping = {'en': 'ENname', 'chs': 'CNname', 'jp': 'JAname'}
 desc_lang_mapping = {'en': 'DescriptionEN', 'chs': 'DescriptionCN', 'jp': 'DescriptionJP'}
-promote_prop_init = {'critical_hurt': 0.5, 'critical': 0.05}
+promote_prop_init = {'critical_hurt': 0.5, 'critical': 0.05, 'charge_efficiency': 1}
 ua = UserAgent()  # required for non-browser http request, or you will get a response code of 403
 result = {}
 

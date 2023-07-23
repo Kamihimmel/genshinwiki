@@ -19,112 +19,112 @@
             "base_hp": 893.55518,
             "base_attack": 18.87648,
             "base_defense": 57.33945,
-            "element_add_hurt": 0
+            "wind_add_hurt": 0
         },
         {
             "level": "10",
             "base_hp": 1557.46667874,
             "base_attack": 32.901704640000005,
             "base_defense": 99.94266135000001,
-            "element_add_hurt": 0
+            "wind_add_hurt": 0
         },
         {
             "level": "20",
             "base_hp": 2295.54325742,
             "base_attack": 48.49367712,
             "base_defense": 147.30504704999998,
-            "element_add_hurt": 0
+            "wind_add_hurt": 0
         },
         {
             "level": "20+",
             "base_hp": 2963.0747474199998,
             "base_attack": 62.59570712,
             "base_defense": 190.14054704999998,
-            "element_add_hurt": 0
+            "wind_add_hurt": 0
         },
         {
             "level": "30",
             "base_hp": 3032.72628092,
             "base_attack": 64.06677312000001,
             "base_defense": 194.61009330000002,
-            "element_add_hurt": 0
+            "wind_add_hurt": 0
         },
         {
             "level": "40",
             "base_hp": 4438.3343496,
             "base_attack": 93.7607756,
             "base_defense": 284.807979,
-            "element_add_hurt": 0
+            "wind_add_hurt": 0
         },
         {
             "level": "40+",
             "base_hp": 4912.6330596,
             "base_attack": 103.78063560000001,
             "base_defense": 315.243729,
-            "element_add_hurt": 0.06
+            "wind_add_hurt": 0.06
         },
         {
             "level": "50",
             "base_hp": 5650.70963828,
             "base_attack": 119.37260808000002,
             "base_defense": 362.60611470000003,
-            "element_add_hurt": 0.06
+            "wind_add_hurt": 0.06
         },
         {
             "level": "50+",
             "base_hp": 6283.10782828,
             "base_attack": 132.73241808,
             "base_defense": 403.18711470000005,
-            "element_add_hurt": 0.12
+            "wind_add_hurt": 0.12
         },
         {
             "level": "60",
             "base_hp": 7021.18440696,
             "base_attack": 148.32439056,
             "base_defense": 450.54950039999994,
-            "element_add_hurt": 0.12
+            "wind_add_hurt": 0.12
         },
         {
             "level": "60+",
             "base_hp": 7495.48311696,
             "base_attack": 158.34426056,
             "base_defense": 480.98524039999995,
-            "element_add_hurt": 0.12
+            "wind_add_hurt": 0.12
         },
         {
             "level": "70",
             "base_hp": 8232.66614046,
             "base_attack": 173.91735656,
             "base_defense": 528.29028665,
-            "element_add_hurt": 0.12
+            "wind_add_hurt": 0.12
         },
         {
             "level": "70+",
             "base_hp": 8706.96472046,
             "base_attack": 183.93721656,
             "base_defense": 558.72604665,
-            "element_add_hurt": 0.18
+            "wind_add_hurt": 0.18
         },
         {
             "level": "80",
             "base_hp": 9445.041299139999,
             "base_attack": 199.52918904,
             "base_defense": 606.08843235,
-            "element_add_hurt": 0.18
+            "wind_add_hurt": 0.18
         },
         {
             "level": "80+",
             "base_hp": 9919.340129139999,
             "base_attack": 209.54904904,
             "base_defense": 636.5241823499999,
-            "element_add_hurt": 0.24
+            "wind_add_hurt": 0.24
         },
         {
             "level": "90",
             "base_hp": 10657.41670782,
             "base_attack": 225.14102152,
             "base_defense": 683.88656805,
-            "element_add_hurt": 0.24
+            "wind_add_hurt": 0.24
         }
     ],
     "talentdata": [

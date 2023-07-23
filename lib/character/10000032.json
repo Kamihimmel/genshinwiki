@@ -19,112 +19,112 @@
             "base_hp": 1039.44177,
             "base_attack": 16.0272,
             "base_defense": 64.66425,
-            "charge_efficiency": 0
+            "charge_efficiency": 1
         },
         {
             "level": "10",
             "base_hp": 1811.74700511,
             "base_attack": 27.935409600000003,
             "base_defense": 112.70978775,
-            "charge_efficiency": 0
+            "charge_efficiency": 1
         },
         {
             "level": "20",
             "base_hp": 2670.32590713,
             "base_attack": 41.1738768,
             "base_defense": 166.12245825,
-            "charge_efficiency": 0
+            "charge_efficiency": 1
         },
         {
             "level": "20+",
             "base_hp": 3446.84207713,
             "base_attack": 53.14729680000001,
             "base_defense": 214.42995825,
-            "charge_efficiency": 0
+            "charge_efficiency": 1
         },
         {
             "level": "30",
             "base_hp": 3527.86536738,
             "base_attack": 54.3963168,
             "base_defense": 219.4704645,
-            "charge_efficiency": 0
+            "charge_efficiency": 1
         },
         {
             "level": "40",
             "base_hp": 5162.960439399999,
             "base_attack": 79.608204,
             "base_defense": 321.190635,
-            "charge_efficiency": 0
+            "charge_efficiency": 1
         },
         {
             "level": "40+",
             "base_hp": 5714.695609399999,
             "base_attack": 88.115634,
             "base_defense": 355.514385,
-            "charge_efficiency": 0.0667
+            "charge_efficiency": 1.0667
         },
         {
             "level": "50",
             "base_hp": 6573.27451142,
             "base_attack": 101.35410120000002,
             "base_defense": 408.92705549999994,
-            "charge_efficiency": 0.0667
+            "charge_efficiency": 1.0667
         },
         {
             "level": "50+",
             "base_hp": 7308.92161142,
             "base_attack": 112.69734120000001,
             "base_defense": 454.69206549999996,
-            "charge_efficiency": 0.1333
+            "charge_efficiency": 1.1333
         },
         {
             "level": "60",
             "base_hp": 8167.500513439999,
             "base_attack": 125.9358084,
             "base_defense": 508.104736,
-            "charge_efficiency": 0.1333
+            "charge_efficiency": 1.1333
         },
         {
             "level": "60+",
             "base_hp": 8719.23561344,
             "base_attack": 134.44323839999998,
             "base_defense": 542.428476,
-            "charge_efficiency": 0.1333
+            "charge_efficiency": 1.1333
         },
         {
             "level": "70",
             "base_hp": 9576.775073689998,
             "base_attack": 147.6656784,
             "base_defense": 595.77648225,
-            "charge_efficiency": 0.1333
+            "charge_efficiency": 1.1333
         },
         {
             "level": "70+",
             "base_hp": 10128.510183689998,
             "base_attack": 156.1731084,
             "base_defense": 630.10023225,
-            "charge_efficiency": 0.2
+            "charge_efficiency": 1.2
         },
         {
             "level": "80",
             "base_hp": 10987.089085709998,
             "base_attack": 169.4115756,
             "base_defense": 683.51290275,
-            "charge_efficiency": 0.2
+            "charge_efficiency": 1.2
         },
         {
             "level": "80+",
             "base_hp": 11538.824435709997,
             "base_attack": 177.9190056,
             "base_defense": 717.83664275,
-            "charge_efficiency": 0.2667
+            "charge_efficiency": 1.2667
         },
         {
             "level": "90",
             "base_hp": 12397.403337729998,
             "base_attack": 191.15747280000002,
             "base_defense": 771.24931325,
-            "charge_efficiency": 0.2667
+            "charge_efficiency": 1.2667
         }
     ],
     "talentdata": [

@@ -68,8 +68,6 @@ def get_props(prop):
         for p in prop:
             if 'propType' in p:
                 name = p['propType'].replace('FIGHT_PROP_', '').lower()
-                if name.endswith('_add_hurt') and name != 'physical_add_hurt':
-                    name = 'element_add_hurt'
                 props[name] = {
                     'init': p['initValue'],
                     'curve': p['type'],
@@ -77,7 +75,5 @@ def get_props(prop):
     elif isinstance(prop, dict):
         for k, v in prop.items():
             name = k.replace('FIGHT_PROP_', '').lower()
-            if name.endswith('_add_hurt') and name != 'physical_add_hurt':
-                name = 'element_add_hurt'
             props[name] = v
     return props
