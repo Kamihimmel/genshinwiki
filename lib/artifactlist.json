@@ -411,7 +411,7 @@
             "CNname": "逐影猎人",
             "JAname": "ファントムハンター",
             "imageurl": "images/artifact/15031.png",
-            "spoiler": true,
+            "spoiler": false,
             "order": 94
         },
         {
@@ -420,7 +420,7 @@
             "CNname": "黄金剧团",
             "JAname": "黄金劇団JP0B",
             "imageurl": "images/artifact/15032.png",
-            "spoiler": true,
+            "spoiler": false,
             "order": 95
         }
     ]
