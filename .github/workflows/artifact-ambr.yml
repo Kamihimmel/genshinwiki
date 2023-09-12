@@ -1,0 +1,73 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+
+name: run-artifact-ambr
+
+on:
+  schedule:
+    - cron:  '50 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  check-update:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.11
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.11"
+    - name: Prepare
+      env:
+        CRAWLER_KEY: ${{ secrets.CRAWLER_KEY }}
+      run: |
+        mkdir -p ~/.ssh
+        echo "${CRAWLER_KEY}" > ~/.ssh/mihoyo007.key
+        chmod 400 ~/.ssh/mihoyo007.key
+        cat > ~/.ssh/config <<EOF
+        Host *
+          StrictHostKeyChecking no
+          UserKnownHostsFile /dev/null
+        Host github.com
+          IdentityFile ~/.ssh/mihoyo007.key
+          Hostname ssh.github.com
+          Port 443
+        EOF
+        git clone git@github.com:jiangshengwu/mihoyo007.git temp
+        cp -r temp/genshin crawler
+        cp temp/requirements.txt crawler
+        rm -rf ~/.ssh
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        cd crawler
+        pip install -r requirements.txt
+    - name: Run
+      run: |
+        cd ${GITHUB_WORKSPACE}/crawler
+        python artifact_list.py
+        echo '------------------------------------------------'
+        for c in $(cat ambr/lib/artifactlist.json | jq -r '.data[]|select(.spoiler==true)|.id'); do
+          python artifact_ambr.py ${c,,}
+          echo '------------------------------------------------'
+        done
+    - name: Check result
+      run: |
+        if [ -d crawler/ambr ]; then
+          tree crawler/ambr
+          cp -r crawler/ambr/* ./
+        fi
+        r=$(git diff --exit-code . || echo)
+        [ -z "$r" ] && echo "no change" || exit 0
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v5
+      with:
+        draft: false
+        delete-branch: true
+        base: main
+        branch: update-artifact-workflow-${{ github.run_id }}
+        title: '[Update Artifact] ${{ github.run_id }}'
