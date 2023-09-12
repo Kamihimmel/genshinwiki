@@ -1991,6 +1991,90 @@
             "spoiler": false,
             "supported": false,
             "order": 999
+        },
+        {
+            "id": "11427",
+            "ENname": "The Dockhand's Assistant",
+            "CNname": "船坞长剑",
+            "JAname": "船渠剣",
+            "imageurl": "images/weapon/11427.png",
+            "rarity": 4,
+            "type": "sword",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "12427",
+            "ENname": "Portable Power Saw",
+            "CNname": "便携动力锯",
+            "JAname": "携帯型チェーンソー",
+            "imageurl": "images/weapon/12427.png",
+            "rarity": 4,
+            "type": "claymore",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "13427",
+            "ENname": "Prospector's Drill",
+            "CNname": "勘探钻机",
+            "JAname": "プロスペクタードリル",
+            "imageurl": "images/weapon/13427.png",
+            "rarity": 4,
+            "type": "pole",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "14426",
+            "ENname": "Ballad of the Boundless Blue",
+            "CNname": "无垠蔚蓝之歌",
+            "JAname": "果てなき紺碧の唄",
+            "imageurl": "images/weapon/14426.png",
+            "rarity": 4,
+            "type": "catalyst",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "14513",
+            "ENname": "Cashflow Supervision",
+            "CNname": "金流监督",
+            "JAname": "凛流の監視者",
+            "imageurl": "images/weapon/14513.png",
+            "rarity": 5,
+            "type": "catalyst",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "14514",
+            "ENname": "Tome of the Eternal Flow",
+            "CNname": "万世流涌大典",
+            "JAname": "久遠流転の大典",
+            "imageurl": "images/weapon/14514.png",
+            "rarity": 5,
+            "type": "catalyst",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "15427",
+            "ENname": "Range Gauge",
+            "CNname": "测距规",
+            "JAname": "レンジゲージ",
+            "imageurl": "images/weapon/15427.png",
+            "rarity": 4,
+            "type": "bow",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
         }
     ]
 }
