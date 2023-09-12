@@ -1,6 +1,7 @@
 .vscode
 .idea
 
-crawler/venv
-crawler/ambr
+crawler
+temp
+*.key
 __pycache__
