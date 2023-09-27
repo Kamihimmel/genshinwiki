@@ -1147,6 +1147,34 @@
             "spoiler": true,
             "supported": false,
             "order": 999
+        },
+        {
+            "id": "10000088",
+            "ENname": "Charlotte",
+            "CNname": "夏洛蒂",
+            "JAname": "シャルロット",
+            "imageurl": "images/character/10000088.png",
+            "imagelargeurl": "images/character/10000088-large.png",
+            "rarity": 4,
+            "element": "ice",
+            "weapon": "catalyst",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "10000089",
+            "ENname": "Furina",
+            "CNname": "芙宁娜",
+            "JAname": "フリーナ",
+            "imageurl": "images/character/10000089.png",
+            "imagelargeurl": "images/character/10000089-large.png",
+            "rarity": 5,
+            "element": "water",
+            "weapon": "sword",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
         }
     ]
 }
