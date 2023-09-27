@@ -1993,12 +1993,48 @@
             "order": 999
         },
         {
+            "id": "11304",
+            "ENname": "Dark Iron Sword",
+            "CNname": "暗铁剑",
+            "JAname": "暗鉄剣",
+            "imageurl": "images/weapon/11304.png",
+            "rarity": 3,
+            "type": "sword",
+            "spoiler": false,
+            "supported": false,
+            "order": 999
+        },
+        {
             "id": "11427",
             "ENname": "The Dockhand's Assistant",
             "CNname": "船坞长剑",
             "JAname": "船渠剣",
             "imageurl": "images/weapon/11427.png",
             "rarity": 4,
+            "type": "sword",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "11428",
+            "ENname": "Sword of Narzissenkreuz",
+            "CNname": "水仙十字之剑",
+            "JAname": "水仙十字の剣JP0B",
+            "imageurl": "images/weapon/11428.png",
+            "rarity": 4,
+            "type": "sword",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "11513",
+            "ENname": "Splendor of Still Waters",
+            "CNname": "静水流涌之辉",
+            "JAname": "静水流転の輝きJP0B",
+            "imageurl": "images/weapon/11513.png",
+            "rarity": 5,
             "type": "sword",
             "spoiler": true,
             "supported": false,
@@ -2013,6 +2049,18 @@
             "rarity": 4,
             "type": "claymore",
             "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "12505",
+            "ENname": "Primordial Jade Greatsword",
+            "CNname": "",
+            "JAname": "美玉魚",
+            "imageurl": "images/weapon/12505.png",
+            "rarity": 5,
+            "type": "claymore",
+            "spoiler": false,
             "supported": false,
             "order": 999
         },
@@ -2073,6 +2121,30 @@
             "rarity": 4,
             "type": "bow",
             "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "15504",
+            "ENname": "Kunwu's Wyrmbane",
+            "CNname": "",
+            "JAname": "昆吾の堕龍",
+            "imageurl": "images/weapon/15504.png",
+            "rarity": 5,
+            "type": "bow",
+            "spoiler": false,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "15505",
+            "ENname": "Primordial Jade Vista",
+            "CNname": "",
+            "JAname": "高価なオーブ",
+            "imageurl": "images/weapon/15505.png",
+            "rarity": 5,
+            "type": "bow",
+            "spoiler": false,
             "supported": false,
             "order": 999
         }
