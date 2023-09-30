@@ -2005,6 +2005,42 @@
             "order": 999
         },
         {
+            "id": "12505",
+            "ENname": "Primordial Jade Greatsword",
+            "CNname": "",
+            "JAname": "美玉魚",
+            "imageurl": "images/weapon/12505.png",
+            "rarity": 5,
+            "type": "claymore",
+            "spoiler": false,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "15504",
+            "ENname": "Kunwu's Wyrmbane",
+            "CNname": "",
+            "JAname": "昆吾の堕龍",
+            "imageurl": "images/weapon/15504.png",
+            "rarity": 5,
+            "type": "bow",
+            "spoiler": false,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "15505",
+            "ENname": "Primordial Jade Vista",
+            "CNname": "",
+            "JAname": "高価なオーブ",
+            "imageurl": "images/weapon/15505.png",
+            "rarity": 5,
+            "type": "bow",
+            "spoiler": false,
+            "supported": false,
+            "order": 999
+        },
+        {
             "id": "11427",
             "ENname": "The Dockhand's Assistant",
             "CNname": "船坞长剑",
@@ -2049,18 +2085,6 @@
             "rarity": 4,
             "type": "claymore",
             "spoiler": true,
-            "supported": false,
-            "order": 999
-        },
-        {
-            "id": "12505",
-            "ENname": "Primordial Jade Greatsword",
-            "CNname": "",
-            "JAname": "美玉魚",
-            "imageurl": "images/weapon/12505.png",
-            "rarity": 5,
-            "type": "claymore",
-            "spoiler": false,
             "supported": false,
             "order": 999
         },
@@ -2121,30 +2145,6 @@
             "rarity": 4,
             "type": "bow",
             "spoiler": true,
-            "supported": false,
-            "order": 999
-        },
-        {
-            "id": "15504",
-            "ENname": "Kunwu's Wyrmbane",
-            "CNname": "",
-            "JAname": "昆吾の堕龍",
-            "imageurl": "images/weapon/15504.png",
-            "rarity": 5,
-            "type": "bow",
-            "spoiler": false,
-            "supported": false,
-            "order": 999
-        },
-        {
-            "id": "15505",
-            "ENname": "Primordial Jade Vista",
-            "CNname": "",
-            "JAname": "高価なオーブ",
-            "imageurl": "images/weapon/15505.png",
-            "rarity": 5,
-            "type": "bow",
-            "spoiler": false,
             "supported": false,
             "order": 999
         }
