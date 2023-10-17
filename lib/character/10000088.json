@@ -9,8 +9,8 @@
     "weapon": "catalyst",
     "rarity": 4,
     "birthday": [
-        1,
-        1
+        4,
+        10
     ],
     "release": 1698267600,
     "leveldata": [
@@ -1338,7 +1338,7 @@
             "imageurl": "images/talent/10000088-1.png",
             "DescriptionEN": "Using the keen instincts of an ace reporter, Charlotte uses her photography skills to produce different effects based on whether the ability is Tapped or Held.  Tap Takes a snapshot using Monsieur Verite, dealing AoE Cryo DMG to opponents in front of her and applying Snappy Silhouette to a maximum of 5 opponents. During this effect's duration, it will deal Cryo DMG to affected opponents at intervals.  Hold Popping Monsieur Verite's viewfinder open, Charlotte enters Composition Mode, and during this time, the viewfinder will expand as you hold until you reach a Finisher Frame state. In this state, Charlotte can move and change direction freely. When the hold state ends, Monsieur Verite will deal Cryo DMG to all opponents locked on within the viewfinder, and apply the same Snappy Silhouette as Tap Mode does to them. If you unleash this ability only after reaching Finisher Frame, you will instead apply Focused Impression, which lasts longer and deals more DMG, although the Skill CD will be longer. Composition Mode lasts a maximum of 15s and allows a maximum of 5 opponents to be selected.  \"Press photography requires simple shots with exceptional theming, but most of all, you need to have a knack for capturing the moment!\"",
             "DescriptionCN": "凝聚王牌记者的锐意，尽情施展摄影技巧，依据点按、长按，以不同的方式产生效果。  点按 以「温亨廷先生」施展利落的抓拍，对前方的敌人造成冰元素范围伤害，并对命中的至多5名敌人施加「瞬时剪影」。持续期间，「瞬时剪影」将间歇性对敌人造成冰元素伤害。  长按 打开「温亨廷先生」的取景框，进入构图状态，取景框将在长按期间逐渐扩张到最大画幅。在这种状态下，夏洛蒂能够进行移动与改变朝向。 长按结束时，「温亨廷先生」将对取景框内锁定的敌人造成冰元素伤害，并为其施加与点按相同的「瞬时剪影」；若在取景框达到最大画幅后施放技能，将转为施加持续时间更长、伤害更高的「聚焦印象」，并使本次技能的冷却时间更长。 构图状态至多持续15秒，至多选定5名敌人。  「新闻留影讲究一个画面简洁，主题突出，不过最关键的，还是要有能抓住动人时刻的天赋！」",
-            "DescriptionJP": "エース記者として精神を集中させ、撮影テクニックを存分に発揮する。一回押しと長押しによって発動効果が変わる。  一回押し 「ヴェリテくん」による迅速なスナップショットを繰り出し、前方の敵に氷元素範囲ダメージを与え、命中した最大5体の敵に「スナップシルエット」を付与する。継続時間中、「スナップシルエット」は一定間隔で敵に氷元素ダメージを与える。  長押し 「ヴェリテくん」のファインダーを起動し、構図モードに入る。長押し中、ファインダーは徐々に最大画角まで拡大していく。この状態の時、シャルロットは移動と向きを調整できる。 長押し終了時、「ヴェリテくん」はファインダーで捕捉した敵に氷元素ダメージを与え、一回押しの時と同じ「スナップシルエット」を付与する。ただし、ファインダーが最大画角に達した後に長押しを終了してスキルを発動した場合は、より長く持続し、より大きなダメージを与える「フォーカスインプレッション」を代わりに付与する。この時、スキルのクールタイムはより長くなる。 構図モードは最大15秒間持続し、最大5体の敵を捕捉可能。  「新聞に使う写真は、シンプルな構図と際立ったテーマが重要なの。でも一番肝心なのはやっぱり、心躍らせる瞬間を捉える才能ね！」",
+            "DescriptionJP": "エース記者として精神を集中させ、撮影テクニックを存分に披露する。一回押しと長押しによって発動効果が変わる。  一回押し 「ヴェリテくん」による迅速なスナップショットを繰り出し、前方の敵に氷元素範囲ダメージを与え、命中した最大5体の敵に「スナップシルエット」を付与する。継続時間中、「スナップシルエット」は一定間隔で敵に氷元素ダメージを与える。  長押し 「ヴェリテくん」のファインダーを覗き、構図モードに入る。長押し中、ファインダーは徐々に最大画角まで拡大していく。この状態の時、シャルロットは移動と向きを調整できる。 長押し終了時、「ヴェリテくん」はファインダーで捕捉した敵に氷元素ダメージを与え、一回押しの時と同じ「スナップシルエット」を付与する。ただし、ファインダーが最大画角に達した後に長押しを終了してスキルを発動した場合は、より長く持続し、より大きなダメージを与える「フォーカスインプレッション」を代わりに付与する。この時、スキルのクールタイムはより長くなる。 構図モードは最大15秒間持続し、最大5体の敵を捕捉可能。  「新聞に使う写真は、シンプルな構図と際立ったテーマが重要なの。でも一番肝心なのはやっぱり、心躍らせる瞬間を捉える才能ね！」",
             "cooldown": 12,
             "cost": 0,
             "type": "combat",
@@ -2472,7 +2472,7 @@
                         ""
                     ],
                     "DescriptionCN": [
-                        "点按相机伤害|{param1:F1P}",
+                        "点按拍照伤害|{param1:F1P}",
                         "长按拍照伤害|{param2:F1P}",
                         "「瞬时剪影」印记伤害|{param3:F1P}",
                         "「瞬时剪影」印记触发间隔|{param4:F1}秒",
@@ -2539,7 +2539,7 @@
             "JAname": "八方取材·スチールフォト",
             "imageurl": "images/talent/10000088-3.png",
             "DescriptionEN": "Condensing ice to create The Steambird's signature, Charlotte creates a Newsflash Field that will deal AoE Cryo DMG and restores HP for all party members based on Charlotte's ATK. Newsflash Field ·While the ability is active, Monsieur Verite will deal Cryo DMG at intervals to opponents within its AoE. ·Will continuously restore HP to active character(s) within its AoE based on Charlotte's ATK.  \"Hearing stories from multiple perspectives to recreate what really happened is key to a good report... I mean, that's how you can pick the best angle for your article!\"",
-            "DescriptionCN": "以冰霜凝聚《蒸汽鸟报》的招牌，建立「临事场域」，造成冰元素范围伤害，并为队伍中所有角色恢复生命值，回复量受益于夏洛蒂的攻击力。  临事场域 ·持续期间，「温亨廷先生」将间歇性攻击其中的敌人，造成冰元素伤害。 ·持续为其中的当前场上角色恢复生命值，回复量受益于夏洛蒂的攻击力。  「取得各方立场，还原发生的事态，一份好的报道，当然要从多个角度进行取证了解…这样才能选择最好的进行报道的角度！」",
+            "DescriptionCN": "以冰霜凝聚《蒸汽鸟报》的招牌，建立「临事场域」，造成冰元素范围伤害，为队伍中附近的所有角色恢复生命值，回复量受益于夏洛蒂的攻击力。  临事场域 ·持续期间，「温亨廷先生」将间歇性攻击其中的敌人，造成冰元素伤害。 ·持续为其中的当前场上角色恢复生命值，回复量受益于夏洛蒂的攻击力。  「取得各方立场，还原发生的事态，一份好的报道，当然要从多个角度进行取证了解…这样才能选择最好的进行报道的角度！」",
             "DescriptionJP": "氷霜を凝集させて『スチームバード新聞』の看板を作り、「スクープ現場」を展開して氷元素範囲ダメージを与え、チーム全員のHPを回復する。回復量はシャルロットの攻撃力によって決まる。  スクープ現場 ·継続期間中、「ヴェリテくん」は一定時間ごとに範囲内の敵を攻撃し、氷元素ダメージを与える。 ·範囲内にいるフィールド上のキャラクターのHPを持続的に回復する。回復量はシャルロットの攻撃力によって決まる。  「あらゆる側面から話を聞いて、起こった状況をありのままに復元する…良い報道をするためには、当然色んな角度から証拠を集めないといけないわ…そうすることで、報道に最適な視点を選ぶことができるってわけ！」",
             "cooldown": 20,
             "cost": 80,
@@ -3773,7 +3773,7 @@
             "JAname": "主観シャッター",
             "imageurl": "images/talent/10000088-6.png",
             "DescriptionEN": "After equipping the Special Analysis Zoom Lens, Charlotte's \"Framing: Freezing Point Composition\"'s Hold Mode cannot trigger its original effects, but you can now take photos in a more special way...",
-            "DescriptionCN": "夏洛蒂在装备「特殊分析变焦镜头」后，元素战技「取景·冰点构图法」的长按无法造成原本的效果，转而能以较为特别的方式进行留影…",
+            "DescriptionCN": "夏洛蒂在启用「特殊分析变焦镜头」后，元素战技「取景·冰点构图法」的长按无法造成原本的效果，转而能以较为特别的方式进行留影…",
             "DescriptionJP": "シャルロットが「特殊分析ズームレンズ」を装備した後、元素スキル「フレーミング·氷点法」を長押しすると、元の効果を発揮する代わりに、特殊な方法で写真を撮ることができるようになる…",
             "cooldown": 0,
             "cost": 0,
@@ -3841,7 +3841,7 @@
             "JAname": "好奇を以て要義と為す",
             "imageurl": "images/constellation/10000088-c6.png",
             "DescriptionEN": "When the active character's Normal and Charged Attacks hit an opponent marked by Framing: Freezing Point Composition's Focused Impression, Monsieur Verite will initiate a follow-up attack that deals 180% of Charlotte's ATK as AoE Cryo DMG and heals active character(s) within the AoE for 42% of Charlotte's ATK. This effect can be triggered once every 6s, and both DMG and healing done this way will be considered as having been done by Charlotte's Elemental Burst.",
-            "DescriptionCN": "当前场上角色的普通攻击与重击命中附有取景·冰点构图法的「聚焦印象」的敌人后，「温亨廷先生」将进行追加攻击，造成相当于夏洛蒂攻击力180%的冰元素范围伤害，并为攻击范围内的当前场上角色恢复生命值，回复量相当于夏洛蒂攻击力42%的治疗效果。该效果每6秒至多触发一次，通过这种方式造成的伤害与治疗效果视为夏洛蒂的元素爆发造成的伤害与治疗效果。",
+            "DescriptionCN": "当前场上角色的普通攻击与重击命中附有取景·冰点构图法的「聚焦印象」的敌人后，「温亨廷先生」将进行协同攻击，造成相当于夏洛蒂攻击力180%的冰元素范围伤害，并为攻击范围内的当前场上角色恢复生命值，回复量相当于夏洛蒂攻击力42%的治疗效果。该效果每6秒至多触发一次，通过这种方式造成的伤害与治疗效果视为夏洛蒂的元素爆发造成的伤害与治疗效果。",
             "DescriptionJP": "フィールド上にいるキャラクターの通常攻撃と重撃がフレーミング·氷点法の「フォーカスインプレッション」マークを付与されている敵に命中すると、「ヴェリテくん」は連携攻撃を発動し、シャルロットの攻撃力180%分に相当する氷元素範囲ダメージを与え、同時に攻撃範囲内にいるフィールド上キャラクターのHPを回復する。回復量はシャルロットの攻撃力42%分に相当する。この効果は6秒毎に1回のみ発動可能。この方法によって与えたダメージと治療効果は、シャルロットの元素爆発によるものと見なされる。"
         }
     ]
