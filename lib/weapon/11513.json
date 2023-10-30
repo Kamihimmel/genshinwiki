@@ -108,33 +108,33 @@
             "id": "111513",
             "name": "Dawn and Dusk by the Lake",
             "upgrade": {
-                "0": "When the equipping character's current HP increases or decreases, Elemental Skill DMG dealt will be increased by 8% for 6s. Max 3 stacks. This effect can be triggered once every 0.2s. When other party members' current HP increases or decreases, the equipping character's Max HP will be increased by 12% for 6s. Max 2 stacks. This effect can be triggered once every 0.2s, and can be triggered even if the wielder is off-field.",
-                "1": "When the equipping character's current HP increases or decreases, Elemental Skill DMG dealt will be increased by 10% for 6s. Max 3 stacks. This effect can be triggered once every 0.2s. When other party members' current HP increases or decreases, the equipping character's Max HP will be increased by 15% for 6s. Max 2 stacks. This effect can be triggered once every 0.2s, and can be triggered even if the wielder is off-field.",
-                "2": "When the equipping character's current HP increases or decreases, Elemental Skill DMG dealt will be increased by 12% for 6s. Max 3 stacks. This effect can be triggered once every 0.2s. When other party members' current HP increases or decreases, the equipping character's Max HP will be increased by 18% for 6s. Max 2 stacks. This effect can be triggered once every 0.2s, and can be triggered even if the wielder is off-field.",
-                "3": "When the equipping character's current HP increases or decreases, Elemental Skill DMG dealt will be increased by 14% for 6s. Max 3 stacks. This effect can be triggered once every 0.2s. When other party members' current HP increases or decreases, the equipping character's Max HP will be increased by 21% for 6s. Max 2 stacks. This effect can be triggered once every 0.2s, and can be triggered even if the wielder is off-field.",
-                "4": "When the equipping character's current HP increases or decreases, Elemental Skill DMG dealt will be increased by 16% for 6s. Max 3 stacks. This effect can be triggered once every 0.2s. When other party members' current HP increases or decreases, the equipping character's Max HP will be increased by 24% for 6s. Max 2 stacks. This effect can be triggered once every 0.2s, and can be triggered even if the wielder is off-field."
+                "0": "When the equipping character's current HP increases or decreases, Elemental Skill DMG dealt will be increased by 8% for 6s. Max 3 stacks. This effect can be triggered once every 0.2s. When other party members' current HP increases or decreases, the equipping character's Max HP will be increased by 14% for 6s. Max 2 stacks. This effect can be triggered once every 0.2s, and can be triggered even if the wielder is off-field.",
+                "1": "When the equipping character's current HP increases or decreases, Elemental Skill DMG dealt will be increased by 10% for 6s. Max 3 stacks. This effect can be triggered once every 0.2s. When other party members' current HP increases or decreases, the equipping character's Max HP will be increased by 17.5% for 6s. Max 2 stacks. This effect can be triggered once every 0.2s, and can be triggered even if the wielder is off-field.",
+                "2": "When the equipping character's current HP increases or decreases, Elemental Skill DMG dealt will be increased by 12% for 6s. Max 3 stacks. This effect can be triggered once every 0.2s. When other party members' current HP increases or decreases, the equipping character's Max HP will be increased by 21% for 6s. Max 2 stacks. This effect can be triggered once every 0.2s, and can be triggered even if the wielder is off-field.",
+                "3": "When the equipping character's current HP increases or decreases, Elemental Skill DMG dealt will be increased by 14% for 6s. Max 3 stacks. This effect can be triggered once every 0.2s. When other party members' current HP increases or decreases, the equipping character's Max HP will be increased by 24.5% for 6s. Max 2 stacks. This effect can be triggered once every 0.2s, and can be triggered even if the wielder is off-field.",
+                "4": "When the equipping character's current HP increases or decreases, Elemental Skill DMG dealt will be increased by 16% for 6s. Max 3 stacks. This effect can be triggered once every 0.2s. When other party members' current HP increases or decreases, the equipping character's Max HP will be increased by 28% for 6s. Max 2 stacks. This effect can be triggered once every 0.2s, and can be triggered even if the wielder is off-field."
             }
         },
         "chs": {
             "id": "111513",
             "name": "湖光的朝与暮",
             "upgrade": {
-                "0": "装备者的当前生命值提升或降低时，元素战技造成的伤害提升8%，该效果持续6秒，至多叠加3次，每0.2秒至多触发一次；队伍中其他角色的当前生命值提升或降低时，装备者的生命值上限提升12%，该效果持续6秒，至多叠加2次，每0.2秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。",
-                "1": "装备者的当前生命值提升或降低时，元素战技造成的伤害提升10%，该效果持续6秒，至多叠加3次，每0.2秒至多触发一次；队伍中其他角色的当前生命值提升或降低时，装备者的生命值上限提升15%，该效果持续6秒，至多叠加2次，每0.2秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。",
-                "2": "装备者的当前生命值提升或降低时，元素战技造成的伤害提升12%，该效果持续6秒，至多叠加3次，每0.2秒至多触发一次；队伍中其他角色的当前生命值提升或降低时，装备者的生命值上限提升18%，该效果持续6秒，至多叠加2次，每0.2秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。",
-                "3": "装备者的当前生命值提升或降低时，元素战技造成的伤害提升14%，该效果持续6秒，至多叠加3次，每0.2秒至多触发一次；队伍中其他角色的当前生命值提升或降低时，装备者的生命值上限提升21%，该效果持续6秒，至多叠加2次，每0.2秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。",
-                "4": "装备者的当前生命值提升或降低时，元素战技造成的伤害提升16%，该效果持续6秒，至多叠加3次，每0.2秒至多触发一次；队伍中其他角色的当前生命值提升或降低时，装备者的生命值上限提升24%，该效果持续6秒，至多叠加2次，每0.2秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。"
+                "0": "装备者的当前生命值提升或降低时，元素战技造成的伤害提升8%，该效果持续6秒，至多叠加3次，每0.2秒至多触发一次；队伍中其他角色的当前生命值提升或降低时，装备者的生命值上限提升14%，该效果持续6秒，至多叠加2次，每0.2秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。",
+                "1": "装备者的当前生命值提升或降低时，元素战技造成的伤害提升10%，该效果持续6秒，至多叠加3次，每0.2秒至多触发一次；队伍中其他角色的当前生命值提升或降低时，装备者的生命值上限提升17.5%，该效果持续6秒，至多叠加2次，每0.2秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。",
+                "2": "装备者的当前生命值提升或降低时，元素战技造成的伤害提升12%，该效果持续6秒，至多叠加3次，每0.2秒至多触发一次；队伍中其他角色的当前生命值提升或降低时，装备者的生命值上限提升21%，该效果持续6秒，至多叠加2次，每0.2秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。",
+                "3": "装备者的当前生命值提升或降低时，元素战技造成的伤害提升14%，该效果持续6秒，至多叠加3次，每0.2秒至多触发一次；队伍中其他角色的当前生命值提升或降低时，装备者的生命值上限提升24.5%，该效果持续6秒，至多叠加2次，每0.2秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。",
+                "4": "装备者的当前生命值提升或降低时，元素战技造成的伤害提升16%，该效果持续6秒，至多叠加3次，每0.2秒至多触发一次；队伍中其他角色的当前生命值提升或降低时，装备者的生命值上限提升28%，该效果持续6秒，至多叠加2次，每0.2秒至多触发一次。装备者处于队伍后台时，依然能触发上述效果。"
             }
         },
         "jp": {
             "id": "111513",
             "name": "湖光の朝夕",
             "upgrade": {
-                "0": "装備者の現在のHPが増減するとき、元素スキルのダメージ+8%、継続時間6秒、最大3層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。チーム内にいる他のキャラクターの現在のHPが増減するとき、装備者のHP上限+12%、継続時間6秒。最大2層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。",
-                "1": "装備者の現在のHPが増減するとき、元素スキルのダメージ+10%、継続時間6秒、最大3層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。チーム内にいる他のキャラクターの現在のHPが増減するとき、装備者のHP上限+15%、継続時間6秒。最大2層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。",
-                "2": "装備者の現在のHPが増減するとき、元素スキルのダメージ+12%、継続時間6秒、最大3層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。チーム内にいる他のキャラクターの現在のHPが増減するとき、装備者のHP上限+18%、継続時間6秒。最大2層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。",
-                "3": "装備者の現在のHPが増減するとき、元素スキルのダメージ+14%、継続時間6秒、最大3層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。チーム内にいる他のキャラクターの現在のHPが増減するとき、装備者のHP上限+21%、継続時間6秒。最大2層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。",
-                "4": "装備者の現在のHPが増減するとき、元素スキルのダメージ+16%、継続時間6秒、最大3層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。チーム内にいる他のキャラクターの現在のHPが増減するとき、装備者のHP上限+24%、継続時間6秒。最大2層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。"
+                "0": "装備者の現在のHPが増減するとき、元素スキルのダメージ+8%、継続時間6秒、最大3層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。チーム内にいる他のキャラクターの現在のHPが増減するとき、装備者のHP上限+14%、継続時間6秒、最大2層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+                "1": "装備者の現在のHPが増減するとき、元素スキルのダメージ+10%、継続時間6秒、最大3層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。チーム内にいる他のキャラクターの現在のHPが増減するとき、装備者のHP上限+17.5%、継続時間6秒、最大2層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+                "2": "装備者の現在のHPが増減するとき、元素スキルのダメージ+12%、継続時間6秒、最大3層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。チーム内にいる他のキャラクターの現在のHPが増減するとき、装備者のHP上限+21%、継続時間6秒、最大2層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+                "3": "装備者の現在のHPが増減するとき、元素スキルのダメージ+14%、継続時間6秒、最大3層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。チーム内にいる他のキャラクターの現在のHPが増減するとき、装備者のHP上限+24.5%、継続時間6秒、最大2層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+                "4": "装備者の現在のHPが増減するとき、元素スキルのダメージ+16%、継続時間6秒、最大3層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。チーム内にいる他のキャラクターの現在のHPが増減するとき、装備者のHP上限+28%、継続時間6秒、最大2層まで重ね掛けでき、0.2秒毎に1回のみ発動可能。装備したキャラクターが待機している場合にも効果を発動できる。"
             }
         }
     }
