@@ -3792,7 +3792,7 @@
             "imageurl": "images/constellation/10000086-c1.png",
             "DescriptionEN": "The Gracious Rebuke from the Passive Talent \"There Shall Be a Plea for Justice\" is changed to this: When Wriothesley's HP is less than 60% or while he is in the Chilling Penalty state caused by Icefang Rush, when the fifth attack of Repelling Fists hits, it will create a Gracious Rebuke. 1 Gracious Rebuke effect can be obtained every 2.5s.  Additionally, Rebuke: Vaulting Fist will obtain the following enhancement: ·The DMG Bonus gained will be further increased to 200%. ·When it hits while Wriothesley is in the Chilling Penalty state, that state's duration is extended by 4s. 1 such extension can occur per 1 Chilling Penalty duration.  You must first unlock the Passive Talent \"There Shall Be a Plea for Justice.\"",
             "DescriptionCN": "固有天赋「公理终有辩诉之日」的「恩典之诫」转变为： 莱欧斯利的生命值低于60%，或在冰牙突驰的寒烈的惩裁状态持续期间，斥逐拳的第五段攻击命中时，将获得「恩典之诫」，每2.5秒至多获得一次「恩典之诫」效果。  此外，惩戒·凌跃拳获得以下强化： ·造成的伤害提升进一步提升至200%； ·命中时，若处于寒烈的惩裁状态下，该状态的持续时间延长4秒，在一次寒烈的惩裁状态持续期间，至多通过这种方式延长一次。  需要解锁固有天赋「公理终有辩诉之日」。",
-            "DescriptionJP": "固有天賦「やがて公義は弁ぜらる」の「恩典の戒め」は以下のように変化する。 リオセスリのHPが60%未満、またはアイスファング·ラッシュによる烈霜の懲戒状態を継続中に、リペルブローの5段目が命中すると「恩典の戒め」を獲得する。「恩典の戒め」は2.5秒毎に1回のみ獲得可能。  また、誅罰·ヴォールティングアッパーは以下のように強化される。 ·与えるダメージがさらに200%まで増加する。 ·命中した時に烈霜の懲戒状態だった場合、烈霜の懲戒状態が4秒延長される。烈霜の懲戒状態中、この方法による継続時間の延長は1回のみ。  固有天賦「やがて公義は弁ぜらる」を解放する必要がある。"
+            "DescriptionJP": "固有天賦「やがて公義は弁ぜらる」の「恩典の戒め」は以下のように変化する。 リオセスリのHPが60%未満、またはアイスファング·ラッシュによる烈霜の懲戒状態を継続中に、リペルブローの5段目が命中すると「恩典の戒め」を獲得する。「恩典の戒め」は2.5秒毎に1回のみ獲得可能。  また、誅罰·ヴォールティングアッパーは以下のように強化される。 ·ダメージアップ効果が200%になる。 ·命中した時に烈霜の懲戒状態だった場合、烈霜の懲戒状態が4秒延長される。烈霜の懲戒状態中、この方法による継続時間の延長は1回のみ。  固有天賦「やがて公義は弁ぜらる」を解放する必要がある。"
         },
         {
             "level": 2,
@@ -3842,7 +3842,7 @@
             "imageurl": "images/constellation/10000086-c6.png",
             "DescriptionEN": "The CRIT Rate of Rebuke: Vaulting Fist will be increased by 10%, and its CRIT DMG by 80%. When unleashed, it will also create an additional icicle that deals 100% of Rebuke: Vaulting Fist's Base DMG as Cryo DMG. DMG dealt this way is regarded as Charged Attack DMG. You must first unlock the Passive Talent \"There Shall Be a Plea for Justice.\"",
             "DescriptionCN": "惩戒·凌跃拳的暴击率提升10%，暴击伤害提升80%，并能够额外生成冰锥，造成原本100%的冰元素伤害，通过这种方式造成的伤害视为重击伤害。 需要解锁固有天赋「公理终有辩诉之日」。",
-            "DescriptionJP": "誅罰·ヴォールティングアッパーの会心率+10%、会心ダメージ+80%。また、発動時に氷柱を生成し、ヴォールティングアッパー100%分の氷元素ダメージを与える。このダメージは重撃ダメージと見なされる。 固有天賦「やがて公義は弁ぜらる」を解放する必要がある。"
+            "DescriptionJP": "誅罰·ヴォールティングアッパーの会心率+10%、会心ダメージ+80%。また、発動時に氷柱を生成し、誅罰·ヴォールティングアッパー100%分の氷元素ダメージを与える。このダメージは重撃ダメージと見なされる。 固有天賦「やがて公義は弁ぜらる」を解放する必要がある。"
         }
     ]
 }
