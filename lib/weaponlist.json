@@ -2077,12 +2077,36 @@
             "order": 999
         },
         {
+            "id": "12426",
+            "ENname": "\"Ultimate Overlord's Mega Magic Sword\"",
+            "CNname": "「究极霸王超级魔剑」",
+            "JAname": "「究極覇王スーパー魔剣」JP0B",
+            "imageurl": "images/weapon/12426.png",
+            "rarity": 4,
+            "type": "claymore",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
             "id": "12427",
             "ENname": "Portable Power Saw",
             "CNname": "便携动力锯",
             "JAname": "携帯型チェーンソー",
             "imageurl": "images/weapon/12427.png",
             "rarity": 4,
+            "type": "claymore",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "12512",
+            "ENname": "Considered Judgment",
+            "CNname": "裁断",
+            "JAname": "裁断JP0B",
+            "imageurl": "images/weapon/12512.png",
+            "rarity": 5,
             "type": "claymore",
             "spoiler": true,
             "supported": false,
