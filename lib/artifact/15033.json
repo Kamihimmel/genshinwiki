@@ -26,7 +26,7 @@
             "CNname": "昔时遗落之誓",
             "JAname": "往時の遺失の誓JP0B",
             "DescriptionEN": "0",
-            "DescriptionCN": "0",
+            "DescriptionCN": "",
             "DescriptionJP": "0",
             "imageurl": "images/artifact/15033-bracer.png",
             "maxLevel": 17
@@ -36,7 +36,7 @@
             "CNname": "昔时浮想之思",
             "JAname": "往時の空想の念JP0B",
             "DescriptionEN": "0",
-            "DescriptionCN": "0",
+            "DescriptionCN": "",
             "DescriptionJP": "0",
             "imageurl": "images/artifact/15033-necklace.png",
             "maxLevel": 17
@@ -46,7 +46,7 @@
             "CNname": "昔时回映之音",
             "JAname": "往時の余韻の音JP0B",
             "DescriptionEN": "0",
-            "DescriptionCN": "0",
+            "DescriptionCN": "",
             "DescriptionJP": "0",
             "imageurl": "images/artifact/15033-shoes.png",
             "maxLevel": 17
@@ -56,7 +56,7 @@
             "CNname": "昔时应许之梦",
             "JAname": "往時の約束の夢JP0B",
             "DescriptionEN": "0",
-            "DescriptionCN": "0",
+            "DescriptionCN": "",
             "DescriptionJP": "0",
             "imageurl": "images/artifact/15033-ring.png",
             "maxLevel": 17
@@ -66,7 +66,7 @@
             "CNname": "昔时传奏之诗",
             "JAname": "往時の伝奏の詩JP0B",
             "DescriptionEN": "0",
-            "DescriptionCN": "0",
+            "DescriptionCN": "",
             "DescriptionJP": "0",
             "imageurl": "images/artifact/15033-dress.png",
             "maxLevel": 17
