@@ -1337,8 +1337,8 @@
             "JAname": "ショートレンジラピッド阻止射撃JP0B",
             "imageurl": "images/talent/10000090-1.png",
             "DescriptionEN": "Chevreuse quickly shoulders her musket and fires at her opponent(s), dealing AoE Pyro DMG. Hold to fire in a different fashion.  Hold Enter Aiming Mode, locking a target in her sights to fire a precise interdiction shot. If Chevreuse has an Overcharged Ball, then she will fire the Overcharged Ball instead, dealing greater Pyro DMG in a larger area. Chevreuse gains 1 Overcharged Ball every time a nearby character in the party triggers an Overloaded reaction, and can have up to 1 Overcharged Ball at a time.  For a short duration after Chevreuse fires a shot, she will continuously restore HP to the active character on the field. The amount healed is based on her Max HP.  Arkhe: Ousia Periodically, after Chevreuse's Short-Range Rapid Interdiction Fire hits, a Surging Blade will be called forth that deals ousia-aligned Pyro DMG.  \"Actually, training regulations only had the phrase \"interdiction fire,\" but the protagonist of this novel believes that even how stylish your terminology is can affect how motivated your troops are, which can put your opponents on the back foot right from the get-go... I think that's a good point, so I changed the regulations!\"",
-            "DescriptionCN": "夏沃蕾将铳枪快速抵肩，射击敌人，造成火元素范围伤害。 长按时将以不同的方式施放。  长按 进入瞄准状态，锁定准星内的一名敌人，进行更为精确的拦截射击；若夏沃蕾拥有「超量装药弹头」，则转为发射「超量装药弹头」，造成范围更大、伤害更高的火元素伤害。 夏沃蕾将在队伍中附近的角色触发超载反应时获得1枚「超量装药弹头」。至多同时持有1枚「超量装药弹头」。  夏沃蕾进行射击后的一段时间内，将持续为当前场上角色恢复生命值，回复量受益于夏沃蕾的生命值上限。  始基力：荒性 每隔一段时间，夏沃蕾的「近迫式急促拦射」命中时，将唤出流涌之刃，造成具有荒性的火元素伤害。  「其实训练条令里只有『拦射』这个术语，但有本小说的主角认为，包含专业词汇的招式名能让自己人更有干劲，让敌人输在气势的起跑线上…我觉得很有道理，就改了改条令！」",
-            "DescriptionJP": "シュヴルーズは銃を素早く肩に当てて、敵を射撃して炎元素範囲ダメージを与える。 長押しによって攻撃方法が変わる。  長押し 照準モードに入り、照準範囲内の敵1体をロックし、より精確な阻止射撃を行う。シュヴルーズが「オーバーチャージ弾頭」を持っている場合、代わりにそれを撃つようになり、より広範囲かつ大きな炎元素ダメージを与えるようになる。 シュヴルーズは、周囲のチーム全員が過負荷反応を起こす時、「オーバーチャージ弾頭」を1個獲得する。「オーバーチャージ弾頭」は同時に最大1個まで所持可能。  シュヴルーズが射撃を行った後の一定時間、フィールド上キャラクターのHPを持続的に回復する。回復量はシュヴルーズのHP上限によって決まる。  アルケー：ウーシア シュヴルーズの「ショートレンジラピッド阻止射撃」が命中した時、迸発の刃を召喚してウーシアを帯びた炎元素ダメージを与える、一定間隔ごとに発動が可能。  「実は、訓練条令には『阻止射撃』というワードがなかった。だが、とある小説の主人公が、専用名詞が含む技名は味方を奮い立たせ、敵を勢いのスタートラインに負けさせると主張した…とても理にかなってると思ったから、条令を変更したまでだ！」JP0B",
+            "DescriptionCN": "夏沃蕾将铳枪快速抵肩，射击敌人，造成火元素范围伤害。 长按时将以不同的方式施放。  长按 进入瞄准状态，锁定准星内的一名敌人，进行更为精确的拦截射击；若夏沃蕾拥有「超量装药弹头」，则转为发射「超量装药弹头」，造成范围更大、伤害更高的火元素伤害。 夏沃蕾将在队伍中附近的角色触发超载反应时获得1枚「超量装药弹头」。至多同时持有1枚「超量装药弹头」。  夏沃蕾进行射击后的一段时间内，将持续为当前场上自己的角色恢复生命值，回复量受益于夏沃蕾的生命值上限。  始基力：荒性 每隔一段时间，夏沃蕾的「近迫式急促拦射」命中时，将唤出流涌之刃，造成具有荒性的火元素伤害。  「其实训练条令里只有『拦射』这个术语，但有本小说的主角认为，包含专业词汇的招式名能让自己人更有干劲，让敌人输在气势的起跑线上…我觉得很有道理，就改了改条令！」",
+            "DescriptionJP": "シュヴルーズは素早く銃を肩に当てて、敵を射撃し炎元素範囲ダメージを与える。 長押しによって攻撃方法が変わる。  長押し 照準モードに入り、照準範囲内の敵一体をロックし、より精確な阻止射撃を行う。シュヴルーズが「オーバーチャージ弾頭」を持っている場合、代わりにそれを撃つようになり、より広範囲かつ大きな炎元素ダメージを与えるようになる。 シュヴルーズは、周囲のチーム全員が過負荷反応を起こす時、「オーバーチャージ弾頭」を1個獲得する。「オーバーチャージ弾頭」は同時に最大1個まで所持可能。  シュヴルーズが射撃を行った後の一定時間、フィールド上キャラクターのHPを持続的に回復する。回復量はシュヴルーズのHP上限によって決まる。  アルケー：ウーシア シュヴルーズの「ショートレンジラピッド阻止射撃」が命中した時、迸発の刃を召喚してウーシアを帯びた炎元素ダメージを与える、一定間隔ごとに発動が可能。  「実は、訓練条令には『阻止射撃』というワードがなかった。だが、とある小説の主人公が、専用名詞が含む技名は味方を奮い立たせ、敵を勢いのスタートラインに負けさせると主張した…とても理にかなってると思ったから、条令を変更したまでだ！」JP0B",
             "cooldown": 15,
             "cost": 0,
             "type": "combat",
@@ -3740,9 +3740,9 @@
             "CNname": "尖兵协同战法",
             "JAname": "尖兵協同戦法JP0B",
             "imageurl": "images/talent/10000090-4.png",
-            "DescriptionEN": "When the Elemental Type of all party members is Pyro or Electro and there is at least one Pyro and one Electro Elemental Type each in the party: Chevreuse grants \"Coordinated Tactics\" to every character in the party: After a character triggers the Overloaded reaction on an opponent, the Pyro and Electro RES of the opponent hit will be decreased by 40% for 6s.",
-            "DescriptionCN": "队伍中所有角色的元素类型均为火元素与雷元素，并且至少有一名火元素角色、一名雷元素角色时： 夏沃蕾将为队伍中附近的角色施加「协同战法」：角色触发超载反应后，受本次反应影响的敌人的火元素与雷元素抗性降低40%，持续6秒。",
-            "DescriptionJP": "チーム全員の元素タイプが炎元素と雷元素であり、かつ炎元素と雷元素のキャラクターが少なくとも一人ずついる時、シュヴルーズはチーム全員に「協同戦法」を付与する。キャラクターが敵に過負荷反応を起こした後、命中した敵の炎元素耐性と雷元素耐性-40%、継続時間6秒。JP0B",
+            "DescriptionEN": "When the Elemental Type of all party members is Pyro or Electro and there is at least one Pyro and one Electro Elemental Type each in the party: Chevreuse grants \"Coordinated Tactics\" to nearby party members: After a character triggers the Overloaded reaction, the Pyro and Electro RES of the opponent(s) affected by this Overloaded reaction will be decreased by 40% for 6s.",
+            "DescriptionCN": "队伍中所有角色的元素类型均为火元素与雷元素，并且至少有一名火元素角色、一名雷元素角色时： 夏沃蕾将为队伍中附近的角色施加「协同战法」：角色触发超载反应后，受本次反应影响的敌人的火元素与雷元素抗性降低40%，持续6秒。 当队伍中角色的元素类型不满足本固有天赋的条件时，将移除已有的协同战法效果。",
+            "DescriptionJP": "チーム全員の元素タイプが炎元素と雷元素であり、かつ炎元素と雷元素のキャラクターが少なくとも一人ずついる時、シュヴルーズは周囲のチーム全員に「協同戦法」を付与する。キャラクターが過負荷反応を起こした後、この反応の影響を受けた敵の炎元素耐性および雷元素耐性-40%、継続時間6秒。JP0B",
             "cooldown": 0,
             "cost": 0,
             "type": "passive",
@@ -3791,7 +3791,7 @@
             "JAname": "強固戦線の迫力JP0B",
             "imageurl": "images/constellation/10000090-c1.png",
             "DescriptionEN": "When characters with the \"Coordinated Tactics\" status (not including Chevreuse herself) trigger the Overloaded reaction, they will recover 6 Energy. This effect can be triggered once every 10s. You must first unlock the Passive Talent \"Vanguard's Coordinated Tactics.\"",
-            "DescriptionCN": "处于「协同战法」状态下的角色（不包括夏沃蕾自己）触发超载反应时，将恢复6点元素能量。此效果每10秒至多触发一次。 需要解锁固有天赋「尖兵协同战法」。",
+            "DescriptionCN": "当前场上处于「协同战法」状态下的角色（不包括夏沃蕾自己）对敌人触发超载反应时，将恢复6点元素能量。此效果每10秒至多触发一次。 需要解锁固有天赋「尖兵协同战法」。",
             "DescriptionJP": "「協同戦法」状態のキャラクター（シュヴルーズ自身を除く）が過負荷反応を起こした時、元素エネルギーを6ポイント回復する。この効果は10秒毎に1回のみ発動可能。 固有天賦「尖兵協同戦法」を解放する必要がある。JP0B"
         },
         {
@@ -3840,9 +3840,9 @@
             "CNname": "终结罪恶的追缉",
             "JAname": "罪悪終結の追捕JP0B",
             "imageurl": "images/constellation/10000090-c6.png",
-            "DescriptionEN": "After 12s of the healing effect from Short-Range Rapid Interdiction Fire, all nearby party members recover HP equivalent to 10% of Chevreuse's Max HP. After a party member is healed by Short-Range Rapid Interdiction Fire, they gain a 20% Pyro DMG Bonus and Electro DMG Bonus for 8s, stacking up to 3 times.",
-            "DescriptionCN": "近迫式急促拦射的的治疗效果持续12秒后，将为队伍中附近的所有角色恢复生命值，回复量相当于夏沃蕾生命值上限的10%。 队伍中的角色受到「近迫式急促拦射」的治疗后，获得20%火元素伤害加成与雷元素伤害加成，持续8秒，此效果至多叠加3层。",
-            "DescriptionJP": "ショートレンジラピッド阻止射撃の治療効果が12秒継続した後、周囲のチーム全員のHPを回復し、回復量はシュヴルーズのHP上限の10%に相当する。 チームにいるキャラクターが「ショートレンジラピッド阻止射撃」の治療効果を受けた後、炎元素ダメージ+20%、雷元素ダメージ+20%、継続時間8秒。この効果は最大3層まで重ね掛け可能。JP0B"
+            "DescriptionEN": "After 12s of the healing effect from Short-Range Rapid Interdiction Fire, all nearby party members recover HP equivalent to 10% of Chevreuse's Max HP. After a party member is healed by Short-Range Rapid Interdiction Fire, they gain a 20% Pyro DMG Bonus and Electro DMG Bonus for 8s. Max 3 stacks. Each stack's duration is counted independently.",
+            "DescriptionCN": "近迫式急促拦射的治疗效果持续12秒后，将为队伍中附近的所有角色恢复生命值，回复量相当于夏沃蕾生命值上限的10%。 队伍中的角色受到「近迫式急促拦射」的治疗后，获得20%火元素伤害加成与雷元素伤害加成，持续8秒，此效果至多叠加3层，每层独立计算持续时间。",
+            "DescriptionJP": "ショートレンジラピッド阻止射撃の治療効果が12秒継続した後、周囲のチーム全員のHPを回復し、回復量はシュヴルーズのHP上限の10%に相当する。 チームにいるキャラクターが「ショートレンジラピッド阻止射撃」の治療効果を受けた後、炎元素ダメージ+20%、雷元素ダメージ+20%、継続時間8秒。この効果は最大3層まで。層ごとに継続時間は独立して計算される。JP0B"
         }
     ]
 }
