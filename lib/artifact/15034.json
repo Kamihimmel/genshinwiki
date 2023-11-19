@@ -15,9 +15,9 @@
             "DescriptionJP": "攻撃力+18%。"
         },
         "4": {
-            "DescriptionEN": "When using an Elemental Skill, gain the Heart of Gold effect for 10s: Gain a 16% Geo DMG Bonus. While under a shield granted by the Crystallize reaction, the Geo DMG Bonus provided by Heart of Gold will be increased by 150%, and this additional increase disappears 1s after that shield is lost.",
+            "DescriptionEN": "After using an Elemental Skill, gain a 16% Geo DMG Bonus for 10s. While under a shield granted by the Crystallize reaction, the above effect will be increased by 150%, and this additional increase disappears 1s after that shield is lost.",
             "DescriptionCN": "施放元素战技后的10秒内，岩元素伤害加成提升16%；若处于结晶反应产生的护盾庇护下，上述效果提高150%，进一步提高的效果将在失去结晶护盾庇护的1秒后移除。",
-            "DescriptionJP": "元素スキルを発動時、継続時間10秒の「黄金のような心」効果を獲得し、岩元素ダメージ+16%。結晶反応で生成されたシールド状態にある時、「黄金のような心」による岩元素ダメージアップ効果がさらに+150%。このダメージアップ効果は結晶反応で生成されたシールド状態がなくなった1秒後にクリアされる。JP0B"
+            "DescriptionJP": "元素スキルを発動した後の10秒間、岩元素ダメージ+16%。結晶反応で生成されたシールド状態にある時、上記効果によるダメージアップ効果が+150%。このダメージアップ効果は結晶反応で生成されたシールド状態がなくなった1秒後にクリアされる。JP0B"
         }
     },
     "suit": {
@@ -26,7 +26,7 @@
             "CNname": "无私的妆饰花",
             "JAname": "無私のフローラル装飾JP0B",
             "DescriptionEN": "0",
-            "DescriptionCN": "0",
+            "DescriptionCN": "",
             "DescriptionJP": "0",
             "imageurl": "images/artifact/15034-bracer.png",
             "maxLevel": 17
@@ -36,7 +36,7 @@
             "CNname": "诚恳的蘸水笔",
             "JAname": "誠実なつけペンJP0B",
             "DescriptionEN": "0",
-            "DescriptionCN": "0",
+            "DescriptionCN": "",
             "DescriptionJP": "0",
             "imageurl": "images/artifact/15034-necklace.png",
             "maxLevel": 17
@@ -46,7 +46,7 @@
             "CNname": "忠实的砂时计",
             "JAname": "忠実な砂時計JP0B",
             "DescriptionEN": "0",
-            "DescriptionCN": "0",
+            "DescriptionCN": "",
             "DescriptionJP": "0",
             "imageurl": "images/artifact/15034-shoes.png",
             "maxLevel": 17
@@ -56,7 +56,7 @@
             "CNname": "慷慨的墨水瓶",
             "JAname": "寛容なインク壺JP0B",
             "DescriptionEN": "0",
-            "DescriptionCN": "0",
+            "DescriptionCN": "",
             "DescriptionJP": "0",
             "imageurl": "images/artifact/15034-ring.png",
             "maxLevel": 17
@@ -66,7 +66,7 @@
             "CNname": "慈爱的淑女帽",
             "JAname": "慈愛のレディースハットJP0B",
             "DescriptionEN": "0",
-            "DescriptionCN": "0",
+            "DescriptionCN": "",
             "DescriptionJP": "0",
             "imageurl": "images/artifact/15034-dress.png",
             "maxLevel": 17
