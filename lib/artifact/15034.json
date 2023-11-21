@@ -16,17 +16,17 @@
         },
         "4": {
             "DescriptionEN": "After using an Elemental Skill, gain a 16% Geo DMG Bonus for 10s. While under a shield granted by the Crystallize reaction, the above effect will be increased by 150%, and this additional increase disappears 1s after that shield is lost.",
-            "DescriptionCN": "施放元素战技后的10秒内，岩元素伤害加成提升16%；若处于结晶反应产生的护盾庇护下，上述效果提高150%，进一步提高的效果将在失去结晶护盾庇护的1秒后移除。",
-            "DescriptionJP": "元素スキルを発動した後の10秒間、岩元素ダメージ+16%。結晶反応で生成されたシールド状態にある時、上記効果によるダメージアップ効果が+150%。このダメージアップ効果は結晶反応で生成されたシールド状態がなくなった1秒後にクリアされる。JP0B"
+            "DescriptionCN": "施放元素战技后的10秒内，岩元素伤害加成提升20%；若处于结晶反应产生的护盾庇护下，上述效果提高150%，进一步提高的效果将在失去结晶护盾庇护的1秒后移除。",
+            "DescriptionJP": "元素スキルを発動した後の10秒間、岩元素ダメージ+16%。結晶反応で生成されたシールド状態にある時、上記効果によるダメージアップ効果が40%になる。このダメージアップ効果は、結晶反応で生成されたシールド状態の効果が終了した1秒後にクリアされる。"
         }
     },
     "suit": {
         "bracer": {
             "ENname": "Selfless Floral Accessory",
             "CNname": "无私的妆饰花",
-            "JAname": "無私のフローラル装飾JP0B",
+            "JAname": "無私の花飾り",
             "DescriptionEN": "0",
-            "DescriptionCN": "",
+            "DescriptionCN": "故事中的女巫所佩戴的胸花，与她所喜爱的其他装饰一样，用蝴蝶的造型作为点缀。",
             "DescriptionJP": "0",
             "imageurl": "images/artifact/15034-bracer.png",
             "maxLevel": 17
@@ -34,9 +34,9 @@
         "necklace": {
             "ENname": "Honest Quill",
             "CNname": "诚恳的蘸水笔",
-            "JAname": "誠実なつけペンJP0B",
+            "JAname": "誠実なつけペン",
             "DescriptionEN": "0",
-            "DescriptionCN": "",
+            "DescriptionCN": "故事中的女巫所使用的蘸水笔，流畅顺滑在它所有的优点中最不值得一提。",
             "DescriptionJP": "0",
             "imageurl": "images/artifact/15034-necklace.png",
             "maxLevel": 17
@@ -44,9 +44,9 @@
         "shoes": {
             "ENname": "Faithful Hourglass",
             "CNname": "忠实的砂时计",
-            "JAname": "忠実な砂時計JP0B",
+            "JAname": "忠実な砂時計",
             "DescriptionEN": "0",
-            "DescriptionCN": "",
+            "DescriptionCN": "故事中的女巫所仰仗的砂时计，据说对它念出错误的咒语，时间的流逝就会格外迅速。",
             "DescriptionJP": "0",
             "imageurl": "images/artifact/15034-shoes.png",
             "maxLevel": 17
@@ -54,9 +54,9 @@
         "ring": {
             "ENname": "Magnanimous Ink Bottle",
             "CNname": "慷慨的墨水瓶",
-            "JAname": "寛容なインク壺JP0B",
+            "JAname": "寛容なインク壺",
             "DescriptionEN": "0",
-            "DescriptionCN": "",
+            "DescriptionCN": "故事中的女巫所借助的墨水瓶，有着不逊于蘸水笔的神奇魔法。",
             "DescriptionJP": "0",
             "imageurl": "images/artifact/15034-ring.png",
             "maxLevel": 17
@@ -64,9 +64,9 @@
         "dress": {
             "ENname": "Compassionate Ladies' Hat",
             "CNname": "慈爱的淑女帽",
-            "JAname": "慈愛のレディースハットJP0B",
+            "JAname": "慈愛の淑女ハット",
             "DescriptionEN": "0",
-            "DescriptionCN": "",
+            "DescriptionCN": "故事中的女巫所爱用的淑女帽，沉稳又不失俏皮的设计令她格外中意。",
             "DescriptionJP": "0",
             "imageurl": "images/artifact/15034-dress.png",
             "maxLevel": 17
