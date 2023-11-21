@@ -132,7 +132,7 @@
             "id": "0",
             "ENname": "Normal Attack: Line Bayonet Thrust EX",
             "CNname": "普通攻击·线列枪刺·改",
-            "JAname": "通常攻撃·バヨネットライン·改JP0B",
+            "JAname": "通常攻撃·隊列式槍術·改",
             "imageurl": "images/talent/10000090-0.png",
             "DescriptionEN": "Normal Attack Performs up to 4 consecutive spear strikes.  Charged Attack Consumes a certain amount of Stamina to lunge forward, dealing damage to opponents along the way.  Plunging Attack Plunges from mid-air to strike the ground below, damaging opponents along the path and dealing AoE DMG upon impact.",
             "DescriptionCN": "普通攻击 进行至多四段的连续枪击。  重击 消耗一定体力，向前方突进，对路径上的敌人造成伤害。  下落攻击 从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成范围伤害。",
@@ -1334,11 +1334,11 @@
             "id": "1",
             "ENname": "Short-Range Rapid Interdiction Fire",
             "CNname": "近迫式急促拦射",
-            "JAname": "ショートレンジラピッド阻止射撃JP0B",
+            "JAname": "近迫阻止射撃·速",
             "imageurl": "images/talent/10000090-1.png",
-            "DescriptionEN": "Chevreuse quickly shoulders her musket and fires at her opponent(s), dealing AoE Pyro DMG. Hold to fire in a different fashion.  Hold Enter Aiming Mode, locking a target in her sights to fire a precise interdiction shot. If Chevreuse has an Overcharged Ball, then she will fire the Overcharged Ball instead, dealing greater Pyro DMG in a larger area. Chevreuse gains 1 Overcharged Ball every time a nearby character in the party triggers an Overloaded reaction, and can have up to 1 Overcharged Ball at a time.  For a short duration after Chevreuse fires a shot, she will continuously restore HP to the active character on the field. The amount healed is based on her Max HP.  Arkhe: Ousia Periodically, after Chevreuse's Short-Range Rapid Interdiction Fire hits, a Surging Blade will be called forth that deals ousia-aligned Pyro DMG.  \"Actually, training regulations only had the phrase \"interdiction fire,\" but the protagonist of this novel believes that even how stylish your terminology is can affect how motivated your troops are, which can put your opponents on the back foot right from the get-go... I think that's a good point, so I changed the regulations!\"",
+            "DescriptionEN": "Chevreuse quickly shoulders her musket and fires at her opponent(s), dealing AoE Pyro DMG. Hold to fire in a different fashion.  Hold Enter Aiming Mode, locking a target in her sights to fire a precise interdiction shot. If Chevreuse has an Overcharged Ball, then she will fire the Overcharged Ball instead, dealing greater Pyro DMG in a larger area. Chevreuse gains 1 Overcharged Ball every time a nearby party member triggers an Overloaded reaction, and can have up to 1 Overcharged Ball at a time.  For a short duration after Chevreuse fires a shot, she will continuously restore HP to your active character on the field. The amount healed is based on her Max HP.  Arkhe: Ousia Periodically, after Chevreuse's Short-Range Rapid Interdiction Fire hits, a Surging Blade will be called forth that deals Ousia-aligned Pyro DMG.  \"Actually, training regulations only had the phrase \"interdiction fire,\" but the protagonist of this novel believes that even how stylish your terminology is can affect how motivated your troops are, which can put your opponents on the back foot right from the get-go... I think that's a good point, so I changed the regulations!\"",
             "DescriptionCN": "夏沃蕾将铳枪快速抵肩，射击敌人，造成火元素范围伤害。 长按时将以不同的方式施放。  长按 进入瞄准状态，锁定准星内的一名敌人，进行更为精确的拦截射击；若夏沃蕾拥有「超量装药弹头」，则转为发射「超量装药弹头」，造成范围更大、伤害更高的火元素伤害。 夏沃蕾将在队伍中附近的角色触发超载反应时获得1枚「超量装药弹头」。至多同时持有1枚「超量装药弹头」。  夏沃蕾进行射击后的一段时间内，将持续为当前场上自己的角色恢复生命值，回复量受益于夏沃蕾的生命值上限。  始基力：荒性 每隔一段时间，夏沃蕾的「近迫式急促拦射」命中时，将唤出流涌之刃，造成具有荒性的火元素伤害。  「其实训练条令里只有『拦射』这个术语，但有本小说的主角认为，包含专业词汇的招式名能让自己人更有干劲，让敌人输在气势的起跑线上…我觉得很有道理，就改了改条令！」",
-            "DescriptionJP": "シュヴルーズは素早く銃を肩に当てて、敵を射撃し炎元素範囲ダメージを与える。 長押しによって攻撃方法が変わる。  長押し 照準モードに入り、照準範囲内の敵一体をロックし、より精確な阻止射撃を行う。シュヴルーズが「オーバーチャージ弾頭」を持っている場合、代わりにそれを撃つようになり、より広範囲かつ大きな炎元素ダメージを与えるようになる。 シュヴルーズは、周囲のチーム全員が過負荷反応を起こす時、「オーバーチャージ弾頭」を1個獲得する。「オーバーチャージ弾頭」は同時に最大1個まで所持可能。  シュヴルーズが射撃を行った後の一定時間、フィールド上キャラクターのHPを持続的に回復する。回復量はシュヴルーズのHP上限によって決まる。  アルケー：ウーシア シュヴルーズの「ショートレンジラピッド阻止射撃」が命中した時、迸発の刃を召喚してウーシアを帯びた炎元素ダメージを与える、一定間隔ごとに発動が可能。  「実は、訓練条令には『阻止射撃』というワードがなかった。だが、とある小説の主人公が、専用名詞が含む技名は味方を奮い立たせ、敵を勢いのスタートラインに負けさせると主張した…とても理にかなってると思ったから、条令を変更したまでだ！」JP0B",
+            "DescriptionJP": "シュヴルーズは銃床を素早く肩にあて、照準を覗き込み、敵を射撃して炎元素範囲ダメージを与える。 長押しによって攻撃方法が変わる。  長押し 照準モードに入り、照準範囲内の敵一体をロックし、より精確な阻止射撃を行う。シュヴルーズが「マグナムブレット」を持っている場合、代わりにそれを消費し、広範囲かつより大きな炎元素ダメージを与える。 シュヴルーズは、周囲のキャラクターが過負荷反応を起こした時、「マグナムブレット」を1個獲得する。「マグナムブレット」は最大1個まで所持可能。  シュヴルーズが射撃を行った後の一定時間、フィールド上の自身のキャラクターのHPを持続的に回復する。回復量はシュヴルーズのHP上限によって決まる。  アルケー：ウーシア シュヴルーズの「近迫阻止射撃·速」が命中した時、迸発の刃を召喚し、ウーシアを帯びた炎元素ダメージを与える、一定間隔ごとに発動が可能。  「実は、訓練マニュアルには『阻止射撃』という用語がなかった。だが、ある小説の主人公が、専門用語を用いた技名は味方の士気を上げ、その気迫で敵の先手を取れると言っていた…とても理にかなっていたから、マニュアルを変更しただけだ！」",
             "cooldown": 15,
             "cost": 0,
             "type": "combat",
@@ -1386,7 +1386,7 @@
                     "DescriptionJP": [
                         "一回押しダメージ|{param1:F1P}",
                         "長押しダメージ|{param2:F1P}",
-                        "「オーバーチャージ弾頭」のダメージ|{param3:F1P}",
+                        "「マグナムブレット」のダメージ|{param3:F1P}",
                         "継続回復量|{param5:F2P}HP上限+{param6:I}",
                         "治療継続時間|{param4:F1}秒",
                         "迸発の刃のダメージ|{param7:F1P}",
@@ -1465,7 +1465,7 @@
                     "DescriptionJP": [
                         "一回押しダメージ|{param1:F1P}",
                         "長押しダメージ|{param2:F1P}",
-                        "「オーバーチャージ弾頭」のダメージ|{param3:F1P}",
+                        "「マグナムブレット」のダメージ|{param3:F1P}",
                         "継続回復量|{param5:F2P}HP上限+{param6:I}",
                         "治療継続時間|{param4:F1}秒",
                         "迸発の刃のダメージ|{param7:F1P}",
@@ -1544,7 +1544,7 @@
                     "DescriptionJP": [
                         "一回押しダメージ|{param1:F1P}",
                         "長押しダメージ|{param2:F1P}",
-                        "「オーバーチャージ弾頭」のダメージ|{param3:F1P}",
+                        "「マグナムブレット」のダメージ|{param3:F1P}",
                         "継続回復量|{param5:F2P}HP上限+{param6:I}",
                         "治療継続時間|{param4:F1}秒",
                         "迸発の刃のダメージ|{param7:F1P}",
@@ -1623,7 +1623,7 @@
                     "DescriptionJP": [
                         "一回押しダメージ|{param1:F1P}",
                         "長押しダメージ|{param2:F1P}",
-                        "「オーバーチャージ弾頭」のダメージ|{param3:F1P}",
+                        "「マグナムブレット」のダメージ|{param3:F1P}",
                         "継続回復量|{param5:F2P}HP上限+{param6:I}",
                         "治療継続時間|{param4:F1}秒",
                         "迸発の刃のダメージ|{param7:F1P}",
@@ -1702,7 +1702,7 @@
                     "DescriptionJP": [
                         "一回押しダメージ|{param1:F1P}",
                         "長押しダメージ|{param2:F1P}",
-                        "「オーバーチャージ弾頭」のダメージ|{param3:F1P}",
+                        "「マグナムブレット」のダメージ|{param3:F1P}",
                         "継続回復量|{param5:F2P}HP上限+{param6:I}",
                         "治療継続時間|{param4:F1}秒",
                         "迸発の刃のダメージ|{param7:F1P}",
@@ -1781,7 +1781,7 @@
                     "DescriptionJP": [
                         "一回押しダメージ|{param1:F1P}",
                         "長押しダメージ|{param2:F1P}",
-                        "「オーバーチャージ弾頭」のダメージ|{param3:F1P}",
+                        "「マグナムブレット」のダメージ|{param3:F1P}",
                         "継続回復量|{param5:F2P}HP上限+{param6:I}",
                         "治療継続時間|{param4:F1}秒",
                         "迸発の刃のダメージ|{param7:F1P}",
@@ -1860,7 +1860,7 @@
                     "DescriptionJP": [
                         "一回押しダメージ|{param1:F1P}",
                         "長押しダメージ|{param2:F1P}",
-                        "「オーバーチャージ弾頭」のダメージ|{param3:F1P}",
+                        "「マグナムブレット」のダメージ|{param3:F1P}",
                         "継続回復量|{param5:F2P}HP上限+{param6:I}",
                         "治療継続時間|{param4:F1}秒",
                         "迸発の刃のダメージ|{param7:F1P}",
@@ -1939,7 +1939,7 @@
                     "DescriptionJP": [
                         "一回押しダメージ|{param1:F1P}",
                         "長押しダメージ|{param2:F1P}",
-                        "「オーバーチャージ弾頭」のダメージ|{param3:F1P}",
+                        "「マグナムブレット」のダメージ|{param3:F1P}",
                         "継続回復量|{param5:F2P}HP上限+{param6:I}",
                         "治療継続時間|{param4:F1}秒",
                         "迸発の刃のダメージ|{param7:F1P}",
@@ -2018,7 +2018,7 @@
                     "DescriptionJP": [
                         "一回押しダメージ|{param1:F1P}",
                         "長押しダメージ|{param2:F1P}",
-                        "「オーバーチャージ弾頭」のダメージ|{param3:F1P}",
+                        "「マグナムブレット」のダメージ|{param3:F1P}",
                         "継続回復量|{param5:F2P}HP上限+{param6:I}",
                         "治療継続時間|{param4:F1}秒",
                         "迸発の刃のダメージ|{param7:F1P}",
@@ -2097,7 +2097,7 @@
                     "DescriptionJP": [
                         "一回押しダメージ|{param1:F1P}",
                         "長押しダメージ|{param2:F1P}",
-                        "「オーバーチャージ弾頭」のダメージ|{param3:F1P}",
+                        "「マグナムブレット」のダメージ|{param3:F1P}",
                         "継続回復量|{param5:F2P}HP上限+{param6:I}",
                         "治療継続時間|{param4:F1}秒",
                         "迸発の刃のダメージ|{param7:F1P}",
@@ -2176,7 +2176,7 @@
                     "DescriptionJP": [
                         "一回押しダメージ|{param1:F1P}",
                         "長押しダメージ|{param2:F1P}",
-                        "「オーバーチャージ弾頭」のダメージ|{param3:F1P}",
+                        "「マグナムブレット」のダメージ|{param3:F1P}",
                         "継続回復量|{param5:F2P}HP上限+{param6:I}",
                         "治療継続時間|{param4:F1}秒",
                         "迸発の刃のダメージ|{param7:F1P}",
@@ -2255,7 +2255,7 @@
                     "DescriptionJP": [
                         "一回押しダメージ|{param1:F1P}",
                         "長押しダメージ|{param2:F1P}",
-                        "「オーバーチャージ弾頭」のダメージ|{param3:F1P}",
+                        "「マグナムブレット」のダメージ|{param3:F1P}",
                         "継続回復量|{param5:F2P}HP上限+{param6:I}",
                         "治療継続時間|{param4:F1}秒",
                         "迸発の刃のダメージ|{param7:F1P}",
@@ -2334,7 +2334,7 @@
                     "DescriptionJP": [
                         "一回押しダメージ|{param1:F1P}",
                         "長押しダメージ|{param2:F1P}",
-                        "「オーバーチャージ弾頭」のダメージ|{param3:F1P}",
+                        "「マグナムブレット」のダメージ|{param3:F1P}",
                         "継続回復量|{param5:F2P}HP上限+{param6:I}",
                         "治療継続時間|{param4:F1}秒",
                         "迸発の刃のダメージ|{param7:F1P}",
@@ -2413,7 +2413,7 @@
                     "DescriptionJP": [
                         "一回押しダメージ|{param1:F1P}",
                         "長押しダメージ|{param2:F1P}",
-                        "「オーバーチャージ弾頭」のダメージ|{param3:F1P}",
+                        "「マグナムブレット」のダメージ|{param3:F1P}",
                         "継続回復量|{param5:F2P}HP上限+{param6:I}",
                         "治療継続時間|{param4:F1}秒",
                         "迸発の刃のダメージ|{param7:F1P}",
@@ -2492,7 +2492,7 @@
                     "DescriptionJP": [
                         "一回押しダメージ|{param1:F1P}",
                         "長押しダメージ|{param2:F1P}",
-                        "「オーバーチャージ弾頭」のダメージ|{param3:F1P}",
+                        "「マグナムブレット」のダメージ|{param3:F1P}",
                         "継続回復量|{param5:F2P}HP上限+{param6:I}",
                         "治療継続時間|{param4:F1}秒",
                         "迸発の刃のダメージ|{param7:F1P}",
@@ -2536,11 +2536,11 @@
             "id": "3",
             "ENname": "Ring of Bursting Grenades",
             "CNname": "圆阵掷弹爆轰术",
-            "JAname": "円形バースト爆轟術JP0B",
+            "JAname": "円形爆撃戦術·轟",
             "imageurl": "images/talent/10000090-3.png",
             "DescriptionEN": "Chevreuse fires an explosive grenade at opponents with her musket, dealing AoE Pyro DMG. After the projectile hits, it will split into many secondary explosive shells. The secondary explosive shells will burst after a short interval, dealing Pyro DMG to nearby opponents.  \"Theoretically, a rectangular blast would be most efficient at destroying enemy formations. Unfortunately, the cross-section of an explosive shock wave is round, like most cakes. So, the secondary explosive shells can only be arranged like the fruit on a cake, forming a ring around the edge.",
             "DescriptionCN": "夏沃蕾以铳枪向敌人投射爆轰榴弹，造成火元素范围伤害。爆轰榴弹命中后，将分裂成许多二重毁伤弹。 二重毁伤弹将在短暂间隔后爆炸，对附近的敌人造成火元素伤害。  「照理来说，轰炸一块方形的区域，就能有效打击结阵的敌人，可惜爆炸的冲击波截面就像大部分蛋糕，是圆形的，所以飞散的榴弹也只能像蛋糕边缘的水果那样，呈环形排布开来。」",
-            "DescriptionJP": "シュヴルーズは銃を用い、敵に向けて爆轟榴弾を発射して炎元素範囲ダメージを与える。爆轟榴弾は命中した後、複数の二重破壊弾に分裂する。 二重破壊弾は短時間後、近くの敵に炎元素ダメージを与える。  「理論上、四角いエリアを爆撃すれば、陣を構える敵を効果的に攻撃することができる。だが、残念ながら爆風の断面はほとんどのケーキのように、円形だ。そのため、飛び散る榴弾もケーキの縁の果物のように、環状にしか並べられないのだ。」JP0B",
+            "DescriptionJP": "シュヴルーズは銃を構え、敵に向けて轟榴弾を発射し炎元素範囲ダメージを与える。轟榴弾は命中した後、複数の二次榴弾に分裂する。 二次榴弾は短時間後、近くの敵に炎元素ダメージを与える。  「理論上、正方形に並べた爆撃をすれば、陣形を構える敵を効果的に攻撃することができる。だが、残念ながら轟榴弾の爆発範囲はホールケーキのようにほぼ円形だ。そのため、飛び散る榴弾もケーキの端にある果物のように、円形にしか並べられないのだ。」",
             "cooldown": 15,
             "cost": 60,
             "type": "combat",
@@ -2586,8 +2586,8 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "爆轟榴弾のダメージ|{param1:F1P}",
-                        "二重破壊弾のダメージ|{param2:F1P}",
+                        "轟榴弾のダメージ|{param1:F1P}",
+                        "二次榴弾のダメージ|{param2:F1P}",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -2665,8 +2665,8 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "爆轟榴弾のダメージ|{param1:F1P}",
-                        "二重破壊弾のダメージ|{param2:F1P}",
+                        "轟榴弾のダメージ|{param1:F1P}",
+                        "二次榴弾のダメージ|{param2:F1P}",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -2744,8 +2744,8 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "爆轟榴弾のダメージ|{param1:F1P}",
-                        "二重破壊弾のダメージ|{param2:F1P}",
+                        "轟榴弾のダメージ|{param1:F1P}",
+                        "二次榴弾のダメージ|{param2:F1P}",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -2823,8 +2823,8 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "爆轟榴弾のダメージ|{param1:F1P}",
-                        "二重破壊弾のダメージ|{param2:F1P}",
+                        "轟榴弾のダメージ|{param1:F1P}",
+                        "二次榴弾のダメージ|{param2:F1P}",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -2902,8 +2902,8 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "爆轟榴弾のダメージ|{param1:F1P}",
-                        "二重破壊弾のダメージ|{param2:F1P}",
+                        "轟榴弾のダメージ|{param1:F1P}",
+                        "二次榴弾のダメージ|{param2:F1P}",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -2981,8 +2981,8 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "爆轟榴弾のダメージ|{param1:F1P}",
-                        "二重破壊弾のダメージ|{param2:F1P}",
+                        "轟榴弾のダメージ|{param1:F1P}",
+                        "二次榴弾のダメージ|{param2:F1P}",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -3060,8 +3060,8 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "爆轟榴弾のダメージ|{param1:F1P}",
-                        "二重破壊弾のダメージ|{param2:F1P}",
+                        "轟榴弾のダメージ|{param1:F1P}",
+                        "二次榴弾のダメージ|{param2:F1P}",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -3139,8 +3139,8 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "爆轟榴弾のダメージ|{param1:F1P}",
-                        "二重破壊弾のダメージ|{param2:F1P}",
+                        "轟榴弾のダメージ|{param1:F1P}",
+                        "二次榴弾のダメージ|{param2:F1P}",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -3218,8 +3218,8 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "爆轟榴弾のダメージ|{param1:F1P}",
-                        "二重破壊弾のダメージ|{param2:F1P}",
+                        "轟榴弾のダメージ|{param1:F1P}",
+                        "二次榴弾のダメージ|{param2:F1P}",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -3297,8 +3297,8 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "爆轟榴弾のダメージ|{param1:F1P}",
-                        "二重破壊弾のダメージ|{param2:F1P}",
+                        "轟榴弾のダメージ|{param1:F1P}",
+                        "二次榴弾のダメージ|{param2:F1P}",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -3376,8 +3376,8 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "爆轟榴弾のダメージ|{param1:F1P}",
-                        "二重破壊弾のダメージ|{param2:F1P}",
+                        "轟榴弾のダメージ|{param1:F1P}",
+                        "二次榴弾のダメージ|{param2:F1P}",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -3455,8 +3455,8 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "爆轟榴弾のダメージ|{param1:F1P}",
-                        "二重破壊弾のダメージ|{param2:F1P}",
+                        "轟榴弾のダメージ|{param1:F1P}",
+                        "二次榴弾のダメージ|{param2:F1P}",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -3534,8 +3534,8 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "爆轟榴弾のダメージ|{param1:F1P}",
-                        "二重破壊弾のダメージ|{param2:F1P}",
+                        "轟榴弾のダメージ|{param1:F1P}",
+                        "二次榴弾のダメージ|{param2:F1P}",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -3613,8 +3613,8 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "爆轟榴弾のダメージ|{param1:F1P}",
-                        "二重破壊弾のダメージ|{param2:F1P}",
+                        "轟榴弾のダメージ|{param1:F1P}",
+                        "二次榴弾のダメージ|{param2:F1P}",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -3692,8 +3692,8 @@
                         ""
                     ],
                     "DescriptionJP": [
-                        "爆轟榴弾のダメージ|{param1:F1P}",
-                        "二重破壊弾のダメージ|{param2:F1P}",
+                        "轟榴弾のダメージ|{param1:F1P}",
+                        "二次榴弾のダメージ|{param2:F1P}",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -3738,11 +3738,11 @@
             "id": "4",
             "ENname": "Vanguard's Coordinated Tactics",
             "CNname": "尖兵协同战法",
-            "JAname": "尖兵協同戦法JP0B",
+            "JAname": "尖兵協同戦術",
             "imageurl": "images/talent/10000090-4.png",
-            "DescriptionEN": "When the Elemental Type of all party members is Pyro or Electro and there is at least one Pyro and one Electro Elemental Type each in the party: Chevreuse grants \"Coordinated Tactics\" to nearby party members: After a character triggers the Overloaded reaction, the Pyro and Electro RES of the opponent(s) affected by this Overloaded reaction will be decreased by 40% for 6s.",
+            "DescriptionEN": "When the Elemental Type of all party members is Pyro or Electro and there is at least one Pyro and one Electro Elemental Type each in the party: Chevreuse grants \"Coordinated Tactics\" to nearby party members: After a character triggers the Overloaded reaction, the Pyro and Electro RES of the opponent(s) affected by this Overloaded reaction will be decreased by 40% for 6s. The \"Coordinated Tactics\" effect will be removed when the Elemental Types of the characters in the party do not meet the basic requirements for the Passive Talent.",
             "DescriptionCN": "队伍中所有角色的元素类型均为火元素与雷元素，并且至少有一名火元素角色、一名雷元素角色时： 夏沃蕾将为队伍中附近的角色施加「协同战法」：角色触发超载反应后，受本次反应影响的敌人的火元素与雷元素抗性降低40%，持续6秒。 当队伍中角色的元素类型不满足本固有天赋的条件时，将移除已有的协同战法效果。",
-            "DescriptionJP": "チーム全員の元素タイプが炎元素と雷元素であり、かつ炎元素と雷元素のキャラクターが少なくとも一人ずついる時、シュヴルーズは周囲のチーム全員に「協同戦法」を付与する。キャラクターが過負荷反応を起こした後、この反応の影響を受けた敵の炎元素耐性および雷元素耐性-40%、継続時間6秒。JP0B",
+            "DescriptionJP": "チーム全員の元素タイプが炎元素と雷元素であり、かつ炎元素と雷元素のキャラクターが少なくとも一人ずついる時、シュヴルーズは周囲のチーム全員に「協同戦術」を付与する。付与されたキャラクターが過負荷反応を起こした後、過負荷反応の影響を受けた敵の炎元素耐性および雷元素耐性-40%、継続時間6秒。 チーム内キャラクターの元素タイプが固有天賦の条件を満たさない場合、既存の協同戦術効果はクリアされる。",
             "cooldown": 0,
             "cost": 0,
             "type": "passive",
@@ -3754,11 +3754,11 @@
             "id": "5",
             "ENname": "Vertical Force Coordination",
             "CNname": "纵阵武力统筹",
-            "JAname": "縦陣武力統括JP0B",
+            "JAname": "縦陣戦力統括",
             "imageurl": "images/talent/10000090-5.png",
             "DescriptionEN": "After Chevreuse fires an Overcharged Ball using Short-Range Rapid Interdiction Fire, nearby Pyro and Electro characters in the party gain 1% increased ATK for every 1000 Max HP Chevreuse has for 30s. ATK can be increased by up to 40% in this way.",
             "DescriptionCN": "夏沃蕾发射近迫式急促拦射的「超量装药弹头」后，基于夏沃蕾的生命值上限，每1000点生命值上限都将使队伍中附近的所有火元素与雷元素角色的攻击力提升1%，持续30秒，至多通过这种方式提升40%攻击力。",
-            "DescriptionJP": "シュヴルーズがショートレンジラピッド阻止射撃の「オーバーチャージ弾頭」を発射した後、シュヴルーズのHP上限を基準に、HP上限1000毎に周囲のチームにいる炎元素と雷元素キャラクターの攻撃力+1%、継続時間30秒。この方法でアップできる攻撃力は最大40%まで。JP0B",
+            "DescriptionJP": "シュヴルーズが近迫阻止射撃·速の「マグナムブレット」を発射した後、シュヴルーズのHP上限を基準に、HP上限1000毎に周囲のチームにいる炎元素と雷元素キャラクターの攻撃力+1%、継続時間30秒。この方法でアップできる攻撃力は最大40%まで。",
             "cooldown": 0,
             "cost": 0,
             "type": "passive",
@@ -3770,7 +3770,7 @@
             "id": "6",
             "ENname": "Double Time March",
             "CNname": "迅捷行军策略",
-            "JAname": "迅速行軍策略JP0B",
+            "JAname": "迅速行軍戦略",
             "imageurl": "images/talent/10000090-6.png",
             "DescriptionEN": "Decreases sprinting Stamina consumption for your own party members by 20%. Not stackable with Passive Talents that provide the exact same effects.",
             "DescriptionCN": "队伍中自己的角色冲刺消耗的体力降低20%。 无法与效果完全相同的固有天赋叠加。",
@@ -3788,61 +3788,61 @@
             "level": 1,
             "ENname": "Stable Front Line's Resolve",
             "CNname": "稳固阵线的魄力",
-            "JAname": "強固戦線の迫力JP0B",
+            "JAname": "戦線維持の胆力",
             "imageurl": "images/constellation/10000090-c1.png",
-            "DescriptionEN": "When characters with the \"Coordinated Tactics\" status (not including Chevreuse herself) trigger the Overloaded reaction, they will recover 6 Energy. This effect can be triggered once every 10s. You must first unlock the Passive Talent \"Vanguard's Coordinated Tactics.\"",
-            "DescriptionCN": "当前场上处于「协同战法」状态下的角色（不包括夏沃蕾自己）对敌人触发超载反应时，将恢复6点元素能量。此效果每10秒至多触发一次。 需要解锁固有天赋「尖兵协同战法」。",
-            "DescriptionJP": "「協同戦法」状態のキャラクター（シュヴルーズ自身を除く）が過負荷反応を起こした時、元素エネルギーを6ポイント回復する。この効果は10秒毎に1回のみ発動可能。 固有天賦「尖兵協同戦法」を解放する必要がある。JP0B"
+            "DescriptionEN": "When active characters with the \"Coordinated Tactics\" status (not including Chevreuse herself) trigger the Overloaded reaction on opponents, they will recover 6 Energy. This effect can be triggered once every 10s. You must first unlock the Passive Talent \"Vanguard's Coordinated Tactics.\"",
+            "DescriptionCN": "当前场上处于「协同战法」状态下的角色（不包括夏沃蕾自己）触发超载反应时，将恢复6点元素能量。此效果每10秒至多触发一次。 需要解锁固有天赋「尖兵协同战法」。",
+            "DescriptionJP": "フィールド上にいる「協同戦術」状態のキャラクター（シュヴルーズ自身を除く）が敵に過負荷反応を起こした時、元素エネルギーを6ポイント回復する。この効果は10秒毎に1回のみ発動可能。 固有天賦「尖兵協同戦術」を解放する必要がある。"
         },
         {
             "level": 2,
             "ENname": "Sniper Induced Explosion",
             "CNname": "诱导殉爆的狙击",
-            "JAname": "誘導殉爆の狙撃JP0B",
+            "JAname": "誘導殉爆の狙撃",
             "imageurl": "images/constellation/10000090-c2.png",
             "DescriptionEN": "After Holding Short-Range Rapid Interdiction Fire and hitting a target, trigger 2 chain explosions at the location where said target was hit. Each explosion deals Pyro DMG equal to 120% of Chevreuse's ATK. This effect can be triggered up to once every 10s, and DMG dealt by this skill is considered Elemental Skill DMG.",
             "DescriptionCN": "长按施放近迫式急促拦射的射击命中时，将在命中位置附近引发2次连锁殉爆，每次殉爆造成相当于夏沃蕾120%攻击力的火元素伤害。此效果每10秒至多触发1次，通过这种方式造成的伤害视为元素战技伤害。",
-            "DescriptionJP": "ショートレンジラピッド阻止射撃の長押しによる攻撃が命中した時、命中した位置の付近に連続殉爆を2回引き起こし、毎回の殉爆はシュヴルーズの攻撃力120%分の炎元素ダメージを与える。この効果は10秒毎に1回のみ発動可能。これによるダメージは元素スキルダメージと見なされる。JP0B"
+            "DescriptionJP": "近迫阻止射撃·速の長押しによる攻撃が命中した時、命中した位置の付近に連鎖殉爆を2回起こし、それぞれの殉爆はシュヴルーズの攻撃力120%分の炎元素ダメージを与える。この効果は10秒毎に1回のみ発動可能。殉爆によるダメージは元素スキルダメージと見なされる。"
         },
         {
             "level": 3,
             "ENname": "Practiced Field Stripping Technique",
             "CNname": "娴熟复装的技巧",
-            "JAname": "熟練装填のコツJP0B",
+            "JAname": "熟練装弾の技術",
             "imageurl": "images/constellation/10000090-c3.png",
             "DescriptionEN": "Increases the Level of Short-Range Rapid Interdiction Fire by 3. Maximum upgrade level is 15.",
             "DescriptionCN": "近迫式急促拦射的技能等级提高3级。 至多提升至15级。",
-            "DescriptionJP": "ショートレンジラピッド阻止射撃のスキルLv.+3。 最大Lv.15まで。JP0B"
+            "DescriptionJP": "近迫阻止射撃·速のスキルLv.+3。 最大Lv.15まで。"
         },
         {
             "level": 4,
             "ENname": "The Secret to Rapid-Fire Multishots",
             "CNname": "多重速射的秘诀",
-            "JAname": "多重速射の秘訣JP0B",
+            "JAname": "多重速射の秘訣",
             "imageurl": "images/constellation/10000090-c4.png",
             "DescriptionEN": "After using Ring of Bursting Grenades, the CD for Chevreuse using Hold Short-Range Rapid Interdiction Fire is decreased by 100%. This effect is removed after Short-Range Rapid Interdiction Fire has been fired twice using Hold or after 6s.",
             "DescriptionCN": "施放圆阵掷弹爆轰术后，夏沃蕾长按施放近迫式急促拦射的冷却时间降低100%，该效果至多持续6秒，将在长按施放近迫式急促拦射2次后移除。",
-            "DescriptionJP": "円形バースト爆轟術発動後、シュヴルーズがショートレンジラピッド阻止射撃を長押しで発動する時のクールタイム-100%。この効果は最大で6秒間持続でき、ショートレンジラピッド阻止射撃を2回長押しで発動した後に解除される。JP0B"
+            "DescriptionJP": "円形バースト爆轟術発動後、シュヴルーズが近迫阻止射撃·速を長押しで発動する時のクールタイム-100%。この効果は最大で6秒間持続でき、近迫阻止射撃·速を2回長押しで発動した後に解除される。"
         },
         {
             "level": 5,
             "ENname": "Enhanced Incendiary Firepower",
             "CNname": "增量火力的毁伤",
-            "JAname": "火力強化の毀損JP0B",
+            "JAname": "火力増幅の毀傷",
             "imageurl": "images/constellation/10000090-c5.png",
             "DescriptionEN": "Increases the Level of Ring of Bursting Grenades by 3. Maximum upgrade level is 15.",
             "DescriptionCN": "圆阵掷弹爆轰术的技能等级提高3级。 至多提升至15级。",
-            "DescriptionJP": "円形バースト爆轟術のスキルLv.+3。 最大Lv.15まで。JP0B"
+            "DescriptionJP": "円形バースト爆轟術のスキルLv.+3。 最大Lv.15まで。"
         },
         {
             "level": 6,
             "ENname": "In Pursuit of Ending Evil",
             "CNname": "终结罪恶的追缉",
-            "JAname": "罪悪終結の追捕JP0B",
+            "JAname": "罪過終止の追捕",
             "imageurl": "images/constellation/10000090-c6.png",
             "DescriptionEN": "After 12s of the healing effect from Short-Range Rapid Interdiction Fire, all nearby party members recover HP equivalent to 10% of Chevreuse's Max HP. After a party member is healed by Short-Range Rapid Interdiction Fire, they gain a 20% Pyro DMG Bonus and Electro DMG Bonus for 8s. Max 3 stacks. Each stack's duration is counted independently.",
             "DescriptionCN": "近迫式急促拦射的治疗效果持续12秒后，将为队伍中附近的所有角色恢复生命值，回复量相当于夏沃蕾生命值上限的10%。 队伍中的角色受到「近迫式急促拦射」的治疗后，获得20%火元素伤害加成与雷元素伤害加成，持续8秒，此效果至多叠加3层，每层独立计算持续时间。",
-            "DescriptionJP": "ショートレンジラピッド阻止射撃の治療効果が12秒継続した後、周囲のチーム全員のHPを回復し、回復量はシュヴルーズのHP上限の10%に相当する。 チームにいるキャラクターが「ショートレンジラピッド阻止射撃」の治療効果を受けた後、炎元素ダメージ+20%、雷元素ダメージ+20%、継続時間8秒。この効果は最大3層まで。層ごとに継続時間は独立して計算される。JP0B"
+            "DescriptionJP": "近迫阻止射撃·速の治療効果が12秒継続した後、周囲のチーム全員のHPを回復する。回復量はシュヴルーズのHP上限の10%に相当する。 チームにいるキャラクターが「近迫阻止射撃·速」の治療効果を受けた後、炎元素ダメージ+20%、雷元素ダメージ+20%、継続時間8秒。この効果は最大3層まで。層ごとに継続時間は独立して計算される。"
         }
     ]
 }
