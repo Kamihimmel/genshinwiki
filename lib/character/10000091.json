@@ -9,8 +9,8 @@
     "weapon": "claymore",
     "rarity": 5,
     "birthday": [
-        1,
-        1
+        8,
+        16
     ],
     "release": 1701468000,
     "leveldata": [
@@ -1336,9 +1336,9 @@
             "CNname": "典仪式晶火",
             "JAname": "セレモニアル·クリスタルショット",
             "imageurl": "images/talent/10000091-1.png",
-            "DescriptionEN": "When a character in the party obtains an Elemental Shard created from the Crystallize reaction, Navia will gain 1 Crystal Shrapnel charge. Navia can hold up to 6 charges of Crystal Shrapnel at once. Each time Crystal Shrapnel gain is triggered, the duration of the Shards you have already will be reset. When she fires, Navia will consume all Crystal Shrapnel charges and open her elegant yet lethal Gunbrella, firing multiple Rosula Shardshots that can penetrate opponents, dealing Geo DMG to opponents hit. When 0/1/2/3 or more charges of Crystal Shrapnel are consumed, 5/7/9/11 Rosula Shardshots will be fired respectively. The more Rosula Shardshots that strike a single opponent, the greater the DMG dealt to them. When all 11 Rosula Shardshots strike, they deal 200% of the original amount of DMG. In addition, when more than 3 charges of Crystal Shrapnel are consumed, every charge consumed beyond those 3 will increase the damage dealt by that shot by an additional 15%.  Hold Enter Aiming Mode, continually collecting Elemental Shards created by Crystallize reactions. When released, fire Rosula Shardshots with the same effect as when the skill is tapped.  Two initial uses.  Arkhe: Ousia Periodically, when Navia fires her Gunbrella, a Surging Blade will be summoned, dealing ousia-aligned Geo DMG.  \"Maintaining the appropriate distance with those whom distance should be maintained is an essential part of etiquette. Naturally, there are also many ways to do this...\"",
+            "DescriptionEN": "When a character in the party obtains an Elemental Shard created from the Crystallize reaction, Navia will gain 1 Crystal Shrapnel charge. Navia can hold up to 6 charges of Crystal Shrapnel at once. Each time Crystal Shrapnel gain is triggered, the duration of the Crystal Shrapnel charges you already have will be reset. When she fires, Navia will consume all Crystal Shrapnel charges and open her elegant yet lethal Gunbrella, firing multiple Rosula Shardshots that can penetrate opponents, dealing Geo DMG to opponents hit. When 0/1/2/3 or more charges of Crystal Shrapnel are consumed, 5/7/9/11 Rosula Shardshots will be fired respectively. The more Rosula Shardshots that strike a single opponent, the greater the DMG dealt to them. When all 11 Rosula Shardshots strike, 200% of the original amount of DMG is dealt. In addition, when more than 3 charges of Crystal Shrapnel are consumed, every charge consumed beyond those 3 will increase the damage dealt by this Gunbrella shot by an additional 15%.  Hold Enter Aiming Mode, continually collecting Elemental Shards created by Crystallize reactions. When released, fire Rosula Shardshots with the same effect as when the skill is Tapped.  Two initial uses.  Arkhe: Ousia Periodically, when Navia fires her Gunbrella, a Surging Blade will be summoned, dealing Ousia-aligned Geo DMG.  \"Maintaining the appropriate distance with those whom distance should be maintained is an essential part of etiquette. Naturally, there are also many ways to do this...\"",
             "DescriptionCN": "队伍中的角色获取结晶反应产生的晶片时，将为娜维娅积攒1枚「裂晶弹片」，至多积攒6枚「裂晶弹片」，每次触发都会刷新已有的「裂晶弹片」持续时间。 施放时，娜维娅将消耗所有的「裂晶弹片」，展开优雅而致命的铳柄伞，打出多枚能够穿透敌人的「玫瑰晶弹」，对命中的敌人造成岩元素伤害。 消耗0/1/2/3枚及以上的「裂晶弹片」时，将分别打出5/7/9/11枚「玫瑰晶弹」。命中同一个敌人的「玫瑰晶弹」越多，对这名敌人造成的伤害越高；11枚「玫瑰晶弹」全部命中时，将造成原本200%的伤害。 此外，消耗的「裂晶弹片」超过3枚时，超过3枚的每枚「裂晶弹片」都将使本次射击造成的伤害额外提升15%。  长按 进入瞄准状态，持续获取附近的结晶反应产生的晶片，并在结束长按时打出与点按相同的「玫瑰晶弹」。  初始拥有2次可用次数。  始基力：荒性 每隔一段时间，娜维娅以铳柄伞进行射击时，将唤出流涌之刃，造成具有荒性的岩元素伤害。  「对应保持距离的人保持应有的距离，也是社交礼仪的一部分，不过，手段毕竟也有很多种啦…」",
-            "DescriptionJP": "チームにいるキャラクターが結晶反応による結晶の欠片を獲得した時、ナヴィアは「裂晶の欠片」を1個獲得する。「裂晶の欠片」は最大6個まで所持可能。獲得するたびに、所持している「裂晶の欠片」の継続時間を更新する。 スキル発動時、すべての「裂晶の欠片」を消費して優雅で致命的なガンブレラを展開する。そして敵を貫く「ロースラ晶弾」を複数枚発射し、命中した敵に岩元素ダメージを与える。 「裂晶の欠片」を0/1/2/3個、またはそれ以上消費した時、発射される「ロースラ晶弾」は5/7/9/11枚となる。同じ敵に命中した「ロースラ晶弾」の枚数が多いほど、命中した敵に与えるダメージがアップする。11枚の「ロースラ晶弾」がすべて命中した時、本来の200%分のダメージを与える。 また、消費した「裂晶の欠片」が3個を超えている場合、超過した「裂晶の欠片」1個につき、この攻撃によるダメージがさらに+15%アップする。  長押し 照準モードに入り、一定範囲内の、結晶反応による結晶の欠片を吸収する。長押し終了時、一回押しの時と同じ「ロースラ晶弾」を発射する。  初期使用可能回数2回。  アルケー：ウーシア ナヴィアがガンブレラで射撃を行う時、迸発の刃を召喚し、ウーシアを帯びた岩元素ダメージを与える、一定間隔ごとに発動が可能。  「距離を置くべき相手に、適切な距離を保つことも、社交儀礼の一部よ。ただ…まあ、やり方はいろいろあるけどね…」",
+            "DescriptionJP": "チームにいるキャラクターが結晶反応による結晶の欠片を獲得した時、ナヴィアは「裂晶の欠片」を1個獲得する。「裂晶の欠片」は最大6個まで所持可能。獲得するたびに、所持している「裂晶の欠片」の継続時間を更新する。 スキル発動時、すべての「裂晶の欠片」を消費して優雅で致命的なガンブレラを展開する。そして敵を貫く「ロースラ晶弾」を多数発射して、命中した敵に岩元素ダメージを与える。 「裂晶の欠片」を0/1/2/3個、またはそれ以上消費した時、発射される「ロースラ晶弾」は5/7/9/11発となる。「ロースラ晶弾」が同じ敵に命中するほど、その敵に与えるダメージがアップする。11発の「ロースラ晶弾」がすべて命中した時、本来の200%分のダメージを与える。 また、消費した「裂晶の欠片」が3個を超えている場合、超過した「裂晶の欠片」1個につき、該当の攻撃によるダメージがさらに+15%アップする。  長押し 照準モードに入り、一定範囲内にある結晶反応で生じた結晶の欠片を吸収する。長押し終了時、一回押しの時と同じ「ロースラ晶弾」を発射する。  初期使用可能回数2回。  アルケー：ウーシア ナヴィアがガンブレラで射撃を行う時、迸発の刃を召喚し、ウーシアを帯びた岩元素ダメージを与える、一定間隔ごとに発動が可能。  「距離を置くべき相手に、適切な距離を保つことも、社交儀礼の一部よ。ただ…まあ、やり方はいろいろあるけどね…」",
             "cooldown": 9,
             "cost": 0,
             "type": "combat",
@@ -2538,9 +2538,9 @@
             "CNname": "如霰澄天的鸣礼",
             "JAname": "晴天を衝く霰弾のサルート",
             "imageurl": "images/talent/10000091-3.png",
-            "DescriptionEN": "On the orders of the President of the Spina di Rosula, call for a magnificent Golden Rose's Salute. Unleashes a massive bombardment on opponents in front of her, dealing AoE Geo DMG and providing Fire Support for a duration afterward, periodically dealing Geo DMG to nearby opponents. When attacks from Golden Rose's Salute hit opponents, Navia will gain 1 charge of Crystal Shrapnel. This effect can be triggered up to once every 2.4s.  \"The Spina di Rosula's salute is a preemptive celebration of the successful conclusion of our negotiations and is fired just before talks begin. Don't misunderstand, it isn't in any way, shape, or form some kind of threat.\"",
-            "DescriptionCN": "以刺玫会会长之令，召唤华丽的「金花礼炮」，猛烈轰击前方的敌人，造成岩元素范围伤害，并在接下来的一段时间内持续进行「支援炮击」，间歇性对附近的敌人造成岩元素伤害。 「金花礼炮」的炮击命中敌人时，将为娜维娅积攒1枚「裂晶弹片」，此效果每2.4秒至多触发一次。  「刺玫会的礼炮，会为了预先庆祝谈判成功而在谈判前稍稍开火，别误会，一点都没有威吓的意思哦。」",
-            "DescriptionJP": "棘薔薇の会の会長命令をもって、華麗なる「金薔薇の礼砲」を召喚し、前方の敵を激しく砲撃して岩元素範囲ダメージを与える。さらに一定時間持続する「火力支援」を行い、一定時間ごとに、付近の敵に岩元素ダメージを与える。 「金薔薇の礼砲」の砲撃が敵に命中した時、ナヴィアは「裂晶の欠片」を1個獲得する。この効果は2.4秒毎に1回のみ発動可能。  「棘薔薇の会の礼砲は、交渉の成立を事前に祝うために、交渉の前にちょっとだけ発砲するの。あ、勘違いしないでね、威嚇の意味はまったくないから。」",
+            "DescriptionEN": "On the orders of the President of the Spina di Rosula, call for a magnificent Rosula Dorata Salute. Unleashes a massive cannon bombardment on opponents in front of her, dealing AoE Geo DMG and providing Cannon Fire Support for a duration afterward, periodically dealing Geo DMG to nearby opponents. When cannon attacks hit opponents, Navia will gain 1 charge of Crystal Shrapnel. This effect can be triggered up to once every 2.4s.  \"The Spina di Rosula's salute is a preemptive celebration of the successful conclusion of our negotiations and is fired just before talks begin. Don't misunderstand, it isn't in any way, shape, or form some kind of threat.\"",
+            "DescriptionCN": "以刺玫会会长之令，召唤华丽的「金花礼炮」，猛烈炮击前方的敌人，造成岩元素范围伤害，并在接下来的一段时间内持续进行「支援炮击」，间歇性对附近的敌人造成岩元素伤害。 炮击命中敌人时，将为娜维娅积攒1枚「裂晶弹片」，此效果每2.4秒至多触发一次。  「刺玫会的礼炮，会为了预先庆祝谈判成功而在谈判前稍稍开火，别误会，一点都没有威吓的意思哦。」",
+            "DescriptionJP": "棘薔薇の会の会長命令をもって、華麗なる「金薔薇の礼砲」を召喚し、前方の敵を激しく砲撃して岩元素範囲ダメージを与える。さらに一定時間持続する「火力支援」を行い、一定時間ごとに付近の敵に岩元素ダメージを与える。 砲撃が敵に命中した時、ナヴィアは「裂晶の欠片」を1個獲得する。この効果は2.4秒毎に1回のみ発動可能。  「棘薔薇の会の礼砲は、交渉の成立を事前に祝うために、交渉の前にちょっとだけ発砲するの。あ、勘違いしないでね、威嚇の意味はまったくないから。」",
             "cooldown": 15,
             "cost": 60,
             "type": "combat",
@@ -2551,8 +2551,8 @@
                     "level": 1,
                     "DescriptionEN": [
                         "Skill DMG|{param1:F1P}",
-                        "Fire Support DMG|{param2:F1P}",
-                        "Fire Support Duration|{param3:F1}s",
+                        "Cannon Fire Support DMG|{param2:F1P}",
+                        "Cannon Fire Support Duration|{param3:F1}s",
                         "CD|{param4:F1}s",
                         "Energy Cost|{param5:I}",
                         "",
@@ -2630,8 +2630,8 @@
                     "level": 2,
                     "DescriptionEN": [
                         "Skill DMG|{param1:F1P}",
-                        "Fire Support DMG|{param2:F1P}",
-                        "Fire Support Duration|{param3:F1}s",
+                        "Cannon Fire Support DMG|{param2:F1P}",
+                        "Cannon Fire Support Duration|{param3:F1}s",
                         "CD|{param4:F1}s",
                         "Energy Cost|{param5:I}",
                         "",
@@ -2709,8 +2709,8 @@
                     "level": 3,
                     "DescriptionEN": [
                         "Skill DMG|{param1:F1P}",
-                        "Fire Support DMG|{param2:F1P}",
-                        "Fire Support Duration|{param3:F1}s",
+                        "Cannon Fire Support DMG|{param2:F1P}",
+                        "Cannon Fire Support Duration|{param3:F1}s",
                         "CD|{param4:F1}s",
                         "Energy Cost|{param5:I}",
                         "",
@@ -2788,8 +2788,8 @@
                     "level": 4,
                     "DescriptionEN": [
                         "Skill DMG|{param1:F1P}",
-                        "Fire Support DMG|{param2:F1P}",
-                        "Fire Support Duration|{param3:F1}s",
+                        "Cannon Fire Support DMG|{param2:F1P}",
+                        "Cannon Fire Support Duration|{param3:F1}s",
                         "CD|{param4:F1}s",
                         "Energy Cost|{param5:I}",
                         "",
@@ -2867,8 +2867,8 @@
                     "level": 5,
                     "DescriptionEN": [
                         "Skill DMG|{param1:F1P}",
-                        "Fire Support DMG|{param2:F1P}",
-                        "Fire Support Duration|{param3:F1}s",
+                        "Cannon Fire Support DMG|{param2:F1P}",
+                        "Cannon Fire Support Duration|{param3:F1}s",
                         "CD|{param4:F1}s",
                         "Energy Cost|{param5:I}",
                         "",
@@ -2946,8 +2946,8 @@
                     "level": 6,
                     "DescriptionEN": [
                         "Skill DMG|{param1:F1P}",
-                        "Fire Support DMG|{param2:F1P}",
-                        "Fire Support Duration|{param3:F1}s",
+                        "Cannon Fire Support DMG|{param2:F1P}",
+                        "Cannon Fire Support Duration|{param3:F1}s",
                         "CD|{param4:F1}s",
                         "Energy Cost|{param5:I}",
                         "",
@@ -3025,8 +3025,8 @@
                     "level": 7,
                     "DescriptionEN": [
                         "Skill DMG|{param1:F1P}",
-                        "Fire Support DMG|{param2:F1P}",
-                        "Fire Support Duration|{param3:F1}s",
+                        "Cannon Fire Support DMG|{param2:F1P}",
+                        "Cannon Fire Support Duration|{param3:F1}s",
                         "CD|{param4:F1}s",
                         "Energy Cost|{param5:I}",
                         "",
@@ -3104,8 +3104,8 @@
                     "level": 8,
                     "DescriptionEN": [
                         "Skill DMG|{param1:F1P}",
-                        "Fire Support DMG|{param2:F1P}",
-                        "Fire Support Duration|{param3:F1}s",
+                        "Cannon Fire Support DMG|{param2:F1P}",
+                        "Cannon Fire Support Duration|{param3:F1}s",
                         "CD|{param4:F1}s",
                         "Energy Cost|{param5:I}",
                         "",
@@ -3183,8 +3183,8 @@
                     "level": 9,
                     "DescriptionEN": [
                         "Skill DMG|{param1:F1P}",
-                        "Fire Support DMG|{param2:F1P}",
-                        "Fire Support Duration|{param3:F1}s",
+                        "Cannon Fire Support DMG|{param2:F1P}",
+                        "Cannon Fire Support Duration|{param3:F1}s",
                         "CD|{param4:F1}s",
                         "Energy Cost|{param5:I}",
                         "",
@@ -3262,8 +3262,8 @@
                     "level": 10,
                     "DescriptionEN": [
                         "Skill DMG|{param1:F1P}",
-                        "Fire Support DMG|{param2:F1P}",
-                        "Fire Support Duration|{param3:F1}s",
+                        "Cannon Fire Support DMG|{param2:F1P}",
+                        "Cannon Fire Support Duration|{param3:F1}s",
                         "CD|{param4:F1}s",
                         "Energy Cost|{param5:I}",
                         "",
@@ -3341,8 +3341,8 @@
                     "level": 11,
                     "DescriptionEN": [
                         "Skill DMG|{param1:F1P}",
-                        "Fire Support DMG|{param2:F1P}",
-                        "Fire Support Duration|{param3:F1}s",
+                        "Cannon Fire Support DMG|{param2:F1P}",
+                        "Cannon Fire Support Duration|{param3:F1}s",
                         "CD|{param4:F1}s",
                         "Energy Cost|{param5:I}",
                         "",
@@ -3420,8 +3420,8 @@
                     "level": 12,
                     "DescriptionEN": [
                         "Skill DMG|{param1:F1P}",
-                        "Fire Support DMG|{param2:F1P}",
-                        "Fire Support Duration|{param3:F1}s",
+                        "Cannon Fire Support DMG|{param2:F1P}",
+                        "Cannon Fire Support Duration|{param3:F1}s",
                         "CD|{param4:F1}s",
                         "Energy Cost|{param5:I}",
                         "",
@@ -3499,8 +3499,8 @@
                     "level": 13,
                     "DescriptionEN": [
                         "Skill DMG|{param1:F1P}",
-                        "Fire Support DMG|{param2:F1P}",
-                        "Fire Support Duration|{param3:F1}s",
+                        "Cannon Fire Support DMG|{param2:F1P}",
+                        "Cannon Fire Support Duration|{param3:F1}s",
                         "CD|{param4:F1}s",
                         "Energy Cost|{param5:I}",
                         "",
@@ -3578,8 +3578,8 @@
                     "level": 14,
                     "DescriptionEN": [
                         "Skill DMG|{param1:F1P}",
-                        "Fire Support DMG|{param2:F1P}",
-                        "Fire Support Duration|{param3:F1}s",
+                        "Cannon Fire Support DMG|{param2:F1P}",
+                        "Cannon Fire Support Duration|{param3:F1}s",
                         "CD|{param4:F1}s",
                         "Energy Cost|{param5:I}",
                         "",
@@ -3657,8 +3657,8 @@
                     "level": 15,
                     "DescriptionEN": [
                         "Skill DMG|{param1:F1P}",
-                        "Fire Support DMG|{param2:F1P}",
-                        "Fire Support Duration|{param3:F1}s",
+                        "Cannon Fire Support DMG|{param2:F1P}",
+                        "Cannon Fire Support Duration|{param3:F1}s",
                         "CD|{param4:F1}s",
                         "Energy Cost|{param5:I}",
                         "",
@@ -3790,9 +3790,9 @@
             "CNname": "淑女的距离感守则",
             "JAname": "淑女の距離感",
             "imageurl": "images/constellation/10000091-c1.png",
-            "DescriptionEN": "Each charge of Crystal Shrapnel consumed when Navia uses Ceremonial Crystalshot will restore 2 Energy to her and decrease the CD of As the Sunlit Sky's Singing Salute by 1s. Up to 6 Energy can be gained this way, and the CD of \"As the Sunlit Sky's Singing Salute\" can be decreased by up to 3s.",
+            "DescriptionEN": "Each charge of Crystal Shrapnel consumed when Navia uses Ceremonial Crystalshot will restore 3 Energy to her and decrease the CD of As the Sunlit Sky's Singing Salute by 1s. Up to 9 Energy can be gained this way, and the CD of \"As the Sunlit Sky's Singing Salute\" can be decreased by up to 3s.",
             "DescriptionCN": "施放典仪式晶火时，每消耗1枚「裂晶弹片」，都将为娜维娅恢复3点元素能量，并使如霰澄天的鸣礼的冷却时间减少1秒。至多通过这种方式恢复9点元素能量，使「如霰澄天的鸣礼」的冷却时间减少3秒。",
-            "DescriptionJP": "セレモニアル·クリスタルショット発動時、「裂晶の欠片」を1個消費するごとに、ナヴィアは元素エネルギーを2回復し、晴天を衝く霰弾のサルートのクールタイム-1秒。この方法での元素エネルギー回復は最大6ポイント、短縮できるクールタイムは最大3秒まで。"
+            "DescriptionJP": "セレモニアル·クリスタルショット発動時、「裂晶の欠片」を1個消費するごとに、ナヴィアは元素エネルギーを3ポイント回復し、晴天を衝く霰弾のサルートのクールタイム-1秒。この方法による元素エネルギー回復は最大9ポイント、短縮できるクールタイムは最大3秒まで。"
         },
         {
             "level": 2,
@@ -3800,9 +3800,9 @@
             "CNname": "总指挥的乘胜追击",
             "JAname": "司令塔の追撃",
             "imageurl": "images/constellation/10000091-c2.png",
-            "DescriptionEN": "The CRIT Rate of Ceremonial Crystalshot is increased by 8% for each charge of Crystal Shrapnel consumed. CRIT Rate can be increased by up to 24% in this way. In addition, when Ceremonial Crystalshot hits an opponent, one shot of Fire Support from As the Sunlit Sky's Singing Salute will strike near the location of the hit. Up to one instance of Fire Support can be triggered each time Ceremonial Crystalshot is used, and DMG dealt by Fire Support in this way is considered Elemental Burst DMG.",
+            "DescriptionEN": "Each charge of Crystal Shrapnel consumed will increase the CRIT Rate of this Ceremonial Crystalshot instance by 12%. CRIT Rate can be increased by up to 36% in this way. In addition, when Ceremonial Crystalshot hits an opponent, one Cannon Fire Support shot from As the Sunlit Sky's Singing Salute will strike near the location of the hit. Up to one instance of Cannon Fire Support can be triggered each time Ceremonial Crystalshot is used, and DMG dealt by said Cannon Fire Support this way is considered Elemental Burst DMG.",
             "DescriptionCN": "施放典仪式晶火时，每消耗1枚「裂晶弹片」，都将使本次典仪式晶火的暴击率提升12%，至多通过这种方式使其暴击率提高36%。 此外，典仪式晶火的射击命中敌人时，将在命中的敌人附近降下一次如霰澄天的鸣礼的「支援炮击」。每次施放典仪式晶火至多降下一次支援炮击，通过这种方式触发的支援炮击的伤害视为元素爆发伤害。",
-            "DescriptionJP": "セレモニアル·クリスタルショット発動時、「裂晶の欠片」を1個消費するごとに、今回のセレモニアル·クリスタルショットの会心率+8%。この方法でアップできる会心率は最大24%まで。 また、セレモニアル·クリスタルショットが敵に命中した時、命中した敵の付近に晴天を衝く霰弾のサルートの「火力支援」を1回行う。セレモニアル·クリスタルショット1回につき、発動する「火力支援」は1回まで。この方法によって発動する「火力支援」のダメージは元素爆発ダメージと見なされる。"
+            "DescriptionJP": "セレモニアル·クリスタルショット発動時、「裂晶の欠片」を1個消費するごとに、今回のセレモニアル·クリスタルショットの会心率+12%。この方法でアップできる会心率は最大36%まで。 また、セレモニアル·クリスタルショットが敵に命中した時、命中した敵の付近に晴天を衝く霰弾のサルートの「火力支援」を1回行う。セレモニアル·クリスタルショット1回につき、発動する「火力支援」は1回まで。この方法によって発動した「火力支援」のダメージは元素爆発ダメージと見なされる。"
         },
         {
             "level": 3,
@@ -3840,9 +3840,9 @@
             "CNname": "刺玫会长的灵活手腕",
             "JAname": "棘薔薇会長の巧妙なる手腕",
             "imageurl": "images/constellation/10000091-c6.png",
-            "DescriptionEN": "If more than 3 charges of Crystal Shrapnel are consumed when using Ceremonial Crystalshot, each charge consumed beyond the first 3 increases the CRIT DMG of that Ceremonial Crystalshot by 35%, and any charges consumed beyond the first 3 are returned to Navia.",
+            "DescriptionEN": "If more than 3 charges of Crystal Shrapnel are consumed when using Ceremonial Crystalshot, each charge consumed beyond the first 3 increases the CRIT DMG of that Ceremonial Crystalshot by 45%, and any charges consumed beyond the first 3 are returned to Navia.",
             "DescriptionCN": "施放典仪式晶火时，若消耗的「裂晶弹片」超过3枚，超过3枚的每枚「裂晶弹片」都将使本次典仪式晶火的暴击伤害提升45%，且消耗的超过3枚的部分将在施放后返还。",
-            "DescriptionJP": "セレモニアル·クリスタルショット発動時、消費した「裂晶の欠片」が3個を超えている場合、超えた分1個につき、今回のセレモニアル·クリスタルショットの会心ダメージ+35%。さらに、超えた分の「裂晶の欠片」は発動後に返還される。"
+            "DescriptionJP": "セレモニアル·クリスタルショット発動時、消費した「裂晶の欠片」が3個を超えている場合、超えた分1個につき、今回のセレモニアル·クリスタルショットの会心ダメージ+45%。さらに、超えた分の「裂晶の欠片」は発動後に返還される。"
         }
     ]
 }
