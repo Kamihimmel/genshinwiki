@@ -136,7 +136,7 @@
             "imageurl": "images/talent/10000088-0.png",
             "DescriptionEN": "Normal Attack Taking aim at targets using Monsieur Verite, her custom Kamera, Charlotte performs up to 3 consecutive attacks, dealing Cryo DMG.  Charged Attack Consumes a fixed amount of Stamina, and after a moment's preparation, will deploy Monsieur Verite to deal AoE Cryo DMG.  Plunging Attack Gathering the power of Cryo, Charlotte plunges toward the ground, dealing DMG to all opponents in her path and dealing AoE Cryo DMG upon landing.  Arkhe: Pneuma At certain intervals, upon using a Charged Attack, Charlotte will cause a Spiritbreath Thorn to descend and pierce opponents, dealing Pneuma-aligned AoE Cryo DMG.",
             "DescriptionCN": "普通攻击 以特制留影机「温亨廷先生」瞄准目标，进行至多三段的攻击，造成冰元素伤害。  重击 消耗一定体力，短暂准备后，部署「温亨廷先生」，造成冰元素范围伤害。  下落攻击 凝聚冰元素的力量，从空中下坠冲击地面，攻击下落路径上的敌人，并在落地时造成冰元素范围伤害。  始基力：芒性 每隔一段时间，夏洛蒂施放重击后，将降下穿透敌人的灵息之刺，造成具有芒性的冰元素范围伤害。",
-            "DescriptionJP": "通常攻撃 特製の写真機「ヴェリテくん」で目標に狙いを定めて最大3段の攻撃を行い、氷元素ダメージを与える。  重撃 一定のスタミナを消費し、一瞬構えた後、「ヴェリテくん」をセットして氷元素範囲ダメージを与える。  落下攻撃 氷元素の力を凝集させながら空中から落下し、地面に衝撃を与える。経路上の敵を攻撃するとともに、落下時に氷元素範囲ダメージを与える。  アルケー：プネウマ シャルロットが重撃を発動すると、敵を貫く霊息の棘が生成され、プネウマを帯びた氷元素範囲ダメージを与える、一定間隔ごとに発動が可能。",
+            "DescriptionJP": "通常攻撃 特製の写真機「ヴェリテくん」で目標に狙いを定めて最大3段の攻撃を行い、氷元素ダメージを与える。  重撃 一定のスタミナを消費し、一瞬構えた後、「ヴェリテくん」をセットして氷元素範囲ダメージを与える。  落下攻撃 氷元素の力を凝集させながら空中から落下し、地面に衝撃を与える。経路上の敵を攻撃するとともに、落下時に氷元素範囲ダメージを与える。  アルケー：プネウマ シャルロットが重撃を発動すると、敵を貫く霊息の棘が生成され、プネウマを帯びた氷元素範囲ダメージを与える。一定時間ごとに発動が可能。",
             "cooldown": 0,
             "cost": 0,
             "type": "combat",
@@ -1338,7 +1338,7 @@
             "imageurl": "images/talent/10000088-1.png",
             "DescriptionEN": "Using the keen instincts of an ace reporter, Charlotte uses her photography skills to produce different effects based on whether the ability is Tapped or Held.  Tap Takes a snapshot using Monsieur Verite, dealing AoE Cryo DMG to opponents in front of her and applying Snappy Silhouette to a maximum of 5 opponents. During this effect's duration, it will deal Cryo DMG to affected opponents at intervals.  Hold Popping Monsieur Verite's viewfinder open, Charlotte enters Composition Mode, and during this time, the viewfinder will expand as you hold until you reach a Finisher Frame state. In this state, Charlotte can move and change direction freely. When the hold state ends, Monsieur Verite will deal Cryo DMG to all opponents locked on within the viewfinder, and apply the same Snappy Silhouette as Tap Mode does to them. If you unleash this ability only after reaching Finisher Frame, you will instead apply Focused Impression, which lasts longer and deals more DMG, although the Skill CD will be longer. Composition Mode lasts a maximum of 15s and allows a maximum of 5 opponents to be selected.  \"Press photography requires simple shots with exceptional theming, but most of all, you need to have a knack for capturing the moment!\"",
             "DescriptionCN": "凝聚王牌记者的锐意，尽情施展摄影技巧，依据点按、长按，以不同的方式产生效果。  点按 以「温亨廷先生」施展利落的抓拍，对前方的敌人造成冰元素范围伤害，并对命中的至多5名敌人施加「瞬时剪影」。持续期间，「瞬时剪影」将间歇性对敌人造成冰元素伤害。  长按 打开「温亨廷先生」的取景框，进入构图状态，取景框将在长按期间逐渐扩张到最大画幅。在这种状态下，夏洛蒂能够进行移动与改变朝向。 长按结束时，「温亨廷先生」将对取景框内锁定的敌人造成冰元素伤害，并为其施加与点按相同的「瞬时剪影」；若在取景框达到最大画幅后施放技能，将转为施加持续时间更长、伤害更高的「聚焦印象」，并使本次技能的冷却时间更长。 构图状态至多持续15秒，至多选定5名敌人。  「新闻留影讲究一个画面简洁，主题突出，不过最关键的，还是要有能抓住动人时刻的天赋！」",
-            "DescriptionJP": "エース記者として精神を集中させ、撮影テクニックを存分に披露する。一回押しと長押しによって発動効果が変わる。  一回押し 「ヴェリテくん」による迅速なスナップショットを繰り出し、前方の敵に氷元素範囲ダメージを与え、命中した最大5体の敵に「スナップシルエット」を付与する。継続時間中、「スナップシルエット」は一定間隔で敵に氷元素ダメージを与える。  長押し 「ヴェリテくん」のファインダーを覗き、構図モードに入る。長押し中、ファインダーは徐々に最大画角まで拡大していく。この状態の時、シャルロットは移動と向きを調整できる。 長押し終了時、「ヴェリテくん」はファインダーで捕捉した敵に氷元素ダメージを与え、一回押しの時と同じ「スナップシルエット」を付与する。ただし、ファインダーが最大画角に達した後に長押しを終了してスキルを発動した場合は、より長く持続し、より大きなダメージを与える「フォーカスインプレッション」を代わりに付与する。この時、スキルのクールタイムはより長くなる。 構図モードは最大15秒間持続し、最大5体の敵を捕捉可能。  「新聞に使う写真は、シンプルな構図と際立ったテーマが重要なの。でも一番肝心なのはやっぱり、心躍らせる瞬間を捉える才能ね！」",
+            "DescriptionJP": "エース記者として精神を集中させ、撮影テクニックを存分に披露する。一回押しと長押しによって発動効果が変わる。  一回押し 「ヴェリテくん」による迅速なスナップショットを繰り出し、前方の敵に氷元素範囲ダメージを与え、命中した最大5体の敵に「スナップシルエット」を付与する。継続時間中、「スナップシルエット」は一定時間ごとに敵に氷元素ダメージを与える。  長押し 「ヴェリテくん」のファインダーを覗き、構図モードに入る。長押し中、ファインダーは徐々に最大画角まで拡大していく。この状態の時、シャルロットは移動と向きを調整できる。 長押し終了時、「ヴェリテくん」はファインダーで捕捉した敵に氷元素ダメージを与え、一回押しの時と同じ「スナップシルエット」を付与する。ただし、ファインダーが最大画角に達した後に長押しを終了してスキルを発動した場合は、より長く持続し、より大きなダメージを与える「フォーカスインプレッション」を代わりに付与する。この時、スキルのクールタイムはより長くなる。 構図モードは最大15秒間持続し、最大5体の敵を捕捉可能。  「新聞に使う写真は、シンプルな構図と際立ったテーマが重要なの。でも一番肝心なのはやっぱり、心躍らせる瞬間を捉える才能ね！」",
             "cooldown": 12,
             "cost": 0,
             "type": "combat",
@@ -3802,7 +3802,7 @@
             "imageurl": "images/constellation/10000088-c2.png",
             "DescriptionEN": "When using Framing: Freezing Point Composition, when Monsieur Verite hits 1/2/3 (or more) opponents, Charlotte's own ATK will be increased by 10%/20%/30% for 12s.",
             "DescriptionCN": "施放取景·冰点构图法时，「温亨廷先生」的攻击命中了1/2/3及以上名敌人时，夏洛蒂自身的攻击力提升10%/20%/30%，持续12秒。",
-            "DescriptionJP": "フレーミング·氷点法発動時、「ヴェリテくん」の攻撃が1/2/3体、またはそれ以上の敵に命中すると、シャルロットの攻撃力はそれぞれ+10%/20%/30%となる。継続時間12秒。"
+            "DescriptionJP": "フレーミング·氷点法発動時、「ヴェリテくん」の攻撃が1/2/3体以上の敵に命中すると、シャルロットの攻撃力はそれぞれ+10%/20%/30%となる。継続時間12秒。"
         },
         {
             "level": 3,

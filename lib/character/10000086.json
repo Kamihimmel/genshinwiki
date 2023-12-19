@@ -3758,7 +3758,7 @@
             "imageurl": "images/talent/10000086-5.png",
             "DescriptionEN": "When Wriothesley's current HP increases or decreases, if he is in the Chilling Penalty state conferred by Icefang Rush, Chilling Penalty will gain one stack of Prosecution Edict. Max 5 stacks. Each stack will increase Wriothesley's ATK by 6%.",
             "DescriptionCN": "莱欧斯利的当前生命值提升或降低时，若莱欧斯利处于冰牙突驰的寒烈的惩裁状态下，寒烈的惩裁将获得一层「检偿之敕」效果，该效果至多叠加至5层，每层使莱欧斯利的攻击力提升6%。",
-            "DescriptionJP": "リオセスリの現在のHPが増える、または減る時、リオセスリがアイスファング·ラッシュによる烈霜の懲戒状態にある場合、「抵罪の赦免」効果を1層獲得する。この効果は最大5層まで重ね掛けでき、1層につきリオセスリの攻撃力+6%。",
+            "DescriptionJP": "リオセスリの現在HPが増減する時、リオセスリがアイスファング·ラッシュによる烈霜の懲戒状態にある場合、「抵罪の赦免」効果を1層獲得する。この効果は最大5層まで重ね掛けでき、1層につきリオセスリの攻撃力+6%。",
             "cooldown": 0,
             "cost": 0,
             "type": "passive",
