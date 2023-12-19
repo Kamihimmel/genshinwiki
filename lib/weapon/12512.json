@@ -108,11 +108,11 @@
             "id": "112512",
             "name": "Many Oaths of Dawn and Dusk",
             "upgrade": {
-                "0": "Increases ATK by 20%. When characters in your party obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 18%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.",
-                "1": "Increases ATK by 25%. When characters in your party obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 22.5%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.",
-                "2": "Increases ATK by 30%. When characters in your party obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 27%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.",
-                "3": "Increases ATK by 35%. When characters in your party obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 31.5%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.",
-                "4": "Increases ATK by 40%. When characters in your party obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 36%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG."
+                "0": "Increases ATK by 20%. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 18%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.",
+                "1": "Increases ATK by 25%. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 22.5%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.",
+                "2": "Increases ATK by 30%. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 27%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.",
+                "3": "Increases ATK by 35%. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 31.5%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG.",
+                "4": "Increases ATK by 40%. When party members obtain Elemental Shards from Crystallize reactions, the equipping character will gain 1 Seal, increasing Elemental Skill DMG by 36%. The Seal lasts for 15s, and the equipper may have up to 2 Seals at once. All of the equipper's Seals will disappear 0.2s after their Elemental Skill deals DMG."
             }
         },
         "chs": {
@@ -128,7 +128,7 @@
         },
         "jp": {
             "id": "112512",
-            "name": "千の夜の誓約",
+            "name": "千の黄昏と暁の誓約",
             "upgrade": {
                 "0": "攻撃力+20%。チームにいるキャラクターが、結晶反応による結晶の欠片を獲得した時、装備者は「契印」を1枚獲得し、元素スキルのダメージ+18%。「契印」の継続時間は15秒、最大2枚まで。すべての「契印」は、装備者の元素スキルがダメージを与えた0.2秒後にクリアされる。",
                 "1": "攻撃力+25%。チームにいるキャラクターが、結晶反応による結晶の欠片を獲得した時、装備者は「契印」を1枚獲得し、元素スキルのダメージ+22.5%。「契印」の継続時間は15秒、最大2枚まで。すべての「契印」は、装備者の元素スキルがダメージを与えた0.2秒後にクリアされる。",
