@@ -25,7 +25,7 @@
             "ENname": "Forgotten Oath of Days Past",
             "CNname": "昔时遗落之誓",
             "JAname": "在りし日の遺失の契",
-            "DescriptionEN": "A flower in ever-bloom shaped from larimar and shimmering silver. They say that this is still viewed as a symbol of resistance.",
+            "DescriptionEN": "An ever-blooming flower shaped from larimar and shimmering silver. They say that this is still viewed as a symbol of resistance.",
             "DescriptionCN": "由海纹石与苍银打造而成的不凋花朵，据说至今依然被视为反抗者的象征。",
             "DescriptionJP": "海紋石と蒼銀で作られた枯れない花。今でも抵抗者の象徴とされているらしい。",
             "imageurl": "images/artifact/15033-bracer.png",
@@ -62,10 +62,10 @@
             "maxLevel": 17
         },
         "dress": {
-            "ENname": "Poem Passed Down from Days Past",
+            "ENname": "Poetry of Days Past",
             "CNname": "昔时传奏之诗",
             "JAname": "在りし日の伝奏の詩",
-            "DescriptionEN": "A formal hat that was once in vogue amongst creators of opera in Fontaine. Word has it that its feathered adornment was based on the legendary Lochknights' helms.",
+            "DescriptionEN": "A formal hat that was once in vogue amongst creators of opera in Fontaine. Word has it that its feathered adornment was based on the legendary helms of the Lochknights.",
             "DescriptionCN": "曾一度在枫丹的歌剧创作者之间流行的礼帽，据说羽饰的设计参考了传说中纯水骑士的盔缨。",
             "DescriptionJP": "かつてフォンテーヌの歌劇創作者の間で流行っていた礼帽。羽飾りのデザインは、伝説の純水騎士の兜のひもを参考にしたらしい。",
             "imageurl": "images/artifact/15033-dress.png",
