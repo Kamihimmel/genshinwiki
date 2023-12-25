@@ -1203,6 +1203,34 @@
             "spoiler": true,
             "supported": false,
             "order": 999
+        },
+        {
+            "id": "10000092",
+            "ENname": "Gaming",
+            "CNname": "嘉明",
+            "JAname": "嘉明",
+            "imageurl": "images/character/10000092.png",
+            "imagelargeurl": "images/character/10000092-large.png",
+            "rarity": 4,
+            "element": "fire",
+            "weapon": "claymore",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "10000093",
+            "ENname": "Xianyun",
+            "CNname": "闲云",
+            "JAname": "閑雲",
+            "imageurl": "images/character/10000093.png",
+            "imagelargeurl": "images/character/10000093-large.png",
+            "rarity": 5,
+            "element": "wind",
+            "weapon": "catalyst",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
         }
     ]
 }
