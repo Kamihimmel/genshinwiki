@@ -2161,6 +2161,18 @@
             "order": 999
         },
         {
+            "id": "14515",
+            "ENname": "Crane's Echoing Call",
+            "CNname": "鹤鸣余音",
+            "JAname": "鶴鳴の余韻",
+            "imageurl": "images/weapon/14515.png",
+            "rarity": 5,
+            "type": "catalyst",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
             "id": "15427",
             "ENname": "Range Gauge",
             "CNname": "测距规",
