@@ -108,11 +108,11 @@
             "id": "114515",
             "name": "Cloudfall Axiom",
             "upgrade": {
-                "0": "After the equipping character hits an opponent with a Plunging Attack, all nearby party members' Plunging Attacks deal 28% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 2.5 Energy to the equipping character. Energy can be restored this way every 0.7s.",
-                "1": "After the equipping character hits an opponent with a Plunging Attack, all nearby party members' Plunging Attacks deal 41% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 2.75 Energy to the equipping character. Energy can be restored this way every 0.7s.",
-                "2": "After the equipping character hits an opponent with a Plunging Attack, all nearby party members' Plunging Attacks deal 54% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 3 Energy to the equipping character. Energy can be restored this way every 0.7s.",
-                "3": "After the equipping character hits an opponent with a Plunging Attack, all nearby party members' Plunging Attacks deal 67% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 3.25 Energy to the equipping character. Energy can be restored this way every 0.7s.",
-                "4": "After the equipping character hits an opponent with a Plunging Attack, all nearby party members' Plunging Attacks deal 80% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 3.5 Energy to the equipping character. Energy can be restored this way every 0.7s."
+                "0": "After the equipping character hits an opponent with a Plunging Attack, all nearby party members' Plunging Attacks will deal 28% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 2.5 Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field.",
+                "1": "After the equipping character hits an opponent with a Plunging Attack, all nearby party members' Plunging Attacks will deal 41% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 2.75 Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field.",
+                "2": "After the equipping character hits an opponent with a Plunging Attack, all nearby party members' Plunging Attacks will deal 54% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 3 Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field.",
+                "3": "After the equipping character hits an opponent with a Plunging Attack, all nearby party members' Plunging Attacks will deal 67% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 3.25 Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field.",
+                "4": "After the equipping character hits an opponent with a Plunging Attack, all nearby party members' Plunging Attacks will deal 80% increased DMG for 20s. When nearby party members hit opponents with Plunging Attacks, they will restore 3.5 Energy to the equipping character. Energy can be restored this way every 0.7s. This energy regain effect can be triggered even if the equipping character is not on the field."
             }
         },
         "chs": {
@@ -130,11 +130,11 @@
             "id": "114515",
             "name": "雲笈降仙の奥義",
             "upgrade": {
-                "0": "装備者の落下攻撃が敵に命中すると、周囲のチーム全員の落下攻撃ダメージ+28%、継続時間20秒。周囲にいるチーム内のキャラクターの落下攻撃が敵に命中した時、装備者の元素エネルギーが2.5回復する。この方法による元素エネルギーの回復は、0.7秒毎に1回のみ可能。",
-                "1": "装備者の落下攻撃が敵に命中すると、周囲のチーム全員の落下攻撃ダメージ+41%、継続時間20秒。周囲にいるチーム内のキャラクターの落下攻撃が敵に命中した時、装備者の元素エネルギーが2.75回復する。この方法による元素エネルギーの回復は、0.7秒毎に1回のみ可能。",
-                "2": "装備者の落下攻撃が敵に命中すると、周囲のチーム全員の落下攻撃ダメージ+54%、継続時間20秒。周囲にいるチーム内のキャラクターの落下攻撃が敵に命中した時、装備者の元素エネルギーが3回復する。この方法による元素エネルギーの回復は、0.7秒毎に1回のみ可能。",
-                "3": "装備者の落下攻撃が敵に命中すると、周囲のチーム全員の落下攻撃ダメージ+67%、継続時間20秒。周囲にいるチーム内のキャラクターの落下攻撃が敵に命中した時、装備者の元素エネルギーが3.25回復する。この方法による元素エネルギーの回復は、0.7秒毎に1回のみ可能。",
-                "4": "装備者の落下攻撃が敵に命中すると、周囲のチーム全員の落下攻撃ダメージ+80%、継続時間20秒。周囲にいるチーム内のキャラクターの落下攻撃が敵に命中した時、装備者の元素エネルギーが3.5回復する。この方法による元素エネルギーの回復は、0.7秒毎に1回のみ可能。"
+                "0": "装備者の落下攻撃が敵に命中すると、周囲のチーム全員の落下攻撃ダメージ+28%、継続時間20秒。周囲のチーム全員の落下攻撃が敵に命中した時、装備者の元素エネルギーが2.5ポイント回復する。この方法による元素エネルギーの回復は、0.7秒毎に1回のみ可能で、装備したキャラクターが待機している場合にも発動できる。",
+                "1": "装備者の落下攻撃が敵に命中すると、周囲のチーム全員の落下攻撃ダメージ+41%、継続時間20秒。周囲のチーム全員の落下攻撃が敵に命中した時、装備者の元素エネルギーが2.75ポイント回復する。この方法による元素エネルギーの回復は、0.7秒毎に1回のみ可能で、装備したキャラクターが待機している場合にも発動できる。",
+                "2": "装備者の落下攻撃が敵に命中すると、周囲のチーム全員の落下攻撃ダメージ+54%、継続時間20秒。周囲のチーム全員の落下攻撃が敵に命中した時、装備者の元素エネルギーが3ポイント回復する。この方法による元素エネルギーの回復は、0.7秒毎に1回のみ可能で、装備したキャラクターが待機している場合にも発動できる。",
+                "3": "装備者の落下攻撃が敵に命中すると、周囲のチーム全員の落下攻撃ダメージ+67%、継続時間20秒。周囲のチーム全員の落下攻撃が敵に命中した時、装備者の元素エネルギーが3.25ポイント回復する。この方法による元素エネルギーの回復は、0.7秒毎に1回のみ可能で、装備したキャラクターが待機している場合にも発動できる。",
+                "4": "装備者の落下攻撃が敵に命中すると、周囲のチーム全員の落下攻撃ダメージ+80%、継続時間20秒。周囲のチーム全員の落下攻撃が敵に命中した時、装備者の元素エネルギーが3.5ポイント回復する。この方法による元素エネルギーの回復は、0.7秒毎に1回のみ可能で、装備したキャラクターが待機している場合にも発動できる。"
             }
         }
     }
