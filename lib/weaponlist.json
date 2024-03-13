@@ -2041,6 +2041,30 @@
             "order": 999
         },
         {
+            "id": "11514",
+            "ENname": "Uraku Misugiri",
+            "CNname": "有乐御簾切",
+            "JAname": "有楽御簾切",
+            "imageurl": "images/weapon/11514.png",
+            "rarity": 5,
+            "type": "sword",
+            "spoiler": false,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "13426",
+            "ENname": "Dialogues of the Desert Sages",
+            "CNname": "沙中伟贤的对答",
+            "JAname": "砂中の賢者達の問答",
+            "imageurl": "images/weapon/13426.png",
+            "rarity": 4,
+            "type": "pole",
+            "spoiler": false,
+            "supported": false,
+            "order": 999
+        },
+        {
             "id": "11427",
             "ENname": "The Dockhand's Assistant",
             "CNname": "船坞长剑",
@@ -2077,18 +2101,6 @@
             "order": 999
         },
         {
-            "id": "11514",
-            "ENname": "Uraku Misugiri",
-            "CNname": "有乐御簾切",
-            "JAname": "有楽御簾切",
-            "imageurl": "images/weapon/11514.png",
-            "rarity": 5,
-            "type": "sword",
-            "spoiler": false,
-            "supported": false,
-            "order": 999
-        },
-        {
             "id": "12426",
             "ENname": "\"Ultimate Overlord's Mega Magic Sword\"",
             "CNname": "「究极霸王超级魔剑」",
@@ -2121,18 +2133,6 @@
             "rarity": 5,
             "type": "claymore",
             "spoiler": true,
-            "supported": false,
-            "order": 999
-        },
-        {
-            "id": "13426",
-            "ENname": "Dialogues of the Desert Sages",
-            "CNname": "沙中伟贤的对答",
-            "JAname": "砂中の賢者達の問答",
-            "imageurl": "images/weapon/13426.png",
-            "rarity": 4,
-            "type": "pole",
-            "spoiler": false,
             "supported": false,
             "order": 999
         },
