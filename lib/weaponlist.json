@@ -1993,54 +1993,6 @@
             "order": 999
         },
         {
-            "id": "11304",
-            "ENname": "Dark Iron Sword",
-            "CNname": "暗铁剑",
-            "JAname": "暗鉄剣",
-            "imageurl": "images/weapon/11304.png",
-            "rarity": 3,
-            "type": "sword",
-            "spoiler": false,
-            "supported": false,
-            "order": 999
-        },
-        {
-            "id": "12505",
-            "ENname": "Primordial Jade Greatsword",
-            "CNname": "",
-            "JAname": "美玉魚",
-            "imageurl": "images/weapon/12505.png",
-            "rarity": 5,
-            "type": "claymore",
-            "spoiler": false,
-            "supported": false,
-            "order": 999
-        },
-        {
-            "id": "15504",
-            "ENname": "Kunwu's Wyrmbane",
-            "CNname": "",
-            "JAname": "昆吾の堕龍",
-            "imageurl": "images/weapon/15504.png",
-            "rarity": 5,
-            "type": "bow",
-            "spoiler": false,
-            "supported": false,
-            "order": 999
-        },
-        {
-            "id": "15505",
-            "ENname": "Primordial Jade Vista",
-            "CNname": "",
-            "JAname": "高価なオーブ",
-            "imageurl": "images/weapon/15505.png",
-            "rarity": 5,
-            "type": "bow",
-            "spoiler": false,
-            "supported": false,
-            "order": 999
-        },
-        {
             "id": "11427",
             "ENname": "The Dockhand's Assistant",
             "CNname": "船坞长剑",
@@ -2109,7 +2061,7 @@
             "rarity": 5,
             "type": "claymore",
             "spoiler": false,
-            "supported": false,
+            "supported": true,
             "order": 999
         },
         {
@@ -2192,7 +2144,7 @@
             "imageurl": "images/weapon/11514.png",
             "rarity": 5,
             "type": "sword",
-            "spoiler": true,
+            "spoiler": false,
             "supported": false,
             "order": 999
         },
@@ -2204,7 +2156,7 @@
             "imageurl": "images/weapon/13426.png",
             "rarity": 4,
             "type": "pole",
-            "spoiler": true,
+            "spoiler": false,
             "supported": false,
             "order": 999
         }
