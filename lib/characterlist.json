@@ -1121,6 +1121,20 @@
             "order": 999
         },
         {
+            "id": "10000094",
+            "ENname": "Chiori",
+            "CNname": "千织",
+            "JAname": "千織",
+            "imageurl": "images/character/10000094.png",
+            "imagelargeurl": "images/character/10000094-large.png",
+            "rarity": 5,
+            "element": "rock",
+            "weapon": "sword",
+            "spoiler": false,
+            "supported": false,
+            "order": 999
+        },
+        {
             "id": "10000086",
             "ENname": "Wriothesley",
             "CNname": "莱欧斯利",
@@ -1229,20 +1243,6 @@
             "element": "wind",
             "weapon": "catalyst",
             "spoiler": true,
-            "supported": false,
-            "order": 999
-        },
-        {
-            "id": "10000094",
-            "ENname": "Chiori",
-            "CNname": "千织",
-            "JAname": "千織",
-            "imageurl": "images/character/10000094.png",
-            "imagelargeurl": "images/character/10000094-large.png",
-            "rarity": 5,
-            "element": "rock",
-            "weapon": "sword",
-            "spoiler": false,
             "supported": false,
             "order": 999
         }
