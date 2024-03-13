@@ -1240,7 +1240,7 @@
             "rarity": 4,
             "element": "ice",
             "weapon": "catalyst",
-            "spoiler": true,
+            "spoiler": false,
             "supported": false,
             "order": 999,
             "release": 1699308000
