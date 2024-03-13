@@ -429,7 +429,7 @@
             "CNname": "昔时之歌",
             "JAname": "在りし日の歌",
             "imageurl": "images/artifact/15033.png",
-            "spoiler": true,
+            "spoiler": false,
             "order": 98
         },
         {
@@ -438,7 +438,7 @@
             "CNname": "回声之林夜话",
             "JAname": "残響の森で囁かれる夜話",
             "imageurl": "images/artifact/15034.png",
-            "spoiler": true,
+            "spoiler": false,
             "order": 99
         }
     ]

@@ -1130,7 +1130,7 @@
             "rarity": 5,
             "element": "rock",
             "weapon": "sword",
-            "spoiler": false,
+            "spoiler": true,
             "supported": false,
             "order": 999
         },
@@ -1144,7 +1144,7 @@
             "rarity": 5,
             "element": "ice",
             "weapon": "catalyst",
-            "spoiler": true,
+            "spoiler": false,
             "supported": false,
             "order": 999
         },
@@ -1158,7 +1158,7 @@
             "rarity": 5,
             "element": "water",
             "weapon": "catalyst",
-            "spoiler": true,
+            "spoiler": false,
             "supported": false,
             "order": 999
         },
@@ -1172,7 +1172,7 @@
             "rarity": 4,
             "element": "ice",
             "weapon": "catalyst",
-            "spoiler": true,
+            "spoiler": false,
             "supported": false,
             "order": 999
         },
@@ -1186,7 +1186,7 @@
             "rarity": 5,
             "element": "water",
             "weapon": "sword",
-            "spoiler": true,
+            "spoiler": false,
             "supported": false,
             "order": 999
         },
@@ -1200,7 +1200,7 @@
             "rarity": 4,
             "element": "fire",
             "weapon": "pole",
-            "spoiler": true,
+            "spoiler": false,
             "supported": false,
             "order": 999
         },
@@ -1214,7 +1214,7 @@
             "rarity": 5,
             "element": "rock",
             "weapon": "claymore",
-            "spoiler": true,
+            "spoiler": false,
             "supported": false,
             "order": 999
         },
@@ -1228,7 +1228,7 @@
             "rarity": 4,
             "element": "fire",
             "weapon": "claymore",
-            "spoiler": true,
+            "spoiler": false,
             "supported": false,
             "order": 999
         },
@@ -1242,7 +1242,7 @@
             "rarity": 5,
             "element": "wind",
             "weapon": "catalyst",
-            "spoiler": true,
+            "spoiler": false,
             "supported": false,
             "order": 999
         }
