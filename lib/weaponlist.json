@@ -2159,6 +2159,18 @@
             "spoiler": false,
             "supported": false,
             "order": 999
+        },
+        {
+            "id": "11304",
+            "ENname": "Dark Iron Sword",
+            "CNname": "暗铁剑",
+            "JAname": "暗鉄剣",
+            "imageurl": "images/weapon/11304.png",
+            "rarity": 3,
+            "type": "sword",
+            "spoiler": false,
+            "supported": false,
+            "order": 999
         }
     ]
 }
