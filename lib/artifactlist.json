@@ -418,7 +418,7 @@
             "id": "15032",
             "ENname": "Golden Troupe",
             "CNname": "黄金剧团",
-            "JAname": "黄金劇団JP0B",
+            "JAname": "黄金劇団",
             "imageurl": "images/artifact/15032.png",
             "spoiler": false,
             "order": 95
@@ -430,7 +430,7 @@
             "JAname": "在りし日の歌",
             "imageurl": "images/artifact/15033.png",
             "spoiler": false,
-            "order": 98
+            "order": 96
         },
         {
             "id": "15034",
@@ -439,7 +439,25 @@
             "JAname": "残響の森で囁かれる夜話",
             "imageurl": "images/artifact/15034.png",
             "spoiler": false,
-            "order": 99
+            "order": 97
+        },
+        {
+            "id": "15035",
+            "ENname": "Fragment of Harmonic Whimsy",
+            "CNname": "谐律异想断章",
+            "JAname": "諧律奇想の断章",
+            "imageurl": "images/artifact/15035.webp",
+            "spoiler": true,
+            "order": 999
+        },
+        {
+            "id": "15036",
+            "ENname": "Unfinished Reverie",
+            "CNname": "未竟的遐思",
+            "JAname": "遂げられなかった想い",
+            "imageurl": "images/artifact/15036.webp",
+            "spoiler": true,
+            "order": 999
         }
     ]
 }

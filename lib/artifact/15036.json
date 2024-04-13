@@ -1,0 +1,70 @@
+{
+    "id": "15036",
+    "ENname": "Unfinished Reverie",
+    "CNname": "未竟的遐思",
+    "JAname": "遂げられなかった想い",
+    "imageurl": "images/artifact/15036.webp",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "ATK +18%.",
+            "DescriptionCN": "攻击力提高18%。",
+            "DescriptionJP": "攻撃力+18%。"
+        },
+        "4": {
+            "DescriptionEN": "After leaving combat for 3s, DMG dealt increased by 50%. In combat, if no Burning opponents are nearby for more than 6s, this DMG Bonus will decrease by 10% per second until it reaches 0%. When a Burning opponent exists, it will increase by 10% instead until it reaches 50%. This effect still triggers if the equipping character is off-field.",
+            "DescriptionCN": "脱离战斗状态3秒后，造成的伤害提升50%。在战斗状态下，附近不存在处于燃烧状态下的敌人超过6秒后，上述伤害提升效果每秒降低10%，直到降低至0%；存在处于燃烧状态下的敌人时，每秒提升10%，直到达到50%。装备此圣遗物套装的角色处于队伍后台时，依然会触发该效果。",
+            "DescriptionJP": "戦闘状態が解除されてから3秒経過すると、与えるダメージ+50%。戦闘状態にある時、近くに燃焼状態の敵が存在しないまま6秒以上経過すると、上記強化効果の効果量は0%になるまで1秒毎に10%減少する。一方、燃焼状態の敵が存在する場合、50%になるまで1秒毎に10%増加する。この聖遺物セットを装備したキャラクターが待機している場合にも、効果を発動できる。"
+        }
+    },
+    "suit": {
+        "ring": {
+            "ENname": "The Wine-Flask Over Which the Plan Was Hatched",
+            "CNname": "筹谋的共樽",
+            "JAname": "計略の盃",
+            "DescriptionEN": "A three-legged cup. Once, many heroes were gathered around the bonfire, raising their cups high in toast and drinking their fill while discussing their wishes and ambitions.",
+            "DescriptionCN": "陶制的三足杯，曾有诸多英雄在篝火边举杯酣饮，谈论各自的野心与期冀。",
+            "DescriptionJP": "陶製の三足杯。かつて、多くの英雄が篝火のそばで杯を掲げ、各々の野望と願いを語っていた。JP0B",
+            "imageurl": "images/artifact/15036-ring.webp"
+        },
+        "necklace": {
+            "ENname": "Faded Emerald Tail",
+            "CNname": "褪光的翠尾",
+            "JAname": "光褪せた翠尾",
+            "DescriptionEN": "A tail feather ornament whose luster has long faded. The patterns on it are said to have been etched by the hand of a skilled artisan from long ago.",
+            "DescriptionCN": "已褪去华光的尾翎装饰，其上的纹路据说出自久远之前的巧匠之手。",
+            "DescriptionJP": "光褪せた尾羽飾り。表面の模様は遥か昔の職人の手によるものらしい。JP0B",
+            "imageurl": "images/artifact/15036-necklace.webp"
+        },
+        "dress": {
+            "ENname": "Crownless Crown",
+            "CNname": "失冕的宝冠",
+            "JAname": "冕を失った宝冠",
+            "DescriptionEN": "A golden crown decorated with turquoise and emerald feathers, it has never been used in a coronation, living alone atop a velvet cushion.",
+            "DescriptionCN": "由松石与翠羽装饰的黄金宝冠，但空居绒垫之上，从未出现在冕礼之中。",
+            "DescriptionJP": "松石と翠羽で飾られた黄金の宝冠。ただベルベットのクッションの上に置かれ、戴冠式に登場したことは一度もない。JP0B",
+            "imageurl": "images/artifact/15036-dress.webp"
+        },
+        "bracer": {
+            "ENname": "Dark Fruit of Bright Flowers",
+            "CNname": "暗结的明花",
+            "JAname": "陰に咲く光の花",
+            "DescriptionEN": "A flower carved from grey stone covered with gold foil. Legends say that during a war, it was used to differentiate friend from foe.",
+            "DescriptionCN": "由灰石雕刻并巧贴金箔的花，传说在一场战争中，曾作为敌我双方区别的凭证。",
+            "DescriptionJP": "灰色の石に彫刻され、巧みに金箔を貼り付けた花。ある戦争では、敵味方の区別の証として使われたそうだ。JP0B",
+            "imageurl": "images/artifact/15036-bracer.webp"
+        },
+        "shoes": {
+            "ENname": "Moment of Attainment",
+            "CNname": "举业的识刻",
+            "JAname": "大業を成す刻",
+            "DescriptionEN": "A sundial used by an ancient kingdom to tell time. Tiny marks have been left at a certain scale that can only be seen through careful observation.",
+            "DescriptionCN": "古老国度计时的历晷，在某一刻度上，留有仔细观察才可看到的细小印记。",
+            "DescriptionJP": "古の国が時間を測るために使った日時計。ある目盛りに、細かく観察しないと見えない小さな印が残っている。JP0B",
+            "imageurl": "images/artifact/15036-shoes.webp"
+        }
+    }
+}

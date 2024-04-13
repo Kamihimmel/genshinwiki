@@ -1,0 +1,70 @@
+{
+    "id": "15035",
+    "ENname": "Fragment of Harmonic Whimsy",
+    "CNname": "谐律异想断章",
+    "JAname": "諧律奇想の断章",
+    "imageurl": "images/artifact/15035.webp",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "ATK +18%.",
+            "DescriptionCN": "攻击力提高18%。",
+            "DescriptionJP": "攻撃力+18%。"
+        },
+        "4": {
+            "DescriptionEN": "When the value of a Bond of Life increases or decreases, this character deals 18% increased DMG for 6s. Max 3 stacks.",
+            "DescriptionCN": "生命之契的数值提升或降低时，角色造成的伤害提升18%，该效果持续6秒，至多叠加3次。",
+            "DescriptionJP": "命の契約の数値が増減する時、キャラクターの与えるダメージ+18%、継続時間6秒、最大3層まで重ね掛け可能。"
+        }
+    },
+    "suit": {
+        "ring": {
+            "ENname": "Ichor Shower Rhapsody",
+            "CNname": "灵露倾洒的狂诗",
+            "JAname": "降り注ぐイコルの狂詩",
+            "DescriptionEN": "A rhyton fired with copper as the base, that was once filled with fine wine from paradise.",
+            "DescriptionCN": "使用铜胎为底烧制的来通杯，过去曾灌满乐园的美酒。",
+            "DescriptionJP": "銅をベースにして焼かれたリュトン。かつて楽園の美酒で満たされていた。JP0B",
+            "imageurl": "images/artifact/15035-ring.webp"
+        },
+        "necklace": {
+            "ENname": "Ancient Sea's Nocturnal Musing",
+            "CNname": "古海玄幽的夜想",
+            "JAname": "古海の幽深なる夜想",
+            "DescriptionEN": "A feather accessory carved in the shape of the wings of the golden bees of legend. They seem to flutter with the slightest breeze.",
+            "DescriptionCN": "模仿传说中的金蜂翅翼雕琢而成的羽饰，似乎会随着微风震颤。",
+            "DescriptionJP": "伝説の金蜂の羽根を真似て作られた羽飾り。そよ風と共に微かに震える。JP0B",
+            "imageurl": "images/artifact/15035-necklace.webp"
+        },
+        "dress": {
+            "ENname": "Whimsical Dance of the Withered",
+            "CNname": "异想零落的圆舞",
+            "JAname": "異想が枯れ落ちる円舞",
+            "DescriptionEN": "A mask once covered in gold leaf. Perhaps it is a relic from some ancient officer of the legions.",
+            "DescriptionCN": "曾经覆以金箔的面具，或许是古时统帅军团之人的遗物。",
+            "DescriptionJP": "かつて金箔で覆われた仮面。古代で、軍団を率いていた人物の遺物かもしれない。JP0B",
+            "imageurl": "images/artifact/15035-dress.webp"
+        },
+        "bracer": {
+            "ENname": "Harmonious Symphony Prelude",
+            "CNname": "谐律交响的前奏",
+            "JAname": "響き合う諧律の前奏",
+            "DescriptionEN": "An honorary medal in the shape of a blooming flower. Adorned with blue stone and gold, it was once bestowed upon immortals.",
+            "DescriptionCN": "以黄金与青石点缀的怒放之花，曾是赐予不朽之人的荣章。",
+            "DescriptionJP": "黄金と青き石で飾られた咲き誇る花。かつて不滅の者に与えられた栄章。JP0B",
+            "imageurl": "images/artifact/15035-bracer.webp"
+        },
+        "shoes": {
+            "ENname": "The Grand Jape of the Turning of Fate",
+            "CNname": "命途轮转的谐谑",
+            "JAname": "運命と輪廻の諧謔",
+            "DescriptionEN": "A timepiece made in imitation of the wheel of fate. It ceased turning long ago.",
+            "DescriptionCN": "仿照命运之轮的样子打造的时计，如今早已无法转动。",
+            "DescriptionJP": "運命の輪を模して作られた時計。今ではすでに回せなくなっている。JP0B",
+            "imageurl": "images/artifact/15035-shoes.webp"
+        }
+    }
+}

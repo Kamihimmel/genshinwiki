@@ -1,0 +1,141 @@
+{
+    "id": "11304",
+    "ENname": "Dark Iron Sword",
+    "CNname": "暗铁剑",
+    "JAname": "暗鉄剣",
+    "imageurl": "images/weapon/11304.webp",
+    "type": "sword",
+    "rarity": 3,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 38.7412986755371,
+            "element_mastery": 30.6000003814697
+        },
+        {
+            "level": "5",
+            "base_attack": 50.479911139719825,
+            "element_mastery": 35.557198633957086
+        },
+        {
+            "level": "10",
+            "base_attack": 65.04664125210653,
+            "element_mastery": 41.707801599691756
+        },
+        {
+            "level": "15",
+            "base_attack": 79.45840816490212,
+            "element_mastery": 47.889002347947404
+        },
+        {
+            "level": "20",
+            "base_attack": 93.75394575052455,
+            "element_mastery": 54.07019944839537
+        },
+        {
+            "level": "25",
+            "base_attack": 107.93325862729694,
+            "element_mastery": 60.25140019664796
+        },
+        {
+            "level": "30",
+            "base_attack": 121.95760830448206,
+            "element_mastery": 66.43260094490054
+        },
+        {
+            "level": "35",
+            "base_attack": 135.90447176355437,
+            "element_mastery": 72.61379804534852
+        },
+        {
+            "level": "40",
+            "base_attack": 149.77385824115225,
+            "element_mastery": 78.79500244140571
+        },
+        {
+            "level": "45",
+            "base_attack": 163.52702924654625,
+            "element_mastery": 84.97619954185369
+        },
+        {
+            "level": "50",
+            "base_attack": 177.20269556053117,
+            "element_mastery": 91.1574039379109
+        },
+        {
+            "level": "55",
+            "base_attack": 190.80090336633793,
+            "element_mastery": 97.33860103836192
+        },
+        {
+            "level": "60",
+            "base_attack": 204.32161571738183,
+            "element_mastery": 103.51979813880988
+        },
+        {
+            "level": "65",
+            "base_attack": 217.80358957768846,
+            "element_mastery": 109.7010025348671
+        },
+        {
+            "level": "70",
+            "base_attack": 231.2080679832361,
+            "element_mastery": 115.85160185279713
+        },
+        {
+            "level": "75",
+            "base_attack": 244.61256486207608,
+            "element_mastery": 122.03279895324816
+        },
+        {
+            "level": "80",
+            "base_attack": 257.97830477689035,
+            "element_mastery": 128.21400334930536
+        },
+        {
+            "level": "85",
+            "base_attack": 271.30530620096744,
+            "element_mastery": 134.39520774536257
+        },
+        {
+            "level": "90",
+            "base_attack": 284.5935876075997,
+            "element_mastery": 140.5763975502013
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Overloaded",
+            "upgrade": {
+                "0": "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by 20% for 12s.",
+                "1": "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by 25% for 12s.",
+                "2": "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by 30% for 12s.",
+                "3": "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by 35% for 12s.",
+                "4": "Upon causing an Overloaded, Superconduct, Electro-Charged, Quicken, Aggravate, Hyperbloom, or Electro-infused Swirl reaction, ATK is increased by 40% for 12s."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "过载",
+            "upgrade": {
+                "0": "触发超载、超导、感电、原激化、超激化、超绽放或雷元素扩散反应后的12秒内，攻击力提高20%。",
+                "1": "触发超载、超导、感电、原激化、超激化、超绽放或雷元素扩散反应后的12秒内，攻击力提高25%。",
+                "2": "触发超载、超导、感电、原激化、超激化、超绽放或雷元素扩散反应后的12秒内，攻击力提高30%。",
+                "3": "触发超载、超导、感电、原激化、超激化、超绽放或雷元素扩散反应后的12秒内，攻击力提高35%。",
+                "4": "触发超载、超导、感电、原激化、超激化、超绽放或雷元素扩散反应后的12秒内，攻击力提高40%。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "オーバーロード",
+            "upgrade": {
+                "0": "過負荷、超電導、感電、原激化、超激化、超開花、または雷元素拡散反応を起こした後12秒間、攻撃力+20%。",
+                "1": "過負荷、超電導、感電、原激化、超激化、超開花、または雷元素拡散反応を起こした後12秒間、攻撃力+25%。",
+                "2": "過負荷、超電導、感電、原激化、超激化、超開花、または雷元素拡散反応を起こした後12秒間、攻撃力+30%。",
+                "3": "過負荷、超電導、感電、原激化、超激化、超開花、または雷元素拡散反応を起こした後12秒間、攻撃力+35%。",
+                "4": "過負荷、超電導、感電、原激化、超激化、超開花、または雷元素拡散反応を起こした後12秒間、攻撃力+40%。"
+            }
+        }
+    }
+}

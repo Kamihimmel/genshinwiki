@@ -1,0 +1,141 @@
+{
+    "id": "13512",
+    "ENname": "Crimson Moon's Semblance",
+    "CNname": "赤月之形",
+    "JAname": "赤月のシルエット",
+    "imageurl": "images/weapon/13512.webp",
+    "type": "pole",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 47.5369987487793,
+            "critical": 0.0480000004172
+        },
+        {
+            "level": "5",
+            "base_attack": 65.0306157390452,
+            "critical": 0.05577599764665197
+        },
+        {
+            "level": "10",
+            "base_attack": 87.32546729086178,
+            "critical": 0.0654240022623668
+        },
+        {
+            "level": "15",
+            "base_attack": 110.14322193012045,
+            "critical": 0.07512000339950202
+        },
+        {
+            "level": "20",
+            "base_attack": 133.29373977675777,
+            "critical": 0.08481599881458599
+        },
+        {
+            "level": "25",
+            "base_attack": 156.8720936042317,
+            "critical": 0.09451199995171639
+        },
+        {
+            "level": "30",
+            "base_attack": 180.78320497223194,
+            "critical": 0.1042080010888468
+        },
+        {
+            "level": "35",
+            "base_attack": 204.97952899375343,
+            "critical": 0.11390399650393077
+        },
+        {
+            "level": "40",
+            "base_attack": 229.46109966991028,
+            "critical": 0.1236000033631076
+        },
+        {
+            "level": "45",
+            "base_attack": 254.22787166588373,
+            "critical": 0.13329599877819157
+        },
+        {
+            "level": "50",
+            "base_attack": 279.23233409577324,
+            "critical": 0.14299200563736844
+        },
+        {
+            "level": "55",
+            "base_attack": 304.52202051289345,
+            "critical": 0.1526880010524572
+        },
+        {
+            "level": "60",
+            "base_attack": 330.0018411432247,
+            "critical": 0.16238399646754115
+        },
+        {
+            "level": "65",
+            "base_attack": 355.7669084281865,
+            "critical": 0.17208000332671802
+        },
+        {
+            "level": "70",
+            "base_attack": 381.72208725895,
+            "critical": 0.1817280022203864
+        },
+        {
+            "level": "75",
+            "base_attack": 407.8674456377434,
+            "critical": 0.19142399763547516
+        },
+        {
+            "level": "80",
+            "base_attack": 434.2504944504527,
+            "critical": 0.201120004494652
+        },
+        {
+            "level": "85",
+            "base_attack": 460.8236774763779,
+            "critical": 0.21081601135382885
+        },
+        {
+            "level": "90",
+            "base_attack": 487.6345509362239,
+            "critical": 0.22051199532481994
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Ashen Sun's Shadow",
+            "upgrade": {
+                "0": "Grants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a 12% DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional 24% DMG Bonus.",
+                "1": "Grants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a 16% DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional 32% DMG Bonus.",
+                "2": "Grants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a 20% DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional 40% DMG Bonus.",
+                "3": "Grants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a 24% DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional 48% DMG Bonus.",
+                "4": "Grants a Bond of Life equal to 25% of Max HP when a Charged Attack hits an opponent. This effect can be triggered up to once every 14s. In addition, when the equipping character has a Bond of Life, they gain a 28% DMG Bonus; if the value of the Bond of Life is greater than or equal to 30% of Max HP, then gain an additional 56% DMG Bonus."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "烬日之影",
+            "upgrade": {
+                "0": "重击命中敌人时，赋予生命值上限25%的生命之契，该效果每14秒至多触发一次。此外，装备者具有生命之契时，造成的伤害提升12%；若生命之契的数值大于等于生命值上限的30%，造成的伤害将进一步提升24%。",
+                "1": "重击命中敌人时，赋予生命值上限25%的生命之契，该效果每14秒至多触发一次。此外，装备者具有生命之契时，造成的伤害提升16%；若生命之契的数值大于等于生命值上限的30%，造成的伤害将进一步提升32%。",
+                "2": "重击命中敌人时，赋予生命值上限25%的生命之契，该效果每14秒至多触发一次。此外，装备者具有生命之契时，造成的伤害提升20%；若生命之契的数值大于等于生命值上限的30%，造成的伤害将进一步提升40%。",
+                "3": "重击命中敌人时，赋予生命值上限25%的生命之契，该效果每14秒至多触发一次。此外，装备者具有生命之契时，造成的伤害提升24%；若生命之契的数值大于等于生命值上限的30%，造成的伤害将进一步提升48%。",
+                "4": "重击命中敌人时，赋予生命值上限25%的生命之契，该效果每14秒至多触发一次。此外，装备者具有生命之契时，造成的伤害提升28%；若生命之契的数值大于等于生命值上限的30%，造成的伤害将进一步提升56%。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "燃え尽きる日の影",
+            "upgrade": {
+                "0": "重撃が敵に命中すると、HP上限の25%分の命の契約を付与する。この効果は14秒毎に1回のみ発動可能。また、装備者が命の契約を有しているとき、与えるダメージ+12%。命の契約の数値がHP上限の30%以上の場合、与えるダメージがさらに+24%。",
+                "1": "重撃が敵に命中すると、HP上限の25%分の命の契約を付与する。この効果は14秒毎に1回のみ発動可能。また、装備者が命の契約を有しているとき、与えるダメージ+16%。命の契約の数値がHP上限の30%以上の場合、与えるダメージがさらに+32%。",
+                "2": "重撃が敵に命中すると、HP上限の25%分の命の契約を付与する。この効果は14秒毎に1回のみ発動可能。また、装備者が命の契約を有しているとき、与えるダメージ+20%。命の契約の数値がHP上限の30%以上の場合、与えるダメージがさらに+40%。",
+                "3": "重撃が敵に命中すると、HP上限の25%分の命の契約を付与する。この効果は14秒毎に1回のみ発動可能。また、装備者が命の契約を有しているとき、与えるダメージ+24%。命の契約の数値がHP上限の30%以上の場合、与えるダメージがさらに+48%。",
+                "4": "重撃が敵に命中すると、HP上限の25%分の命の契約を付与する。この効果は14秒毎に1回のみ発動可能。また、装備者が命の契約を有しているとき、与えるダメージ+28%。命の契約の数値がHP上限の30%以上の場合、与えるダメージがさらに+56%。"
+            }
+        }
+    }
+}
