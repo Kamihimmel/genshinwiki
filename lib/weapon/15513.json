@@ -1,0 +1,141 @@
+{
+    "id": "15513",
+    "ENname": "Pouring Heartstrings",
+    "CNname": "白雨心弦",
+    "JAname": "白雨に心弦JP0B",
+    "imageurl": "images/weapon/15513.webp",
+    "type": "bow",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 44.3358,
+            "hp_percent": 0.144
+        },
+        {
+            "level": "5",
+            "base_attack": 58.3902486,
+            "hp_percent": 0.16732799999999998
+        },
+        {
+            "level": "10",
+            "base_attack": 75.7698822,
+            "hp_percent": 0.19627199999999997
+        },
+        {
+            "level": "15",
+            "base_attack": 93.01650839999999,
+            "hp_percent": 0.22535999999999998
+        },
+        {
+            "level": "20",
+            "base_attack": 110.17446299999999,
+            "hp_percent": 0.25444799999999995
+        },
+        {
+            "level": "25",
+            "base_attack": 127.2880818,
+            "hp_percent": 0.283536
+        },
+        {
+            "level": "30",
+            "base_attack": 144.4017006,
+            "hp_percent": 0.31262399999999996
+        },
+        {
+            "level": "35",
+            "base_attack": 161.5596552,
+            "hp_percent": 0.341712
+        },
+        {
+            "level": "40",
+            "base_attack": 178.7176098,
+            "hp_percent": 0.3708
+        },
+        {
+            "level": "45",
+            "base_attack": 195.91990019999997,
+            "hp_percent": 0.39988799999999997
+        },
+        {
+            "level": "50",
+            "base_attack": 213.25519799999998,
+            "hp_percent": 0.42897599999999997
+        },
+        {
+            "level": "55",
+            "base_attack": 230.59049579999999,
+            "hp_percent": 0.45806399999999997
+        },
+        {
+            "level": "60",
+            "base_attack": 248.058801,
+            "hp_percent": 0.487152
+        },
+        {
+            "level": "65",
+            "base_attack": 265.6157778,
+            "hp_percent": 0.5162399999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 283.30576199999996,
+            "hp_percent": 0.545184
+        },
+        {
+            "level": "75",
+            "base_attack": 301.0844178,
+            "hp_percent": 0.574272
+        },
+        {
+            "level": "80",
+            "base_attack": 318.9517452,
+            "hp_percent": 0.60336
+        },
+        {
+            "level": "85",
+            "base_attack": 336.99641579999997,
+            "hp_percent": 0.632448
+        },
+        {
+            "level": "90",
+            "base_attack": 355.129758,
+            "hp_percent": 0.661536
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "",
+            "upgrade": {
+                "0": "The equipping character gains the \"Blessing\" effect. When they have 1/2/3 stacks of this Blessing, the equipping character's Max HP increases by 12%/24%/40%. They will gain 1 stack in the following circumstances: 1 stack for 25s when using their Elemental Skill, 1 stack for 25s when receiving an increase in the value of a Bond of Life, and 1 stack for 20s when performing healing. Additionally, when the equipping character has 3 stacks, their Elemental Burst CRIT Rate increases by 28%. This additional effect will be canceled 4s after falling under 3 Blessing stacks.",
+                "1": "The equipping character gains the \"Blessing\" effect. When they have 1/2/3 stacks of this Blessing, the equipping character's Max HP increases by 15%/30%/50%. They will gain 1 stack in the following circumstances: 1 stack for 25s when using their Elemental Skill, 1 stack for 25s when receiving an increase in the value of a Bond of Life, and 1 stack for 20s when performing healing. Additionally, when the equipping character has 3 stacks, their Elemental Burst CRIT Rate increases by 35%. This additional effect will be canceled 4s after falling under 3 Blessing stacks.",
+                "2": "The equipping character gains the \"Blessing\" effect. When they have 1/2/3 stacks of this Blessing, the equipping character's Max HP increases by 18%/36%/60%. They will gain 1 stack in the following circumstances: 1 stack for 25s when using their Elemental Skill, 1 stack for 25s when receiving an increase in the value of a Bond of Life, and 1 stack for 20s when performing healing. Additionally, when the equipping character has 3 stacks, their Elemental Burst CRIT Rate increases by 42%. This additional effect will be canceled 4s after falling under 3 Blessing stacks.",
+                "3": "The equipping character gains the \"Blessing\" effect. When they have 1/2/3 stacks of this Blessing, the equipping character's Max HP increases by 21%/42%/70%. They will gain 1 stack in the following circumstances: 1 stack for 25s when using their Elemental Skill, 1 stack for 25s when receiving an increase in the value of a Bond of Life, and 1 stack for 20s when performing healing. Additionally, when the equipping character has 3 stacks, their Elemental Burst CRIT Rate increases by 49%. This additional effect will be canceled 4s after falling under 3 Blessing stacks.",
+                "4": "The equipping character gains the \"Blessing\" effect. When they have 1/2/3 stacks of this Blessing, the equipping character's Max HP increases by 24%/48%/80%. They will gain 1 stack in the following circumstances: 1 stack for 25s when using their Elemental Skill, 1 stack for 25s when receiving an increase in the value of a Bond of Life, and 1 stack for 20s when performing healing. Additionally, when the equipping character has 3 stacks, their Elemental Burst CRIT Rate increases by 56%. This additional effect will be canceled 4s after falling under 3 Blessing stacks."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "德吕阿的夜曲",
+            "upgrade": {
+                "0": "装备者能获得「疗护」效果，持有1/2/3层疗护时，生命值上限提升12%/24%/40%。在下列情况下，装备者将各获得1层疗护：施放元素战技时，持续25秒；生命之契的数值增加时，持续25秒；进行治疗时，持续20秒，装备者处于队伍后台时依然能触发。每层疗护的持续时间独立计算。此外，处于3层疗护状态下时，元素爆发的暴击率提升28%，该效果将在疗护不足3层4秒后移除。",
+                "1": "装备者能获得「疗护」效果，持有1/2/3层疗护时，生命值上限提升15%/30%/50%。在下列情况下，装备者将各获得1层疗护：施放元素战技时，持续25秒；生命之契的数值增加时，持续25秒；进行治疗时，持续20秒，装备者处于队伍后台时依然能触发。每层疗护的持续时间独立计算。此外，处于3层疗护状态下时，元素爆发的暴击率提升35%，该效果将在疗护不足3层4秒后移除。",
+                "2": "装备者能获得「疗护」效果，持有1/2/3层疗护时，生命值上限提升18%/36%/60%。在下列情况下，装备者将各获得1层疗护：施放元素战技时，持续25秒；生命之契的数值增加时，持续25秒；进行治疗时，持续20秒，装备者处于队伍后台时依然能触发。每层疗护的持续时间独立计算。此外，处于3层疗护状态下时，元素爆发的暴击率提升42%，该效果将在疗护不足3层4秒后移除。",
+                "3": "装备者能获得「疗护」效果，持有1/2/3层疗护时，生命值上限提升21%/42%/70%。在下列情况下，装备者将各获得1层疗护：施放元素战技时，持续25秒；生命之契的数值增加时，持续25秒；进行治疗时，持续20秒，装备者处于队伍后台时依然能触发。每层疗护的持续时间独立计算。此外，处于3层疗护状态下时，元素爆发的暴击率提升49%，该效果将在疗护不足3层4秒后移除。",
+                "4": "装备者能获得「疗护」效果，持有1/2/3层疗护时，生命值上限提升24%/48%/80%。在下列情况下，装备者将各获得1层疗护：施放元素战技时，持续25秒；生命之契的数值增加时，持续25秒；进行治疗时，持续20秒，装备者处于队伍后台时依然能触发。每层疗护的持续时间独立计算。此外，处于3层疗护状态下时，元素爆发的暴击率提升56%，该效果将在疗护不足3层4秒后移除。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "",
+            "upgrade": {
+                "0": "装備者は「祝福」効果を獲得できる。「祝福」効果を1/2/3層所持しているとき、装備者のHP上限がそれぞれ+12%/24%/40%。以下の状況において、装備者はそれぞれ1層の祝福を獲得する。元素スキル発動時、継続時間25秒。命の契約が増加する時、継続時間25秒。治療を行う時、継続時間20秒。また、装備者が「祝福」効果を3層所持している場合、元素爆発の会心率+28%。この効果は祝福が3層未満になった4秒後に解除される。JP0B",
+                "1": "装備者は「祝福」効果を獲得できる。「祝福」効果を1/2/3層所持しているとき、装備者のHP上限がそれぞれ+15%/30%/50%。以下の状況において、装備者はそれぞれ1層の祝福を獲得する。元素スキル発動時、継続時間25秒。命の契約が増加する時、継続時間25秒。治療を行う時、継続時間20秒。また、装備者が「祝福」効果を3層所持している場合、元素爆発の会心率+35%。この効果は祝福が3層未満になった4秒後に解除される。JP0B",
+                "2": "装備者は「祝福」効果を獲得できる。「祝福」効果を1/2/3層所持しているとき、装備者のHP上限がそれぞれ+18%/36%/60%。以下の状況において、装備者はそれぞれ1層の祝福を獲得する。元素スキル発動時、継続時間25秒。命の契約が増加する時、継続時間25秒。治療を行う時、継続時間20秒。また、装備者が「祝福」効果を3層所持している場合、元素爆発の会心率+42%。この効果は祝福が3層未満になった4秒後に解除される。JP0B",
+                "3": "装備者は「祝福」効果を獲得できる。「祝福」効果を1/2/3層所持しているとき、装備者のHP上限がそれぞれ+21%/42%/70%。以下の状況において、装備者はそれぞれ1層の祝福を獲得する。元素スキル発動時、継続時間25秒。命の契約が増加する時、継続時間25秒。治療を行う時、継続時間20秒。また、装備者が「祝福」効果を3層所持している場合、元素爆発の会心率+49%。この効果は祝福が3層未満になった4秒後に解除される。JP0B",
+                "4": "装備者は「祝福」効果を獲得できる。「祝福」効果を1/2/3層所持しているとき、装備者のHP上限がそれぞれ+24%/48%/80%。以下の状況において、装備者はそれぞれ1層の祝福を獲得する。元素スキル発動時、継続時間25秒。命の契約が増加する時、継続時間25秒。治療を行う時、継続時間20秒。また、装備者が「祝福」効果を3層所持している場合、元素爆発の会心率+56%。この効果は祝福が3層未満になった4秒後に解除される。JP0B"
+            }
+        }
+    }
+}
