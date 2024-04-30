@@ -27,7 +27,7 @@
             "JAname": "計略の盃",
             "DescriptionEN": "A three-legged cup. Once, many heroes were gathered around the bonfire, raising their cups high in toast and drinking their fill while discussing their wishes and ambitions.",
             "DescriptionCN": "陶制的三足杯，曾有诸多英雄在篝火边举杯酣饮，谈论各自的野心与期冀。",
-            "DescriptionJP": "陶製の三足杯。かつて、多くの英雄が篝火のそばで杯を掲げ、各々の野望と願いを語っていた。JP0B",
+            "DescriptionJP": "陶器の三足杯。かつては多くの英雄が篝火のそばで杯を掲げ、各々の野望と願いを語った。",
             "imageurl": "images/artifact/15036-ring.webp"
         },
         "necklace": {
@@ -36,16 +36,16 @@
             "JAname": "光褪せた翠尾",
             "DescriptionEN": "A tail feather ornament whose luster has long faded. The patterns on it are said to have been etched by the hand of a skilled artisan from long ago.",
             "DescriptionCN": "已褪去华光的尾翎装饰，其上的纹路据说出自久远之前的巧匠之手。",
-            "DescriptionJP": "光褪せた尾羽飾り。表面の模様は遥か昔の職人の手によるものらしい。JP0B",
+            "DescriptionJP": "輝きの褪せた尾羽の飾り。表面の模様は遥か昔の職人が手掛けたものらしい。",
             "imageurl": "images/artifact/15036-necklace.webp"
         },
         "dress": {
             "ENname": "Crownless Crown",
             "CNname": "失冕的宝冠",
-            "JAname": "冕を失った宝冠",
+            "JAname": "主なき冠",
             "DescriptionEN": "A golden crown decorated with turquoise and emerald feathers, it has never been used in a coronation, living alone atop a velvet cushion.",
             "DescriptionCN": "由松石与翠羽装饰的黄金宝冠，但空居绒垫之上，从未出现在冕礼之中。",
-            "DescriptionJP": "松石と翠羽で飾られた黄金の宝冠。ただベルベットのクッションの上に置かれ、戴冠式に登場したことは一度もない。JP0B",
+            "DescriptionJP": "ターコイズとエメラルドで飾られた黄金の宝冠。ベルベットのクッションの上に置かれるのみで、戴冠式に登場したことは一度もない。",
             "imageurl": "images/artifact/15036-dress.webp"
         },
         "bracer": {
@@ -54,7 +54,7 @@
             "JAname": "陰に咲く光の花",
             "DescriptionEN": "A flower carved from grey stone covered with gold foil. Legends say that during a war, it was used to differentiate friend from foe.",
             "DescriptionCN": "由灰石雕刻并巧贴金箔的花，传说在一场战争中，曾作为敌我双方区别的凭证。",
-            "DescriptionJP": "灰色の石に彫刻され、巧みに金箔を貼り付けた花。ある戦争では、敵味方の区別の証として使われたそうだ。JP0B",
+            "DescriptionJP": "灰色の石に彫刻され、巧みに金箔を貼られた花。ある戦争では、敵味方の区別の証として使われていたという。",
             "imageurl": "images/artifact/15036-bracer.webp"
         },
         "shoes": {
@@ -63,7 +63,7 @@
             "JAname": "大業を成す刻",
             "DescriptionEN": "A sundial used by an ancient kingdom to tell time. Tiny marks have been left at a certain scale that can only be seen through careful observation.",
             "DescriptionCN": "古老国度计时的历晷，在某一刻度上，留有仔细观察才可看到的细小印记。",
-            "DescriptionJP": "古の国が時間を測るために使った日時計。ある目盛りに、細かく観察しないと見えない小さな印が残っている。JP0B",
+            "DescriptionJP": "古の国が時間を測るために使った日時計。目盛りの一つには、細かく観察しないと見えない小さな印が残されている。",
             "imageurl": "images/artifact/15036-shoes.webp"
         }
     }
