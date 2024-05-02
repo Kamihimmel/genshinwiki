@@ -12,7 +12,7 @@
         8,
         22
     ],
-    "release": 0,
+    "release": 1713830400,
     "leveldata": [
         {
             "level": "1",
@@ -3722,7 +3722,7 @@
             "JAname": "償えるものは苦痛のみ",
             "imageurl": "images/talent/10000096-3.webp",
             "DescriptionEN": "Blood-Debt Directives have the following characteristics: · When defeating an opponent with a Directive, Arlecchino will be granted a Life Bond worth 130% of her Max HP. · 5s after a Directive is applied, it will be upgraded to a Blood-Debt Due. When absorbed, it will instead grant Arlecchino a Bond of Life worth 130%. A Bond of Life created in the aforementioned ways cannot exceed the original limit on the value of Bonds of Life obtained through All Is Ash.",
-            "DescriptionCN": "血偿勒令具有如下性质： ·击败具有血偿勒令的敌人时，将为阿蕾奇诺赋予生命值上限130%的生命之契； ·在施加的5秒后，会升级为血偿勒令·结，在回收时转而为阿蕾奇诺提供130%生命之契。 上述方式赋予生命之契时，赋予的生命之契数值上限无法超过万相化灰原本的限制。",
+            "DescriptionCN": "血偿勒令具有如下性质： ·具有阿蕾奇诺自己施加的血偿勒令的敌人被击败时，将为她赋予生命值上限130%的生命之契； ·在施加的5秒后，会升级为血偿勒令·结，在回收时转而为阿蕾奇诺提供130%生命之契。 上述方式赋予生命之契时，赋予的生命之契数值上限无法超过万相化灰原本的限制。",
             "DescriptionJP": "血償の勅令は以下の特性を持つ。 ·血償の勅令が付与されている敵を倒す時、アルレッキーノにHP上限の130%の「命の契約」を付与する。 ·付与から5秒後、血償の勅令·結に強化され、回収時、アルレッキーノに130%の「命の契約」を提供するようになる。 この方法で「命の契約」を付与する時も、付与された「命の契約」の数値の上限が万象、灰に帰すの本来の制限を超えることはない。",
             "maxlevel": 0,
             "levelmultiplier": []
@@ -3768,7 +3768,7 @@
             "CNname": "「所有的赏与罚皆自我出…」",
             "JAname": "「あらゆる褒賞と罰は この手によるもの…」",
             "DescriptionEN": "Blood-Debt Directives are now already Blood-Debt Due when first applied. When Arlecchino absorbs such a Due, she unleashes Balemoon Bloodfire in front of her, dealing 900% of her ATK as AoE Pyro DMG. This effect can trigger once every 10s. You must first unlock the Passive Talent \"Agony Alone May Be Repaid.\"",
-            "DescriptionCN": "血偿勒令施加时即为血偿勒令·结。 阿蕾奇诺回收血偿勒令·结时，将在前方唤出厄月血火，造成相当于她的攻击力900%的火元素范围伤害。此效果每10秒至多触发一次。 需要解锁固有天赋「唯苦痛可偿还」。",
+            "DescriptionCN": "血偿勒令施加时即为血偿勒令·结。 阿蕾奇诺回收血偿勒令·结时，将在前方唤出厄月血火，造成相当于她的攻击力900%的火元素范围伤害，并使她的所有元素抗性与物理抗性提升20%，持续15秒。此效果每10秒至多触发一次。 需要解锁固有天赋「唯苦痛可偿还」。",
             "DescriptionJP": "血償の勅令を付与する時、代わりに血償の勅令·結を付与するようになる。 アルレッキーノが血償の勅令·結を回収する時、前方に凶月血炎を召喚し、アルレッキーノの攻撃力900%分の炎元素範囲ダメージを与える。この効果は10秒毎に1回のみ発動可能。 固有天賦「償えるものは苦痛のみ」を解放する必要がある。"
         },
         {
