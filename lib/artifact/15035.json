@@ -27,7 +27,7 @@
             "JAname": "降り注ぐイコルの狂詩",
             "DescriptionEN": "A rhyton fired with copper as the base, that was once filled with fine wine from paradise.",
             "DescriptionCN": "使用铜胎为底烧制的来通杯，过去曾灌满乐园的美酒。",
-            "DescriptionJP": "銅をベースにして焼かれたリュトン。かつて楽園の美酒で満たされていた。JP0B",
+            "DescriptionJP": "銅をベースにして焼き上げられたリュトン。かつては楽園の美酒で満たされていた。",
             "imageurl": "images/artifact/15035-ring.webp"
         },
         "necklace": {
@@ -36,7 +36,7 @@
             "JAname": "古海の幽深なる夜想",
             "DescriptionEN": "A feather accessory carved in the shape of the wings of the golden bees of legend. They seem to flutter with the slightest breeze.",
             "DescriptionCN": "模仿传说中的金蜂翅翼雕琢而成的羽饰，似乎会随着微风震颤。",
-            "DescriptionJP": "伝説の金蜂の羽根を真似て作られた羽飾り。そよ風と共に微かに震える。JP0B",
+            "DescriptionJP": "伝説の金の蜂の羽根を真似て作られた羽飾り。そよ風に吹かれて微かに震える。",
             "imageurl": "images/artifact/15035-necklace.webp"
         },
         "dress": {
@@ -45,7 +45,7 @@
             "JAname": "異想が枯れ落ちる円舞",
             "DescriptionEN": "A mask once covered in gold leaf. Perhaps it is a relic from some ancient officer of the legions.",
             "DescriptionCN": "曾经覆以金箔的面具，或许是古时统帅军团之人的遗物。",
-            "DescriptionJP": "かつて金箔で覆われた仮面。古代で、軍団を率いていた人物の遺物かもしれない。JP0B",
+            "DescriptionJP": "かつては金箔で覆われていた仮面。古代、軍団を率いていた人物の遺物かもしれない。",
             "imageurl": "images/artifact/15035-dress.webp"
         },
         "bracer": {
@@ -54,7 +54,7 @@
             "JAname": "響き合う諧律の前奏",
             "DescriptionEN": "An honorary medal in the shape of a blooming flower. Adorned with blue stone and gold, it was once bestowed upon immortals.",
             "DescriptionCN": "以黄金与青石点缀的怒放之花，曾是赐予不朽之人的荣章。",
-            "DescriptionJP": "黄金と青き石で飾られた咲き誇る花。かつて不滅の者に与えられた栄章。JP0B",
+            "DescriptionJP": "黄金と青き石で飾られた咲き誇る花。かつて、不滅の者に与えられた栄章であった。",
             "imageurl": "images/artifact/15035-bracer.webp"
         },
         "shoes": {
@@ -63,7 +63,7 @@
             "JAname": "運命と輪廻の諧謔",
             "DescriptionEN": "A timepiece made in imitation of the wheel of fate. It ceased turning long ago.",
             "DescriptionCN": "仿照命运之轮的样子打造的时计，如今早已无法转动。",
-            "DescriptionJP": "運命の輪を模して作られた時計。今ではすでに回せなくなっている。JP0B",
+            "DescriptionJP": "運命の輪を模して作られた時計。今はもう回せなくなっている。",
             "imageurl": "images/artifact/15035-shoes.webp"
         }
     }
