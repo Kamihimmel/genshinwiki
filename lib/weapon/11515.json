@@ -1,0 +1,141 @@
+{
+    "id": "11515",
+    "ENname": "Absolution",
+    "CNname": "赦罪",
+    "JAname": "アブソリューションJP0B",
+    "imageurl": "images/weapon/11515.webp",
+    "type": "sword",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 47.5369987487793,
+            "critical_hurt": 0.0960000008345
+        },
+        {
+            "level": "5",
+            "base_attack": 65.0306157390452,
+            "critical_hurt": 0.11155199529342014
+        },
+        {
+            "level": "10",
+            "base_attack": 87.32546729086178,
+            "critical_hurt": 0.13084800452486992
+        },
+        {
+            "level": "15",
+            "base_attack": 110.14322193012045,
+            "critical_hurt": 0.15024000679916055
+        },
+        {
+            "level": "20",
+            "base_attack": 133.29373977675777,
+            "critical_hurt": 0.16963199762934866
+        },
+        {
+            "level": "25",
+            "base_attack": 156.8720936042317,
+            "critical_hurt": 0.18902399990362967
+        },
+        {
+            "level": "30",
+            "base_attack": 180.78320497223194,
+            "critical_hurt": 0.2084160021779107
+        },
+        {
+            "level": "35",
+            "base_attack": 204.97952899375343,
+            "critical_hurt": 0.22780799300809884
+        },
+        {
+            "level": "40",
+            "base_attack": 229.46109966991028,
+            "critical_hurt": 0.24720000672647272
+        },
+        {
+            "level": "45",
+            "base_attack": 254.22787166588373,
+            "critical_hurt": 0.26659199755666085
+        },
+        {
+            "level": "50",
+            "base_attack": 279.23233409577324,
+            "critical_hurt": 0.2859840112750348
+        },
+        {
+            "level": "55",
+            "base_attack": 304.52202051289345,
+            "critical_hurt": 0.30537600210523247
+        },
+        {
+            "level": "60",
+            "base_attack": 330.0018411432247,
+            "critical_hurt": 0.32476799293542064
+        },
+        {
+            "level": "65",
+            "base_attack": 355.7669084281865,
+            "critical_hurt": 0.34416000665379454
+        },
+        {
+            "level": "70",
+            "base_attack": 381.72208725895,
+            "critical_hurt": 0.3634560044411514
+        },
+        {
+            "level": "75",
+            "base_attack": 407.8674456377434,
+            "critical_hurt": 0.38284799527134916
+        },
+        {
+            "level": "80",
+            "base_attack": 434.2504944504527,
+            "critical_hurt": 0.402240008989723
+        },
+        {
+            "level": "85",
+            "base_attack": 460.8236774763779,
+            "critical_hurt": 0.4216320227080969
+        },
+        {
+            "level": "90",
+            "base_attack": 487.6345509362239,
+            "critical_hurt": 0.4410239906500993
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Deathly Pact",
+            "upgrade": {
+                "0": "CRIT DMG increased by 20%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 12% for 6s. Max 3 stacks.",
+                "1": "CRIT DMG increased by 25%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 15% for 6s. Max 3 stacks.",
+                "2": "CRIT DMG increased by 30%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 18% for 6s. Max 3 stacks.",
+                "3": "CRIT DMG increased by 35%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 21% for 6s. Max 3 stacks.",
+                "4": "CRIT DMG increased by 40%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 24% for 6s. Max 3 stacks."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "死之契",
+            "upgrade": {
+                "0": "暴击伤害提升20%；生命之契的数值增加时，装备者造成的伤害提升16%。该效果持续6秒，至多叠加3次。",
+                "1": "暴击伤害提升25%；生命之契的数值增加时，装备者造成的伤害提升20%。该效果持续6秒，至多叠加3次。",
+                "2": "暴击伤害提升30%；生命之契的数值增加时，装备者造成的伤害提升24%。该效果持续6秒，至多叠加3次。",
+                "3": "暴击伤害提升35%；生命之契的数值增加时，装备者造成的伤害提升28%。该效果持续6秒，至多叠加3次。",
+                "4": "暴击伤害提升40%；生命之契的数值增加时，装备者造成的伤害提升32%。该效果持续6秒，至多叠加3次。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "死の契約JP0B",
+            "upgrade": {
+                "0": "会心ダメージ+20%。命の契約の数値が増加する時、装備者の与えるダメージ+12%。この効果の継続時間は6秒、最大3層まで重ね掛け可能。JP0B",
+                "1": "会心ダメージ+25%。命の契約の数値が増加する時、装備者の与えるダメージ+15%。この効果の継続時間は6秒、最大3層まで重ね掛け可能。JP0B",
+                "2": "会心ダメージ+30%。命の契約の数値が増加する時、装備者の与えるダメージ+18%。この効果の継続時間は6秒、最大3層まで重ね掛け可能。JP0B",
+                "3": "会心ダメージ+35%。命の契約の数値が増加する時、装備者の与えるダメージ+21%。この効果の継続時間は6秒、最大3層まで重ね掛け可能。JP0B",
+                "4": "会心ダメージ+40%。命の契約の数値が増加する時、装備者の与えるダメージ+24%。この効果の継続時間は6秒、最大3層まで重ね掛け可能。JP0B"
+            }
+        }
+    }
+}
