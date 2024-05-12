@@ -123,13 +123,13 @@
     "talentdata": [
         {
             "id": 0,
-            "ENname": "Normal Attack: Royal Reed Bowmanship",
+            "ENname": "Normal Attack: Royal Reed Archery",
             "CNname": "普通攻击·王家苇箭术",
-            "JAname": "通常攻撃·王家の葦矢弓術JP0B",
+            "JAname": "通常攻撃·王家の弓術·葦ノ矢",
             "imageurl": "images/talent/10000097-0.webp",
             "DescriptionEN": "Normal Attack Performs up to 3 consecutive shots with a bow.  Charged Attack Performs a more precise Aimed Shot with increased DMG. While aiming, the power of Electro will accumulate on the arrowhead before the arrow is fired. Has different effects based on how long the energy has been charged: ·Charge Level 1: Fires off an arrow carrying the power of lightning that deals Electro DMG. ·Charge Level 2: Fires off a Shadowpiercing Shot which can pierce enemies, dealing Electro DMG to enemies along its path. After the Shadowpiercing Shot is fully charged, Sethos cannot move around.  Plunging Attack Fires off a shower of arrows in mid-air before falling and striking the ground, dealing AoE DMG upon impact.",
             "DescriptionCN": "普通攻击 进行至多三段的连续弓箭射击。  重击 进行伤害更高、更为精准的瞄准射击。 瞄准时，雷霆的力量会在箭矢上持续积聚，并随攻击发射出去。根据蓄力时间长短，能造成不同的效果： ·一段蓄力：射出附有雷元素的箭矢，造成雷元素伤害； ·二段蓄力：发射能穿透敌人的贯影箭，对路径上的敌人造成雷元素伤害。贯影箭完成蓄力后，赛索斯将无法进行移动。  下落攻击 从空中射出箭雨，并迅速下坠冲击地面，在落地时造成范围伤害。",
-            "DescriptionJP": "通常攻撃 最大3段の連続射撃を行う。  重撃 ダメージがより高く、より精確な狙い撃ちを発動する。 照準時、雷霆の力が矢先に集まり、攻撃と共に発射される。チャージの時間により、異なる効果を発動する。 ·1段チャージ：雷元素が集まった矢を放ち、雷元素ダメージを与える。 ·2段チャージ：敵を貫く貫影矢を放ち、経路上の敵に雷元素ダメージを与える。貫影矢のチャージが完了後、セトスは移動できなくなる。  落下攻撃 空中から矢の雨を放ち、凄まじいスピードで落下し地面に衝撃を与え、落下時に範囲ダメージを与える。JP0B",
+            "DescriptionJP": "通常攻撃 最大3段の連続射撃を行う。  重撃 ダメージがより高く、より精確な狙い撃ちを発動する。 照準時、雷霆の力が矢先に集まり、攻撃と共に発射される。チャージの時間により、異なる効果を発動する。 ·1段チャージ：雷元素が集まった矢を放ち、雷元素ダメージを与える。 ·2段チャージ：敵を貫く貫影の矢を放ち、経路上の敵に雷元素ダメージを与える。貫影の矢のチャージが完了すると、セトスは移動できなくなる。  落下攻撃 空中から矢の雨を放ち、凄まじいスピードで落下し地面に衝撃を与え、落下時に範囲ダメージを与える。",
             "maxlevel": 15,
             "levelmultiplier": [
                 {
@@ -176,7 +176,7 @@
                         "3段ダメージ|{param4:F1P}",
                         "狙い撃ち|{param5:F1P}",
                         "1段チャージ狙い撃ち|{param6:F1P}",
-                        "貫影矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
+                        "貫影の矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
                         "落下期間のダメージ|{param9:F1P}",
                         "低空/高空落下攻撃ダメージ|{param10:F1P}/{param11:F1P}",
                         "",
@@ -255,7 +255,7 @@
                         "3段ダメージ|{param4:F1P}",
                         "狙い撃ち|{param5:F1P}",
                         "1段チャージ狙い撃ち|{param6:F1P}",
-                        "貫影矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
+                        "貫影の矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
                         "落下期間のダメージ|{param9:F1P}",
                         "低空/高空落下攻撃ダメージ|{param10:F1P}/{param11:F1P}",
                         "",
@@ -334,7 +334,7 @@
                         "3段ダメージ|{param4:F1P}",
                         "狙い撃ち|{param5:F1P}",
                         "1段チャージ狙い撃ち|{param6:F1P}",
-                        "貫影矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
+                        "貫影の矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
                         "落下期間のダメージ|{param9:F1P}",
                         "低空/高空落下攻撃ダメージ|{param10:F1P}/{param11:F1P}",
                         "",
@@ -413,7 +413,7 @@
                         "3段ダメージ|{param4:F1P}",
                         "狙い撃ち|{param5:F1P}",
                         "1段チャージ狙い撃ち|{param6:F1P}",
-                        "貫影矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
+                        "貫影の矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
                         "落下期間のダメージ|{param9:F1P}",
                         "低空/高空落下攻撃ダメージ|{param10:F1P}/{param11:F1P}",
                         "",
@@ -492,7 +492,7 @@
                         "3段ダメージ|{param4:F1P}",
                         "狙い撃ち|{param5:F1P}",
                         "1段チャージ狙い撃ち|{param6:F1P}",
-                        "貫影矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
+                        "貫影の矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
                         "落下期間のダメージ|{param9:F1P}",
                         "低空/高空落下攻撃ダメージ|{param10:F1P}/{param11:F1P}",
                         "",
@@ -571,7 +571,7 @@
                         "3段ダメージ|{param4:F1P}",
                         "狙い撃ち|{param5:F1P}",
                         "1段チャージ狙い撃ち|{param6:F1P}",
-                        "貫影矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
+                        "貫影の矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
                         "落下期間のダメージ|{param9:F1P}",
                         "低空/高空落下攻撃ダメージ|{param10:F1P}/{param11:F1P}",
                         "",
@@ -650,7 +650,7 @@
                         "3段ダメージ|{param4:F1P}",
                         "狙い撃ち|{param5:F1P}",
                         "1段チャージ狙い撃ち|{param6:F1P}",
-                        "貫影矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
+                        "貫影の矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
                         "落下期間のダメージ|{param9:F1P}",
                         "低空/高空落下攻撃ダメージ|{param10:F1P}/{param11:F1P}",
                         "",
@@ -729,7 +729,7 @@
                         "3段ダメージ|{param4:F1P}",
                         "狙い撃ち|{param5:F1P}",
                         "1段チャージ狙い撃ち|{param6:F1P}",
-                        "貫影矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
+                        "貫影の矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
                         "落下期間のダメージ|{param9:F1P}",
                         "低空/高空落下攻撃ダメージ|{param10:F1P}/{param11:F1P}",
                         "",
@@ -808,7 +808,7 @@
                         "3段ダメージ|{param4:F1P}",
                         "狙い撃ち|{param5:F1P}",
                         "1段チャージ狙い撃ち|{param6:F1P}",
-                        "貫影矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
+                        "貫影の矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
                         "落下期間のダメージ|{param9:F1P}",
                         "低空/高空落下攻撃ダメージ|{param10:F1P}/{param11:F1P}",
                         "",
@@ -887,7 +887,7 @@
                         "3段ダメージ|{param4:F1P}",
                         "狙い撃ち|{param5:F1P}",
                         "1段チャージ狙い撃ち|{param6:F1P}",
-                        "貫影矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
+                        "貫影の矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
                         "落下期間のダメージ|{param9:F1P}",
                         "低空/高空落下攻撃ダメージ|{param10:F1P}/{param11:F1P}",
                         "",
@@ -966,7 +966,7 @@
                         "3段ダメージ|{param4:F1P}",
                         "狙い撃ち|{param5:F1P}",
                         "1段チャージ狙い撃ち|{param6:F1P}",
-                        "貫影矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
+                        "貫影の矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
                         "落下期間のダメージ|{param9:F1P}",
                         "低空/高空落下攻撃ダメージ|{param10:F1P}/{param11:F1P}",
                         "",
@@ -1045,7 +1045,7 @@
                         "3段ダメージ|{param4:F1P}",
                         "狙い撃ち|{param5:F1P}",
                         "1段チャージ狙い撃ち|{param6:F1P}",
-                        "貫影矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
+                        "貫影の矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
                         "落下期間のダメージ|{param9:F1P}",
                         "低空/高空落下攻撃ダメージ|{param10:F1P}/{param11:F1P}",
                         "",
@@ -1124,7 +1124,7 @@
                         "3段ダメージ|{param4:F1P}",
                         "狙い撃ち|{param5:F1P}",
                         "1段チャージ狙い撃ち|{param6:F1P}",
-                        "貫影矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
+                        "貫影の矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
                         "落下期間のダメージ|{param9:F1P}",
                         "低空/高空落下攻撃ダメージ|{param10:F1P}/{param11:F1P}",
                         "",
@@ -1203,7 +1203,7 @@
                         "3段ダメージ|{param4:F1P}",
                         "狙い撃ち|{param5:F1P}",
                         "1段チャージ狙い撃ち|{param6:F1P}",
-                        "貫影矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
+                        "貫影の矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
                         "落下期間のダメージ|{param9:F1P}",
                         "低空/高空落下攻撃ダメージ|{param10:F1P}/{param11:F1P}",
                         "",
@@ -1282,7 +1282,7 @@
                         "3段ダメージ|{param4:F1P}",
                         "狙い撃ち|{param5:F1P}",
                         "1段チャージ狙い撃ち|{param6:F1P}",
-                        "貫影矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
+                        "貫影の矢ダメージ|攻撃力{param7:F1P}+元素熟知{param8:F1P}",
                         "落下期間のダメージ|{param9:F1P}",
                         "低空/高空落下攻撃ダメージ|{param10:F1P}/{param11:F1P}",
                         "",
@@ -1323,11 +1323,11 @@
             "id": 1,
             "ENname": "Ancient Rite: The Thundering Sands",
             "CNname": "古仪·鸣砂掣雷",
-            "JAname": "古儀·鳴砂掣雷JP0B",
+            "JAname": "古儀·鳴砂牽雷",
             "imageurl": "images/talent/10000097-1.webp",
-            "DescriptionEN": "Gathers the might of thunder, dealing AoE Electro DMG to enemies in front and quickly retreating. If this attack triggers Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or Electro Swirl reactions, Sethos recovers a certain amount of Elemental Energy.  \"The God indwelt Priest, the Magi who turned pits to springs, the singers of the sea of sand still spread their stories... But I know those are not legends, for they are our ancestors.\"",
-            "DescriptionCN": "凝集轰雷，对前方的敌人造成雷元素范围伤害并快速后退。如果此次攻击对敌人触发了感电、超导、超载、原激化、超激化、超绽放或雷元素扩散反应，赛索斯将恢复一定的元素能量。  「神灵凭依的司祭、点穴成泉的术师，沙海的歌者间流传着他们的故事…但我知道那并非传说，因为他们就是我们的先辈。」",
-            "DescriptionJP": "轟雷を集め、前方の敵に雷元素範囲ダメージを与えて素早く後退する。この攻撃で敵に感電、超電導、過負荷、原激化、超激化、超開花または雷元素拡散反応を起こすと、セトスは一定の元素エネルギーを回復する。  「神霊に憑依する司祭、穴を泉に変える術師…砂海の歌い手の間で彼らの物語が語り継がれてる。僕はそれが伝説でないことを知ってる。何故なら、彼らは我々の先祖だからだ。」JP0B",
+            "DescriptionEN": "Gathers the might of thunder, dealing AoE Electro DMG and quickly retreating. If this attack triggers Electro-Charged, Superconduct, Overloaded, Quicken, Aggravate, Hyperbloom, or Electro Swirl reactions, Sethos recovers a certain amount of Elemental Energy.  \"The God indwelt Priest, the Magi who turned pits to springs, the singers of the sea of sand still spread their stories... But I know those are not legends, for they are our ancestors.\"",
+            "DescriptionCN": "凝集轰雷，造成雷元素范围伤害并快速后退。如果此次攻击对敌人触发了感电、超导、超载、原激化、超激化、超绽放或雷元素扩散反应，赛索斯将恢复一定的元素能量。  「神灵凭依的司祭、点穴成泉的术师，沙海的歌者间流传着他们的故事…但我知道那并非传说，因为他们就是我们的先辈。」",
+            "DescriptionJP": "轟雷を集めて雷元素範囲ダメージを与え、素早く後退する。この攻撃で敵に感電、超電導、過負荷、原激化、超激化、超開花または雷元素拡散反応を起こすと、セトスは元素エネルギーを一定値回復する。  「神霊に憑依する司祭、穴を泉に変える術師…砂海の歌い手の間ではそういう人たちの物語が語り継がれてるけど、僕はそれが伝説じゃないって知ってる。だって、彼らは僕たちのご先祖様なんだ。」",
             "maxlevel": 15,
             "levelmultiplier": [
                 {
@@ -2521,11 +2521,11 @@
             "id": 2,
             "ENname": "Secret Rite: Twilight Shadowpiercer",
             "CNname": "秘仪·瞑光贯影",
-            "JAname": "秘儀·冥光貫影JP0B",
+            "JAname": "秘儀·冥光瞑影",
             "imageurl": "images/talent/10000097-2.webp",
             "DescriptionEN": "Perform a secret rite, entering the \"Twilight Meditation\" state, during which Sethos's Normal Attacks will be converted into enemy-piercing Dusk Bolts: Deal Electro DMG to opponents in its path, with DMG increased based on Sethos's Elemental Mastery. DMG dealt by Dusk Bolts is considered Charged Attack DMG. This effect will be canceled when Sethos leaves the field.  The archives of the Temple of Silence preserve many tomes left behind by Akhtamun, from the era of King Deshret. Many secret rituals of great power are recorded within, but even among the Temple of Silence, very few could master them.",
-            "DescriptionCN": "施展秘仪，进入「寂想瞑影」状态，在此期间，赛索斯的普通攻击将转为发射能穿透敌人的暝弦矢：对路径上的敌人造成雷元素伤害，并基于赛索斯的元素精通，提升其造成的伤害。 暝弦矢造成的伤害视为重击伤害。 效果将在赛索斯退场时解除。  缄默之殿的藏书室中保存着不少从赤王时代的阿赫塔蒙遗留下来的书籍，书中记载了许多威力强大的秘仪。但即便在缄默之殿中，也只有少数人能够习得掌握它们的力量。",
-            "DescriptionJP": "秘儀を行い、「静想冥影」状態に入る。その間、セトスの通常攻撃は敵を貫く冥弦矢に変化する。経路上の敵に雷元素ダメージを与え、セトスの元素熟知を基に与えるダメージをアップする。 冥弦矢によるダメージは重撃ダメージとみなされる。 効果はセトスが退場する時に解除される。  沈黙の殿の書庫には、キングデシェレト時代のアフタモンから残された書籍が数多く所蔵されている。本には強力な秘儀が数多く記されている。しかし沈黙の殿の中でも、それらの力を掌握できる人はごくわずかだ。JP0B",
+            "DescriptionCN": "施展秘仪，进入「寂想瞑影」状态，在此期间，赛索斯的普通攻击将转为发射能穿透敌人的瞑弦矢：对路径上的敌人造成雷元素伤害，并基于赛索斯的元素精通，提升其造成的伤害。 瞑弦矢造成的伤害视为重击伤害。 效果将在赛索斯退场时解除。  缄默之殿的藏书室中保存着不少从赤王时代的阿赫塔蒙遗留下来的书籍，书中记载了许多威力强大的秘仪。但即便在缄默之殿中，也只有少数人能够习得掌握它们的力量。",
+            "DescriptionJP": "秘儀を行い、「静思瞑影」状態に入る。その間、セトスの通常攻撃は敵を貫く瞑弦の矢に変化する。経路上の敵に雷元素ダメージを与え、セトスの元素熟知を基に与えるダメージをアップする。 瞑弦の矢によるダメージは重撃ダメージとして扱われる。 この状態はセトスが退場すると解除される。  沈黙の殿の書庫には、キングデシェレト時代のアフタモンの書籍が数多く所蔵されている。本には強力な秘儀が数多く記されているが、沈黙の殿の中でも、それらの力を掌握できる者はごくわずかだ。",
             "maxlevel": 15,
             "levelmultiplier": [
                 {
@@ -2568,7 +2568,7 @@
                     ],
                     "DescriptionJP": [
                         "冥弦矢ダメージアップ|元素熟知{param1:F1P}",
-                        "静想冥影の継続時間|{param2:F1}秒",
+                        "静思瞑影の継続時間|{param2:F1}秒",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -2585,7 +2585,7 @@
                         ""
                     ],
                     "params": [
-                        1.7056000232697,
+                        1.961599946022,
                         8,
                         15,
                         60,
@@ -2647,7 +2647,7 @@
                     ],
                     "DescriptionJP": [
                         "冥弦矢ダメージアップ|元素熟知{param1:F1P}",
-                        "静想冥影の継続時間|{param2:F1}秒",
+                        "静思瞑影の継続時間|{param2:F1}秒",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -2664,7 +2664,7 @@
                         ""
                     ],
                     "params": [
-                        1.8335200548172,
+                        2.1087200641632,
                         8,
                         15,
                         60,
@@ -2726,7 +2726,7 @@
                     ],
                     "DescriptionJP": [
                         "冥弦矢ダメージアップ|元素熟知{param1:F1P}",
-                        "静想冥影の継続時間|{param2:F1}秒",
+                        "静思瞑影の継続時間|{param2:F1}秒",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -2743,7 +2743,7 @@
                         ""
                     ],
                     "params": [
-                        1.9614399671555,
+                        2.2558400630951,
                         8,
                         15,
                         60,
@@ -2805,7 +2805,7 @@
                     ],
                     "DescriptionJP": [
                         "冥弦矢ダメージアップ|元素熟知{param1:F1P}",
-                        "静想冥影の継続時間|{param2:F1}秒",
+                        "静思瞑影の継続時間|{param2:F1}秒",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -2822,7 +2822,7 @@
                         ""
                     ],
                     "params": [
-                        2.1319999694824,
+                        2.4519999027252,
                         8,
                         15,
                         60,
@@ -2884,7 +2884,7 @@
                     ],
                     "DescriptionJP": [
                         "冥弦矢ダメージアップ|元素熟知{param1:F1P}",
-                        "静想冥影の継続時間|{param2:F1}秒",
+                        "静思瞑影の継続時間|{param2:F1}秒",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -2901,7 +2901,7 @@
                         ""
                     ],
                     "params": [
-                        2.2599198818207,
+                        2.5991199016571,
                         8,
                         15,
                         60,
@@ -2963,7 +2963,7 @@
                     ],
                     "DescriptionJP": [
                         "冥弦矢ダメージアップ|元素熟知{param1:F1P}",
-                        "静想冥影の継続時間|{param2:F1}秒",
+                        "静思瞑影の継続時間|{param2:F1}秒",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -2980,7 +2980,7 @@
                         ""
                     ],
                     "params": [
-                        2.3878400325775,
+                        2.746239900589,
                         8,
                         15,
                         60,
@@ -3042,7 +3042,7 @@
                     ],
                     "DescriptionJP": [
                         "冥弦矢ダメージアップ|元素熟知{param1:F1P}",
-                        "静想冥影の継続時間|{param2:F1}秒",
+                        "静思瞑影の継続時間|{param2:F1}秒",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -3059,7 +3059,7 @@
                         ""
                     ],
                     "params": [
-                        2.5583999156952,
+                        2.9423999786377,
                         8,
                         15,
                         60,
@@ -3121,7 +3121,7 @@
                     ],
                     "DescriptionJP": [
                         "冥弦矢ダメージアップ|元素熟知{param1:F1P}",
-                        "静想冥影の継続時間|{param2:F1}秒",
+                        "静思瞑影の継続時間|{param2:F1}秒",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -3138,7 +3138,7 @@
                         ""
                     ],
                     "params": [
-                        2.7289600372314,
+                        3.1385600566864,
                         8,
                         15,
                         60,
@@ -3200,7 +3200,7 @@
                     ],
                     "DescriptionJP": [
                         "冥弦矢ダメージアップ|元素熟知{param1:F1P}",
-                        "静想冥影の継続時間|{param2:F1}秒",
+                        "静思瞑影の継続時間|{param2:F1}秒",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -3217,7 +3217,7 @@
                         ""
                     ],
                     "params": [
-                        2.8995199203491,
+                        3.3347198963165,
                         8,
                         15,
                         60,
@@ -3279,7 +3279,7 @@
                     ],
                     "DescriptionJP": [
                         "冥弦矢ダメージアップ|元素熟知{param1:F1P}",
-                        "静想冥影の継続時間|{param2:F1}秒",
+                        "静思瞑影の継続時間|{param2:F1}秒",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -3296,7 +3296,7 @@
                         ""
                     ],
                     "params": [
-                        3.0700800418854,
+                        3.5308799743652,
                         8,
                         15,
                         60,
@@ -3358,7 +3358,7 @@
                     ],
                     "DescriptionJP": [
                         "冥弦矢ダメージアップ|元素熟知{param1:F1P}",
-                        "静想冥影の継続時間|{param2:F1}秒",
+                        "静思瞑影の継続時間|{param2:F1}秒",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -3375,7 +3375,7 @@
                         ""
                     ],
                     "params": [
-                        3.2406399250031,
+                        3.7270400524139,
                         8,
                         15,
                         60,
@@ -3437,7 +3437,7 @@
                     ],
                     "DescriptionJP": [
                         "冥弦矢ダメージアップ|元素熟知{param1:F1P}",
-                        "静想冥影の継続時間|{param2:F1}秒",
+                        "静思瞑影の継続時間|{param2:F1}秒",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -3454,7 +3454,7 @@
                         ""
                     ],
                     "params": [
-                        3.4112000465393,
+                        3.9231998920441,
                         8,
                         15,
                         60,
@@ -3516,7 +3516,7 @@
                     ],
                     "DescriptionJP": [
                         "冥弦矢ダメージアップ|元素熟知{param1:F1P}",
-                        "静想冥影の継続時間|{param2:F1}秒",
+                        "静思瞑影の継続時間|{param2:F1}秒",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -3533,7 +3533,7 @@
                         ""
                     ],
                     "params": [
-                        3.6243999004364,
+                        4.168399810791,
                         8,
                         15,
                         60,
@@ -3595,7 +3595,7 @@
                     ],
                     "DescriptionJP": [
                         "冥弦矢ダメージアップ|元素熟知{param1:F1P}",
-                        "静想冥影の継続時間|{param2:F1}秒",
+                        "静思瞑影の継続時間|{param2:F1}秒",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -3612,7 +3612,7 @@
                         ""
                     ],
                     "params": [
-                        3.8375999927521,
+                        4.4135999679565,
                         8,
                         15,
                         60,
@@ -3674,7 +3674,7 @@
                     ],
                     "DescriptionJP": [
                         "冥弦矢ダメージアップ|元素熟知{param1:F1P}",
-                        "静想冥影の継続時間|{param2:F1}秒",
+                        "静思瞑影の継続時間|{param2:F1}秒",
                         "クールタイム|{param3:F1}秒",
                         "元素エネルギー|{param4:I}",
                         "",
@@ -3691,7 +3691,7 @@
                         ""
                     ],
                     "params": [
-                        4.0507998466492,
+                        4.6588001251221,
                         8,
                         15,
                         60,
@@ -3719,11 +3719,11 @@
             "id": 3,
             "ENname": "Black Kite's Enigma",
             "CNname": "黑鸢的密喻",
-            "JAname": "黒鳶の密諭JP0B",
+            "JAname": "黒鳶の謎掛",
             "imageurl": "images/talent/10000097-3.webp",
-            "DescriptionEN": "When Aiming, the charging time is decreased by 0.285s based on each point of Sethos's current Elemental Energy that is not over 20. Charging time can be reduced to a minimum of 0.3s through this method. If a Shadowpiercing Shot is fired, consume the corresponding amount of Elemental Energy; if it is a Charge Level 1 shot, then consume 50% of the corresponding amount of Elemental Energy.",
-            "DescriptionCN": "瞄准射击时，依据赛索斯当前元素能量不超过20点的部分，每1点元素能量将使蓄力时间减少0.285秒，通过这种方式，至多使蓄力时间降低至0.3秒；发射时，若发射的是贯影箭，将消耗对应的元素能量；如果发射的是一段蓄力的箭矢，则消耗对应元素能量的50%。",
-            "DescriptionJP": "狙い撃ち射撃をするとき、セトスの現在の元素エネルギーが20以下の部分を基に、元素エネルギーが1につき、チャージ時間-0.285秒。この方法でチャージ時間は最大0.3秒になるまで短縮可能。発射時、発射したのが貫影矢の場合、対応する元素エネルギーを消費する。発射したのが1段チャージの矢の場合、対応する元素エネルギーの50%を消費する。JP0B",
+            "DescriptionEN": "When Aiming, the charging time is decreased by 0.285s based on each point of Sethos's current Elemental Energy. Charging time can be reduced to a minimum of 0.3s through this method and a maximum of 20 Energy can be tallied. If a Shadowpiercing Shot is fired, consume the tallied amount of Elemental Energy; if it is a Charge Level 1 shot, then consume 50% of the tallied amount of Elemental Energy.",
+            "DescriptionCN": "瞄准射击时，赛索斯每1点当前元素能量都将使蓄力时间减少0.285秒，通过这种方式，至多使蓄力时间降低至0.3秒并计入20点元素能量；发射时，若发射的是贯影箭，将消耗计入的元素能量；如果发射的是一段蓄力的箭矢，则消耗计入元素能量的50%。",
+            "DescriptionJP": "狙い撃ち射撃をするとき、セトスの現在の元素エネルギーが1ポイントにつき、チャージ時間-0.285秒。この方法で、チャージ時間は0.3秒になるまで短縮でき、最大20ポイントの元素エネルギーをカウントする。発射時、発射した矢が貫影の矢であった場合、カウントした元素エネルギーを消費する。また、発射した矢が1段チャージの矢であった場合、カウントした元素エネルギーの50%を消費する。JP0B",
             "maxlevel": 0,
             "levelmultiplier": []
         },
@@ -3731,19 +3731,19 @@
             "id": 4,
             "ENname": "The Sand King's Boon",
             "CNname": "砂王的赐礼",
-            "JAname": "砂王の賜物JP0B",
+            "JAname": "砂王からの賜物",
             "imageurl": "images/talent/10000097-4.webp",
-            "DescriptionEN": "Every 15s, Sethos gains the \"Scorching Sandshade\" effect, increasing the DMG dealt by Shadowpiercing Shots by 600% of Sethos's Elemental Mastery. The Scorching Sandshade effect lasts for up to 5s, and will be removed after 4 Shadowpiercing Shots strike opponents. When the first Shadowpiercing Shot affected by Scorching Sandshade hits an opponent, the timer for Scorching Sandshade's expiration will be reset.",
-            "DescriptionCN": "赛索斯每15秒会获得「热砂炫影」效果，使贯影箭造成的伤害值提升，提升值相当于赛索斯的元素精通的600%。 热砂炫影效果至多持续5秒，将在4枚贯影箭命中敌人后移除。本次热砂炫影效果下的首枚贯影箭命中敌人时，将重新开始产生热砂炫影效果的计时。",
-            "DescriptionJP": "セトスは15秒毎に「熱砂の影」効果を獲得し、貫影矢の与えるダメージをセトスの元素熟知の600%分アップする。 熱砂の影効果は最大5秒間継続し、4本の貫影矢が敵に命中した後に解除される。今回の熱砂の影効果にある最初の貫影矢が敵に命中した時、熱砂の影効果のカウントダウンがリセットされる。JP0B",
+            "DescriptionEN": "Sethos gains the \"Scorching Sandshade\" effect, increasing the DMG dealt by Shadowpiercing Shots by 600% of Sethos's Elemental Mastery. The Scorching Sandshade effect will be canceled when any of the following conditions are met: · 5s after a Shadowpiercing Shot first hits an opponent. · After 4 Shadowpiercing Shots strike opponents.   When a Shadowpiercing Shot affected by Scorching Sandshade first hits an opponent, Sethos will regain Scorching Sandshade after 15s.",
+            "DescriptionCN": "赛索斯获得「热砂炫影」效果，使贯影箭造成的伤害值提升，提升值相当于赛索斯的元素精通的700%。 热砂炫影期间满足以下任意条件时效果将被移除： ·贯影箭首次命中敌人5秒后； ·4枚贯影箭命中敌人后。  热砂炫影效果下的贯影箭首次命中敌人15秒后将重新获得热砂炫影效果。",
+            "DescriptionJP": "セトスは「熱砂の眩影」効果を獲得し、貫影の矢の与えるダメージをセトスの元素熟知の600%分アップする。 熱砂の眩影効果の間、後述のどちらかの条件を満たした場合、効果は解除される。 ·貫影の矢が最初に敵に命中した5秒後。 ·4本の貫影の矢が敵に命中した後。  熱砂の眩影効果にある貫影の矢が最初に敵に命中した15秒後、再び熱砂の眩影効果を獲得する。JP0B",
             "maxlevel": 0,
             "levelmultiplier": []
         },
         {
             "id": 5,
-            "ENname": "Reflected Revelation",
+            "ENname": "Thoth's Revelation",
             "CNname": "猿月的显迹",
-            "JAname": "猿月の顕現JP0B",
+            "JAname": "捉月の顕現",
             "imageurl": "images/talent/10000097-5.webp",
             "DescriptionEN": "Displays the location of nearby resources unique to Sumeru on the mini-map.",
             "DescriptionCN": "在小地图上显示周围的须弥区域特产的位置。",
@@ -3757,55 +3757,55 @@
             "level": 1,
             "ENname": "Sealed Shrine's Spiritsong",
             "CNname": "封龛谒灵歌",
-            "JAname": "封龕謁霊歌JP0B",
+            "JAname": "封龕謁霊歌",
             "DescriptionEN": "The CRIT Rate of Shadowpiercing Shot is increased by 15%.",
             "DescriptionCN": "贯影箭的暴击率提升15%。",
-            "DescriptionJP": "貫影矢の会心率+15%。JP0B"
+            "DescriptionJP": "貫影の矢の会心率+15%。"
         },
         {
             "level": 2,
             "ENname": "Papyrus Scripture of Silent Secrets",
             "CNname": "寂秘纸草经",
-            "JAname": "寂秘紙草経JP0B",
-            "DescriptionEN": "When the following conditions are met, Sethos gains a 15% Electro DMG Bonus for 10s (may stack up to 2 times, counted independently): ·Regaining Elemental Energy via Ancient Rite: The Thundering Sands; ·Using Secret Rite: Twilight Shadowpiercer; ·Consuming Elemental Energy through the Passive Talent \"Black Kite's Enigma.\" You must first unlock \"Black Kite's Enigma.\"",
-            "DescriptionCN": "赛索斯施放秘仪·瞑光贯影，或在满足以下任意一项条件时，雷元素伤害加成提升15%，持续10秒： ·通过固有天赋「黑鸢的密喻」的效果消耗元素能量，此条件需要解锁固有天赋「黑鸢的密喻」； ·通过古仪·鸣砂掣雷恢复元素能量。 该雷元素伤害加成提升效果重复触发时至多叠加2层，每层独立计时。",
-            "DescriptionJP": "以下の条件を満たすと、セトスの雷元素ダメージ+15%、継続時間10秒、最大2層まで。継続時間は層ごとに独立してカウントされる。 ·古儀·鳴砂掣雷で元素エネルギーを回復した時。 ·秘儀·冥光貫影を発動時。 ·固有天賦「黒鳶の密諭」の効果で元素エネルギーを消費した時。固有天賦「黒鳶の密諭」を解放する必要がある。JP0B"
+            "JAname": "寂秘草紙経",
+            "DescriptionEN": "When Sethos uses Secret Rite: Twilight Shadowpiercer or meets any of the following conditions, he gains a 15% Electro DMG Bonus for 10s: · Consuming Elemental Energy through the Passive Talent \"Black Kite's Enigma.\" You must first unlock \"Black Kite's Enigma.\" · Regaining Elemental Energy via Ancient Rite: The Thundering Sands. When triggered multiple times, this Electro DMG Bonus effect can stack twice. Each stack duration is counted independently.",
+            "DescriptionCN": "满足以下任意一项条件时，赛索斯的雷元素伤害加成提升15%，持续10秒，至多叠加2层，每层独立计时： ·通过瞄准射击消耗元素能量，此条件需要解锁固有天赋「黑鸢的密喻」； ·通过古仪·鸣砂掣雷触发元素反应恢复元素能量； ·施放秘仪·瞑光贯影。",
+            "DescriptionJP": "セトスが秘儀·冥光瞑影を発動した場合、あるいは後述のどちらかの条件を満たした場合、雷元素ダメージ+15%、継続時間10秒。 ·固有天賦「黒鳶の謎掛」の効果でエネルギーを消費する。（固有天賦「黒鳶の謎掛」を解放する必要がある） ·古儀·鳴砂牽雷でエネルギーを回復する。 この雷元素ダメージアップ効果が重複して発動する時、最大2層まで重ね掛け可能。継続時間は層ごとに独立してカウントされる。"
         },
         {
             "level": 3,
             "ENname": "Ode to the Moonrise Sage",
             "CNname": "月升哲贤颂",
-            "JAname": "月昇賢哲頌JP0B",
-            "DescriptionEN": "Increases the Level of Normal Attack: Royal Reed Bowmanship by 3. Maximum upgrade level is 15.",
+            "JAname": "昇月賢哲頌",
+            "DescriptionEN": "Increases the Level of Normal Attack: Royal Reed Archery by 3. Maximum upgrade level is 15.",
             "DescriptionCN": "普通攻击·王家苇箭术的技能等级提高3级。 至多提升至15级。",
-            "DescriptionJP": "通常攻撃·王家の葦矢弓術のスキルLv.+3。 最大Lv.15まで。JP0B"
+            "DescriptionJP": "通常攻撃·王家の弓術·葦ノ矢のスキルLv.+3。 最大Lv.15まで。"
         },
         {
             "level": 4,
             "ENname": "Beneficent Plumage",
             "CNname": "真念鸵羽集",
-            "JAname": "真念駝羽集JP0B",
+            "JAname": "真念駝羽集",
             "DescriptionEN": "When Shadowpiercing Shot or Dusk Bolt strike 2 or more opponents, all nearby party members gain 80 Elemental Mastery for 10s.",
-            "DescriptionCN": "贯影箭或暝弦矢命中2名及以上的敌人时，队伍中附近的所有角色的元素精通提升80点，持续10秒。",
-            "DescriptionJP": "貫影矢と冥弦矢が2体以上の敵に命中した時、周囲チーム全員の元素熟知+80、継続時間10秒。JP0B"
+            "DescriptionCN": "贯影箭或瞑弦矢命中2名及以上的敌人时，队伍中附近的所有角色的元素精通提升80点，持续10秒。",
+            "DescriptionJP": "貫影の矢または瞑弦の矢が2体以上の敵に命中した時、周囲のチーム全員の元素熟知+80、継続時間10秒。"
         },
         {
             "level": 5,
             "ENname": "Record of the Desolate God's Burning Sands",
             "CNname": "荒神烈沙录",
-            "JAname": "荒神烈砂録JP0B",
+            "JAname": "荒神烈砂録",
             "DescriptionEN": "Increases the Level of Secret Rite: Twilight Shadowpiercer by 3. Maximum upgrade level is 15.",
             "DescriptionCN": "秘仪·瞑光贯影的技能等级提高3级。 至多提升至15级。",
-            "DescriptionJP": "秘儀·冥光貫影のスキルLv.+3。 最大Lv.15まで。JP0B"
+            "DescriptionJP": "秘儀·冥光瞑影のスキルLv.+3。 最大Lv.15まで。"
         },
         {
             "level": 6,
-            "ENname": "Tome of the Sojourning Sun Temple",
+            "ENname": "Pylon of the Sojourning Sun Temple",
             "CNname": "巡日塔门书",
-            "JAname": "巡日塔門書JP0B",
+            "JAname": "巡日塔門書",
             "DescriptionEN": "After Shadowpiercing Shot strikes an opponent, the Elemental Energy consumed by the Passive Talent \"Black Kite's Enigma\" will be returned. This effect can be triggered up to once every 15s. You must first unlock the Passive Talent \"Black Kite's Enigma.\"",
             "DescriptionCN": "贯影箭命中敌人后，将返还因固有天赋「黑鸢的密喻」消耗的元素能量，此效果每15秒至多触发一次，需要解锁固有天赋「黑鸢的密喻」。",
-            "DescriptionJP": "貫影矢が敵に命中した後、固有天賦「黒鳶の密諭」によって消費された元素エネルギーが返還される。この効果は15秒毎に1回のみ発動可能。固有天賦「黒鳶の密諭」を解放する必要がある。JP0B"
+            "DescriptionJP": "貫影の矢が敵に命中した後、固有天賦「黒鳶の謎掛」によって消費された元素エネルギーが返還される。この効果は15秒毎に1回のみ発動可能。固有天賦「黒鳶の謎掛」を解放する必要がある。"
         }
     ]
 }
