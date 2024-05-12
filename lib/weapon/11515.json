@@ -2,7 +2,7 @@
     "id": "11515",
     "ENname": "Absolution",
     "CNname": "赦罪",
-    "JAname": "アブソリューションJP0B",
+    "JAname": "赦罪",
     "imageurl": "images/weapon/11515.webp",
     "type": "sword",
     "rarity": 5,
@@ -108,11 +108,11 @@
             "id": 0,
             "name": "Deathly Pact",
             "upgrade": {
-                "0": "CRIT DMG increased by 20%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 12% for 6s. Max 3 stacks.",
-                "1": "CRIT DMG increased by 25%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 15% for 6s. Max 3 stacks.",
-                "2": "CRIT DMG increased by 30%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 18% for 6s. Max 3 stacks.",
-                "3": "CRIT DMG increased by 35%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 21% for 6s. Max 3 stacks.",
-                "4": "CRIT DMG increased by 40%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 24% for 6s. Max 3 stacks."
+                "0": "CRIT DMG increased by 20%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 16% for 6s. Max 3 stacks.",
+                "1": "CRIT DMG increased by 25%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 20% for 6s. Max 3 stacks.",
+                "2": "CRIT DMG increased by 30%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 24% for 6s. Max 3 stacks.",
+                "3": "CRIT DMG increased by 35%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 28% for 6s. Max 3 stacks.",
+                "4": "CRIT DMG increased by 40%. Increasing the value of a Bond of Life increases the DMG the equipping character deals by 32% for 6s. Max 3 stacks."
             }
         },
         "chs": {
@@ -128,13 +128,13 @@
         },
         "jp": {
             "id": 0,
-            "name": "死の契約JP0B",
+            "name": "死の契約",
             "upgrade": {
-                "0": "会心ダメージ+20%。命の契約の数値が増加する時、装備者の与えるダメージ+12%。この効果の継続時間は6秒、最大3層まで重ね掛け可能。JP0B",
-                "1": "会心ダメージ+25%。命の契約の数値が増加する時、装備者の与えるダメージ+15%。この効果の継続時間は6秒、最大3層まで重ね掛け可能。JP0B",
-                "2": "会心ダメージ+30%。命の契約の数値が増加する時、装備者の与えるダメージ+18%。この効果の継続時間は6秒、最大3層まで重ね掛け可能。JP0B",
-                "3": "会心ダメージ+35%。命の契約の数値が増加する時、装備者の与えるダメージ+21%。この効果の継続時間は6秒、最大3層まで重ね掛け可能。JP0B",
-                "4": "会心ダメージ+40%。命の契約の数値が増加する時、装備者の与えるダメージ+24%。この効果の継続時間は6秒、最大3層まで重ね掛け可能。JP0B"
+                "0": "会心ダメージ+20%。命の契約の数値が増加する時、装備者の与えるダメージ+16%。継続時間6秒、最大3層まで重ね掛け可能。",
+                "1": "会心ダメージ+25%。命の契約の数値が増加する時、装備者の与えるダメージ+20%。継続時間6秒、最大3層まで重ね掛け可能。",
+                "2": "会心ダメージ+30%。命の契約の数値が増加する時、装備者の与えるダメージ+24%。継続時間6秒、最大3層まで重ね掛け可能。",
+                "3": "会心ダメージ+35%。命の契約の数値が増加する時、装備者の与えるダメージ+28%。継続時間6秒、最大3層まで重ね掛け可能。",
+                "4": "会心ダメージ+40%。命の契約の数値が増加する時、装備者の与えるダメージ+32%。継続時間6秒、最大3層まで重ね掛け可能。"
             }
         }
     }

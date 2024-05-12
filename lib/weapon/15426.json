@@ -1,8 +1,8 @@
 {
     "id": "15426",
-    "ENname": "Cloudweaver",
+    "ENname": "Cloudforged",
     "CNname": "筑云",
-    "JAname": "築雲JP0B",
+    "JAname": "築雲",
     "imageurl": "images/weapon/15426.webp",
     "type": "bow",
     "rarity": 4,
@@ -106,7 +106,7 @@
     "refinement": {
         "en": {
             "id": 0,
-            "name": "Crag-Chiseled Cubes",
+            "name": "Crag-Chiseled Forge",
             "upgrade": {
                 "0": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by 40 for 18s. Max 2 stacks.",
                 "1": "After Elemental Energy is decreased, the equipping character's Elemental Mastery will increase by 50 for 18s. Max 2 stacks.",
@@ -128,13 +128,13 @@
         },
         "jp": {
             "id": 0,
-            "name": "岩を彫りて台となすJP0B",
+            "name": "岩を彫りて台となす",
             "upgrade": {
-                "0": "元素エネルギーが減少した後、装備者の元素熟知+40。この効果の継続時間は18秒、最大2層まで重ね掛け可能。JP0B",
-                "1": "元素エネルギーが減少した後、装備者の元素熟知+50。この効果の継続時間は18秒、最大2層まで重ね掛け可能。JP0B",
-                "2": "元素エネルギーが減少した後、装備者の元素熟知+60。この効果の継続時間は18秒、最大2層まで重ね掛け可能。JP0B",
-                "3": "元素エネルギーが減少した後、装備者の元素熟知+70。この効果の継続時間は18秒、最大2層まで重ね掛け可能。JP0B",
-                "4": "元素エネルギーが減少した後、装備者の元素熟知+80。この効果の継続時間は18秒、最大2層まで重ね掛け可能。JP0B"
+                "0": "元素エネルギーが減少した後、装備者の元素熟知+40。継続時間18秒、最大2層まで重ね掛け可能。",
+                "1": "元素エネルギーが減少した後、装備者の元素熟知+50。継続時間18秒、最大2層まで重ね掛け可能。",
+                "2": "元素エネルギーが減少した後、装備者の元素熟知+60。継続時間18秒、最大2層まで重ね掛け可能。",
+                "3": "元素エネルギーが減少した後、装備者の元素熟知+70。この効果の継続時間は18秒、最大2層まで重ね掛け可能。",
+                "4": "元素エネルギーが減少した後、装備者の元素熟知+80。継続時間18秒、最大2層まで重ね掛け可能。"
             }
         }
     }
