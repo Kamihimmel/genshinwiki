@@ -12,7 +12,7 @@
         9,
         20
     ],
-    "release": 0,
+    "release": 1717459200,
     "leveldata": [
         {
             "level": "1",
@@ -1325,9 +1325,9 @@
             "CNname": "狩夜之巡",
             "JAname": "夜狩の巡回",
             "imageurl": "images/talent/10000098-1.webp",
-            "DescriptionEN": "Preparing her pistolet, she enters the \"Night Vigil\" state, using steel and shot together. In this state, Clorinde's Normal Attacks will be transformed into \"Swift Hunt\" pistolet attacks, and the DMG dealt is converted into Electro DMG that cannot be overridden by infusions, and she will be unable to use Charged Attacks. Using her Elemental Skill will transform it into \"Impale the Night\": Perform a lunging attack, dealing Electro DMG. The DMG done through the aforementioned method is considered Normal Attack DMG.  Swift Hunt · When her Bond of Life is equal to or greater than 100% of her max HP: Performs a pistolet shot. · When her Bond of Life is less than 100%, firing her pistolet will grant her Bond of Life, with the amount gained based on her max HP. The shots she fires can pierce opponents, and DMG dealt to opponents in their path is increased.  Impale the Night The current percentage value of Clorinde's Bond of Life determines its effect: · When the Bond of Life value is 0%, perform a normal lunging strike; · When the Bond of Life value is less than 100% of her max HP, Clorinde is healed based on the Bond of Life Value, and the AoE of the lunging attack and the DMG dealt is increased; · When the value of the Bond of Life is equal to or greater than 100% of her max HP, use Impale the Night: Pact. The healing multiplier is increased, and the attack AoE and DMG dealt by the lunge is increased even further.  In addition, when Clorinde is in the Night Vigil state, healing effects other than Impale the Night will not take effect and will instead be converted into a Bond of Life that is a percentage of the healing that would have been received.  Clorinde will exit the \"Night Vigil\" state when she leaves the field.  Arkhe: Ousia Periodically, when Clorinde's Swift Hunt shots strike opponents, a Surging Blade will fall on their position, dealing Ousia-aligned Electro DMG.  Though the evil that lurked in the shadows of the night had been purged across thousands of years, a shadow that the light could not reach clouded human hearts. Even now, the warning left by the Golden Hunter is etched into her memory: Those of the Night Vigil, carrying aloft lit candles against the blackness, have greater need still to remain vigilant. Be not corrupted by the cold dark.",
-            "DescriptionCN": "预装铳枪，进入剑枪结合作战的「夜巡」状态。在此状态下，克洛琳德的普通攻击将转为进行铳枪射击「驰猎」，造成的伤害将转为无法被附魔覆盖的雷元素伤害，并且无法进行重击；施放元素战技将转为进行「贯夜」：进行突进剑击，造成雷元素伤害。上述方式造成的伤害视为普通攻击造成的伤害。  驰猎 ·生命之契大于或等于生命值上限的100%时：进行铳枪射击； ·生命之契小于生命值上限的100%时：发射铳枪时基于克洛琳德的生命值上限赋予她一定的生命之契，打出能穿透敌人的弹药，对路径上的敌人造成更高的伤害。  贯夜 根据克洛琳德当前生命之契的百分比，决定此次贯夜的效果： ·生命之契为0%时，将进行突进剑击； ·生命之契小于生命值上限的100%时，将为克洛琳德恢复生命值，回复量基于她的生命之契数值，并提升此次贯夜的范围与造成的伤害； ·生命之契大于或等于生命值上限的100%时，将进行贯夜·契令，为克洛琳德恢复更高比例的生命值，并进一步提升此次贯夜的攻击范围与造成的伤害。  此外，克洛琳德处于夜巡状态下时，贯夜以外的治疗效果将不会生效，并转为为她赋予相当于生命值回复量一定比例的生命之契。  「夜巡」状态将在克洛琳德退场时解除。  始基力：荒性 每隔一段时间，克洛琳德的驰猎命中时，将在敌人的位置降下流涌之刃，造成具有荒性的雷元素伤害。  夜影中潜伏的邪祟之物早已在千年间被诛讨殆尽，然而人心中亦有光明难及的阴影。 时至今日，她依然铭记着「黄金猎人」留下的告诫：点燃烛火的巡夜之人更应时刻保持警惕，莫要被冰冷的黑暗浸染。",
-            "DescriptionJP": "装填を完了させ、剣と銃を組み合わせて戦う「夜巡り」状態に入る。この状態のクロリンデの通常攻撃は銃射撃「駆猟」となり、与えるダメージが元素付与によって他の元素に変化しない雷元素ダメージへと変わる。ただし、重撃はできなくなる。また、「夜巡り」状態で元素スキルボタンを押すと、「穿夜」を行うようになり、突進剣撃を仕掛けて雷元素ダメージを与える。これらの方法によるダメージは通常攻撃ダメージと見なされる。  駆猟 ·命の契約がHP上限の100%を超えている場合、銃射撃を行う。 ·命の契約がHP上限の100%未満の場合、銃を撃つ時、クロリンデのHP上限を基に自身に一定の命の契約を付与する。さらに、貫通弾を発射して経路上の敵により高いダメージを与える。  穿夜 発動時のクロリンデの命の契約のパーセンテージを基に、穿夜の効果が決まる。 ·命の契約が0%の場合、突進剣撃を行う。 ·命の契約がHP上限の100%未満である場合、クロリンデのHPを彼女自身の命の契約の数値を基に回復する。さらに、穿夜の攻撃範囲と与えるダメージをアップする。 ·命の契約がHP上限の100%以上である場合、穿夜·契約を行い、クロリンデのHPをより多く回復する。さらに、攻撃範囲と与えるダメージもより大きくなる。  また、クロリンデが夜巡り状態にある時、穿夜以外の治療効果は無効になり、代わりに自身に回復量の一定割合の命の契約を付与する。  「夜巡り」状態はクロリンデが退場すると解除される。  アルケー：ウーシア クロリンデの駆猟が敵に命中する時、敵の位置に迸発の刃を召喚し、ウーシアを帯びた雷元素ダメージを与える。一定時間ごとに発動可能。  闇に潜む邪悪なものは千年の間に狩り尽くされたが、人の心には依然として光の届かない場所が残されている。 今日に至っても、彼女は「黄金の狩人」の警告を心に刻んでいる——燭火を灯した夜巡りが極寒の闇に染まらぬように、常に警戒を怠るべからず、と。",
+            "DescriptionEN": "Preparing her pistolet, she enters the \"Night Vigil\" state, using steel and shot together. In this state, Clorinde's Normal Attacks will be transformed into \"Swift Hunt\" pistolet attacks, and the DMG dealt is converted into Electro DMG that cannot be overridden by infusions, and she will be unable to use Charged Attacks. Using her Elemental Skill will transform it into \"Impale the Night\": Perform a lunging attack, dealing Electro DMG. The DMG done through the aforementioned method is considered Normal Attack DMG.  Swift Hunt · When her Bond of Life is equal to or greater than 100% of her max HP: Performs a pistolet shot. · When her Bond of Life is less than 100%, firing her pistolet will grant her Bond of Life, with the amount gained based on her max HP. The shots she fires can pierce opponents, and DMG dealt to opponents in their path is increased.  Impale the Night The current percentage value of Clorinde's Bond of Life determines its effect: · When the Bond of Life value is 0%, perform a normal lunging strike; · When the Bond of Life value is less than 100% of her max HP, Clorinde is healed based on the Bond of Life value, and the AoE of the lunging attack and the DMG dealt is increased; · When the value of the Bond of Life is equal to or greater than 100% of her max HP, use Impale the Night: Pact. The healing multiplier is increased, and the AoE and DMG dealt by the lunge is increased even further.  In addition, when Clorinde is in the Night Vigil state, healing effects other than Impale the Night will not take effect and will instead be converted into a Bond of Life that is a percentage of the healing that would have been received.  Clorinde will exit the \"Night Vigil\" state when she leaves the field.  Arkhe: Ousia Periodically, when Clorinde's Swift Hunt shots strike opponents, she will summon a Surging Blade at the position hit that deals Ousia-aligned Electro DMG.  Though the evil that lurked in the shadows of the night had been purged across thousands of years, a shadow that the light could not reach clouded human hearts. Even now, the warning left by the Golden Hunter is etched into her memory: Those of the Night Vigil, carrying aloft lit candles against the blackness, have greater need still to remain vigilant. Be not corrupted by the cold dark.",
+            "DescriptionCN": "预装铳枪，进入剑枪结合作战的「夜巡」状态。在此状态下，克洛琳德的普通攻击将转为进行铳枪射击「驰猎」，造成的伤害将转为无法被附魔覆盖的雷元素伤害，并且无法进行重击；施放元素战技将转为进行「贯夜」：进行突进剑击，造成雷元素伤害。上述方式造成的伤害视为普通攻击造成的伤害。  驰猎 ·生命之契大于或等于生命值上限的100%时：进行铳枪射击； ·生命之契小于生命值上限的100%时：发射铳枪时基于克洛琳德的生命值上限赋予她一定的生命之契，打出能穿透敌人的弹药，对路径上的敌人造成更高的伤害。  贯夜 根据克洛琳德当前生命之契的百分比，决定此次贯夜的效果： ·生命之契为0%时，将进行突进剑击； ·生命之契小于生命值上限的100%时，将为克洛琳德恢复生命值，回复量基于她的生命之契数值，并提升此次贯夜的范围与造成的伤害； ·生命之契大于或等于生命值上限的100%时，将进行贯夜·契令，为克洛琳德恢复更高比例的生命值，并进一步提升此次贯夜的攻击范围与造成的伤害。  此外，克洛琳德处于夜巡状态下时，贯夜以外的治疗效果将不会生效，并转为为她赋予相当于生命值回复量一定比例的生命之契。  「夜巡」状态将在克洛琳德退场时解除。  始基力：荒性 每隔一段时间，克洛琳德的驰猎命中时，将在命中的位置降下流涌之刃，造成具有荒性的雷元素伤害。  夜影中潜伏的邪祟之物早已在千年间被诛讨殆尽，然而人心中亦有光明难及的阴影。 时至今日，她依然铭记着「黄金猎人」留下的告诫：点燃烛火的巡夜之人更应时刻保持警惕，莫要被冰冷的黑暗浸染。",
+            "DescriptionJP": "装填を完了させ、剣と銃を組み合わせて戦う「夜巡り」状態に入る。この状態のクロリンデの通常攻撃は銃射撃「駆猟」となり、与えるダメージが元素付与によって他の元素に変化しない雷元素ダメージへと変わる。ただし、重撃はできなくなる。また、「夜巡り」状態で元素スキルボタンを押すと、「穿夜」を行うようになり、突進剣撃を仕掛けて雷元素ダメージを与える。これらの方法によるダメージは通常攻撃ダメージと見なされる。  駆猟 ·命の契約がHP上限の100%以上の場合、銃射撃を行う。 ·命の契約がHP上限の100%未満の場合、銃を撃つ時、クロリンデのHP上限を基に自身に一定の命の契約を付与する。さらに、貫通弾を発射して経路上の敵により高いダメージを与える。  穿夜 発動時のクロリンデの命の契約のパーセンテージを基に、穿夜の効果が決まる。 ·命の契約が0%の場合、突進剣撃を行う。 ·命の契約がHP上限の100%未満の場合、クロリンデのHPを彼女自身の命の契約の数値を基に回復する。さらに、穿夜の攻撃範囲と与えるダメージをアップする。 ·命の契約がHP上限の100%以上の場合、穿夜·契約を行い、クロリンデのHPをより多く回復する。さらに、攻撃範囲と与えるダメージもより大きくなる。  また、クロリンデが夜巡り状態にある時、穿夜以外の治療効果は無効になり、代わりに自身に回復量の一定割合の命の契約を付与する。  「夜巡り」状態はクロリンデが退場すると解除される。  アルケー：ウーシア クロリンデの駆猟が命中した時、命中した位置に迸発の刃を召喚し、ウーシアを帯びた雷元素ダメージを与える。一定時間ごとに発動可能。  闇に潜む邪悪なものは千年の間に狩り尽くされたが、人の心には依然として光の届かない場所が残されている。 今日に至っても、彼女は「黄金の狩人」の警告を心に刻んでいる——燭火を灯した夜巡りが極寒の闇に染まらぬように、常に警戒を怠るべからず、と。",
             "maxlevel": 15,
             "levelmultiplier": [
                 {
@@ -3721,9 +3721,9 @@
             "CNname": "破夜的明焰",
             "JAname": "夜を裂く紫焔",
             "imageurl": "images/talent/10000098-3.webp",
-            "DescriptionEN": "After a nearby party member triggers a Electro-related reaction against an opponent, Electro DMG dealt by Clorinde's Normal Attacks and Last Lightfall will be increased by 20% of Clorinde's ATK for 15s. Max 3 stacks. Each stack is counted independently. The Maximum DMG increase achievable this way for the above attacks is 1,800.",
+            "DescriptionEN": "After a nearby party member triggers an Electro-related reaction against an opponent, Electro DMG dealt by Clorinde's Normal Attacks and Last Lightfall will be increased by 20% of Clorinde's ATK for 15s. Max 3 stacks. Each stack is counted independently. The Maximum DMG increase achievable this way for the above attacks is 1,800.",
             "DescriptionCN": "队伍中附近的角色对敌人触发雷元素相关反应后，将基于克洛琳德攻击力的20%，提升克洛琳德的普通攻击与残光将终造成的雷元素伤害。此效果持续15秒，至多叠加3层，每层独立计时。通过这种方式至多使克洛琳德的上述攻击造成的伤害提升1800。",
-            "DescriptionJP": "付近にいるチーム内キャラクターが敵に雷元素関連反応を起こした後、クロリンデの攻撃力の20%を基に、クロリンデの消えゆく残光および通常攻撃による雷元素ダメージをアップする。この効果の継続時間は15秒、最大3層まで重ね掛け可能。継続時間は層ごとに独立してカウントされる。この方法でアップできるクロリンデの上記の攻撃によるダメージは最大1800まで。",
+            "DescriptionJP": "付近にいるチーム内キャラクターが敵に雷元素関連反応を起こした後、クロリンデの攻撃力の20%を基に、クロリンデの消えゆく残光および通常攻撃による雷元素ダメージをアップする。この効果の継続時間は15秒、最大3層まで重ね掛け可能。継続時間は層ごとに独立してカウントされる。 この方法でアップできるクロリンデの上記の攻撃によるダメージは最大1800まで。",
             "maxlevel": 0,
             "levelmultiplier": []
         },
@@ -3735,7 +3735,7 @@
             "imageurl": "images/talent/10000098-4.webp",
             "DescriptionEN": "If Clorinde's Bond of Life is equal to or greater than 100% of her Max HP, her CRIT Rate will increase by 10% for 15s whenever her Bond of Life value increases or decreases. Max 2 stacks. Each stack is counted independently. Additionally, Hunter's Vigil's Night Vigil state is buffed: While it is active, the percent of healing converted to Bond of Life increases to 100%.",
             "DescriptionCN": "如果克洛琳德的生命之契大于或等于生命值上限的100%，生命之契的数值提升或降低时，克洛琳德的暴击率提升10%，此效果持续15秒，至多叠加2层，每层独立计时。 此外，狩夜之巡的夜巡状态获得强化：持续期间，治疗回复量转化为生命之契的比例提升至100%。",
-            "DescriptionJP": "クロリンデの命の契約がHP上限の100%を超えている場合、命の契約の数値が増減する時、クロリンデの会心率+10%。この効果の継続時間は15秒、最大2層まで重ね掛け可能。継続時間は層ごとに独立してカウントされる。 また、夜狩の巡回の夜巡り状態も強化され、継続期間中、回復量の命の契約への変換率が100%になる。",
+            "DescriptionJP": "クロリンデの命の契約がHP上限の100%以上の場合、命の契約の数値が増減する時、クロリンデの会心率+10%。この効果の継続時間は15秒、最大2層まで重ね掛け可能。継続時間は層ごとに独立してカウントされる。 また、夜狩の巡回の夜巡り状態も強化され、継続期間中、回復量の命の契約への変換率が100%になる。",
             "maxlevel": 0,
             "levelmultiplier": []
         },
@@ -3743,7 +3743,7 @@
             "id": 5,
             "ENname": "Night Vigil's Harvest",
             "CNname": "夜巡之获",
-            "JAname": "夜巡の収穫",
+            "JAname": "夜巡りの収穫",
             "imageurl": "images/talent/10000098-5.webp",
             "DescriptionEN": "Displays the location of nearby resources unique to Fontaine on the mini-map.",
             "DescriptionCN": "在小地图上显示周围的枫丹区域特产的位置。",
@@ -3757,7 +3757,7 @@
             "level": 1,
             "ENname": "\"From This Day, I Pass the Candle's Shadow-Veil\"",
             "CNname": "「自此，行过烛影之帷」",
-            "JAname": "「ここより、燭影の帳を通る」",
+            "JAname": "「ここより、 燭影の帷を通る」",
             "DescriptionEN": "While Hunter's Vigil's Night Vigil state is active, when Electro DMG from Clorinde's Normal Attacks hit opponents, they will trigger 2 coordinated attacks from a Nightvigil Shade summoned near the hit opponent, each dealing 30% of Clorinde's ATK as Electro DMG. This effect can occur once every 1.2s. DMG dealt this way is considered Normal Attack DMG.",
             "DescriptionCN": "狩夜之巡的夜巡状态持续期间，克洛琳德的普通攻击造成的雷元素伤害命中敌人时，将在敌人附近唤出夜巡之影进行两次协同攻击，各自造成克洛琳德30%攻击力的雷元素伤害。 此效果每1.2秒至多触发一次，通过这种方式造成的伤害视为普通攻击伤害。",
             "DescriptionJP": "夜狩の巡回の夜巡り状態継続期間中、クロリンデの通常攻撃による雷元素ダメージが敵に命中した時、敵の近くに夜巡りの影を召喚して連携攻撃を2回行い、それぞれクロリンデの攻撃力30%に相当する雷元素ダメージを与える。 この効果は1.2秒毎に1回のみ発動でき、この方法によるダメージは通常攻撃ダメージと見なされる。"
@@ -3766,10 +3766,10 @@
             "level": 2,
             "ENname": "\"Now, As We Face the Perils of the Long Night\"",
             "CNname": "「自此，直面长夜之危」",
-            "JAname": "「以降、永夜の危険に臨む」",
-            "DescriptionEN": "Enhance the Passive Talent \"Dark-Shattering Flame\": After a nearby party member triggers a Electro-related reaction against an opponent, Electro DMG dealt by Clorinde's Normal Attacks and Last Lightfall will be increased by 30% of Clorinde's ATK for 15s. Max 3 stacks. Each stack is counted independently. When you have 3 stacks, Clorinde's interruption resistance will be increased. The Maximum DMG increase achievable this way for the above attacks is 2,700. You must first unlock the Passive Talent \"Dark-Shattering Flame.\"",
+            "JAname": "「ここより、 永夜の危険に迫る」",
+            "DescriptionEN": "Enhance the Passive Talent \"Dark-Shattering Flame\": After a nearby party member triggers an Electro-related reaction against an opponent, Electro DMG dealt by Clorinde's Normal Attacks and Last Lightfall will be increased by 30% of Clorinde's ATK for 15s. Max 3 stacks. Each stack is counted independently. When you have 3 stacks, Clorinde's interruption resistance will be increased. The Maximum DMG increase achievable this way for the above attacks is 2,700. You must first unlock the Passive Talent \"Dark-Shattering Flame.\"",
             "DescriptionCN": "固有天赋「破夜的明焰」的效果获得强化：队伍中附近的角色对敌人触发雷元素相关反应后，将基于克洛琳德攻击力的30%，提升克洛琳德的普通攻击与残光将终造成的雷元素伤害。此效果持续15秒，至多叠加3层，每层独立计时。处于3层状态下时，克洛琳德的抗打断能力提升。通过这种方式至多使克洛琳德的上述攻击造成的伤害提升2700。 需要解锁固有天赋「破夜的明焰」。",
-            "DescriptionJP": "固有天賦「夜を裂く紫焔」の効果が以下のように強化される。付近にいるチーム内キャラクターが敵に雷元素関連反応を起こした後、クロリンデの攻撃力の30%を基に、クロリンデの消えゆく残光および通常攻撃による雷元素ダメージがアップする。継続時間は15秒、最大3層まで重ね掛け可能。また、継続時間は層ごとに独立してカウントされる。3層の時、クロリンデの中断耐性がアップする。この方法でアップできるクロリンデの上記の攻撃ダメージは最大2700まで。 固有天賦「夜を裂く紫焔」を解放する必要がある。"
+            "DescriptionJP": "固有天賦「夜を裂く紫焔」の効果が以下のように強化される。付近にいるチーム内キャラクターが敵に雷元素関連反応を起こした後、クロリンデの攻撃力の30%を基に、クロリンデの消えゆく残光および通常攻撃による雷元素ダメージをアップする。継続時間は15秒、最大3層まで重ね掛け可能。また、継続時間は層ごとに独立してカウントされる。3層の時、クロリンデの中断耐性がアップする。この方法でアップできるクロリンデの上記の攻撃ダメージは最大2700まで。 固有天賦「夜を裂く紫焔」を解放する必要がある。"
         },
         {
             "level": 3,
@@ -3787,7 +3787,7 @@
             "JAname": "「涙と命、仁愛を心に刻め」",
             "DescriptionEN": "When Last Lightfall deals DMG to opponent(s), DMG dealt is increased based on Clorinde's Bond of Life percentage. Every 1% of her current Bond of Life will increase Last Lightfall DMG by 2%. The maximum Last Lightfall DMG increase achievable this way is 200%.",
             "DescriptionCN": "残光将终对敌人造成伤害时，将根据克洛琳德的当前生命之契百分比提升此次伤害，每1%生命之契都将使此次残光将终造成的伤害提升2%；通过这种方式，至多使残光将终造成的伤害提升200%。",
-            "DescriptionJP": "消えゆく残光が敵にダメージを与えた時、クロリンデの現在の命の契約パーセンテージを基に以下の通りダメージがアップする。命の契約1%につき、その攻撃の消えゆく残光によるダメージ+2%。この方法でアップできる消えゆく残光ダメージは最大200%まで。"
+            "DescriptionJP": "消えゆく残光が敵にダメージを与える時、クロリンデの命の契約パーセンテージを基に以下の通りダメージがアップする。命の契約1%につき、消えゆく残光のダメージ+2%。この方法でアップできる消えゆく残光ダメージは最大200%まで。"
         },
         {
             "level": 5,
@@ -3802,10 +3802,10 @@
             "level": 6,
             "ENname": "\"And So Shall I Never Despair\"",
             "CNname": "「为此，勿将希望弃扬」",
-            "JAname": "「だから——希望を捨てるな」",
-            "DescriptionEN": "For 12s after Hunter's Vigil is used, Clorinde's CRIT Rate will be increased by 10%, and her CRIT DMG by 70%. Additionally, while Night Vigil is active, a Glimbright Shade will appear under specific circumstances, attacking opponents and dealing 200% of Clorinde's ATK as Electro DMG. DMG dealt this way is considered Normal Attack DMG. The Glimbright Shade will appear under the following circumstances: · When Clorinde is about to be attacked by an opponent. · When Clorinde uses Impale the Night: Pact. 1 Glimbright Shade can be summoned in the aforementioned ways every 1s. 6 Shades can be summoned per single Night Vigil duration. In addition, while Night Vigil is active, the DMG Clorinde receives is decreased by 80% and her interruption resistance is increased. This effect will disappear after the Night Vigil state ends or 1s after she summons 6 Glimbright Shades.",
-            "DescriptionCN": "施放狩夜之巡后的12秒内，克洛琳德的暴击率提升10%，暴击伤害提升70%。 此外，夜巡状态持续期间，明烛之影会在特定条件下出现，追击敌人，造成克洛琳德200%攻击力的雷元素伤害，通过这种方式造成的伤害视为普通攻击伤害。 明烛之影会在如下情况下出现： ·克洛琳德即将被敌人的攻击命中时； ·克洛琳德进行贯夜·契令时。 每1秒至多通过上述方式唤出1次明烛之影，一次夜巡状态持续期间，至多唤出6次明烛之影。 此外，夜巡状态持续期间，克洛琳德受到的伤害降低80%，抗打断能力提高，该效果将在夜巡状态结束或唤出6次明烛之影的1秒后移除。",
-            "DescriptionJP": "夜狩の巡回発動後の12秒間、クロリンデの会心率+10%、会心ダメージ+70%。 また、夜巡り状態継続期間中、特定の状況で「明燭の影」が現れて敵を追撃し、クロリンデの攻撃力200%分の雷元素ダメージを与える。この方法によるダメージは通常攻撃ダメージと見なされる。 明燭の影は以下の状況で現れる。 ·クロリンデが敵の攻撃に当たる直前。 ·クロリンデが穿夜·契約を繰り出した時。 この2つの方法による明燭の影の召喚は、1秒毎に1回のみ可能。夜巡り状態継続期間中は、明燭の影を最大6回召喚できる。 また、夜巡り状態継続期間中、クロリンデの受けるダメージ-80%、中断耐性がアップする。この効果は夜巡り状態終了時、あるいは明燭の影を6回召喚した1秒後に解除される。"
+            "JAname": "「故に—— 希望を捨ててはならない」",
+            "DescriptionEN": "For 12s after Hunter's Vigil is used, Clorinde's CRIT Rate will be increased by 10%, and her CRIT DMG by 70%. Additionally, while Night Vigil is active, a Glimbright Shade will appear under specific circumstances, executing an attack that deals 200% of Clorinde's ATK as Electro DMG. DMG dealt this way is considered Normal Attack DMG. The Glimbright Shade will appear under the following circumstances: · When Clorinde is about to be hit by an attack. · When Clorinde uses Impale the Night: Pact. 1 Glimbright Shade can be summoned in the aforementioned ways every 1s. 6 Shades can be summoned per single Night Vigil duration. In addition, while Night Vigil is active, the DMG Clorinde receives is decreased by 80% and her interruption resistance is increased. This effect will disappear after the Night Vigil state ends or 1s after she summons 6 Glimbright Shades.",
+            "DescriptionCN": "施放狩夜之巡后的12秒内，克洛琳德的暴击率提升10%，暴击伤害提升70%。 此外，夜巡状态持续期间，明烛之影会在特定条件下出现，进行追击，造成克洛琳德200%攻击力的雷元素伤害，通过这种方式造成的伤害视为普通攻击伤害。 明烛之影会在如下情况下出现： ·克洛琳德即将被攻击命中时； ·克洛琳德进行贯夜·契令时。 每1秒至多通过上述方式唤出1次明烛之影，一次夜巡状态持续期间，至多唤出6次明烛之影。 此外，夜巡状态持续期间，克洛琳德受到的伤害降低80%，抗打断能力提高，该效果将在夜巡状态结束或唤出6次明烛之影的1秒后移除。",
+            "DescriptionJP": "夜狩の巡回発動後の12秒間、クロリンデの会心率+10%、会心ダメージ+70%。 また、夜巡り状態継続期間中、特定の状況で「明燭の影」が現れて追撃を行い、クロリンデの攻撃力200%分の雷元素ダメージを与える。この方法によるダメージは通常攻撃ダメージと見なされる。 明燭の影は以下の状況で現れる。 ·クロリンデが攻撃に当たる直前。 ·クロリンデが穿夜·契約を繰り出した時。 この2つの方法による明燭の影の召喚は、1秒毎に1回のみ可能。夜巡り状態継続期間中は、明燭の影を最大6回召喚できる。 また、夜巡り状態継続期間中、クロリンデの受けるダメージ-80%、中断耐性がアップする。この効果は夜巡り状態終了時、あるいは明燭の影を6回召喚した1秒後に解除される。"
         }
     ]
 }

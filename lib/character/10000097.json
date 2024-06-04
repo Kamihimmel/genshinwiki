@@ -12,7 +12,7 @@
         5,
         31
     ],
-    "release": 0,
+    "release": 1717459200,
     "leveldata": [
         {
             "level": "1",
@@ -2521,11 +2521,11 @@
             "id": 2,
             "ENname": "Secret Rite: Twilight Shadowpiercer",
             "CNname": "秘仪·瞑光贯影",
-            "JAname": "秘儀·冥光瞑影",
+            "JAname": "秘儀·瞑光貫影",
             "imageurl": "images/talent/10000097-2.webp",
-            "DescriptionEN": "Perform a secret rite, entering the \"Twilight Meditation\" state, during which Sethos's Normal Attacks will be converted into enemy-piercing Dusk Bolts: Deal Electro DMG to opponents in its path, with DMG increased based on Sethos's Elemental Mastery. DMG dealt by Dusk Bolts is considered Charged Attack DMG. This effect will be canceled when Sethos leaves the field.  The archives of the Temple of Silence preserve many tomes left behind by Akhtamun, from the era of King Deshret. Many secret rituals of great power are recorded within, but even among the Temple of Silence, very few could master them.",
+            "DescriptionEN": "Perform a secret rite, entering the \"Twilight Meditation\" state, during which Sethos's Normal Attacks will be converted into enemy-piercing Dusk Bolts: Deal Electro DMG to opponents in its path, with DMG increased based on Sethos's Elemental Mastery. Sethos cannot perform Aimed Shots while in this state. DMG dealt by Dusk Bolts is considered Charged Attack DMG. This effect will be canceled when Sethos leaves the field.  The archives of the Temple of Silence preserve many tomes left behind by Akhtamun, from the era of King Deshret. Many secret rituals of great power are recorded within, but even among the Temple of Silence, very few could master them.",
             "DescriptionCN": "施展秘仪，进入「寂想瞑影」状态，在此期间，赛索斯的普通攻击将转为发射能穿透敌人的瞑弦矢：对路径上的敌人造成雷元素伤害，并基于赛索斯的元素精通，提升其造成的伤害。 持续期间，赛索斯无法进行瞄准射击。 瞑弦矢造成的伤害视为重击伤害。 效果将在赛索斯退场时解除。  缄默之殿的藏书室中保存着不少从赤王时代的阿赫塔蒙遗留下来的书籍，书中记载了许多威力强大的秘仪。但即便在缄默之殿中，也只有少数人能够习得掌握它们的力量。",
-            "DescriptionJP": "秘儀を行い、「静思瞑影」状態に入る。その間、セトスの通常攻撃は敵を貫く瞑弦の矢に変化する。経路上の敵に雷元素ダメージを与え、セトスの元素熟知を基に与えるダメージをアップする。 瞑弦の矢によるダメージは重撃ダメージと見なされる。 この状態はセトスが退場すると解除される。  沈黙の殿の書庫には、キングデシェレト時代のアフタモンの書籍が数多く所蔵されている。本には強力な秘儀が数多く記されているが、沈黙の殿の中でも、それらの力を掌握できる者はごくわずかだ。",
+            "DescriptionJP": "秘儀を行い、「静思瞑影」状態に入る。その間、セトスの通常攻撃は敵を貫く瞑弦の矢に変化する。経路上の敵に雷元素ダメージを与え、セトスの元素熟知を基に与えるダメージをアップする。 この状態のとき、セトスは狙い撃ちができなくなる。 瞑弦の矢によるダメージは重撃ダメージと見なされる。 この状態はセトスが退場すると解除される。  沈黙の殿の書庫には、キングデシェレト時代のアフタモンの書籍が数多く所蔵されている。本には強力な秘儀が数多く記されているが、沈黙の殿の中でも、それらの力を掌握できる者はごくわずかだ。",
             "maxlevel": 15,
             "levelmultiplier": [
                 {
@@ -3743,7 +3743,7 @@
             "id": 5,
             "ENname": "Thoth's Revelation",
             "CNname": "猿月的显迹",
-            "JAname": "捉月の顕現",
+            "JAname": "猿月の顕現",
             "imageurl": "images/talent/10000097-5.webp",
             "DescriptionEN": "Displays the location of nearby resources unique to Sumeru on the mini-map.",
             "DescriptionCN": "在小地图上显示周围的须弥区域特产的位置。",
@@ -3757,7 +3757,7 @@
             "level": 1,
             "ENname": "Sealed Shrine's Spiritsong",
             "CNname": "封龛谒灵歌",
-            "JAname": "封龕謁霊歌",
+            "JAname": "シュラインの謁霊歌",
             "DescriptionEN": "The CRIT Rate of Shadowpiercing Shot is increased by 15%.",
             "DescriptionCN": "贯影箭的暴击率提升15%。",
             "DescriptionJP": "貫影の矢の会心率+15%。"
@@ -3766,16 +3766,16 @@
             "level": 2,
             "ENname": "Papyrus Scripture of Silent Secrets",
             "CNname": "寂秘纸草经",
-            "JAname": "寂秘草紙経",
-            "DescriptionEN": "When any of the following conditions are met, Sethos gains a 15% Electro DMG Bonus for 10s that may stack twice, with each stack duration counted independently: · Consuming Elemental Energy through Aimed Shots; you must first unlock \"Black Kite's Enigma\" to trigger this condition. · Regaining Elemental Energy by triggering Elemental Reactions using Ancient Rite: The Thundering Sands. · Using Secret Rite: Twilight Shadowpiercer.",
+            "JAname": "寂秘のパピルス",
+            "DescriptionEN": "When any of the following conditions are met, Sethos gains a 15% Electro DMG Bonus for 10s that may stack twice, with each stack duration counted independently: · Consuming Elemental Energy through Aimed Shots; you must first unlock the Passive Talent \"Black Kite's Enigma\" to trigger this condition. · Regaining Elemental Energy by triggering Elemental Reactions using Ancient Rite: The Thundering Sands. · Using Secret Rite: Twilight Shadowpiercer.",
             "DescriptionCN": "满足以下任意一项条件时，赛索斯的雷元素伤害加成提升15%，持续10秒，至多叠加2层，每层独立计时： ·通过瞄准射击消耗元素能量，此条件需要解锁固有天赋「黑鸢的密喻」； ·通过古仪·鸣砂掣雷触发元素反应恢复元素能量； ·施放秘仪·瞑光贯影。",
-            "DescriptionJP": "後述のどちらかの条件を満たした場合、セトスの雷元素ダメージ+15%、継続時間10秒、最大2層まで。継続時間は層ごとに独立してカウントされる。 ·狙い撃ち射撃で元素エネルギーを消費する。固有天賦「黒鳶の謎掛」を解放しておく必要がある。 ·古儀·鳴砂牽雷で元素反応を起こし、元素エネルギーを回復する。 ·秘儀·冥光瞑影を発動する。"
+            "DescriptionJP": "後述のどちらかの条件を満たした場合、セトスの雷元素ダメージ+15%、継続時間10秒、最大2層まで。継続時間は層ごとに独立してカウントされる。 ·狙い撃ち射撃で元素エネルギーを消費する。固有天賦「黒鳶の謎掛」を解放しておく必要がある。 ·古儀·鳴砂牽雷で元素反応を起こし、元素エネルギーを回復する。 ·秘儀·瞑光貫影を発動する。"
         },
         {
             "level": 3,
             "ENname": "Ode to the Moonrise Sage",
             "CNname": "月升哲贤颂",
-            "JAname": "昇月賢哲頌",
+            "JAname": "昇月賢哲へのオード",
             "DescriptionEN": "Increases the Level of Normal Attack: Royal Reed Archery by 3. Maximum upgrade level is 15.",
             "DescriptionCN": "普通攻击·王家苇箭术的技能等级提高3级。 至多提升至15级。",
             "DescriptionJP": "通常攻撃·王家の弓術·葦ノ矢のスキルLv.+3。 最大Lv.15まで。"
@@ -3784,7 +3784,7 @@
             "level": 4,
             "ENname": "Beneficent Plumage",
             "CNname": "真念鸵羽集",
-            "JAname": "真念駝羽集",
+            "JAname": "真実のプリュマージュ",
             "DescriptionEN": "When a Shadowpiercing Shot or Dusk Bolt strikes 2 or more opponents, all nearby party members gain 80 Elemental Mastery for 10s.",
             "DescriptionCN": "贯影箭或瞑弦矢命中2名及以上的敌人时，队伍中附近的所有角色的元素精通提升80点，持续10秒。",
             "DescriptionJP": "貫影の矢または瞑弦の矢が2体以上の敵に命中した時、周囲のチーム全員の元素熟知+80、継続時間10秒。"
@@ -3793,16 +3793,16 @@
             "level": 5,
             "ENname": "Record of the Desolate God's Burning Sands",
             "CNname": "荒神烈沙录",
-            "JAname": "荒神烈砂録",
+            "JAname": "荒神烈砂のエピグラフ",
             "DescriptionEN": "Increases the Level of Secret Rite: Twilight Shadowpiercer by 3. Maximum upgrade level is 15.",
             "DescriptionCN": "秘仪·瞑光贯影的技能等级提高3级。 至多提升至15级。",
-            "DescriptionJP": "秘儀·冥光瞑影のスキルLv.+3。 最大Lv.15まで。"
+            "DescriptionJP": "秘儀·瞑光貫影のスキルLv.+3。 最大Lv.15まで。"
         },
         {
             "level": 6,
             "ENname": "Pylon of the Sojourning Sun Temple",
             "CNname": "巡日塔门书",
-            "JAname": "巡日塔門書",
+            "JAname": "巡日のパイロン",
             "DescriptionEN": "After Shadowpiercing Shot strikes an opponent, the Elemental Energy consumed by the Passive Talent \"Black Kite's Enigma\" will be returned. This effect can be triggered up to once every 15s. You must first unlock the Passive Talent \"Black Kite's Enigma.\"",
             "DescriptionCN": "贯影箭命中敌人后，将返还因固有天赋「黑鸢的密喻」消耗的元素能量，此效果每15秒至多触发一次，需要解锁固有天赋「黑鸢的密喻」。",
             "DescriptionJP": "貫影の矢が敵に命中した後、固有天賦「黒鳶の謎掛」によって消費された元素エネルギーが返還される。この効果は15秒毎に1回のみ発動可能。固有天賦「黒鳶の謎掛」を解放する必要がある。"
