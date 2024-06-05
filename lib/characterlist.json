@@ -1345,7 +1345,7 @@
             "rarity": 5,
             "element": "water",
             "weapon": "bow",
-            "release": 0,
+            "release": 1719424800,
             "spoiler": true,
             "supported": false,
             "order": 999
@@ -1375,7 +1375,7 @@
             "rarity": 4,
             "element": "electric",
             "weapon": "bow",
-            "release": 0,
+            "release": 1717459200,
             "spoiler": true,
             "supported": false,
             "order": 999
@@ -1390,7 +1390,7 @@
             "rarity": 5,
             "element": "electric",
             "weapon": "sword",
-            "release": 0,
+            "release": 1717459200,
             "spoiler": true,
             "supported": false,
             "order": 999
