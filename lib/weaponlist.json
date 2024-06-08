@@ -1309,6 +1309,18 @@
             "order": 999
         },
         {
+            "id": "13513",
+            "ENname": "Lumidouce Elegy",
+            "CNname": "柔灯挽歌",
+            "JAname": "ルミドゥースの哀悼歌JP0B",
+            "imageurl": "images/weapon/13513.webp",
+            "rarity": 5,
+            "type": "pole",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
             "id": "14101",
             "ENname": "Apprentice's Notes",
             "CNname": "学徒笔记",
