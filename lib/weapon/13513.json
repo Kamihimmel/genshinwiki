@@ -2,7 +2,7 @@
     "id": "13513",
     "ENname": "Lumidouce Elegy",
     "CNname": "柔灯挽歌",
-    "JAname": "ルミドゥースの哀悼歌JP0B",
+    "JAname": "ルミドゥースの哀悼歌",
     "imageurl": "images/weapon/13513.webp",
     "type": "pole",
     "rarity": 5,
@@ -108,11 +108,11 @@
             "id": 0,
             "name": "Bright Dawn Overture",
             "upgrade": {
-                "0": "ATK increased by 15%. When the equipping character triggers Burning on an opponent, the DMG dealt is increased by 18%. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration of the 2nd stack is refreshed, restore 8 Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field.",
-                "1": "ATK increased by 19%. When the equipping character triggers Burning on an opponent, the DMG dealt is increased by 23%. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration of the 2nd stack is refreshed, restore 9 Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field.",
-                "2": "ATK increased by 23%. When the equipping character triggers Burning on an opponent, the DMG dealt is increased by 28%. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration of the 2nd stack is refreshed, restore 10 Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field.",
-                "3": "ATK increased by 27%. When the equipping character triggers Burning on an opponent, the DMG dealt is increased by 33%. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration of the 2nd stack is refreshed, restore 11 Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field.",
-                "4": "ATK increased by 31%. When the equipping character triggers Burning on an opponent, the DMG dealt is increased by 38%. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration of the 2nd stack is refreshed, restore 12 Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field."
+                "0": "ATK increased by 15%. When the equipping character triggers Burning on an opponent or deals Dendro DMG to Burning opponents, the DMG dealt is increased by 18%. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration of the 2nd stack is refreshed, restore 12 Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field.",
+                "1": "ATK increased by 19%. When the equipping character triggers Burning on an opponent or deals Dendro DMG to Burning opponents, the DMG dealt is increased by 23%. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration of the 2nd stack is refreshed, restore 13 Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field.",
+                "2": "ATK increased by 23%. When the equipping character triggers Burning on an opponent or deals Dendro DMG to Burning opponents, the DMG dealt is increased by 28%. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration of the 2nd stack is refreshed, restore 14 Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field.",
+                "3": "ATK increased by 27%. When the equipping character triggers Burning on an opponent or deals Dendro DMG to Burning opponents, the DMG dealt is increased by 33%. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration of the 2nd stack is refreshed, restore 15 Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field.",
+                "4": "ATK increased by 31%. When the equipping character triggers Burning on an opponent or deals Dendro DMG to Burning opponents, the DMG dealt is increased by 38%. This effect lasts for 8s, max 2 stacks. When 2 stacks are reached or when the duration of the 2nd stack is refreshed, restore 16 Energy. Energy can be restored this way once every 12s. The 2 aforementioned effects can be triggered even when the character is off-field."
             }
         },
         "chs": {
@@ -128,13 +128,13 @@
         },
         "jp": {
             "id": 0,
-            "name": "払暁の序曲JP0B",
+            "name": "払暁の序曲",
             "upgrade": {
-                "0": "攻撃力+15%。装備者が敵に燃焼反応を起こした後、与えるダメージ+18%。この効果の継続時間は8秒で、最大2層まで重ね掛け可能。2層まで重ねた時、または2層の継続時間がリセットされた時、元素エネルギーを8ポイント回復する。この方法による元素エネルギーの回復は、12秒毎に1回のみ可能。上記の二つの効果、キャラクターが待機中でも発動できる。JP0B",
-                "1": "攻撃力+19%。装備者が敵に燃焼反応を起こした後、与えるダメージ+23%。この効果の継続時間は8秒で、最大2層まで重ね掛け可能。2層まで重ねた時、または2層の継続時間がリセットされた時、元素エネルギーを9ポイント回復する。この方法による元素エネルギーの回復は、12秒毎に1回のみ可能。上記の二つの効果、キャラクターが待機中でも発動できる。JP0B",
-                "2": "攻撃力+23%。装備者が敵に燃焼反応を起こした後、与えるダメージ+28%。この効果の継続時間は8秒で、最大2層まで重ね掛け可能。2層まで重ねた時、または2層の継続時間がリセットされた時、元素エネルギーを10ポイント回復する。この方法による元素エネルギーの回復は、12秒毎に1回のみ可能。上記の二つの効果、キャラクターが待機中でも発動できる。JP0B",
-                "3": "攻撃力+27%。装備者が敵に燃焼反応を起こした後、与えるダメージ+33%。この効果の継続時間は8秒で、最大2層まで重ね掛け可能。2層まで重ねた時、または2層の継続時間がリセットされた時、元素エネルギーを11ポイント回復する。この方法による元素エネルギーの回復は、12秒毎に1回のみ可能。上記の二つの効果、キャラクターが待機中でも発動できる。JP0B",
-                "4": "攻撃力+31%。装備者が敵に燃焼反応を起こした後、与えるダメージ+38%。この効果の継続時間は8秒で、最大2層まで重ね掛け可能。2層まで重ねた時、または2層の継続時間がリセットされた時、元素エネルギーを12ポイント回復する。この方法による元素エネルギーの回復は、12秒毎に1回のみ可能。上記の二つの効果、キャラクターが待機中でも発動できる。JP0B"
+                "0": "攻撃力+15%。装備者が敵に燃焼反応を起こした後、または燃焼状態の敵に草元素ダメージを与えた後、与えるダメージ+18%。この効果の継続時間は8秒で、最大2層まで重ね掛け可能。2層まで重ねた時、または2層の継続時間がリセットされた時、元素エネルギーを12ポイント回復する。この方法による元素エネルギーの回復は、12秒毎に1回のみ可能。この二つの効果は、キャラクターが待機中でも発動可能。",
+                "1": "攻撃力+19%。装備者が敵に燃焼反応を起こした後、または燃焼状態の敵に草元素ダメージを与えた後、与えるダメージ+23%。この効果の継続時間は8秒で、最大2層まで重ね掛け可能。2層まで重ねた時、または2層の継続時間がリセットされた時、元素エネルギーを13ポイント回復する。この方法による元素エネルギーの回復は、12秒毎に1回のみ可能。この二つの効果は、キャラクターが待機中でも発動可能。",
+                "2": "攻撃力+23%。装備者が敵に燃焼反応を起こした後、または燃焼状態の敵に草元素ダメージを与えた後、与えるダメージ+28%。この効果の継続時間は8秒で、最大2層まで重ね掛け可能。2層まで重ねた時、または2層の継続時間がリセットされた時、元素エネルギーを14ポイント回復する。この方法による元素エネルギーの回復は、12秒毎に1回のみ可能。この二つの効果は、キャラクターが待機中でも発動可能。",
+                "3": "攻撃力+27%。装備者が敵に燃焼反応を起こした後、または燃焼状態の敵に草元素ダメージを与えた後、与えるダメージ+33%。この効果の継続時間は8秒で、最大2層まで重ね掛け可能。2層まで重ねた時、または2層の継続時間がリセットされた時、元素エネルギーを15ポイント回復する。この方法による元素エネルギーの回復は、12秒毎に1回のみ可能。この二つの効果は、キャラクターが待機中でも発動可能。",
+                "4": "攻撃力+31%。装備者が敵に燃焼反応を起こした後、または燃焼状態の敵に草元素ダメージを与えた後、与えるダメージ+38%。この効果の継続時間は8秒で、最大2層まで重ね掛け可能。2層まで重ねた時、または2層の継続時間がリセットされた時、元素エネルギーを16ポイント回復する。この方法による元素エネルギーの回復は、12秒毎に1回のみ可能。この二つの効果は、キャラクターが待機中でも発動可能。"
             }
         }
     }
