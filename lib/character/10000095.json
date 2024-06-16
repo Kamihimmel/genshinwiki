@@ -2523,7 +2523,7 @@
             "CNname": "过饱和心意注射",
             "JAname": "過飽和まごころお注射",
             "imageurl": "images/talent/10000095-2.webp",
-            "DescriptionEN": "Take out a special Fortress of Meropide-made syringe and assault the area in front with waves of kindness and medicine, dealing AoE Hydro DMG based on Sigewinne's max HP. In addition, Sigewinne absorbs up to 2 nearby Sourcewater Droplets within a certain range right before using the skill.  \"Hey, overdosing on medicine is no different from poison, you know, it's real dangerous! But patients need care and concern, and nobody can overdose on that!\"",
+            "DescriptionEN": "Takes out a special Fortress of Meropide-made syringe and assault the area in front with waves of kindness and medicine, dealing AoE Hydro DMG based on Sigewinne's max HP. In addition, Sigewinne absorbs up to 2 nearby Sourcewater Droplets within a certain range when she uses this skill.  \"Hey, overdosing on medicine is no different from poison, you know, it's real dangerous! But patients need care and concern, and nobody can overdose on that!\"",
             "DescriptionCN": "取出梅洛彼得堡特制的注射器，以满满的心意与药剂冲击前方区域，基于希格雯的生命值上限，持续造成水元素范围伤害。 此外，施放时，希格雯将吸收附近一定范围内至多2枚源水之滴。  「啊呀，超过剂量的药与毒无异，可是很危险的，但是病人需要的关心与爱护，不管超过多少也不为过哦。」",
             "DescriptionJP": "取り出したメロピデ要塞特製の注射器で、たっぷりの思いやりと薬剤を前方エリアにうち、シグウィンのHP上限を基に継続的な水元素範囲ダメージを与える。 また、発動時、シグウィンは近くの一定範囲内から最大2個の源水の雫を吸収する。  「あら、用量を超えた薬は毒と同じでとても危険だけど、患者さんへの思いやりとケアは、いくらあってもいいものなのよ。」",
             "maxlevel": 15,
@@ -3236,7 +3236,7 @@
                         0,
                         0,
                         0,
-                        12500
+                        0
                     ]
                 },
                 {

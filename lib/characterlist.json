@@ -1394,6 +1394,21 @@
             "spoiler": true,
             "supported": false,
             "order": 999
+        },
+        {
+            "id": "10000099",
+            "ENname": "Emilie",
+            "CNname": "艾梅莉埃",
+            "JAname": "エミリエ",
+            "imageurl": "images/character/10000099.webp",
+            "imagelargeurl": "images/character/10000099-large.webp",
+            "rarity": 5,
+            "element": "grass",
+            "weapon": "pole",
+            "release": 0,
+            "spoiler": true,
+            "supported": false,
+            "order": 999
         }
     ]
 }
