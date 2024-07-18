@@ -458,6 +458,24 @@
             "imageurl": "images/artifact/15036.webp",
             "spoiler": true,
             "order": 999
+        },
+        {
+            "id": "15037",
+            "ENname": "Scroll of the Embered City's Hero",
+            "CNname": "烬城勇者绘卷",
+            "JAname": "燃え尽き都の勇者絵巻JP0B",
+            "imageurl": "images/artifact/15037.webp",
+            "spoiler": true,
+            "order": 999
+        },
+        {
+            "id": "15038",
+            "ENname": "Obsidian Codex",
+            "CNname": "黑曜秘典",
+            "JAname": "黒曜の秘典JP0B",
+            "imageurl": "images/artifact/15038.webp",
+            "spoiler": true,
+            "order": 999
         }
     ]
 }
