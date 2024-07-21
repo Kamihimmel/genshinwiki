@@ -1,0 +1,70 @@
+{
+    "id": "15037",
+    "ENname": "Scroll of the Embered City's Hero",
+    "CNname": "烬城勇者绘卷",
+    "JAname": "燃え尽き都の勇者絵巻JP0B",
+    "imageurl": "images/artifact/15037.webp",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "When a nearby party member triggers a Nightsoul Burst, the equipping character regenerates 6 Energy.",
+            "DescriptionCN": "队伍中附近的角色触发「夜魂迸发」时，装备者恢复6点元素能量。",
+            "DescriptionJP": "付近にいるチーム内キャラクターが「夜魂バースト」を起こした時、装備者は元素エネルギーを6ポイント回復する。JP0B"
+        },
+        "4": {
+            "DescriptionEN": "When the equipping character triggers an Elemental Reaction involving their Elemental Type, all nearby party members of Elemental Types involved in that reaction gain 25% All Elemental and Physical DMG Bonus for 10s. When the equipping character is in Nightsoul's Blessing when triggering this, an additional 25% All Elemental and Physical DMG Bonus will be granted to characters for 20s. The above effect can be triggered even if the character is off-field. DMG Bonuses provided by Artifact Sets with the same name will not stack.",
+            "DescriptionCN": "装备者触发其对应元素类型的相关反应时，队伍中附近的与该元素反应相关的元素类型角色，所有元素伤害加成与物理伤害加成提升15%，持续10秒。若触发该效果时，装备者处于夜魂加持状态下，还将使这些角色的所有元素伤害加成与物理伤害加成提升30%，持续20秒。装备者处于后台时也能触发上述效果。同名圣遗物套装产生的伤害加成效果无法叠加。",
+            "DescriptionJP": "装備者が自身元素タイプの元素関連反応を起こした時、該当元素反応と関連している元素タイプの、付近にいるチーム内キャラクターの全元素ダメージと物理ダメージ+25%、継続時間10秒。この効果を発動した時、装備者が夜魂の加護状態にある場合、それらのキャラクターの全元素ダメージと物理ダメージ+25%、継続時間20秒。装備者が待機中でも、上記効果を発動できる。同名の聖遺物セットによるダメージアップ効果は重ね掛け不可。JP0B"
+        }
+    },
+    "suit": {
+        "ring": {
+            "ENname": "Wandering Scholar's Claw Cup",
+            "CNname": "游学者的爪杯",
+            "JAname": "遊学者の爪杯JP0B",
+            "DescriptionEN": "",
+            "DescriptionCN": "",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15037-ring.webp"
+        },
+        "necklace": {
+            "ENname": "Mountain Ranger's Beacon",
+            "CNname": "巡山客的信标",
+            "JAname": "登山客の標識JP0B",
+            "DescriptionEN": "",
+            "DescriptionCN": "",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15037-necklace.webp"
+        },
+        "dress": {
+            "ENname": "Magical Warrior's Feather Mask",
+            "CNname": "魔战士的羽面",
+            "JAname": "魔戦士の羽面JP0B",
+            "DescriptionEN": "",
+            "DescriptionCN": "",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15037-dress.webp"
+        },
+        "bracer": {
+            "ENname": "Beast Tamer's Talisman",
+            "CNname": "驯兽师的护符",
+            "JAname": "獣使いの護符JP0B",
+            "DescriptionEN": "",
+            "DescriptionCN": "",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15037-bracer.webp"
+        },
+        "shoes": {
+            "ENname": "Mystic's Gold Platter",
+            "CNname": "秘术家的金盘",
+            "JAname": "秘術家の金皿JP0B",
+            "DescriptionEN": "",
+            "DescriptionCN": "",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15037-shoes.webp"
+        }
+    }
+}
