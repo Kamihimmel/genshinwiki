@@ -1,0 +1,141 @@
+{
+    "id": "12513",
+    "ENname": "Mountain King's Fang",
+    "CNname": "山王长牙",
+    "JAname": "山の王の長牙JP0B",
+    "imageurl": "images/weapon/12513.webp",
+    "type": "claymore",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 45.9364013671875,
+            "critical": 0.0719999969006
+        },
+        {
+            "level": "5",
+            "base_attack": 61.69258953320803,
+            "critical": 0.08366399214129577
+        },
+        {
+            "level": "10",
+            "base_attack": 81.53711133154673,
+            "critical": 0.09813599831610248
+        },
+        {
+            "level": "15",
+            "base_attack": 101.56538184574926,
+            "critical": 0.11267999926931482
+        },
+        {
+            "level": "20",
+            "base_attack": 121.73146800388204,
+            "critical": 0.12722399163945072
+        },
+        {
+            "level": "25",
+            "base_attack": 142.0812864497399,
+            "critical": 0.14176799259265585
+        },
+        {
+            "level": "30",
+            "base_attack": 162.56892601557885,
+            "critical": 0.15631199354586098
+        },
+        {
+            "level": "35",
+            "base_attack": 183.24030882123083,
+            "critical": 0.17085598591599688
+        },
+        {
+            "level": "40",
+            "base_attack": 204.09542391460786,
+            "critical": 0.18539999545227123
+        },
+        {
+            "level": "45",
+            "base_attack": 225.0883710800539,
+            "critical": 0.19994398782240713
+        },
+        {
+            "level": "50",
+            "base_attack": 246.21911746129607,
+            "critical": 0.21448799735868151
+        },
+        {
+            "level": "55",
+            "base_attack": 267.5795292021923,
+            "critical": 0.22903198972882458
+        },
+        {
+            "level": "60",
+            "base_attack": 289.031828991136,
+            "critical": 0.2435759820989605
+        },
+        {
+            "level": "65",
+            "base_attack": 310.6678829719898,
+            "critical": 0.25811999163523486
+        },
+        {
+            "level": "70",
+            "base_attack": 332.4876692405687,
+            "critical": 0.27259198922697236
+        },
+        {
+            "level": "75",
+            "base_attack": 354.4912097010531,
+            "critical": 0.28713598159711545
+        },
+        {
+            "level": "80",
+            "base_attack": 376.63257128151406,
+            "critical": 0.3016799911333898
+        },
+        {
+            "level": "85",
+            "base_attack": 398.9117101735906,
+            "critical": 0.3162240006696641
+        },
+        {
+            "level": "90",
+            "base_attack": 421.3746251617577,
+            "critical": 0.33076797587366163
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Turquoise Hunt",
+            "upgrade": {
+                "0": "Gain 1 Canopy's Favor stack after hitting an opponent with an Elemental Skill. This can be triggered once every 0.5s; After a nearby party member triggers a Burning or Burgeon reaction, the equipping character will gain 3 stacks. This effect, in turn, can be triggered once every 2s and can be triggered even when the character is off-field. Canopy's Favor: Elemental Skill and Burst DMG is increased by 10% for 6s. Max 6 stacks. Each stack is counted independently.",
+                "1": "Gain 1 Canopy's Favor stack after hitting an opponent with an Elemental Skill. This can be triggered once every 0.5s; After a nearby party member triggers a Burning or Burgeon reaction, the equipping character will gain 3 stacks. This effect, in turn, can be triggered once every 2s and can be triggered even when the character is off-field. Canopy's Favor: Elemental Skill and Burst DMG is increased by 12.5% for 6s. Max 6 stacks. Each stack is counted independently.",
+                "2": "Gain 1 Canopy's Favor stack after hitting an opponent with an Elemental Skill. This can be triggered once every 0.5s; After a nearby party member triggers a Burning or Burgeon reaction, the equipping character will gain 3 stacks. This effect, in turn, can be triggered once every 2s and can be triggered even when the character is off-field. Canopy's Favor: Elemental Skill and Burst DMG is increased by 15% for 6s. Max 6 stacks. Each stack is counted independently.",
+                "3": "Gain 1 Canopy's Favor stack after hitting an opponent with an Elemental Skill. This can be triggered once every 0.5s; After a nearby party member triggers a Burning or Burgeon reaction, the equipping character will gain 3 stacks. This effect, in turn, can be triggered once every 2s and can be triggered even when the character is off-field. Canopy's Favor: Elemental Skill and Burst DMG is increased by 17.5% for 6s. Max 6 stacks. Each stack is counted independently.",
+                "4": "Gain 1 Canopy's Favor stack after hitting an opponent with an Elemental Skill. This can be triggered once every 0.5s; After a nearby party member triggers a Burning or Burgeon reaction, the equipping character will gain 3 stacks. This effect, in turn, can be triggered once every 2s and can be triggered even when the character is off-field. Canopy's Favor: Elemental Skill and Burst DMG is increased by 20% for 6s. Max 6 stacks. Each stack is counted independently."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "绿松石之狩",
+            "upgrade": {
+                "0": "元素战技中敌人后，会获得1层「悬木祝赐」，该效果每0.5秒至多触发1次；队伍中附近的角色触发了燃烧或烈绽放反应后，装备者会获得3层悬木祝赐，该效果每2秒至多触发1次，队伍中的角色处于队伍后台时也能触发。悬木祝赐：战技伤害和爆发伤害提升10%，持续6秒，至多叠加6层，每层持续时间独立计算。",
+                "1": "元素战技中敌人后，会获得1层「悬木祝赐」，该效果每0.5秒至多触发1次；队伍中附近的角色触发了燃烧或烈绽放反应后，装备者会获得3层悬木祝赐，该效果每2秒至多触发1次，队伍中的角色处于队伍后台时也能触发。悬木祝赐：战技伤害和爆发伤害提升12.5%，持续6秒，至多叠加6层，每层持续时间独立计算。",
+                "2": "元素战技中敌人后，会获得1层「悬木祝赐」，该效果每0.5秒至多触发1次；队伍中附近的角色触发了燃烧或烈绽放反应后，装备者会获得3层悬木祝赐，该效果每2秒至多触发1次，队伍中的角色处于队伍后台时也能触发。悬木祝赐：战技伤害和爆发伤害提升15%，持续6秒，至多叠加6层，每层持续时间独立计算。",
+                "3": "元素战技中敌人后，会获得1层「悬木祝赐」，该效果每0.5秒至多触发1次；队伍中附近的角色触发了燃烧或烈绽放反应后，装备者会获得3层悬木祝赐，该效果每2秒至多触发1次，队伍中的角色处于队伍后台时也能触发。悬木祝赐：战技伤害和爆发伤害提升17.5%，持续6秒，至多叠加6层，每层持续时间独立计算。",
+                "4": "元素战技中敌人后，会获得1层「悬木祝赐」，该效果每0.5秒至多触发1次；队伍中附近的角色触发了燃烧或烈绽放反应后，装备者会获得3层悬木祝赐，该效果每2秒至多触发1次，队伍中的角色处于队伍后台时也能触发。悬木祝赐：战技伤害和爆发伤害提升20%，持续6秒，至多叠加6层，每层持续时间独立计算。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "ターコイズの狩りJP0B",
+            "upgrade": {
+                "0": "元素スキルが敵に命中した後、「懸木の祝福」を1層獲得する。この効果は0.5秒毎に1回のみ発動可能。付近にいるチーム内キャラクターが燃焼または烈開花反応を起こした後、装備者は懸木の祝福を3層獲得する。この効果は2秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。懸木の祝福：元素スキルと元素爆発のダメージ+10%、継続時間6秒、最大6層まで、継続時間は層ごとに独立してカウントされる。JP0B",
+                "1": "元素スキルが敵に命中した後、「懸木の祝福」を1層獲得する。この効果は0.5秒毎に1回のみ発動可能。付近にいるチーム内キャラクターが燃焼または烈開花反応を起こした後、装備者は懸木の祝福を3層獲得する。この効果は2秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。懸木の祝福：元素スキルと元素爆発のダメージ+12.5%、継続時間6秒、最大6層まで、継続時間は層ごとに独立してカウントされる。JP0B",
+                "2": "元素スキルが敵に命中した後、「懸木の祝福」を1層獲得する。この効果は0.5秒毎に1回のみ発動可能。付近にいるチーム内キャラクターが燃焼または烈開花反応を起こした後、装備者は懸木の祝福を3層獲得する。この効果は2秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。懸木の祝福：元素スキルと元素爆発のダメージ+15%、継続時間6秒、最大6層まで、継続時間は層ごとに独立してカウントされる。JP0B",
+                "3": "元素スキルが敵に命中した後、「懸木の祝福」を1層獲得する。この効果は0.5秒毎に1回のみ発動可能。付近にいるチーム内キャラクターが燃焼または烈開花反応を起こした後、装備者は懸木の祝福を3層獲得する。この効果は2秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。懸木の祝福：元素スキルと元素爆発のダメージ+17.5%、継続時間6秒、最大6層まで、継続時間は層ごとに独立してカウントされる。JP0B",
+                "4": "元素スキルが敵に命中した後、「懸木の祝福」を1層獲得する。この効果は0.5秒毎に1回のみ発動可能。付近にいるチーム内キャラクターが燃焼または烈開花反応を起こした後、装備者は懸木の祝福を3層獲得する。この効果は2秒毎に1回のみ発動でき、キャラクターが待機中でも発動できる。懸木の祝福：元素スキルと元素爆発のダメージ+20%、継続時間6秒、最大6層まで、継続時間は層ごとに独立してカウントされる。JP0B"
+            }
+        }
+    }
+}
