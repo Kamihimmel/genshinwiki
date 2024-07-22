@@ -1,0 +1,141 @@
+{
+    "id": "11431",
+    "ENname": "Flamebreath Flute",
+    "CNname": "息燧之笛",
+    "JAname": "終戦の笛JP0B",
+    "imageurl": "images/weapon/11431.webp",
+    "type": "sword",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 41.0671005249023,
+            "defense_percent": 0.1501329988241
+        },
+        {
+            "level": "5",
+            "base_attack": 53.63363305053646,
+            "defense_percent": 0.17445453575657027
+        },
+        {
+            "level": "10",
+            "base_attack": 69.07486476696533,
+            "defense_percent": 0.20463128269482628
+        },
+        {
+            "level": "15",
+            "base_attack": 84.26969215700355,
+            "defense_percent": 0.23495815175040177
+        },
+        {
+            "level": "20",
+            "base_attack": 99.2591842402375,
+            "defense_percent": 0.26528500290871254
+        },
+        {
+            "level": "25",
+            "base_attack": 114.08441003626592,
+            "defense_percent": 0.29561187196427297
+        },
+        {
+            "level": "30",
+            "base_attack": 128.78642387793428,
+            "defense_percent": 0.32593874101983344
+        },
+        {
+            "level": "35",
+            "base_attack": 143.32418122355367,
+            "defense_percent": 0.35626559217814424
+        },
+        {
+            "level": "40",
+            "base_attack": 157.77980052999197,
+            "defense_percent": 0.38659247913095435
+        },
+        {
+            "level": "45",
+            "base_attack": 172.1532817972452,
+            "defense_percent": 0.41691933028926514
+        },
+        {
+            "level": "50",
+            "base_attack": 186.44463481646974,
+            "defense_percent": 0.4472462172420753
+        },
+        {
+            "level": "55",
+            "base_attack": 200.65385958767396,
+            "defense_percent": 0.47757306840040104
+        },
+        {
+            "level": "60",
+            "base_attack": 214.82200065254258,
+            "defense_percent": 0.5078999195587118
+        },
+        {
+            "level": "65",
+            "base_attack": 228.9080134693908,
+            "defense_percent": 0.538226806511522
+        },
+        {
+            "level": "70",
+            "base_attack": 242.95296216222474,
+            "defense_percent": 0.5684035355525283
+        },
+        {
+            "level": "75",
+            "base_attack": 256.9568467310443,
+            "defense_percent": 0.5987303867108541
+        },
+        {
+            "level": "80",
+            "base_attack": 270.9607312998681,
+            "defense_percent": 0.6290572736636643
+        },
+        {
+            "level": "85",
+            "base_attack": 284.8824680383419,
+            "defense_percent": 0.6593841606164743
+        },
+        {
+            "level": "90",
+            "base_attack": 298.7631602351268,
+            "defense_percent": 0.6897109759802859
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Smoke-and-Mirror Mystery",
+            "upgrade": {
+                "0": "Increases this character's DEF by 16% for 10s when using an Elemental Skill.",
+                "1": "Increases this character's DEF by 20% for 10s when using an Elemental Skill.",
+                "2": "Increases this character's DEF by 24% for 10s when using an Elemental Skill.",
+                "3": "Increases this character's DEF by 28% for 10s when using an Elemental Skill.",
+                "4": "Increases this character's DEF by 32% for 10s when using an Elemental Skill."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "镜与烟色的隐谜",
+            "upgrade": {
+                "0": "施放元素战技时，防御力提升16%，持续10秒。",
+                "1": "施放元素战技时，防御力提升20%，持续10秒。",
+                "2": "施放元素战技时，防御力提升24%，持续10秒。",
+                "3": "施放元素战技时，防御力提升28%，持续10秒。",
+                "4": "施放元素战技时，防御力提升32%，持续10秒。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "鏡と煙色の謎JP0B",
+            "upgrade": {
+                "0": "元素スキル発動時、防御力+16%、継続期間10秒。JP0B",
+                "1": "元素スキル発動時、防御力+20%、継続期間10秒。JP0B",
+                "2": "元素スキル発動時、防御力+24%、継続期間10秒。JP0B",
+                "3": "元素スキル発動時、防御力+28%、継続期間10秒。JP0B",
+                "4": "元素スキル発動時、防御力+32%、継続期間10秒。JP0B"
+            }
+        }
+    }
+}

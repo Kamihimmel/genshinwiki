@@ -1,0 +1,141 @@
+{
+    "id": "14516",
+    "ENname": "Surfing Time",
+    "CNname": "冲浪时光",
+    "JAname": "サーフィンタイムJP0B",
+    "imageurl": "images/weapon/14516.webp",
+    "type": "catalyst",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 44.3358001708984,
+            "critical_hurt": 0.1920000016689
+        },
+        {
+            "level": "5",
+            "base_attack": 58.39025022037846,
+            "critical_hurt": 0.2231039905867241
+        },
+        {
+            "level": "10",
+            "base_attack": 75.76988211152677,
+            "critical_hurt": 0.26169600904960355
+        },
+        {
+            "level": "15",
+            "base_attack": 93.01651095720595,
+            "critical_hurt": 0.3004800135981646
+        },
+        {
+            "level": "20",
+            "base_attack": 110.17445877367088,
+            "critical_hurt": 0.33926399525852063
+        },
+        {
+            "level": "25",
+            "base_attack": 127.2880845738721,
+            "critical_hurt": 0.37804799980706244
+        },
+        {
+            "level": "30",
+            "base_attack": 144.40169980359389,
+            "critical_hurt": 0.4168320043556043
+        },
+        {
+            "level": "35",
+            "base_attack": 161.55965819054265,
+            "critical_hurt": 0.4556159860159604
+        },
+        {
+            "level": "40",
+            "base_attack": 178.71761657748698,
+            "critical_hurt": 0.4944000134526879
+        },
+        {
+            "level": "45",
+            "base_attack": 195.91990755117888,
+            "critical_hurt": 0.533183995113044
+        },
+        {
+            "level": "50",
+            "base_attack": 213.25519628510466,
+            "critical_hurt": 0.5719680225497716
+        },
+        {
+            "level": "55",
+            "base_attack": 230.59050615998922,
+            "critical_hurt": 0.6107520042101469
+        },
+        {
+            "level": "60",
+            "base_attack": 248.0587926541577,
+            "critical_hurt": 0.6495359858705029
+        },
+        {
+            "level": "65",
+            "base_attack": 265.6157866037256,
+            "critical_hurt": 0.6883200133072306
+        },
+        {
+            "level": "70",
+            "base_attack": 283.305757172573,
+            "critical_hurt": 0.7269120088819242
+        },
+        {
+            "level": "75",
+            "base_attack": 301.08441405586996,
+            "critical_hurt": 0.7656959905422994
+        },
+        {
+            "level": "80",
+            "base_attack": 318.95173611265756,
+            "critical_hurt": 0.804480017979027
+        },
+        {
+            "level": "85",
+            "base_attack": 336.996409657381,
+            "critical_hurt": 0.8432640454157546
+        },
+        {
+            "level": "90",
+            "base_attack": 355.12976951655395,
+            "critical_hurt": 0.8820479812997392
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Aqua Remembrance",
+            "upgrade": {
+                "0": "Max HP increased by 20%. Every 12s, the following will occur within 10s after using an Elemental Skill: Gain 4 Scorching Summer stacks. Each stack increases Normal Attack DMG by 12%. In this duration, every 1.5s: After a Normal Attack hits an opponent, remove 1 stack; once every 1.5s: After triggering a Vaporize reaction on an opponent, add 1 stack. Max 4 Scorching Summer stacks.",
+                "1": "Max HP increased by 25%. Every 12s, the following will occur within 10s after using an Elemental Skill: Gain 4 Scorching Summer stacks. Each stack increases Normal Attack DMG by 15%. In this duration, every 1.5s: After a Normal Attack hits an opponent, remove 1 stack; once every 1.5s: After triggering a Vaporize reaction on an opponent, add 1 stack. Max 4 Scorching Summer stacks.",
+                "2": "Max HP increased by 30%. Every 12s, the following will occur within 10s after using an Elemental Skill: Gain 4 Scorching Summer stacks. Each stack increases Normal Attack DMG by 18%. In this duration, every 1.5s: After a Normal Attack hits an opponent, remove 1 stack; once every 1.5s: After triggering a Vaporize reaction on an opponent, add 1 stack. Max 4 Scorching Summer stacks.",
+                "3": "Max HP increased by 35%. Every 12s, the following will occur within 10s after using an Elemental Skill: Gain 4 Scorching Summer stacks. Each stack increases Normal Attack DMG by 21%. In this duration, every 1.5s: After a Normal Attack hits an opponent, remove 1 stack; once every 1.5s: After triggering a Vaporize reaction on an opponent, add 1 stack. Max 4 Scorching Summer stacks.",
+                "4": "Max HP increased by 40%. Every 12s, the following will occur within 10s after using an Elemental Skill: Gain 4 Scorching Summer stacks. Each stack increases Normal Attack DMG by 24%. In this duration, every 1.5s: After a Normal Attack hits an opponent, remove 1 stack; once every 1.5s: After triggering a Vaporize reaction on an opponent, add 1 stack. Max 4 Scorching Summer stacks."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "水色回忆",
+            "upgrade": {
+                "0": "生命值上限提高20%。每12秒一次，施放元素战技后的10秒内，产生如下效果：获得4层「炽夏」，每层使普通攻击造成的伤害提升12%。持续期间内，每1.5秒一次：普通攻击命中敌人后，移除1层；每1.5秒一次：对敌人触发蒸发反应后，增加1层。「炽夏」效果至多叠加4层。",
+                "1": "生命值上限提高25%。每12秒一次，施放元素战技后的10秒内，产生如下效果：获得4层「炽夏」，每层使普通攻击造成的伤害提升15%。持续期间内，每1.5秒一次：普通攻击命中敌人后，移除1层；每1.5秒一次：对敌人触发蒸发反应后，增加1层。「炽夏」效果至多叠加4层。",
+                "2": "生命值上限提高30%。每12秒一次，施放元素战技后的10秒内，产生如下效果：获得4层「炽夏」，每层使普通攻击造成的伤害提升18%。持续期间内，每1.5秒一次：普通攻击命中敌人后，移除1层；每1.5秒一次：对敌人触发蒸发反应后，增加1层。「炽夏」效果至多叠加4层。",
+                "3": "生命值上限提高35%。每12秒一次，施放元素战技后的10秒内，产生如下效果：获得4层「炽夏」，每层使普通攻击造成的伤害提升21%。持续期间内，每1.5秒一次：普通攻击命中敌人后，移除1层；每1.5秒一次：对敌人触发蒸发反应后，增加1层。「炽夏」效果至多叠加4层。",
+                "4": "生命值上限提高40%。每12秒一次，施放元素战技后的10秒内，产生如下效果：获得4层「炽夏」，每层使普通攻击造成的伤害提升24%。持续期间内，每1.5秒一次：普通攻击命中敌人后，移除1层；每1.5秒一次：对敌人触发蒸发反应后，增加1层。「炽夏」效果至多叠加4层。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "水色メモリーJP0B",
+            "upgrade": {
+                "0": "HP上限+20%。12秒毎に1回、元素スキル発動後の10秒間、以下の効果を発動する。4層の「盛夏」効果を獲得する。1層につき、通常攻撃ダメージ+12%。継続期間中、1.5秒毎に1回、通常攻撃で敵に命中した後、1層解除する。1.5秒毎に1回、敵に蒸発反応を起こした後、1層付与する。「盛夏」効果は最大4層まで重ね掛け可能。JP0B",
+                "1": "HP上限+25%。12秒毎に1回、元素スキル発動後の10秒間、以下の効果を発動する。4層の「盛夏」効果を獲得する。1層につき、通常攻撃ダメージ+15%。継続期間中、1.5秒毎に1回、通常攻撃で敵に命中した後、1層解除する。1.5秒毎に1回、敵に蒸発反応を起こした後、1層付与する。「盛夏」効果は最大4層まで重ね掛け可能。JP0B",
+                "2": "HP上限+30%。12秒毎に1回、元素スキル発動後の10秒間、以下の効果を発動する。4層の「盛夏」効果を獲得する。1層につき、通常攻撃ダメージ+18%。継続期間中、1.5秒毎に1回、通常攻撃で敵に命中した後、1層解除する。1.5秒毎に1回、敵に蒸発反応を起こした後、1層付与する。「盛夏」効果は最大4層まで重ね掛け可能。JP0B",
+                "3": "HP上限+35%。12秒毎に1回、元素スキル発動後の10秒間、以下の効果を発動する。4層の「盛夏」効果を獲得する。1層につき、通常攻撃ダメージ+21%。継続期間中、1.5秒毎に1回、通常攻撃で敵に命中した後、1層解除する。1.5秒毎に1回、敵に蒸発反応を起こした後、1層付与する。「盛夏」効果は最大4層まで重ね掛け可能。JP0B",
+                "4": "HP上限+40%。12秒毎に1回、元素スキル発動後の10秒間、以下の効果を発動する。4層の「盛夏」効果を獲得する。1層につき、通常攻撃ダメージ+24%。継続期間中、1.5秒毎に1回、通常攻撃で敵に命中した後、1層解除する。1.5秒毎に1回、敵に蒸発反応を起こした後、1層付与する。「盛夏」効果は最大4層まで重ね掛け可能。JP0B"
+            }
+        }
+    }
+}

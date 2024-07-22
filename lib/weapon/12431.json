@@ -1,0 +1,141 @@
+{
+    "id": "12431",
+    "ENname": "Earthshaker",
+    "CNname": "撼地者",
+    "JAname": "地を揺らす者JP0B",
+    "imageurl": "images/weapon/12431.webp",
+    "type": "claymore",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349014282227,
+            "attack_percent": 0.0599999986589
+        },
+        {
+            "level": "5",
+            "base_attack": 59.17332359270168,
+            "attack_percent": 0.06971999489397387
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282048535894,
+            "attack_percent": 0.08178000028923466
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53473383537896,
+            "attack_percent": 0.09390000133440843
+        },
+        {
+            "level": "20",
+            "base_attack": 118.56531627039199,
+            "attack_percent": 0.10601999522701835
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271043272829,
+            "attack_percent": 0.11813999627218613
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638401648232,
+            "attack_percent": 0.1302599973173539
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53177119703182,
+            "attack_percent": 0.14237999120996384
+        },
+        {
+            "level": "40",
+            "base_attack": 200.08716569234682,
+            "attack_percent": 0.15449999940768944
+        },
+        {
+            "level": "45",
+            "base_attack": 220.73004450520045,
+            "attack_percent": 0.16661999330029936
+        },
+        {
+            "level": "50",
+            "base_attack": 241.46038678116923,
+            "attack_percent": 0.178740001498025
+        },
+        {
+            "level": "55",
+            "base_attack": 262.2344607886868,
+            "attack_percent": 0.1908599953906409
+        },
+        {
+            "level": "60",
+            "base_attack": 283.0960191137474,
+            "attack_percent": 0.20297998928325084
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0013091703568,
+            "attack_percent": 0.21509999748097647
+        },
+        {
+            "level": "70",
+            "base_attack": 324.99406269008136,
+            "attack_percent": 0.2271599957236794
+        },
+        {
+            "level": "75",
+            "base_attack": 345.98679535538236,
+            "attack_percent": 0.23927998961629532
+        },
+        {
+            "level": "80",
+            "base_attack": 367.023301461088,
+            "attack_percent": 0.25139999781402095
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10349758949536,
+            "attack_percent": 0.2635200060117465
+        },
+        {
+            "level": "90",
+            "base_attack": 409.18373542675414,
+            "attack_percent": 0.2756399855992408
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Oath of the Verdant Path",
+            "upgrade": {
+                "0": "When a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 16% for 8s.",
+                "1": "When a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 20% for 8s.",
+                "2": "When a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 24% for 8s.",
+                "3": "When a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 28% for 8s.",
+                "4": "When a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 32% for 8s."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "苍翠之路的誓言",
+            "upgrade": {
+                "0": "队伍中的角色触发火元素相关反应时，装备者元素战技造成的伤害提升16%，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。",
+                "1": "队伍中的角色触发火元素相关反应时，装备者元素战技造成的伤害提升20%，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。",
+                "2": "队伍中的角色触发火元素相关反应时，装备者元素战技造成的伤害提升24%，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。",
+                "3": "队伍中的角色触发火元素相关反应时，装备者元素战技造成的伤害提升28%，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。",
+                "4": "队伍中的角色触发火元素相关反应时，装备者元素战技造成的伤害提升32%，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "蒼翠の道の誓いJP0B",
+            "upgrade": {
+                "0": "チームにいるキャラクターが炎元素関連反応を起こした時、装備者の元素スキルによるダメージ+16%、継続期間8秒。JP0B",
+                "1": "チームにいるキャラクターが炎元素関連反応を起こした時、装備者の元素スキルによるダメージ+20%、継続期間8秒。JP0B",
+                "2": "チームにいるキャラクターが炎元素関連反応を起こした時、装備者の元素スキルによるダメージ+24%、継続期間8秒。JP0B",
+                "3": "チームにいるキャラクターが炎元素関連反応を起こした時、装備者の元素スキルによるダメージ+28%、継続期間8秒。JP0B",
+                "4": "チームにいるキャラクターが炎元素関連反応を起こした時、装備者の元素スキルによるダメージ+32%、継続期間8秒。JP0B"
+            }
+        }
+    }
+}
