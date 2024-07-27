@@ -1,0 +1,70 @@
+{
+    "id": "15038",
+    "ENname": "Obsidian Codex",
+    "CNname": "黑曜秘典",
+    "JAname": "黒曜の秘典JP0B",
+    "imageurl": "images/artifact/15038.webp",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "While the equipping character is in Nightsoul's Blessing and is on the field, their DMG dealt is increased by 20%.",
+            "DescriptionCN": "装备者处于夜魂加持状态，并且在场上时，造成的伤害提高15%。",
+            "DescriptionJP": "装備者が夜魂の加護状態にあり、かつフィールド上にいる時、与えるダメージ+20%。JP0B"
+        },
+        "4": {
+            "DescriptionEN": "After the equipping character consumes 10 Nightsoul points while on the field, CRIT Rate increases by 40% for 6s.",
+            "DescriptionCN": "装备者在场上消耗10点夜魂值后，暴击率提高40%，持续6秒。",
+            "DescriptionJP": "装備者がフィールド上で夜魂値を10消費すると、会心率+40%、継続時間6秒。JP0B"
+        }
+    },
+    "suit": {
+        "ring": {
+            "ENname": "Pre-Banquet of the Contenders",
+            "CNname": "纷争的前宴",
+            "JAname": "紛争の前夜JP0B",
+            "DescriptionEN": "",
+            "DescriptionCN": "",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15038-ring.webp"
+        },
+        "necklace": {
+            "ENname": "Root of the Spirit-Marrow",
+            "CNname": "灵髓的根脉",
+            "JAname": "霊髄の根源JP0B",
+            "DescriptionEN": "",
+            "DescriptionCN": "",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15038-necklace.webp"
+        },
+        "dress": {
+            "ENname": "Crown of the Saints",
+            "CNname": "诸圣的礼冠",
+            "JAname": "諸聖の栄冠JP0B",
+            "DescriptionEN": "",
+            "DescriptionCN": "",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15038-dress.webp"
+        },
+        "bracer": {
+            "ENname": "Reckoning of the Xenogenic",
+            "CNname": "异种的期许",
+            "JAname": "異種の期待JP0B",
+            "DescriptionEN": "",
+            "DescriptionCN": "",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15038-bracer.webp"
+        },
+        "shoes": {
+            "ENname": "Myths of the Night Realm",
+            "CNname": "夜域的迷思",
+            "JAname": "夜域の神話JP0B",
+            "DescriptionEN": "",
+            "DescriptionCN": "",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15038-shoes.webp"
+        }
+    }
+}
