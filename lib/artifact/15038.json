@@ -1,0 +1,70 @@
+{
+    "id": "15038",
+    "ENname": "Obsidian Codex",
+    "CNname": "黑曜秘典",
+    "JAname": "黒曜の秘典",
+    "imageurl": "images/artifact/15038.webp",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "While the equipping character is in Nightsoul's Blessing and is on the field, their DMG dealt is increased by 15%.",
+            "DescriptionCN": "装备者处于夜魂加持状态，并且在场上时，造成的伤害提高15%。",
+            "DescriptionJP": "装備者が夜魂の加護状態にあり、かつフィールド上にいる時、与えるダメージ+15%。JP0B"
+        },
+        "4": {
+            "DescriptionEN": "After the equipping character consumes 10 Nightsoul points while on the field, CRIT Rate increases by 40% for 6s.",
+            "DescriptionCN": "装备者在场上消耗1点夜魂值后，暴击率提高40%，持续6秒。该效果每1秒至多触发一次。",
+            "DescriptionJP": "装備者がフィールド上で夜魂値を10消費すると、会心率+40%、継続時間6秒。JP0B"
+        }
+    },
+    "suit": {
+        "ring": {
+            "ENname": "Pre-Banquet of the Contenders",
+            "CNname": "纷争的前宴",
+            "JAname": "紛争の前夜",
+            "DescriptionEN": "A vessel that seems to have been made by twisting and forming stone in a seemingly whimsical fashion. But it is an open question as to who possesses such strength...",
+            "DescriptionCN": "似乎是将石块随意扭曲敲打做成的容器，不知何人拥有这样的臂力。",
+            "DescriptionJP": "石を気ままにねじって叩いて作った容器。これほどの腕力を持っているとは、一体誰なんだろう。JP0B",
+            "imageurl": "images/artifact/15038-ring.webp"
+        },
+        "necklace": {
+            "ENname": "Root of the Spirit-Marrow",
+            "CNname": "灵髓的根脉",
+            "JAname": "霊髄の根源",
+            "DescriptionEN": "A feathered accessory made in imitation of a dragon's wing. Perhaps it was once a memento of some forgotten history.",
+            "DescriptionCN": "模仿古龙之翼打造的羽饰，或许曾是某段已被遗忘的历史的见证。",
+            "DescriptionJP": "古龍の翼を真似て作られた羽飾り。とうに忘れ去られていた歴史の証かもしれない。JP0B",
+            "imageurl": "images/artifact/15038-necklace.webp"
+        },
+        "dress": {
+            "ENname": "Crown of the Saints",
+            "CNname": "诸圣的礼冠",
+            "JAname": "諸聖の栄冠",
+            "DescriptionEN": "A crown made of obsidian that in ancient times was used in coronation ceremonies by noble tribal kings.",
+            "DescriptionCN": "用黑曜石制作的宝冠，在古时曾用于部族中高贵王酋的加冕仪式。",
+            "DescriptionJP": "黒曜石で作られた宝冠。昔、部族の高貴な王の戴冠式に使われていた。JP0B",
+            "imageurl": "images/artifact/15038-dress.webp"
+        },
+        "bracer": {
+            "ENname": "Reckoning of the Xenogenic",
+            "CNname": "异种的期许",
+            "JAname": "異種の期待",
+            "DescriptionEN": "A flower meticulously carved from black crystal. It emits a mysterious light at night.",
+            "DescriptionCN": "用黑色晶石精心雕琢而成的花朵，在夜间似乎会散发出神秘的幽光。",
+            "DescriptionJP": "黒い晶石で精巧に彫刻された花。夜になると不思議な幽光を放つという。JP0B",
+            "imageurl": "images/artifact/15038-bracer.webp"
+        },
+        "shoes": {
+            "ENname": "Myths of the Night Realm",
+            "CNname": "夜域的迷思",
+            "JAname": "夜域の神話",
+            "DescriptionEN": "A mysterious ritual element that is neither a timepiece nor a compass. Nowadays, no one has any idea what it is used for.",
+            "DescriptionCN": "既非时计亦非罗盘的神秘仪表，如今世上已无人知晓其用途。",
+            "DescriptionJP": "時計でも羅盤でもない不思議な器具。今やその用途を知る者はいない。JP0B",
+            "imageurl": "images/artifact/15038-shoes.webp"
+        }
+    }
+}
