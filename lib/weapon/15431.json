@@ -1,0 +1,141 @@
+{
+    "id": "15431",
+    "ENname": "Chain Breaker",
+    "CNname": "碎链",
+    "JAname": "チェーンブレイカー",
+    "imageurl": "images/weapon/15431.webp",
+    "type": "bow",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349014282227,
+            "attack_percent": 0.0599999986589
+        },
+        {
+            "level": "5",
+            "base_attack": 59.17332359270168,
+            "attack_percent": 0.06971999489397387
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282048535894,
+            "attack_percent": 0.08178000028923466
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53473383537896,
+            "attack_percent": 0.09390000133440843
+        },
+        {
+            "level": "20",
+            "base_attack": 118.56531627039199,
+            "attack_percent": 0.10601999522701835
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271043272829,
+            "attack_percent": 0.11813999627218613
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638401648232,
+            "attack_percent": 0.1302599973173539
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53177119703182,
+            "attack_percent": 0.14237999120996384
+        },
+        {
+            "level": "40",
+            "base_attack": 200.08716569234682,
+            "attack_percent": 0.15449999940768944
+        },
+        {
+            "level": "45",
+            "base_attack": 220.73004450520045,
+            "attack_percent": 0.16661999330029936
+        },
+        {
+            "level": "50",
+            "base_attack": 241.46038678116923,
+            "attack_percent": 0.178740001498025
+        },
+        {
+            "level": "55",
+            "base_attack": 262.2344607886868,
+            "attack_percent": 0.1908599953906409
+        },
+        {
+            "level": "60",
+            "base_attack": 283.0960191137474,
+            "attack_percent": 0.20297998928325084
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0013091703568,
+            "attack_percent": 0.21509999748097647
+        },
+        {
+            "level": "70",
+            "base_attack": 324.99406269008136,
+            "attack_percent": 0.2271599957236794
+        },
+        {
+            "level": "75",
+            "base_attack": 345.98679535538236,
+            "attack_percent": 0.23927998961629532
+        },
+        {
+            "level": "80",
+            "base_attack": 367.023301461088,
+            "attack_percent": 0.25139999781402095
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10349758949536,
+            "attack_percent": 0.2635200060117465
+        },
+        {
+            "level": "90",
+            "base_attack": 409.18373542675414,
+            "attack_percent": 0.2756399855992408
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Feather-Flower Song",
+            "upgrade": {
+                "0": "For every party member from Natlan or who has a different Elemental Type from the equipping character, the equipping character gains 4.8% increased ATK. When there are no less than 3 of the aforementioned characters, the equipping character gains 24 Elemental Mastery.",
+                "1": "For every party member from Natlan or who has a different Elemental Type from the equipping character, the equipping character gains 6% increased ATK. When there are no less than 3 of the aforementioned characters, the equipping character gains 30 Elemental Mastery.",
+                "2": "For every party member from Natlan or who has a different Elemental Type from the equipping character, the equipping character gains 7.2% increased ATK. When there are no less than 3 of the aforementioned characters, the equipping character gains 36 Elemental Mastery.",
+                "3": "For every party member from Natlan or who has a different Elemental Type from the equipping character, the equipping character gains 8.4% increased ATK. When there are no less than 3 of the aforementioned characters, the equipping character gains 42 Elemental Mastery.",
+                "4": "For every party member from Natlan or who has a different Elemental Type from the equipping character, the equipping character gains 9.6% increased ATK. When there are no less than 3 of the aforementioned characters, the equipping character gains 48 Elemental Mastery."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "花与落羽的长歌",
+            "upgrade": {
+                "0": "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得4.8%攻击力提升；上述角色不少于3名时，装备者的元素精通提升24点。",
+                "1": "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得6%攻击力提升；上述角色不少于3名时，装备者的元素精通提升30点。",
+                "2": "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得7.2%攻击力提升；上述角色不少于3名时，装备者的元素精通提升36点。",
+                "3": "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得8.4%攻击力提升；上述角色不少于3名时，装备者的元素精通提升42点。",
+                "4": "队伍中每有一名纳塔角色或与装备者元素类型不同的角色，装备者获得9.6%攻击力提升；上述角色不少于3名时，装备者的元素精通提升48点。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "花と落羽の長歌",
+            "upgrade": {
+                "0": "チームにナタのキャラクター、または装備者と元素タイプが異なるキャラクターが1名いるごとに、装備者の攻撃力+4.8%。上記のキャラクターが3名以上いる場合、装備者の元素熟知+24。JP0B",
+                "1": "チームにナタのキャラクター、または装備者と元素タイプが異なるキャラクターが1名いるごとに、装備者の攻撃力+6%。上記のキャラクターが3名以上いる場合、装備者の元素熟知+30。JP0B",
+                "2": "チームにナタのキャラクター、または装備者と元素タイプが異なるキャラクターが1名いるごとに、装備者の攻撃力+7.2%。上記のキャラクターが3名以上いる場合、装備者の元素熟知+36。JP0B",
+                "3": "チームにナタのキャラクター、または装備者と元素タイプが異なるキャラクターが1名いるごとに、装備者の攻撃力+8.4%。上記のキャラクターが3名以上いる場合、装備者の元素熟知+42。JP0B",
+                "4": "チームにナタのキャラクター、または装備者と元素タイプが異なるキャラクターが1名いるごとに、装備者の攻撃力+9.6%。上記のキャラクターが3名以上いる場合、装備者の元素熟知+48。JP0B"
+            }
+        }
+    }
+}
