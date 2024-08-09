@@ -1,0 +1,141 @@
+{
+    "id": "14431",
+    "ENname": "Ring of Yaxche",
+    "CNname": "木棉之环",
+    "JAname": "ヤシュチェの環",
+    "imageurl": "images/weapon/14431.webp",
+    "type": "catalyst",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.4010009765625,
+            "hp_percent": 0.0900000035763
+        },
+        {
+            "level": "5",
+            "base_attack": 56.3933331184798,
+            "hp_percent": 0.10457999883415839
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494599612524,
+            "hp_percent": 0.12267000805022803
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655381917275,
+            "hp_percent": 0.1408500107467547
+        },
+        {
+            "level": "20",
+            "base_attack": 108.9281717514076,
+            "hp_percent": 0.15903000271443496
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978968364665,
+            "hp_percent": 0.17721000541095264
+        },
+        {
+            "level": "30",
+            "base_attack": 143.9089995789125,
+            "hp_percent": 0.19539000810747031
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060740196004,
+            "hp_percent": 0.2135700000751506
+        },
+        {
+            "level": "40",
+            "base_attack": 178.93221522501182,
+            "hp_percent": 0.23175001350050567
+        },
+        {
+            "level": "45",
+            "base_attack": 196.44383315724662,
+            "hp_percent": 0.24993000546818595
+        },
+        {
+            "level": "50",
+            "base_attack": 213.95545108948147,
+            "hp_percent": 0.268110018893541
+        },
+        {
+            "level": "55",
+            "base_attack": 231.46706902171633,
+            "hp_percent": 0.2862900108612303
+        },
+        {
+            "level": "60",
+            "base_attack": 248.97868695395113,
+            "hp_percent": 0.30447000282891057
+        },
+        {
+            "level": "65",
+            "base_attack": 266.44788674003394,
+            "hp_percent": 0.32265001625426565
+        },
+        {
+            "level": "70",
+            "base_attack": 283.9595046722688,
+            "hp_percent": 0.34074001474149784
+        },
+        {
+            "level": "75",
+            "base_attack": 301.4711226045036,
+            "hp_percent": 0.3589200067091871
+        },
+        {
+            "level": "80",
+            "base_attack": 318.9827203183681,
+            "hp_percent": 0.3771000201345422
+        },
+        {
+            "level": "85",
+            "base_attack": 336.4943382506029,
+            "hp_percent": 0.39528003355989727
+        },
+        {
+            "level": "90",
+            "base_attack": 354.00595618283774,
+            "hp_percent": 0.41346000406990274
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Echoes of the Plentiful Land",
+            "upgrade": {
+                "0": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by 0.6% for 10s. Normal Attack DMG can be increased this way by a maximum of 16%.",
+                "1": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by 0.7% for 10s. Normal Attack DMG can be increased this way by a maximum of 20%.",
+                "2": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by 0.8% for 10s. Normal Attack DMG can be increased this way by a maximum of 24%.",
+                "3": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by 0.9% for 10s. Normal Attack DMG can be increased this way by a maximum of 28%.",
+                "4": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by 1% for 10s. Normal Attack DMG can be increased this way by a maximum of 32%."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "丰沃之陆的回声",
+            "upgrade": {
+                "0": "施放元素战技时，获得「玉锻之冕」效果：每1000点生命值上限都会使普通攻击造成的伤害提升0.6%，持续10秒。通过这种方式至多使普通攻击造成的伤害提升16%。",
+                "1": "施放元素战技时，获得「玉锻之冕」效果：每1000点生命值上限都会使普通攻击造成的伤害提升0.7%，持续10秒。通过这种方式至多使普通攻击造成的伤害提升20%。",
+                "2": "施放元素战技时，获得「玉锻之冕」效果：每1000点生命值上限都会使普通攻击造成的伤害提升0.8%，持续10秒。通过这种方式至多使普通攻击造成的伤害提升24%。",
+                "3": "施放元素战技时，获得「玉锻之冕」效果：每1000点生命值上限都会使普通攻击造成的伤害提升0.9%，持续10秒。通过这种方式至多使普通攻击造成的伤害提升28%。",
+                "4": "施放元素战技时，获得「玉锻之冕」效果：每1000点生命值上限都会使普通攻击造成的伤害提升1%，持续10秒。通过这种方式至多使普通攻击造成的伤害提升32%。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "豊沃の地のこだま",
+            "upgrade": {
+                "0": "元素スキル発動時、「鍛冶の冠」効果を獲得する。HP上限1000ごとに通常攻撃ダメージ+0.6%、継続時間10秒。この方法でアップできる通常攻撃ダメージは最大16%まで。",
+                "1": "元素スキル発動時、「鍛冶の冠」効果を獲得する。HP上限1000ごとに通常攻撃ダメージ+0.7%、継続時間10秒。この方法でアップできる通常攻撃ダメージは最大20%まで。",
+                "2": "元素スキル発動時、「鍛冶の冠」効果を獲得する。HP上限1000ごとに通常攻撃ダメージ+0.8%、継続時間10秒。この方法でアップできる通常攻撃ダメージは最大24%まで。",
+                "3": "元素スキル発動時、「鍛冶の冠」効果を獲得する。HP上限1000ごとに通常攻撃ダメージ+0.9%、継続時間10秒。この方法でアップできる通常攻撃ダメージは最大28%まで。",
+                "4": "元素スキル発動時、「鍛冶の冠」効果を獲得する。HP上限1000ごとに通常攻撃ダメージ+1%、継続時間10秒。この方法でアップできる通常攻撃ダメージは最大32%まで。"
+            }
+        }
+    }
+}
