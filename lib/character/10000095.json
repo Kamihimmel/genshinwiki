@@ -3745,7 +3745,7 @@
             "CNname": "急性剂量",
             "JAname": "緊急時の投与量",
             "imageurl": "images/talent/10000095-5.webp",
-            "DescriptionEN": "While underwater, heal your active character over 2.5s when their HP falls under 50%. The amount healed is equal to 50% of their Max HP, and their All Elemental and Physical RES will be decreased by 10% for 10s. This effect can be triggered up to once every 20s.",
+            "DescriptionEN": "While underwater, heals your active character over 2.5s when their HP falls under 50%. The amount healed is equal to 50% of their Max HP, and their All Elemental and Physical RES will be decreased by 10% for 10s. This effect can be triggered up to once every 20s.",
             "DescriptionCN": "在水下时，当前场上自己的角色的生命值降低至50%以下时，将在2.5秒内为其持续恢复生命值，总回复量相当于其生命值上限的50%，并在10秒内使该角色的所有元素抗性和物理抗性下降10%。该效果每20秒最多触发一次。",
             "DescriptionJP": "水中にいる時、フィールド上の自身のキャラクターのHPが50%以下になると、2.5秒の間、該当キャラクターのHPを持続的に回復する。総回復量は該当キャラクターのHP上限の50%に相当。このとき、10秒間、該当キャラクターの全元素耐性と物理耐性-10%。この効果は20秒毎に最大1回のみ発動可能。",
             "maxlevel": 0,
