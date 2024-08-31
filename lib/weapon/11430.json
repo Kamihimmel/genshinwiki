@@ -1,0 +1,141 @@
+{
+    "id": "11430",
+    "ENname": "Sturdy Bone",
+    "CNname": "弥坚骨",
+    "JAname": "スターディー・ボーンJP0B",
+    "imageurl": "images/weapon/11430.webp",
+    "type": "sword",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349014282227,
+            "attack_percent": 0.0599999986589
+        },
+        {
+            "level": "5",
+            "base_attack": 59.17332359270168,
+            "attack_percent": 0.06971999489397387
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282048535894,
+            "attack_percent": 0.08178000028923466
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53473383537896,
+            "attack_percent": 0.09390000133440843
+        },
+        {
+            "level": "20",
+            "base_attack": 118.56531627039199,
+            "attack_percent": 0.10601999522701835
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271043272829,
+            "attack_percent": 0.11813999627218613
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638401648232,
+            "attack_percent": 0.1302599973173539
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53177119703182,
+            "attack_percent": 0.14237999120996384
+        },
+        {
+            "level": "40",
+            "base_attack": 200.08716569234682,
+            "attack_percent": 0.15449999940768944
+        },
+        {
+            "level": "45",
+            "base_attack": 220.73004450520045,
+            "attack_percent": 0.16661999330029936
+        },
+        {
+            "level": "50",
+            "base_attack": 241.46038678116923,
+            "attack_percent": 0.178740001498025
+        },
+        {
+            "level": "55",
+            "base_attack": 262.2344607886868,
+            "attack_percent": 0.1908599953906409
+        },
+        {
+            "level": "60",
+            "base_attack": 283.0960191137474,
+            "attack_percent": 0.20297998928325084
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0013091703568,
+            "attack_percent": 0.21509999748097647
+        },
+        {
+            "level": "70",
+            "base_attack": 324.99406269008136,
+            "attack_percent": 0.2271599957236794
+        },
+        {
+            "level": "75",
+            "base_attack": 345.98679535538236,
+            "attack_percent": 0.23927998961629532
+        },
+        {
+            "level": "80",
+            "base_attack": 367.023301461088,
+            "attack_percent": 0.25139999781402095
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10349758949536,
+            "attack_percent": 0.2635200060117465
+        },
+        {
+            "level": "90",
+            "base_attack": 409.18373542675414,
+            "attack_percent": 0.2756399855992408
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Trapper's Pride",
+            "upgrade": {
+                "0": "Sprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Spring or Alternate Sprint, Normal Attack DMG is increased by 16% of ATK. This effect expires after triggering 18 times or 7s.",
+                "1": "Sprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Spring or Alternate Sprint, Normal Attack DMG is increased by 20% of ATK. This effect expires after triggering 18 times or 7s.",
+                "2": "Sprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Spring or Alternate Sprint, Normal Attack DMG is increased by 24% of ATK. This effect expires after triggering 18 times or 7s.",
+                "3": "Sprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Spring or Alternate Sprint, Normal Attack DMG is increased by 28% of ATK. This effect expires after triggering 18 times or 7s.",
+                "4": "Sprint or Alternate Sprint Stamina Consumption decreased by 15%. Additionally, after using Spring or Alternate Sprint, Normal Attack DMG is increased by 32% of ATK. This effect expires after triggering 18 times or 7s."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "陷阵者的自矜",
+            "upgrade": {
+                "0": "冲刺或替代冲刺的能力消耗的体力降低15%；此外，使用冲刺或替代冲刺的能力后，普通攻击造成的伤害提高，提高数值相当于攻击力的16%，该效果在生效18次或7秒后消失。",
+                "1": "冲刺或替代冲刺的能力消耗的体力降低15%；此外，使用冲刺或替代冲刺的能力后，普通攻击造成的伤害提高，提高数值相当于攻击力的20%，该效果在生效18次或7秒后消失。",
+                "2": "冲刺或替代冲刺的能力消耗的体力降低15%；此外，使用冲刺或替代冲刺的能力后，普通攻击造成的伤害提高，提高数值相当于攻击力的24%，该效果在生效18次或7秒后消失。",
+                "3": "冲刺或替代冲刺的能力消耗的体力降低15%；此外，使用冲刺或替代冲刺的能力后，普通攻击造成的伤害提高，提高数值相当于攻击力的28%，该效果在生效18次或7秒后消失。",
+                "4": "冲刺或替代冲刺的能力消耗的体力降低15%；此外，使用冲刺或替代冲刺的能力后，普通攻击造成的伤害提高，提高数值相当于攻击力的32%，该效果在生效18次或7秒后消失。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "陥陣する者の自矜JP0B",
+            "upgrade": {
+                "0": "ダッシュ、またはダッシュを代替する能力のスタミナ消費-15%。さらに、ダッシュ、またはダッシュを代替する能力を使用した後、通常攻撃の与えるダメージが攻撃力の16%分アップする。この効果は18回発動または7秒後にクリアされる。JP0B",
+                "1": "ダッシュ、またはダッシュを代替する能力のスタミナ消費-15%。さらに、ダッシュ、またはダッシュを代替する能力を使用した後、通常攻撃の与えるダメージが攻撃力の20%分アップする。この効果は18回発動または7秒後にクリアされる。JP0B",
+                "2": "ダッシュ、またはダッシュを代替する能力のスタミナ消費-15%。さらに、ダッシュ、またはダッシュを代替する能力を使用した後、通常攻撃の与えるダメージが攻撃力の24%分アップする。この効果は18回発動または7秒後にクリアされる。JP0B",
+                "3": "ダッシュ、またはダッシュを代替する能力のスタミナ消費-15%。さらに、ダッシュ、またはダッシュを代替する能力を使用した後、通常攻撃の与えるダメージが攻撃力の28%分アップする。この効果は18回発動または7秒後にクリアされる。JP0B",
+                "4": "ダッシュ、またはダッシュを代替する能力のスタミナ消費-15%。さらに、ダッシュ、またはダッシュを代替する能力を使用した後、通常攻撃の与えるダメージが攻撃力の32%分アップする。この効果は18回発動または7秒後にクリアされる。JP0B"
+            }
+        }
+    }
+}
