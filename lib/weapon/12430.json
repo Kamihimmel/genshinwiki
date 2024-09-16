@@ -1,0 +1,141 @@
+{
+    "id": "12430",
+    "ENname": "Fruitful Hook",
+    "CNname": "硕果钩",
+    "JAname": "フルートゥフル・フック",
+    "imageurl": "images/weapon/12430.webp",
+    "type": "claymore",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.7349014282227,
+            "attack_percent": 0.0599999986589
+        },
+        {
+            "level": "5",
+            "base_attack": 59.17332359270168,
+            "attack_percent": 0.06971999489397387
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282048535894,
+            "attack_percent": 0.08178000028923466
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53473383537896,
+            "attack_percent": 0.09390000133440843
+        },
+        {
+            "level": "20",
+            "base_attack": 118.56531627039199,
+            "attack_percent": 0.10601999522701835
+        },
+        {
+            "level": "25",
+            "base_attack": 138.7271043272829,
+            "attack_percent": 0.11813999627218613
+        },
+        {
+            "level": "30",
+            "base_attack": 159.0638401648232,
+            "attack_percent": 0.1302599973173539
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53177119703182,
+            "attack_percent": 0.14237999120996384
+        },
+        {
+            "level": "40",
+            "base_attack": 200.08716569234682,
+            "attack_percent": 0.15449999940768944
+        },
+        {
+            "level": "45",
+            "base_attack": 220.73004450520045,
+            "attack_percent": 0.16661999330029936
+        },
+        {
+            "level": "50",
+            "base_attack": 241.46038678116923,
+            "attack_percent": 0.178740001498025
+        },
+        {
+            "level": "55",
+            "base_attack": 262.2344607886868,
+            "attack_percent": 0.1908599953906409
+        },
+        {
+            "level": "60",
+            "base_attack": 283.0960191137474,
+            "attack_percent": 0.20297998928325084
+        },
+        {
+            "level": "65",
+            "base_attack": 304.0013091703568,
+            "attack_percent": 0.21509999748097647
+        },
+        {
+            "level": "70",
+            "base_attack": 324.99406269008136,
+            "attack_percent": 0.2271599957236794
+        },
+        {
+            "level": "75",
+            "base_attack": 345.98679535538236,
+            "attack_percent": 0.23927998961629532
+        },
+        {
+            "level": "80",
+            "base_attack": 367.023301461088,
+            "attack_percent": 0.25139999781402095
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10349758949536,
+            "attack_percent": 0.2635200060117465
+        },
+        {
+            "level": "90",
+            "base_attack": 409.18373542675414,
+            "attack_percent": 0.2756399855992408
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "The Weight of Falling Branches",
+            "upgrade": {
+                "0": "Increase Plunging Attack CRIT Rate by 16%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 16% for 10s.",
+                "1": "Increase Plunging Attack CRIT Rate by 20%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 20% for 10s.",
+                "2": "Increase Plunging Attack CRIT Rate by 24%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 24% for 10s.",
+                "3": "Increase Plunging Attack CRIT Rate by 28%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 28% for 10s.",
+                "4": "Increase Plunging Attack CRIT Rate by 32%; After a Plunging Attack hits an opponent, Normal, Charged, and Plunging Attack DMG increased by 32% for 10s."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "坠枝之重",
+            "upgrade": {
+                "0": "下落攻击的暴击率提升16%；下落攻击命中敌人后，普通攻击、重击、下落攻击造成的伤害提升16%，持续10秒。",
+                "1": "下落攻击的暴击率提升20%；下落攻击命中敌人后，普通攻击、重击、下落攻击造成的伤害提升20%，持续10秒。",
+                "2": "下落攻击的暴击率提升24%；下落攻击命中敌人后，普通攻击、重击、下落攻击造成的伤害提升24%，持续10秒。",
+                "3": "下落攻击的暴击率提升28%；下落攻击命中敌人后，普通攻击、重击、下落攻击造成的伤害提升28%，持续10秒。",
+                "4": "下落攻击的暴击率提升32%；下落攻击命中敌人后，普通攻击、重击、下落攻击造成的伤害提升32%，持续10秒。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "落枝の重さ",
+            "upgrade": {
+                "0": "落下攻撃の会心率+16%。落下攻撃が敵に命中した後、通常攻撃、重撃、落下攻撃ダメージ+16%、継続時間10秒。",
+                "1": "落下攻撃の会心率+20%。落下攻撃が敵に命中した後、通常攻撃、重撃、落下攻撃ダメージ+20%、継続時間10秒。",
+                "2": "落下攻撃の会心率+24%。落下攻撃が敵に命中した後、通常攻撃、重撃、落下攻撃ダメージ+24%、継続時間10秒。",
+                "3": "落下攻撃の会心率+28%。落下攻撃が敵に命中した後、通常攻撃、重撃、落下攻撃ダメージ+28%、継続時間10秒。",
+                "4": "落下攻撃の会心率+32%。落下攻撃が敵に命中した後、通常攻撃、重撃、落下攻撃ダメージ+32%、継続時間10秒。"
+            }
+        }
+    }
+}
