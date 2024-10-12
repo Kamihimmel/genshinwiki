@@ -1,0 +1,141 @@
+{
+    "id": "15430",
+    "ENname": "Flower-Wreathed Feathers",
+    "CNname": "缀花之翎",
+    "JAname": "花飾りの羽JP0B",
+    "imageurl": "images/weapon/15430.webp",
+    "type": "bow",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.4010009765625,
+            "attack_percent": 0.0900000035763
+        },
+        {
+            "level": "5",
+            "base_attack": 56.3933331184798,
+            "attack_percent": 0.10457999883415839
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494599612524,
+            "attack_percent": 0.12267000805022803
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655381917275,
+            "attack_percent": 0.1408500107467547
+        },
+        {
+            "level": "20",
+            "base_attack": 108.9281717514076,
+            "attack_percent": 0.15903000271443496
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978968364665,
+            "attack_percent": 0.17721000541095264
+        },
+        {
+            "level": "30",
+            "base_attack": 143.9089995789125,
+            "attack_percent": 0.19539000810747031
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060740196004,
+            "attack_percent": 0.2135700000751506
+        },
+        {
+            "level": "40",
+            "base_attack": 178.93221522501182,
+            "attack_percent": 0.23175001350050567
+        },
+        {
+            "level": "45",
+            "base_attack": 196.44383315724662,
+            "attack_percent": 0.24993000546818595
+        },
+        {
+            "level": "50",
+            "base_attack": 213.95545108948147,
+            "attack_percent": 0.268110018893541
+        },
+        {
+            "level": "55",
+            "base_attack": 231.46706902171633,
+            "attack_percent": 0.2862900108612303
+        },
+        {
+            "level": "60",
+            "base_attack": 248.97868695395113,
+            "attack_percent": 0.30447000282891057
+        },
+        {
+            "level": "65",
+            "base_attack": 266.44788674003394,
+            "attack_percent": 0.32265001625426565
+        },
+        {
+            "level": "70",
+            "base_attack": 283.9595046722688,
+            "attack_percent": 0.34074001474149784
+        },
+        {
+            "level": "75",
+            "base_attack": 301.4711226045036,
+            "attack_percent": 0.3589200067091871
+        },
+        {
+            "level": "80",
+            "base_attack": 318.9827203183681,
+            "attack_percent": 0.3771000201345422
+        },
+        {
+            "level": "85",
+            "base_attack": 336.4943382506029,
+            "attack_percent": 0.39528003355989727
+        },
+        {
+            "level": "90",
+            "base_attack": 354.00595618283774,
+            "attack_percent": 0.41346000406990274
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Flower-Wreathed Feathers",
+            "upgrade": {
+                "0": "Gliding Stamina consumption decreased by 15%. While aiming with a Bow, character's Charged Attack DMG will be increased by 6% every 0.5s. Max 6 stacks. This effect will be removed 10s after exiting Aiming Mode.",
+                "1": "Gliding Stamina consumption decreased by 15%. While aiming with a Bow, character's Charged Attack DMG will be increased by 7.5% every 0.5s. Max 6 stacks. This effect will be removed 10s after exiting Aiming Mode.",
+                "2": "Gliding Stamina consumption decreased by 15%. While aiming with a Bow, character's Charged Attack DMG will be increased by 9% every 0.5s. Max 6 stacks. This effect will be removed 10s after exiting Aiming Mode.",
+                "3": "Gliding Stamina consumption decreased by 15%. While aiming with a Bow, character's Charged Attack DMG will be increased by 10.5% every 0.5s. Max 6 stacks. This effect will be removed 10s after exiting Aiming Mode.",
+                "4": "Gliding Stamina consumption decreased by 15%. While aiming with a Bow, character's Charged Attack DMG will be increased by 12% every 0.5s. Max 6 stacks. This effect will be removed 10s after exiting Aiming Mode."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "缀花之翎",
+            "upgrade": {
+                "0": "滑翔消耗的体力降低15%。进行瞄准射击时，每0.5秒提升重击造成的伤害6%，该效果最多叠加6层，并将在不处于瞄准状态下10秒后移除。",
+                "1": "滑翔消耗的体力降低15%。进行瞄准射击时，每0.5秒提升重击造成的伤害7.5%，该效果最多叠加6层，并将在不处于瞄准状态下10秒后移除。",
+                "2": "滑翔消耗的体力降低15%。进行瞄准射击时，每0.5秒提升重击造成的伤害9%，该效果最多叠加6层，并将在不处于瞄准状态下10秒后移除。",
+                "3": "滑翔消耗的体力降低15%。进行瞄准射击时，每0.5秒提升重击造成的伤害10.5%，该效果最多叠加6层，并将在不处于瞄准状态下10秒后移除。",
+                "4": "滑翔消耗的体力降低15%。进行瞄准射击时，每0.5秒提升重击造成的伤害12%，该效果最多叠加6层，并将在不处于瞄准状态下10秒后移除。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "花飾りの羽JP0B",
+            "upgrade": {
+                "0": "飛行時のスタミナ消費-15%。弓による照準モード中、0.5秒毎に自身の重撃ダメージ+6%、最大6層まで。照準モードを解除した10秒後に解除される。JP0B",
+                "1": "飛行時のスタミナ消費-15%。弓による照準モード中、0.5秒毎に自身の重撃ダメージ+7.5%、最大6層まで。照準モードを解除した10秒後に解除される。JP0B",
+                "2": "飛行時のスタミナ消費-15%。弓による照準モード中、0.5秒毎に自身の重撃ダメージ+9%、最大6層まで。照準モードを解除した10秒後に解除される。JP0B",
+                "3": "飛行時のスタミナ消費-15%。弓による照準モード中、0.5秒毎に自身の重撃ダメージ+10.5%、最大6層まで。照準モードを解除した10秒後に解除される。JP0B",
+                "4": "飛行時のスタミナ消費-15%。弓による照準モード中、0.5秒毎に自身の重撃ダメージ+12%、最大6層まで。照準モードを解除した10秒後に解除される。JP0B"
+            }
+        }
+    }
+}
