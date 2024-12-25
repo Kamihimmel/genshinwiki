@@ -373,6 +373,42 @@
             "order": 999
         },
         {
+            "id": "11430",
+            "ENname": "Sturdy Bone",
+            "CNname": "弥坚骨",
+            "JAname": "ストロング・ボーン",
+            "imageurl": "images/weapon/11430.webp",
+            "rarity": 4,
+            "type": "sword",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "11431",
+            "ENname": "Flute of Ezpitzal",
+            "CNname": "息燧之笛",
+            "JAname": "エズピツァルの笛",
+            "imageurl": "images/weapon/11431.webp",
+            "rarity": 4,
+            "type": "sword",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "11432",
+            "ENname": "Calamity of Eshu",
+            "CNname": "厄水之祸",
+            "JAname": "厄水の災い",
+            "imageurl": "images/weapon/11432.webp",
+            "rarity": 4,
+            "type": "sword",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
             "id": "11501",
             "ENname": "Aquila Favonia",
             "CNname": "风鹰剑",
@@ -510,6 +546,18 @@
             "CNname": "赦罪",
             "JAname": "赦罪",
             "imageurl": "images/weapon/11515.webp",
+            "rarity": 5,
+            "type": "sword",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "11516",
+            "ENname": "Peak Patrol Song",
+            "CNname": "岩峰巡歌",
+            "JAname": "岩峰を巡る歌",
+            "imageurl": "images/weapon/11516.webp",
             "rarity": 5,
             "type": "sword",
             "spoiler": true,
@@ -853,6 +901,30 @@
             "order": 999
         },
         {
+            "id": "12430",
+            "ENname": "Fruitful Hook",
+            "CNname": "硕果钩",
+            "JAname": "実りの鉤鉈",
+            "imageurl": "images/weapon/12430.webp",
+            "rarity": 4,
+            "type": "claymore",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "12431",
+            "ENname": "Earth Shaker",
+            "CNname": "撼地者",
+            "JAname": "アースシェイカー",
+            "imageurl": "images/weapon/12431.webp",
+            "rarity": 4,
+            "type": "claymore",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
             "id": "12501",
             "ENname": "Skyward Pride",
             "CNname": "天空之傲",
@@ -934,6 +1006,30 @@
             "type": "claymore",
             "spoiler": false,
             "supported": true,
+            "order": 999
+        },
+        {
+            "id": "12513",
+            "ENname": "Fang of the Mountain King",
+            "CNname": "山王长牙",
+            "JAname": "山の王の長牙",
+            "imageurl": "images/weapon/12513.webp",
+            "rarity": 5,
+            "type": "claymore",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "12514",
+            "ENname": "A Thousand Blazing Suns",
+            "CNname": "焚曜千阳",
+            "JAname": "千烈の日輪",
+            "imageurl": "images/weapon/12514.webp",
+            "rarity": 5,
+            "type": "claymore",
+            "spoiler": true,
+            "supported": false,
             "order": 999
         },
         {
@@ -1209,6 +1305,30 @@
             "rarity": 4,
             "type": "pole",
             "spoiler": false,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "13430",
+            "ENname": "Mountain-Bracing Bolt",
+            "CNname": "镇山之钉",
+            "JAname": "鎮山の釘",
+            "imageurl": "images/weapon/13430.webp",
+            "rarity": 4,
+            "type": "pole",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "13431",
+            "ENname": "Footprint of the Rainbow",
+            "CNname": "虹的行迹",
+            "JAname": "虹の行方",
+            "imageurl": "images/weapon/13431.webp",
+            "rarity": 4,
+            "type": "pole",
+            "spoiler": true,
             "supported": false,
             "order": 999
         },
@@ -1633,6 +1753,42 @@
             "order": 999
         },
         {
+            "id": "14427",
+            "ENname": "Ash-Graven Drinking Horn",
+            "CNname": "苍纹角杯",
+            "JAname": "蒼紋の角杯",
+            "imageurl": "images/weapon/14427.webp",
+            "rarity": 4,
+            "type": "catalyst",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "14430",
+            "ENname": "Waveriding Whirl",
+            "CNname": "乘浪的回旋",
+            "JAname": "波乗りの旋回",
+            "imageurl": "images/weapon/14430.webp",
+            "rarity": 4,
+            "type": "catalyst",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "14431",
+            "ENname": "Ring of Yaxche",
+            "CNname": "木棉之环",
+            "JAname": "ヤシュチェの環",
+            "imageurl": "images/weapon/14431.webp",
+            "rarity": 4,
+            "type": "catalyst",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
             "id": "14501",
             "ENname": "Skyward Atlas",
             "CNname": "天空之卷",
@@ -1761,6 +1917,30 @@
             "rarity": 5,
             "type": "catalyst",
             "spoiler": false,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "14516",
+            "ENname": "Surf's Up",
+            "CNname": "冲浪时光",
+            "JAname": "サーフィンタイム",
+            "imageurl": "images/weapon/14516.webp",
+            "rarity": 5,
+            "type": "catalyst",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "14517",
+            "ENname": "Starcaller's Watch",
+            "CNname": "祭星者之望",
+            "JAname": "祭星者の眺め",
+            "imageurl": "images/weapon/14517.webp",
+            "rarity": 5,
+            "type": "catalyst",
+            "spoiler": true,
             "supported": false,
             "order": 999
         },
@@ -2125,6 +2305,30 @@
             "order": 999
         },
         {
+            "id": "15430",
+            "ENname": "Flower-Wreathed Feathers",
+            "CNname": "缀花之翎",
+            "JAname": "花飾りの羽",
+            "imageurl": "images/weapon/15430.webp",
+            "rarity": 4,
+            "type": "bow",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "15431",
+            "ENname": "Chain Breaker",
+            "CNname": "碎链",
+            "JAname": "チェーンブレイカー",
+            "imageurl": "images/weapon/15431.webp",
+            "rarity": 4,
+            "type": "bow",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
             "id": "15501",
             "ENname": "Skyward Harp",
             "CNname": "天空之翼",
@@ -2226,6 +2430,18 @@
             "CNname": "白雨心弦",
             "JAname": "白雨心弦",
             "imageurl": "images/weapon/15513.webp",
+            "rarity": 5,
+            "type": "bow",
+            "spoiler": true,
+            "supported": false,
+            "order": 999
+        },
+        {
+            "id": "15514",
+            "ENname": "Astral Vulture's Crimson Plumage",
+            "CNname": "星鹫赤羽",
+            "JAname": "星鷲の紅き羽",
+            "imageurl": "images/weapon/15514.webp",
             "rarity": 5,
             "type": "bow",
             "spoiler": true,
