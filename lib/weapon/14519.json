@@ -1,0 +1,141 @@
+{
+    "id": "14519",
+    "ENname": "Vivid Notions",
+    "CNname": "溢彩心念",
+    "JAname": "彩りに溢れる想いJP0B",
+    "imageurl": "images/weapon/14519.webp",
+    "type": "catalyst",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 47.5369987487793,
+            "critical_hurt": 0.09600000083446503
+        },
+        {
+            "level": "5",
+            "base_attack": 65.0306157390452,
+            "critical_hurt": 0.1115519952933795
+        },
+        {
+            "level": "10",
+            "base_attack": 87.32546729086178,
+            "critical_hurt": 0.13084800452482226
+        },
+        {
+            "level": "15",
+            "base_attack": 110.14322193012045,
+            "critical_hurt": 0.15024000679910582
+        },
+        {
+            "level": "20",
+            "base_attack": 133.29373977675777,
+            "critical_hurt": 0.16963199762928688
+        },
+        {
+            "level": "25",
+            "base_attack": 156.8720936042317,
+            "critical_hurt": 0.1890239999035608
+        },
+        {
+            "level": "30",
+            "base_attack": 180.78320497223194,
+            "critical_hurt": 0.20841600217783476
+        },
+        {
+            "level": "35",
+            "base_attack": 204.97952899375343,
+            "critical_hurt": 0.22780799300801585
+        },
+        {
+            "level": "40",
+            "base_attack": 229.46109966991028,
+            "critical_hurt": 0.24720000672638268
+        },
+        {
+            "level": "45",
+            "base_attack": 254.22787166588373,
+            "critical_hurt": 0.26659199755656376
+        },
+        {
+            "level": "50",
+            "base_attack": 279.23233409577324,
+            "critical_hurt": 0.2859840112749306
+        },
+        {
+            "level": "55",
+            "base_attack": 304.52202051289345,
+            "critical_hurt": 0.3053760021051212
+        },
+        {
+            "level": "60",
+            "base_attack": 330.0018411432247,
+            "critical_hurt": 0.3247679929353023
+        },
+        {
+            "level": "65",
+            "base_attack": 355.7669084281865,
+            "critical_hurt": 0.3441600066536692
+        },
+        {
+            "level": "70",
+            "base_attack": 381.72208725895,
+            "critical_hurt": 0.363456004441019
+        },
+        {
+            "level": "75",
+            "base_attack": 407.8674456377434,
+            "critical_hurt": 0.38284799527120966
+        },
+        {
+            "level": "80",
+            "base_attack": 434.2504944504527,
+            "critical_hurt": 0.4022400089895765
+        },
+        {
+            "level": "85",
+            "base_attack": 460.8236774763779,
+            "critical_hurt": 0.4216320227079433
+        },
+        {
+            "level": "90",
+            "base_attack": 487.6345509362239,
+            "critical_hurt": 0.44102399064993864
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "",
+            "upgrade": {
+                "0": "ATK is increased by 28%. When the equipping character enters a Plunging Attack state, they will gain the Wings of Strength effect. When they use an Elemental Skill or Burst, they will gain the Wings of Swiftness effect. Both effects last for 15s at most and will cause Plunging Attack CRIT DMG to increase by 28% and 40% respectively. Both effects will be canceled 0.1s after the shockwave from landing hits an opponent.",
+                "1": "ATK is increased by 35%. When the equipping character enters a Plunging Attack state, they will gain the Wings of Strength effect. When they use an Elemental Skill or Burst, they will gain the Wings of Swiftness effect. Both effects last for 15s at most and will cause Plunging Attack CRIT DMG to increase by 35% and 50% respectively. Both effects will be canceled 0.1s after the shockwave from landing hits an opponent.",
+                "2": "ATK is increased by 42%. When the equipping character enters a Plunging Attack state, they will gain the Wings of Strength effect. When they use an Elemental Skill or Burst, they will gain the Wings of Swiftness effect. Both effects last for 15s at most and will cause Plunging Attack CRIT DMG to increase by 42% and 60% respectively. Both effects will be canceled 0.1s after the shockwave from landing hits an opponent.",
+                "3": "ATK is increased by 49%. When the equipping character enters a Plunging Attack state, they will gain the Wings of Strength effect. When they use an Elemental Skill or Burst, they will gain the Wings of Swiftness effect. Both effects last for 15s at most and will cause Plunging Attack CRIT DMG to increase by 49% and 70% respectively. Both effects will be canceled 0.1s after the shockwave from landing hits an opponent.",
+                "4": "ATK is increased by 56%. When the equipping character enters a Plunging Attack state, they will gain the Wings of Strength effect. When they use an Elemental Skill or Burst, they will gain the Wings of Swiftness effect. Both effects last for 15s at most and will cause Plunging Attack CRIT DMG to increase by 56% and 80% respectively. Both effects will be canceled 0.1s after the shockwave from landing hits an opponent."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "落虹之愿",
+            "upgrade": {
+                "0": "攻击力提升28%；进行下落攻击时，获得「初霞之彩」效果：下落攻击造成的暴击伤害提升28%；施放元素战技或元素爆发时，获得「苍暮之辉」效果：下落攻击造成的暴击伤害提升40%；初霞之彩和苍暮之辉效果至多维持15秒，上述两种效果将在坠地冲击造成伤害后的0.05秒后解除。",
+                "1": "攻击力提升35%；进行下落攻击时，获得「初霞之彩」效果：下落攻击造成的暴击伤害提升35%；施放元素战技或元素爆发时，获得「苍暮之辉」效果：下落攻击造成的暴击伤害提升50%；初霞之彩和苍暮之辉效果至多维持15秒，上述两种效果将在坠地冲击造成伤害后的0.05秒后解除。",
+                "2": "攻击力提升42%；进行下落攻击时，获得「初霞之彩」效果：下落攻击造成的暴击伤害提升42%；施放元素战技或元素爆发时，获得「苍暮之辉」效果：下落攻击造成的暴击伤害提升60%；初霞之彩和苍暮之辉效果至多维持15秒，上述两种效果将在坠地冲击造成伤害后的0.05秒后解除。",
+                "3": "攻击力提升49%；进行下落攻击时，获得「初霞之彩」效果：下落攻击造成的暴击伤害提升49%；施放元素战技或元素爆发时，获得「苍暮之辉」效果：下落攻击造成的暴击伤害提升70%；初霞之彩和苍暮之辉效果至多维持15秒，上述两种效果将在坠地冲击造成伤害后的0.05秒后解除。",
+                "4": "攻击力提升56%；进行下落攻击时，获得「初霞之彩」效果：下落攻击造成的暴击伤害提升56%；施放元素战技或元素爆发时，获得「苍暮之辉」效果：下落攻击造成的暴击伤害提升80%；初霞之彩和苍暮之辉效果至多维持15秒，上述两种效果将在坠地冲击造成伤害后的0.05秒后解除。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "",
+            "upgrade": {
+                "0": "攻撃力+28%。さらに、キャラクターが落下攻撃発動時、「力の翼」効果を獲得し、キャラクターが元素スキルまはた元素爆発を発動時、「迅速の翼」効果を獲得する。「力の翼」と「迅速の翼」効果は最大15秒継続でき、それぞれ落下攻撃の会心ダメージを28%と40%アップする。着地時の衝撃が敵に命中した後の0.1秒間、「力の翼」と「迅速の翼」効果はクリアされる。JP0B",
+                "1": "攻撃力+35%。さらに、キャラクターが落下攻撃発動時、「力の翼」効果を獲得し、キャラクターが元素スキルまはた元素爆発を発動時、「迅速の翼」効果を獲得する。「力の翼」と「迅速の翼」効果は最大15秒継続でき、それぞれ落下攻撃の会心ダメージを35%と50%アップする。着地時の衝撃が敵に命中した後の0.1秒間、「力の翼」と「迅速の翼」効果はクリアされる。JP0B",
+                "2": "攻撃力+42%。さらに、キャラクターが落下攻撃発動時、「力の翼」効果を獲得し、キャラクターが元素スキルまはた元素爆発を発動時、「迅速の翼」効果を獲得する。「力の翼」と「迅速の翼」効果は最大15秒継続でき、それぞれ落下攻撃の会心ダメージを42%と60%アップする。着地時の衝撃が敵に命中した後の0.1秒間、「力の翼」と「迅速の翼」効果はクリアされる。JP0B",
+                "3": "攻撃力+49%。さらに、キャラクターが落下攻撃発動時、「力の翼」効果を獲得し、キャラクターが元素スキルまはた元素爆発を発動時、「迅速の翼」効果を獲得する。「力の翼」と「迅速の翼」効果は最大15秒継続でき、それぞれ落下攻撃の会心ダメージを49%と70%アップする。着地時の衝撃が敵に命中した後の0.1秒間、「力の翼」と「迅速の翼」効果はクリアされる。JP0B",
+                "4": "攻撃力+56%。さらに、キャラクターが落下攻撃発動時、「力の翼」効果を獲得し、キャラクターが元素スキルまはた元素爆発を発動時、「迅速の翼」効果を獲得する。「力の翼」と「迅速の翼」効果は最大15秒継続でき、それぞれ落下攻撃の会心ダメージを56%と80%アップする。着地時の衝撃が敵に命中した後の0.1秒間、「力の翼」と「迅速の翼」効果はクリアされる。JP0B"
+            }
+        }
+    }
+}
