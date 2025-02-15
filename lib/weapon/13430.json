@@ -1,0 +1,141 @@
+{
+    "id": "13430",
+    "ENname": "Mountain-Bracing Bolt",
+    "CNname": "镇山之钉",
+    "JAname": "鎮山の釘",
+    "imageurl": "images/weapon/13430.webp",
+    "type": "pole",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.734901428222656,
+            "charge_efficiency": 0.06666699796915054
+        },
+        {
+            "level": "5",
+            "base_attack": 59.17332359270162,
+            "charge_efficiency": 0.07746704769828
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282048535887,
+            "charge_efficiency": 0.09086712058435721
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53473383537886,
+            "charge_efficiency": 0.10433385563643956
+        },
+        {
+            "level": "20",
+            "base_attack": 118.56531627039188,
+            "charge_efficiency": 0.11780058274118907
+        },
+        {
+            "level": "25",
+            "base_attack": 138.72710432728275,
+            "charge_efficiency": 0.13126731779326475
+        },
+        {
+            "level": "30",
+            "base_attack": 159.06384016482303,
+            "charge_efficiency": 0.1447340528453404
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53177119703165,
+            "charge_efficiency": 0.15820077995008994
+        },
+        {
+            "level": "40",
+            "base_attack": 200.08716569234662,
+            "charge_efficiency": 0.17166752294949178
+        },
+        {
+            "level": "45",
+            "base_attack": 220.73004450520025,
+            "charge_efficiency": 0.1851342500542413
+        },
+        {
+            "level": "50",
+            "base_attack": 241.46038678116898,
+            "charge_efficiency": 0.19860099305364315
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446078868653,
+            "charge_efficiency": 0.2120677201583993
+        },
+        {
+            "level": "60",
+            "base_attack": 283.0960191137471,
+            "charge_efficiency": 0.22553444726314884
+        },
+        {
+            "level": "65",
+            "base_attack": 304.00130917035654,
+            "charge_efficiency": 0.23900119026255068
+        },
+        {
+            "level": "70",
+            "base_attack": 324.9940626900811,
+            "charge_efficiency": 0.2524012552013017
+        },
+        {
+            "level": "75",
+            "base_attack": 345.986795355382,
+            "charge_efficiency": 0.2658679823060579
+        },
+        {
+            "level": "80",
+            "base_attack": 367.02330146108767,
+            "charge_efficiency": 0.2793347253054597
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10349758949496,
+            "charge_efficiency": 0.29280146830486153
+        },
+        {
+            "level": "90",
+            "base_attack": 409.18373542675374,
+            "charge_efficiency": 0.30626817951495877
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Hope Beyond the Peaks",
+            "upgrade": {
+                "0": "Decreases Climbing Stamina Consumption by 15% and increases Elemental Skill DMG by 12%. Also, after other nearby party members use Elemental Skills, the equipping character's Elemental Skill DMG will also increase by 12% for 8s.",
+                "1": "Decreases Climbing Stamina Consumption by 15% and increases Elemental Skill DMG by 15%. Also, after other nearby party members use Elemental Skills, the equipping character's Elemental Skill DMG will also increase by 15% for 8s.",
+                "2": "Decreases Climbing Stamina Consumption by 15% and increases Elemental Skill DMG by 18%. Also, after other nearby party members use Elemental Skills, the equipping character's Elemental Skill DMG will also increase by 18% for 8s.",
+                "3": "Decreases Climbing Stamina Consumption by 15% and increases Elemental Skill DMG by 21%. Also, after other nearby party members use Elemental Skills, the equipping character's Elemental Skill DMG will also increase by 21% for 8s.",
+                "4": "Decreases Climbing Stamina Consumption by 15% and increases Elemental Skill DMG by 24%. Also, after other nearby party members use Elemental Skills, the equipping character's Elemental Skill DMG will also increase by 24% for 8s."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "越峰之望",
+            "upgrade": {
+                "0": "攀爬消耗的体力降低15%，元素战技造成的伤害提升12%；此外，队伍中附近的其他角色施放元素战技后，装备者的元素战技造成的伤害还会提升12%，持续8秒。",
+                "1": "攀爬消耗的体力降低15%，元素战技造成的伤害提升15%；此外，队伍中附近的其他角色施放元素战技后，装备者的元素战技造成的伤害还会提升15%，持续8秒。",
+                "2": "攀爬消耗的体力降低15%，元素战技造成的伤害提升18%；此外，队伍中附近的其他角色施放元素战技后，装备者的元素战技造成的伤害还会提升18%，持续8秒。",
+                "3": "攀爬消耗的体力降低15%，元素战技造成的伤害提升21%；此外，队伍中附近的其他角色施放元素战技后，装备者的元素战技造成的伤害还会提升21%，持续8秒。",
+                "4": "攀爬消耗的体力降低15%，元素战技造成的伤害提升24%；此外，队伍中附近的其他角色施放元素战技后，装备者的元素战技造成的伤害还会提升24%，持续8秒。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "峰越の眺め",
+            "upgrade": {
+                "0": "登りに消費するスタミナ-15%、元素スキルダメージ+12%。また、付近にいるチーム内他のキャラクターが元素スキルを発動した後、装備者の元素スキルダメージはさらに+12%、継続時間8秒。",
+                "1": "登りに消費するスタミナ-15%、元素スキルダメージ+15%。また、付近にいるチーム内他のキャラクターが元素スキルを発動した後、装備者の元素スキルダメージはさらに+15%、継続時間8秒。",
+                "2": "登りに消費するスタミナ-15%、元素スキルダメージ+18%。また、付近にいるチーム内他のキャラクターが元素スキルを発動した後、装備者の元素スキルダメージはさらに+18%、継続時間8秒。",
+                "3": "登りに消費するスタミナ-15%、元素スキルダメージ+21%。また、付近にいるチーム内他のキャラクターが元素スキルを発動した後、装備者の元素スキルダメージはさらに+21%、継続時間8秒。",
+                "4": "登りに消費するスタミナ-15%、元素スキルダメージ+24%。また、付近にいるチーム内他のキャラクターが元素スキルを発動した後、装備者の元素スキルダメージはさらに+24%、継続時間8秒。"
+            }
+        }
+    }
+}
