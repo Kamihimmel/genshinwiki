@@ -1,0 +1,141 @@
+{
+    "id": "12431",
+    "ENname": "Earth Shaker",
+    "CNname": "撼地者",
+    "JAname": "アースシェイカー",
+    "imageurl": "images/weapon/12431.webp",
+    "type": "claymore",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.734901428222656,
+            "attack_percent": 0.05999999865889549
+        },
+        {
+            "level": "5",
+            "base_attack": 59.17332359270162,
+            "attack_percent": 0.06971999489396864
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282048535887,
+            "attack_percent": 0.08178000028922851
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53473383537886,
+            "attack_percent": 0.09390000133440138
+        },
+        {
+            "level": "20",
+            "base_attack": 118.56531627039188,
+            "attack_percent": 0.10601999522701039
+        },
+        {
+            "level": "25",
+            "base_attack": 138.72710432728275,
+            "attack_percent": 0.11813999627217725
+        },
+        {
+            "level": "30",
+            "base_attack": 159.06384016482303,
+            "attack_percent": 0.1302599973173441
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53177119703165,
+            "attack_percent": 0.14237999120995315
+        },
+        {
+            "level": "40",
+            "base_attack": 200.08716569234662,
+            "attack_percent": 0.1544999994076778
+        },
+        {
+            "level": "45",
+            "base_attack": 220.73004450520025,
+            "attack_percent": 0.16661999330028684
+        },
+        {
+            "level": "50",
+            "base_attack": 241.46038678116898,
+            "attack_percent": 0.17874000149801156
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446078868653,
+            "attack_percent": 0.19085999539062656
+        },
+        {
+            "level": "60",
+            "base_attack": 283.0960191137471,
+            "attack_percent": 0.2029799892832356
+        },
+        {
+            "level": "65",
+            "base_attack": 304.00130917035654,
+            "attack_percent": 0.21509999748096031
+        },
+        {
+            "level": "70",
+            "base_attack": 324.9940626900811,
+            "attack_percent": 0.22715999572366233
+        },
+        {
+            "level": "75",
+            "base_attack": 345.986795355382,
+            "attack_percent": 0.23927998961627733
+        },
+        {
+            "level": "80",
+            "base_attack": 367.02330146108767,
+            "attack_percent": 0.251399997814002
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10349758949496,
+            "attack_percent": 0.2635200060117267
+        },
+        {
+            "level": "90",
+            "base_attack": 409.18373542675374,
+            "attack_percent": 0.2756399855992201
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Oath of Qhapaq Nan",
+            "upgrade": {
+                "0": "After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 16% for 8s. This effect can be triggered even when the triggering party member is not on the field.",
+                "1": "After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 20% for 8s. This effect can be triggered even when the triggering party member is not on the field.",
+                "2": "After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 24% for 8s. This effect can be triggered even when the triggering party member is not on the field.",
+                "3": "After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 28% for 8s. This effect can be triggered even when the triggering party member is not on the field.",
+                "4": "After a party member triggers a Pyro-related reaction, the equipping character's Elemental Skill DMG is increased by 32% for 8s. This effect can be triggered even when the triggering party member is not on the field."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "苍翠之路的誓言",
+            "upgrade": {
+                "0": "队伍中的角色触发火元素相关反应后，装备者元素战技造成的伤害提升16%，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。",
+                "1": "队伍中的角色触发火元素相关反应后，装备者元素战技造成的伤害提升20%，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。",
+                "2": "队伍中的角色触发火元素相关反应后，装备者元素战技造成的伤害提升24%，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。",
+                "3": "队伍中的角色触发火元素相关反应后，装备者元素战技造成的伤害提升28%，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。",
+                "4": "队伍中的角色触发火元素相关反应后，装备者元素战技造成的伤害提升32%，持续8秒。该效果队伍中的角色处于队伍后台时也能触发。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "蒼翠の道の誓い",
+            "upgrade": {
+                "0": "チームにいるキャラクターが炎元素関連反応を起こした後、装備者の元素スキルダメージ+16%、継続期間8秒。この効果は、チーム内キャラクターが待機中でも発動できる。",
+                "1": "チームにいるキャラクターが炎元素関連反応を起こした後、装備者の元素スキルダメージ+20%、継続期間8秒。この効果は、チーム内キャラクターが待機中でも発動できる。",
+                "2": "チームにいるキャラクターが炎元素関連反応を起こした後、装備者の元素スキルダメージ+24%、継続期間8秒。この効果は、チーム内キャラクターが待機中でも発動できる。",
+                "3": "チームにいるキャラクターが炎元素関連反応を起こした後、装備者の元素スキルダメージ+28%、継続期間8秒。この効果は、チーム内キャラクターが待機中でも発動できる。",
+                "4": "チームにいるキャラクターが炎元素関連反応を起こした後、装備者の元素スキルダメージ+32%、継続期間8秒。この効果は、チーム内キャラクターが待機中でも発動できる。"
+            }
+        }
+    }
+}
