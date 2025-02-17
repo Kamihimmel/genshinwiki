@@ -1,0 +1,141 @@
+{
+    "id": "13432",
+    "ENname": "Tamayuratei no Ohanashi",
+    "CNname": "且住亭御咄",
+    "JAname": "玉響停の御噺",
+    "imageurl": "images/weapon/13432.webp",
+    "type": "pole",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 43.734901428222656,
+            "charge_efficiency": 0.06666699796915054
+        },
+        {
+            "level": "5",
+            "base_attack": 59.17332359270162,
+            "charge_efficiency": 0.07746704769828
+        },
+        {
+            "level": "10",
+            "base_attack": 78.72282048535887,
+            "charge_efficiency": 0.09086712058435721
+        },
+        {
+            "level": "15",
+            "base_attack": 98.53473383537886,
+            "charge_efficiency": 0.10433385563643956
+        },
+        {
+            "level": "20",
+            "base_attack": 118.56531627039188,
+            "charge_efficiency": 0.11780058274118907
+        },
+        {
+            "level": "25",
+            "base_attack": 138.72710432728275,
+            "charge_efficiency": 0.13126731779326475
+        },
+        {
+            "level": "30",
+            "base_attack": 159.06384016482303,
+            "charge_efficiency": 0.1447340528453404
+        },
+        {
+            "level": "35",
+            "base_attack": 179.53177119703165,
+            "charge_efficiency": 0.15820077995008994
+        },
+        {
+            "level": "40",
+            "base_attack": 200.08716569234662,
+            "charge_efficiency": 0.17166752294949178
+        },
+        {
+            "level": "45",
+            "base_attack": 220.73004450520025,
+            "charge_efficiency": 0.1851342500542413
+        },
+        {
+            "level": "50",
+            "base_attack": 241.46038678116898,
+            "charge_efficiency": 0.19860099305364315
+        },
+        {
+            "level": "55",
+            "base_attack": 262.23446078868653,
+            "charge_efficiency": 0.2120677201583993
+        },
+        {
+            "level": "60",
+            "base_attack": 283.0960191137471,
+            "charge_efficiency": 0.22553444726314884
+        },
+        {
+            "level": "65",
+            "base_attack": 304.00130917035654,
+            "charge_efficiency": 0.23900119026255068
+        },
+        {
+            "level": "70",
+            "base_attack": 324.9940626900811,
+            "charge_efficiency": 0.2524012552013017
+        },
+        {
+            "level": "75",
+            "base_attack": 345.986795355382,
+            "charge_efficiency": 0.2658679823060579
+        },
+        {
+            "level": "80",
+            "base_attack": 367.02330146108767,
+            "charge_efficiency": 0.2793347253054597
+        },
+        {
+            "level": "85",
+            "base_attack": 388.10349758949496,
+            "charge_efficiency": 0.29280146830486153
+        },
+        {
+            "level": "90",
+            "base_attack": 409.18373542675374,
+            "charge_efficiency": 0.30626817951495877
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Busybody's Running Light",
+            "upgrade": {
+                "0": "Increase ATK by 20% and Movement SPD by 10% for 10s when using an Elemental Skill.",
+                "1": "Increase ATK by 25% and Movement SPD by 10% for 10s when using an Elemental Skill.",
+                "2": "Increase ATK by 30% and Movement SPD by 10% for 10s when using an Elemental Skill.",
+                "3": "Increase ATK by 35% and Movement SPD by 10% for 10s when using an Elemental Skill.",
+                "4": "Increase ATK by 40% and Movement SPD by 10% for 10s when using an Elemental Skill."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "好事者奔行灯",
+            "upgrade": {
+                "0": "施放元素战技时，提高20%攻击力和10%移动速度，持续10秒。",
+                "1": "施放元素战技时，提高25%攻击力和10%移动速度，持续10秒。",
+                "2": "施放元素战技时，提高30%攻击力和10%移动速度，持续10秒。",
+                "3": "施放元素战技时，提高35%攻击力和10%移动速度，持续10秒。",
+                "4": "施放元素战技时，提高40%攻击力和10%移动速度，持续10秒。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "好事家の奔走灯",
+            "upgrade": {
+                "0": "元素スキル発動時、攻撃力+20%、移動速度+10%、継続時間10秒。",
+                "1": "元素スキル発動時、攻撃力+25%、移動速度+10%、継続時間10秒。",
+                "2": "元素スキル発動時、攻撃力+30%、移動速度+10%、継続時間10秒。",
+                "3": "元素スキル発動時、攻撃力+35%、移動速度+10%、継続時間10秒。",
+                "4": "元素スキル発動時、攻撃力+40%、移動速度+10%、継続時間10秒。"
+            }
+        }
+    }
+}
