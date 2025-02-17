@@ -1,0 +1,70 @@
+{
+    "id": "15040",
+    "ENname": "Finale of the Deep Galleries",
+    "CNname": "深廊终曲",
+    "JAname": "深き廊の終曲JP0B",
+    "imageurl": "images/artifact/15040.webp",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Cryo DMG Bonus +15%",
+            "DescriptionCN": "获得15%冰元素伤害加成。",
+            "DescriptionJP": "氷元素ダメージ+15%。"
+        },
+        "4": {
+            "DescriptionEN": "When you have 0 Energy, Normal Attack DMG is increased by 40% and Elemental Burst DMG is increased by 40%. After dealing one of these kinds of DMG, the effect corresponding to the other kind will stop applying for 6s. This effect can trigger even if the equipping character is off the field.",
+            "DescriptionCN": "装备者的元素能量为0时，普通攻击造成的伤害提升60%，元素爆发造成的伤害提升60%。装备者的普通攻击造成伤害后，上述元素爆发伤害提升效果将失效6秒；装备者的元素爆发造成伤害后，上述普通攻击伤害提升效果将失效6秒。角色处于队伍后台也能触发。",
+            "DescriptionJP": "元素エネルギーが0の時、通常攻撃ダメージ+40%、元素爆発ダメージ+40%。上記のうち、任意種類のダメージを与えた後、もう一つの効果は6秒間無効になる。装備者が待機中でも、上記効果を発動できる。JP0B"
+        }
+    },
+    "suit": {
+        "ring": {
+            "ENname": "",
+            "CNname": "执灯人的誓词",
+            "JAname": "",
+            "DescriptionEN": "",
+            "DescriptionCN": "0",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15040-ring.webp"
+        },
+        "necklace": {
+            "ENname": "",
+            "CNname": "夜鸣莺的尾羽",
+            "JAname": "",
+            "DescriptionEN": "",
+            "DescriptionCN": "0",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15040-necklace.webp"
+        },
+        "dress": {
+            "ENname": "",
+            "CNname": "不死者的哀铃",
+            "JAname": "",
+            "DescriptionEN": "",
+            "DescriptionCN": "0",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15040-dress.webp"
+        },
+        "bracer": {
+            "ENname": "",
+            "CNname": "被浸染的缨盔",
+            "JAname": "",
+            "DescriptionEN": "",
+            "DescriptionCN": "0",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15040-bracer.webp"
+        },
+        "shoes": {
+            "ENname": "",
+            "CNname": "未吹响的号角",
+            "JAname": "",
+            "DescriptionEN": "",
+            "DescriptionCN": "0",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15040-shoes.webp"
+        }
+    }
+}
