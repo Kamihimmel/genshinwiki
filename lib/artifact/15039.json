@@ -1,0 +1,70 @@
+{
+    "id": "15039",
+    "ENname": "Long Night's Oath",
+    "CNname": "长夜之誓",
+    "JAname": "長き夜の誓いJP0B",
+    "imageurl": "images/artifact/15039.webp",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Plunging Attack DMG increased by 25%",
+            "DescriptionCN": "下落攻击造成的伤害提升25%",
+            "DescriptionJP": "落下攻撃の与えるダメージ+25%。"
+        },
+        "4": {
+            "DescriptionEN": "After Plunging Attacks/Charged Attacks/Elemental Skills hit an opponent, grant the equipping character 1/2/2 buff stack(s). Each stack causes the 2-piece effect to increase by 60% for 6s. The above buffs can each be repeatedly triggered once every 1s. Max 5 stacks. Each buff stack's duration is counted independently.",
+            "DescriptionCN": "装备者的下落攻击/重击/元素战技命中敌人时，获得1/2/2层「永照的流辉」，由下落攻击、重击或元素战技产生的该效果分别每1秒至多触发一次。永照的流辉：下落攻击造成的伤害提升15%，持续6秒，至多叠加5层，每层持续时间独立计算。",
+            "DescriptionJP": "落下攻撃/重撃/元素スキルが敵に命中した後、装備者はそれぞれ1/2/2層の強化効果を獲得する。強化効果が1層あるごとに、2セットの効果を60%アップさせる、継続時間6秒。落下攻撃/重撃/元素スキルによる強化効果の獲得は、それぞれ1秒毎に1回のみ発動可能で、最大5層まで重ね掛け可能。各層の強化効果の継続時間は層ごとに独立してカウントされる。JP0B"
+        }
+    },
+    "suit": {
+        "ring": {
+            "ENname": "",
+            "CNname": "深廊的饫赐之宴",
+            "JAname": "",
+            "DescriptionEN": "",
+            "DescriptionCN": "0",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15039-ring.webp"
+        },
+        "necklace": {
+            "ENname": "",
+            "CNname": "深廊的漫远之约",
+            "JAname": "",
+            "DescriptionEN": "",
+            "DescriptionCN": "0",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15039-necklace.webp"
+        },
+        "dress": {
+            "ENname": "",
+            "CNname": "深廊的遂失之冕",
+            "JAname": "",
+            "DescriptionEN": "",
+            "DescriptionCN": "0",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15039-dress.webp"
+        },
+        "bracer": {
+            "ENname": "",
+            "CNname": "深廊的回奏之歌",
+            "JAname": "",
+            "DescriptionEN": "",
+            "DescriptionCN": "0",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15039-bracer.webp"
+        },
+        "shoes": {
+            "ENname": "",
+            "CNname": "深廊的湮落之刻",
+            "JAname": "",
+            "DescriptionEN": "",
+            "DescriptionCN": "0",
+            "DescriptionJP": "",
+            "imageurl": "images/artifact/15039-shoes.webp"
+        }
+    }
+}
