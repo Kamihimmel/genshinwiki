@@ -1,0 +1,141 @@
+{
+    "id": "15514",
+    "ENname": "Astral Vulture's Crimson Plumage",
+    "CNname": "星鹫赤羽",
+    "JAname": "星鷲の紅き羽",
+    "imageurl": "images/weapon/15514.webp",
+    "type": "bow",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 45.9364013671875,
+            "critical_hurt": 0.14399999380111694
+        },
+        {
+            "level": "5",
+            "base_attack": 61.69258953320803,
+            "critical_hurt": 0.16732798428249504
+        },
+        {
+            "level": "10",
+            "base_attack": 81.53711133154673,
+            "critical_hurt": 0.19627199663209177
+        },
+        {
+            "level": "15",
+            "base_attack": 101.56538184574926,
+            "critical_hurt": 0.22535999853849967
+        },
+        {
+            "level": "20",
+            "base_attack": 121.73146800388204,
+            "critical_hurt": 0.2544479832787547
+        },
+        {
+            "level": "25",
+            "base_attack": 142.0812864497399,
+            "critical_hurt": 0.28353598518514816
+        },
+        {
+            "level": "30",
+            "base_attack": 162.56892601557885,
+            "critical_hurt": 0.31262398709154166
+        },
+        {
+            "level": "35",
+            "base_attack": 183.24030882123083,
+            "critical_hurt": 0.3417119718317967
+        },
+        {
+            "level": "40",
+            "base_attack": 204.09542391460786,
+            "critical_hurt": 0.37079999090432864
+        },
+        {
+            "level": "45",
+            "base_attack": 225.0883710800539,
+            "critical_hurt": 0.39988797564458367
+        },
+        {
+            "level": "50",
+            "base_attack": 246.21911746129607,
+            "critical_hurt": 0.4289759947171156
+        },
+        {
+            "level": "55",
+            "base_attack": 267.5795292021923,
+            "critical_hurt": 0.45806397945738503
+        },
+        {
+            "level": "60",
+            "base_attack": 289.031828991136,
+            "critical_hurt": 0.48715196419764006
+        },
+        {
+            "level": "65",
+            "base_attack": 310.6678829719898,
+            "critical_hurt": 0.5162399832701721
+        },
+        {
+            "level": "70",
+            "base_attack": 332.4876692405687,
+            "critical_hurt": 0.5451839784536303
+        },
+        {
+            "level": "75",
+            "base_attack": 354.4912097010531,
+            "critical_hurt": 0.5742719631938997
+        },
+        {
+            "level": "80",
+            "base_attack": 376.63257128151406,
+            "critical_hurt": 0.6033599822664316
+        },
+        {
+            "level": "85",
+            "base_attack": 398.9117101735906,
+            "critical_hurt": 0.6324480013389635
+        },
+        {
+            "level": "90",
+            "base_attack": 421.3746251617577,
+            "critical_hurt": 0.6615359517469417
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "The Moonring Sighted",
+            "upgrade": {
+                "0": "For 12s after triggering a Swirl reaction, ATK increases by 24%. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by 20%/48% and Elemental Burst DMG dealt is increased by 10%/24%.",
+                "1": "For 12s after triggering a Swirl reaction, ATK increases by 30%. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by 25%/60% and Elemental Burst DMG dealt is increased by 12.5%/30%.",
+                "2": "For 12s after triggering a Swirl reaction, ATK increases by 36%. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by 30%/72% and Elemental Burst DMG dealt is increased by 15%/36%.",
+                "3": "For 12s after triggering a Swirl reaction, ATK increases by 42%. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by 35%/84% and Elemental Burst DMG dealt is increased by 17.5%/42%.",
+                "4": "For 12s after triggering a Swirl reaction, ATK increases by 48%. In addition, when 1/2 or more characters in the party are of a different Elemental Type from the equipping character, the DMG dealt by the equipping character's Charged Attacks is increased by 40%/96% and Elemental Burst DMG dealt is increased by 20%/48%."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "眸中的月珥",
+            "upgrade": {
+                "0": "触发扩散反应后的12秒内，攻击力提高24%。此外，队伍中存在至少1/2名与装备者元素类型不同的角色时，装备者重击造成的伤害提高20%/48%，元素爆发造成的伤害提高10%/24%。",
+                "1": "触发扩散反应后的12秒内，攻击力提高30%。此外，队伍中存在至少1/2名与装备者元素类型不同的角色时，装备者重击造成的伤害提高25%/60%，元素爆发造成的伤害提高12.5%/30%。",
+                "2": "触发扩散反应后的12秒内，攻击力提高36%。此外，队伍中存在至少1/2名与装备者元素类型不同的角色时，装备者重击造成的伤害提高30%/72%，元素爆发造成的伤害提高15%/36%。",
+                "3": "触发扩散反应后的12秒内，攻击力提高42%。此外，队伍中存在至少1/2名与装备者元素类型不同的角色时，装备者重击造成的伤害提高35%/84%，元素爆发造成的伤害提高17.5%/42%。",
+                "4": "触发扩散反应后的12秒内，攻击力提高48%。此外，队伍中存在至少1/2名与装备者元素类型不同的角色时，装备者重击造成的伤害提高40%/96%，元素爆发造成的伤害提高20%/48%。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "瞳に映る月華",
+            "upgrade": {
+                "0": "拡散反応を起こした後の12秒間、攻撃力+24%。また、チームに装備者と元素タイプが異なるキャラクターが1/2名以上いる場合、装備者の重撃ダメージがそれぞれ+20%/48%、元素爆発ダメージがそれぞれ+10%/24%。",
+                "1": "拡散反応を起こした後の12秒間、攻撃力+30%。また、チームに装備者と元素タイプが異なるキャラクターが1/2名以上いる場合、装備者の重撃ダメージがそれぞれ+25%/60%、元素爆発ダメージがそれぞれ+12.5%/30%。",
+                "2": "拡散反応を起こした後の12秒間、攻撃力+36%。また、チームに装備者と元素タイプが異なるキャラクターが1/2名以上いる場合、装備者の重撃ダメージがそれぞれ+30%/72%、元素爆発ダメージがそれぞれ+15%/36%。",
+                "3": "拡散反応を起こした後の12秒間、攻撃力+42%。また、チームに装備者と元素タイプが異なるキャラクターが1/2名以上いる場合、装備者の重撃ダメージがそれぞれ+35%/84%、元素爆発ダメージがそれぞれ+17.5%/42%。",
+                "4": "拡散反応を起こした後の12秒間、攻撃力+48%。また、チームに装備者と元素タイプが異なるキャラクターが1/2名以上いる場合、装備者の重撃ダメージがそれぞれ+40%/96%、元素爆発ダメージがそれぞれ+20%/48%。"
+            }
+        }
+    }
+}
