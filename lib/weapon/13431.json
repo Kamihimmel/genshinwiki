@@ -1,0 +1,141 @@
+{
+    "id": "13431",
+    "ENname": "Footprint of the Rainbow",
+    "CNname": "虹的行迹",
+    "JAname": "虹の行方",
+    "imageurl": "images/weapon/13431.webp",
+    "type": "pole",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 42.4010009765625,
+            "defense_percent": 0.11259999871253967
+        },
+        {
+            "level": "5",
+            "base_attack": 56.3933331184798,
+            "defense_percent": 0.1308411918461809
+        },
+        {
+            "level": "10",
+            "base_attack": 73.90494599612524,
+            "defense_percent": 0.15347380221838386
+        },
+        {
+            "level": "15",
+            "base_attack": 91.41655381917275,
+            "defense_percent": 0.17621900442815283
+        },
+        {
+            "level": "20",
+            "base_attack": 108.9281717514076,
+            "defense_percent": 0.19896419321494346
+        },
+        {
+            "level": "25",
+            "base_attack": 126.43978968364665,
+            "defense_percent": 0.22170939542470117
+        },
+        {
+            "level": "30",
+            "base_attack": 143.9089995789125,
+            "defense_percent": 0.24445459763445884
+        },
+        {
+            "level": "35",
+            "base_attack": 161.42060740196004,
+            "defense_percent": 0.26719978642124953
+        },
+        {
+            "level": "40",
+            "base_attack": 178.93221522501182,
+            "defense_percent": 0.2899450020539742
+        },
+        {
+            "level": "45",
+            "base_attack": 196.44383315724662,
+            "defense_percent": 0.3126901908407649
+        },
+        {
+            "level": "50",
+            "base_attack": 213.95545108948147,
+            "defense_percent": 0.33543540647348963
+        },
+        {
+            "level": "55",
+            "base_attack": 231.46706902171633,
+            "defense_percent": 0.3581805952602915
+        },
+        {
+            "level": "60",
+            "base_attack": 248.97868695395113,
+            "defense_percent": 0.38092578404708216
+        },
+        {
+            "level": "65",
+            "base_attack": 266.44788674003394,
+            "defense_percent": 0.4036709996798069
+        },
+        {
+            "level": "70",
+            "base_attack": 283.9595046722688,
+            "defense_percent": 0.4263035966290428
+        },
+        {
+            "level": "75",
+            "base_attack": 301.4711226045036,
+            "defense_percent": 0.44904878541584475
+        },
+        {
+            "level": "80",
+            "base_attack": 318.9827203183681,
+            "defense_percent": 0.47179400104856944
+        },
+        {
+            "level": "85",
+            "base_attack": 336.4943382506029,
+            "defense_percent": 0.49453921668129414
+        },
+        {
+            "level": "90",
+            "base_attack": 354.00595618283774,
+            "defense_percent": 0.5172843786221508
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Pact of Flowing Springs",
+            "upgrade": {
+                "0": "Using an Elemental Skill increases DEF by 16% for 15s.",
+                "1": "Using an Elemental Skill increases DEF by 20% for 15s.",
+                "2": "Using an Elemental Skill increases DEF by 24% for 15s.",
+                "3": "Using an Elemental Skill increases DEF by 28% for 15s.",
+                "4": "Using an Elemental Skill increases DEF by 32% for 15s."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "流水与泉的约定",
+            "upgrade": {
+                "0": "施放元素战技时，防御力提升16%，持续15秒。",
+                "1": "施放元素战技时，防御力提升20%，持续15秒。",
+                "2": "施放元素战技时，防御力提升24%，持续15秒。",
+                "3": "施放元素战技时，防御力提升28%，持续15秒。",
+                "4": "施放元素战技时，防御力提升32%，持续15秒。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "流水と泉の約束",
+            "upgrade": {
+                "0": "元素スキル発動時、防御力+16%、継続期間15秒。",
+                "1": "元素スキル発動時、防御力+20%、継続期間15秒。",
+                "2": "元素スキル発動時、防御力+24%、継続期間15秒。",
+                "3": "元素スキル発動時、防御力+28%、継続期間15秒。",
+                "4": "元素スキル発動時、防御力+32%、継続期間15秒。"
+            }
+        }
+    }
+}
