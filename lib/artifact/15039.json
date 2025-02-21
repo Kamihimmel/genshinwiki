@@ -1,0 +1,70 @@
+{
+    "id": "15039",
+    "ENname": "Long Night's Oath",
+    "CNname": "长夜之誓",
+    "JAname": "長き夜の誓いJP0B",
+    "imageurl": "images/artifact/15039.webp",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Plunging Attack DMG increased by 25%",
+            "DescriptionCN": "下落攻击造成的伤害提升25%。",
+            "DescriptionJP": "落下攻撃の与えるダメージ+25%。"
+        },
+        "4": {
+            "DescriptionEN": "After the equipping character's Plunging Attack/Charged Attack/Elemental Skill hits an opponent, they will gain 1/2/2 stack(s) of \"Radiance Everlasting.\" Plunging Attacks, Charged Attacks, or Elemental Skills can each trigger this effect once every 1s. Radiance Everlasting: Plunging Attacks deal 15% increased DMG for 6s. Max 5 stacks. Each stack's duration is counted independently.",
+            "DescriptionCN": "装备者的下落攻击/重击/元素战技命中敌人后，获得1/2/2层「永照的流辉」，由下落攻击、重击或元素战技产生的该效果分别每1秒至多触发一次。永照的流辉：下落攻击造成的伤害提升15%，持续6秒，至多叠加5层，每层持续时间独立计算。",
+            "DescriptionJP": "装備者の落下攻撃/重撃/元素スキルが敵に命中した後、「永遠に輝く流光」効果を1/2/2層獲得する。落下攻撃、重撃、または元素スキルによるこの効果はそれぞれ1秒毎に1回のみ発動可能。「永遠に輝く流光」：落下攻撃ダメージ+15%、継続時間6秒、最大5層まで重ね掛け可能。継続時間は層ごとに独立してカウントされる。JP0B"
+        }
+    },
+    "suit": {
+        "ring": {
+            "ENname": "Lamp-Bearer's Pledge",
+            "CNname": "未吹响的号角",
+            "JAname": "献身者の誓いJP0B",
+            "DescriptionEN": "0",
+            "DescriptionCN": "0",
+            "DescriptionJP": "0",
+            "imageurl": "images/artifact/15039-ring.webp"
+        },
+        "necklace": {
+            "ENname": "Nightingale's Tail Feather",
+            "CNname": "夜鸣莺的尾羽",
+            "JAname": "夜鳴鶯の尾羽JP0B",
+            "DescriptionEN": "0",
+            "DescriptionCN": "0",
+            "DescriptionJP": "0",
+            "imageurl": "images/artifact/15039-necklace.webp"
+        },
+        "dress": {
+            "ENname": "Undying One's Mourning Bell",
+            "CNname": "被浸染的缨盔",
+            "JAname": "不死者の哀鈴JP0B",
+            "DescriptionEN": "0",
+            "DescriptionCN": "0",
+            "DescriptionJP": "0",
+            "imageurl": "images/artifact/15039-dress.webp"
+        },
+        "bracer": {
+            "ENname": "Dyed Tassel",
+            "CNname": "执灯人的誓词",
+            "JAname": "染まれた羽兜JP0B",
+            "DescriptionEN": "0",
+            "DescriptionCN": "0",
+            "DescriptionJP": "0",
+            "imageurl": "images/artifact/15039-bracer.webp"
+        },
+        "shoes": {
+            "ENname": "A Horn Unwinded",
+            "CNname": "不死者的哀铃",
+            "JAname": "未だ鳴らず笛JP0B",
+            "DescriptionEN": "0",
+            "DescriptionCN": "0",
+            "DescriptionJP": "0",
+            "imageurl": "images/artifact/15039-shoes.webp"
+        }
+    }
+}
