@@ -1,0 +1,70 @@
+{
+    "id": "15040",
+    "ENname": "Finale of the Deep Galleries",
+    "CNname": "深廊终曲",
+    "JAname": "深き廊の終曲JP0B",
+    "imageurl": "images/artifact/15040.webp",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Cryo DMG Bonus +15%",
+            "DescriptionCN": "获得15%冰元素伤害加成。",
+            "DescriptionJP": "氷元素ダメージ+15%。"
+        },
+        "4": {
+            "DescriptionEN": "When the equipping character has 0 Energy, Normal Attack DMG is increased by 60% and Elemental Burst DMG is increased by 60%. After the equipping character deals Normal Attack DMG, the aforementioned Elemental Burst effect will stop applying for 6s. After the equipping character deals Elemental Burst DMG, the aforementioned Normal Attack effect will stop applying for 6s. This effect can trigger even if the equipping character is off the field.",
+            "DescriptionCN": "装备者的元素能量为0时，普通攻击造成的伤害提升60%，元素爆发造成的伤害提升60%。装备者的普通攻击造成伤害后，上述元素爆发伤害提升效果将失效6秒；装备者的元素爆发造成伤害后，上述普通攻击伤害提升效果将失效6秒。角色处于队伍后台也能触发。",
+            "DescriptionJP": "装備者の元素エネルギーが0の時、通常攻撃ダメージ+60%、元素爆発ダメージ+60%。装備者の通常攻撃がダメージを与えた後、上記元素爆発ダメージアップ効果は6秒間無効になる。装備者の元素爆発がダメージを与えた後、上記通常攻撃ダメージアップ効果は6秒間無効になる。キャラクターが待機中でも発動できる。JP0B"
+        }
+    },
+    "suit": {
+        "ring": {
+            "ENname": "Deep Gallery's Banquet of Honor",
+            "CNname": "深廊的饫赐之宴",
+            "JAname": "深き廊の豪華な宴JP0B",
+            "DescriptionEN": "0",
+            "DescriptionCN": "由北国的玉石打造而成的杯盏，据说曾是古老的文明用以向高天奉献的礼器。",
+            "DescriptionJP": "0",
+            "imageurl": "images/artifact/15040-ring.webp"
+        },
+        "necklace": {
+            "ENname": "Deep Gallery's Distant Pact",
+            "CNname": "深廊的漫远之约",
+            "JAname": "深き廊の遠い約束JP0B",
+            "DescriptionEN": "0",
+            "DescriptionCN": "由北国的玉石打造而成的羽饰，折射出的幽光仿佛不应属于这个世界。",
+            "DescriptionJP": "0",
+            "imageurl": "images/artifact/15040-necklace.webp"
+        },
+        "dress": {
+            "ENname": "Deep Gallery's Lost Crown",
+            "CNname": "深廊的遂失之冕",
+            "JAname": "深き廊の消えた冠JP0B",
+            "DescriptionEN": "0",
+            "DescriptionCN": "如同其旧主的心神一般，为「执念」所浸染的盔面。其上装饰的玉石似乎来自更古老的时代。",
+            "DescriptionJP": "0",
+            "imageurl": "images/artifact/15040-dress.webp"
+        },
+        "bracer": {
+            "ENname": "Deep Gallery's Echoing Song",
+            "CNname": "深廊的回奏之歌",
+            "JAname": "深き廊の残響の歌JP0B",
+            "DescriptionEN": "0",
+            "DescriptionCN": "由北国的玉石打造而成的冰之花，花瓣已然在漫长的岁月中湮落成尘。",
+            "DescriptionJP": "0",
+            "imageurl": "images/artifact/15040-bracer.webp"
+        },
+        "shoes": {
+            "ENname": "Deep Gallery's Moment of Oblivion",
+            "CNname": "深廊的湮落之刻",
+            "JAname": "深き廊の沈没の刻JP0B",
+            "DescriptionEN": "0",
+            "DescriptionCN": "由北国的玉石打造而成的怀表，指针已永久停驻于湮灭的那一刻。",
+            "DescriptionJP": "0",
+            "imageurl": "images/artifact/15040-shoes.webp"
+        }
+    }
+}
