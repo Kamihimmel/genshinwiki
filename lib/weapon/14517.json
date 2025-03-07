@@ -1,0 +1,141 @@
+{
+    "id": "14517",
+    "ENname": "Starcaller's Watch",
+    "CNname": "祭星者之望",
+    "JAname": "祭星者の眺め",
+    "imageurl": "images/weapon/14517.webp",
+    "type": "catalyst",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 44.33580017089844,
+            "element_mastery": 57.599998474121094
+        },
+        {
+            "level": "5",
+            "base_attack": 58.3902502203764,
+            "element_mastery": 66.93119482116708
+        },
+        {
+            "level": "10",
+            "base_attack": 75.7698821115282,
+            "element_mastery": 78.5087999526977
+        },
+        {
+            "level": "15",
+            "base_attack": 93.01651095720445,
+            "element_mastery": 90.14400090789786
+        },
+        {
+            "level": "20",
+            "base_attack": 110.17445877367209,
+            "element_mastery": 101.77919499664313
+        },
+        {
+            "level": "25",
+            "base_attack": 127.28808457387277,
+            "element_mastery": 113.41439595184329
+        },
+        {
+            "level": "30",
+            "base_attack": 144.40169980359497,
+            "element_mastery": 125.04959690704345
+        },
+        {
+            "level": "35",
+            "base_attack": 161.55965819054109,
+            "element_mastery": 136.68479099578872
+        },
+        {
+            "level": "40",
+            "base_attack": 178.7176165774872,
+            "element_mastery": 148.31999881744377
+        },
+        {
+            "level": "45",
+            "base_attack": 195.91990755117877,
+            "element_mastery": 159.95519290618904
+        },
+        {
+            "level": "50",
+            "base_attack": 213.25519628510665,
+            "element_mastery": 171.5904007278441
+        },
+        {
+            "level": "55",
+            "base_attack": 230.5905061599915,
+            "element_mastery": 183.22559481658936
+        },
+        {
+            "level": "60",
+            "base_attack": 248.0587926541557,
+            "element_mastery": 194.86078890533463
+        },
+        {
+            "level": "65",
+            "base_attack": 265.6157866037247,
+            "element_mastery": 206.4959967269897
+        },
+        {
+            "level": "70",
+            "base_attack": 283.30575717257307,
+            "element_mastery": 218.0735949920654
+        },
+        {
+            "level": "75",
+            "base_attack": 301.0844140558693,
+            "element_mastery": 229.70878908081067
+        },
+        {
+            "level": "80",
+            "base_attack": 318.95173611265636,
+            "element_mastery": 241.34399690246573
+        },
+        {
+            "level": "85",
+            "base_attack": 336.9964096573822,
+            "element_mastery": 252.9792047241208
+        },
+        {
+            "level": "90",
+            "base_attack": 355.1297695165558,
+            "element_mastery": 264.61438507995626
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Offering Unto Wind and Sun",
+            "upgrade": {
+                "0": "Increases Elemental Mastery by 100. Gain the \"Mirror of Night\" effect within 15s after the equipping character creates a shield: The current active party member deals 28% increased DMG to nearby opponents. You can gain the \"Mirror of Night\" effect once every 14s.",
+                "1": "Increases Elemental Mastery by 125. Gain the \"Mirror of Night\" effect within 15s after the equipping character creates a shield: The current active party member deals 35% increased DMG to nearby opponents. You can gain the \"Mirror of Night\" effect once every 14s.",
+                "2": "Increases Elemental Mastery by 150. Gain the \"Mirror of Night\" effect within 15s after the equipping character creates a shield: The current active party member deals 42% increased DMG to nearby opponents. You can gain the \"Mirror of Night\" effect once every 14s.",
+                "3": "Increases Elemental Mastery by 175. Gain the \"Mirror of Night\" effect within 15s after the equipping character creates a shield: The current active party member deals 49% increased DMG to nearby opponents. You can gain the \"Mirror of Night\" effect once every 14s.",
+                "4": "Increases Elemental Mastery by 200. Gain the \"Mirror of Night\" effect within 15s after the equipping character creates a shield: The current active party member deals 56% increased DMG to nearby opponents. You can gain the \"Mirror of Night\" effect once every 14s."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "奉予风阳的禋祀",
+            "upgrade": {
+                "0": "元素精通提升100点。装备者创造护盾后的15秒内，获得「照夜之镜」效果：队伍中自己的当前场上角色对附近的敌人造成的伤害提升28%，每14秒至多获得一次「照夜之镜」效果。",
+                "1": "元素精通提升125点。装备者创造护盾后的15秒内，获得「照夜之镜」效果：队伍中自己的当前场上角色对附近的敌人造成的伤害提升35%，每14秒至多获得一次「照夜之镜」效果。",
+                "2": "元素精通提升150点。装备者创造护盾后的15秒内，获得「照夜之镜」效果：队伍中自己的当前场上角色对附近的敌人造成的伤害提升42%，每14秒至多获得一次「照夜之镜」效果。",
+                "3": "元素精通提升175点。装备者创造护盾后的15秒内，获得「照夜之镜」效果：队伍中自己的当前场上角色对附近的敌人造成的伤害提升49%，每14秒至多获得一次「照夜之镜」效果。",
+                "4": "元素精通提升200点。装备者创造护盾后的15秒内，获得「照夜之镜」效果：队伍中自己的当前场上角色对附近的敌人造成的伤害提升56%，每14秒至多获得一次「照夜之镜」效果。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "風と陽に捧げる祭儀",
+            "upgrade": {
+                "0": "元素熟知+100。装備者がシールドを生成した後の15秒間、「夜を照らす鏡」効果を獲得する。フィールド上にいるチーム内の自身のキャラクターが近くの敵へのダメージ+28%。「夜を照らす鏡」効果は14秒毎に1回のみ獲得できる。",
+                "1": "元素熟知+125。装備者がシールドを生成した後の15秒間、「夜を照らす鏡」効果を獲得する。フィールド上にいるチーム内の自身のキャラクターが近くの敵へのダメージ+35%。「夜を照らす鏡」効果は14秒毎に1回のみ獲得できる。",
+                "2": "元素熟知+150。装備者がシールドを生成した後の15秒間、「夜を照らす鏡」効果を獲得する。フィールド上にいるチーム内の自身のキャラクターが近くの敵へのダメージ+42%。「夜を照らす鏡」効果は14秒毎に1回のみ獲得できる。",
+                "3": "元素熟知+175。装備者がシールドを生成した後の15秒間、「夜を照らす鏡」効果を獲得する。フィールド上にいるチーム内の自身のキャラクターが近くの敵へのダメージ+49%。「夜を照らす鏡」効果は14秒毎に1回のみ獲得できる。",
+                "4": "元素熟知+200。装備者がシールドを生成した後の15秒間、「夜を照らす鏡」効果を獲得する。フィールド上にいるチーム内の自身のキャラクターが近くの敵へのダメージ+56%。「夜を照らす鏡」効果は14秒毎に1回のみ獲得できる。"
+            }
+        }
+    }
+}
