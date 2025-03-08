@@ -1,0 +1,141 @@
+{
+    "id": "11431",
+    "ENname": "Flute of Ezpitzal",
+    "CNname": "息燧之笛",
+    "JAname": "エズピツァルの笛",
+    "imageurl": "images/weapon/11431.webp",
+    "type": "sword",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 41.067100524902344,
+            "defense_percent": 0.15013299882411957
+        },
+        {
+            "level": "5",
+            "base_attack": 53.63363305053463,
+            "defense_percent": 0.17445453575659187
+        },
+        {
+            "level": "10",
+            "base_attack": 69.07486476696522,
+            "defense_percent": 0.20463128269486042
+        },
+        {
+            "level": "15",
+            "base_attack": 84.26969215700228,
+            "defense_percent": 0.23495815175042623
+        },
+        {
+            "level": "20",
+            "base_attack": 99.25918424023803,
+            "defense_percent": 0.2652850029087439
+        },
+        {
+            "level": "25",
+            "base_attack": 114.08441003626467,
+            "defense_percent": 0.2956118719643097
+        },
+        {
+            "level": "30",
+            "base_attack": 128.7864238779348,
+            "defense_percent": 0.3259387410198755
+        },
+        {
+            "level": "35",
+            "base_attack": 143.32418122355557,
+            "defense_percent": 0.3562655921781932
+        },
+        {
+            "level": "40",
+            "base_attack": 157.77980052999192,
+            "defense_percent": 0.38659247913100714
+        },
+        {
+            "level": "45",
+            "base_attack": 172.15328179724384,
+            "defense_percent": 0.4169193302893248
+        },
+        {
+            "level": "50",
+            "base_attack": 186.44463481647108,
+            "defense_percent": 0.44724621724213875
+        },
+        {
+            "level": "55",
+            "base_attack": 200.65385958767365,
+            "defense_percent": 0.47757306840045644
+        },
+        {
+            "level": "60",
+            "base_attack": 214.82200065254438,
+            "defense_percent": 0.5078999195587741
+        },
+        {
+            "level": "65",
+            "base_attack": 228.90801346939043,
+            "defense_percent": 0.538226806511588
+        },
+        {
+            "level": "70",
+            "base_attack": 242.95296216222414,
+            "defense_percent": 0.5684035355526085
+        },
+        {
+            "level": "75",
+            "base_attack": 256.9568467310455,
+            "defense_percent": 0.5987303867109262
+        },
+        {
+            "level": "80",
+            "base_attack": 270.9607312998669,
+            "defense_percent": 0.6290572736637401
+        },
+        {
+            "level": "85",
+            "base_attack": 284.8824680383441,
+            "defense_percent": 0.659384160616554
+        },
+        {
+            "level": "90",
+            "base_attack": 298.76316023512845,
+            "defense_percent": 0.6897109759803755
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Smoke-and-Mirror Mystery",
+            "upgrade": {
+                "0": "Using an Elemental Skill increases DEF by 16% for 15s.",
+                "1": "Using an Elemental Skill increases DEF by 20% for 15s.",
+                "2": "Using an Elemental Skill increases DEF by 24% for 15s.",
+                "3": "Using an Elemental Skill increases DEF by 28% for 15s.",
+                "4": "Using an Elemental Skill increases DEF by 32% for 15s."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "镜与烟色的隐谜",
+            "upgrade": {
+                "0": "施放元素战技时，防御力提升16%，持续15秒。",
+                "1": "施放元素战技时，防御力提升20%，持续15秒。",
+                "2": "施放元素战技时，防御力提升24%，持续15秒。",
+                "3": "施放元素战技时，防御力提升28%，持续15秒。",
+                "4": "施放元素战技时，防御力提升32%，持续15秒。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "鏡と煙色の謎",
+            "upgrade": {
+                "0": "元素スキル発動時、防御力+16%、継続期間15秒。",
+                "1": "元素スキル発動時、防御力+20%、継続期間15秒。",
+                "2": "元素スキル発動時、防御力+24%、継続期間15秒。",
+                "3": "元素スキル発動時、防御力+28%、継続期間15秒。",
+                "4": "元素スキル発動時、防御力+32%、継続期間15秒。"
+            }
+        }
+    }
+}
