@@ -1,0 +1,141 @@
+{
+    "id": "12514",
+    "ENname": "A Thousand Blazing Suns",
+    "CNname": "焚曜千阳",
+    "JAname": "千烈の日輪",
+    "imageurl": "images/weapon/12514.webp",
+    "type": "claymore",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 49.137699127197266,
+            "critical": 0.024000000208616257
+        },
+        {
+            "level": "5",
+            "base_attack": 68.35054107921769,
+            "critical": 0.027887998823344695
+        },
+        {
+            "level": "10",
+            "base_attack": 93.11593890881159,
+            "critical": 0.03271200113120676
+        },
+        {
+            "level": "15",
+            "base_attack": 118.66754151772693,
+            "critical": 0.03756000169977547
+        },
+        {
+            "level": "20",
+            "base_attack": 144.9070689152959,
+            "critical": 0.042407999407321206
+        },
+        {
+            "level": "25",
+            "base_attack": 171.63798455086362,
+            "critical": 0.04725599997588992
+        },
+        {
+            "level": "30",
+            "base_attack": 198.95853326907672,
+            "critical": 0.05210400054445863
+        },
+        {
+            "level": "35",
+            "base_attack": 226.67220194996116,
+            "critical": 0.056951998252004365
+        },
+        {
+            "level": "40",
+            "base_attack": 254.82810130049984,
+            "critical": 0.06180000168159605
+        },
+        {
+            "level": "45",
+            "base_attack": 283.37712061370985,
+            "critical": 0.06664799938914179
+        },
+        {
+            "level": "50",
+            "base_attack": 312.22094475290214,
+            "critical": 0.07149600281873347
+        },
+        {
+            "level": "55",
+            "base_attack": 341.45786542408496,
+            "critical": 0.07634400052627921
+        },
+        {
+            "level": "60",
+            "base_attack": 370.9896377826117,
+            "critical": 0.08119199823382495
+        },
+        {
+            "level": "65",
+            "base_attack": 400.8161915364399,
+            "critical": 0.08604000166341663
+        },
+        {
+            "level": "70",
+            "base_attack": 430.8884862706291,
+            "critical": 0.09086400111025572
+        },
+        {
+            "level": "75",
+            "base_attack": 461.25558583080056,
+            "critical": 0.09571199881780146
+        },
+        {
+            "level": "80",
+            "base_attack": 491.9174902169543,
+            "critical": 0.10056000224739314
+        },
+        {
+            "level": "85",
+            "base_attack": 522.7759780151246,
+            "critical": 0.10540800567698483
+        },
+        {
+            "level": "90",
+            "base_attack": 553.8801599322942,
+            "critical": 0.11025599766248462
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Sunset Reignites the Dawn",
+            "upgrade": {
+                "0": "Gain the \"Scorching Brilliance\" effect when using an Elemental Skill or Burst: CRIT DMG increased by 20% and ATK increased by 28% for 6s. This effect can trigger once every 10s. While a \"Scorching Brilliance\" instance is active, its duration is increased by 2s after Normal or Charged attacks deal Elemental DMG. This effect can trigger once every second, and the max duration increase is 6s. Additionally, when the equipping character is in the Nightsoul's Blessing state, \"Scorching Brilliance\" effects are increased by 75%, and its duration will not count down when the equipping character is off-field.",
+                "1": "Gain the \"Scorching Brilliance\" effect when using an Elemental Skill or Burst: CRIT DMG increased by 25% and ATK increased by 35% for 6s. This effect can trigger once every 10s. While a \"Scorching Brilliance\" instance is active, its duration is increased by 2s after Normal or Charged attacks deal Elemental DMG. This effect can trigger once every second, and the max duration increase is 6s. Additionally, when the equipping character is in the Nightsoul's Blessing state, \"Scorching Brilliance\" effects are increased by 75%, and its duration will not count down when the equipping character is off-field.",
+                "2": "Gain the \"Scorching Brilliance\" effect when using an Elemental Skill or Burst: CRIT DMG increased by 30% and ATK increased by 42% for 6s. This effect can trigger once every 10s. While a \"Scorching Brilliance\" instance is active, its duration is increased by 2s after Normal or Charged attacks deal Elemental DMG. This effect can trigger once every second, and the max duration increase is 6s. Additionally, when the equipping character is in the Nightsoul's Blessing state, \"Scorching Brilliance\" effects are increased by 75%, and its duration will not count down when the equipping character is off-field.",
+                "3": "Gain the \"Scorching Brilliance\" effect when using an Elemental Skill or Burst: CRIT DMG increased by 35% and ATK increased by 49% for 6s. This effect can trigger once every 10s. While a \"Scorching Brilliance\" instance is active, its duration is increased by 2s after Normal or Charged attacks deal Elemental DMG. This effect can trigger once every second, and the max duration increase is 6s. Additionally, when the equipping character is in the Nightsoul's Blessing state, \"Scorching Brilliance\" effects are increased by 75%, and its duration will not count down when the equipping character is off-field.",
+                "4": "Gain the \"Scorching Brilliance\" effect when using an Elemental Skill or Burst: CRIT DMG increased by 40% and ATK increased by 56% for 6s. This effect can trigger once every 10s. While a \"Scorching Brilliance\" instance is active, its duration is increased by 2s after Normal or Charged attacks deal Elemental DMG. This effect can trigger once every second, and the max duration increase is 6s. Additionally, when the equipping character is in the Nightsoul's Blessing state, \"Scorching Brilliance\" effects are increased by 75%, and its duration will not count down when the equipping character is off-field."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "落日重燃的黎明",
+            "upgrade": {
+                "0": "施放元素战技或元素爆发时，获得「焚光」效果：暴击伤害提高20%，攻击力提升28%，该效果持续6秒，每10秒至多触发一次。 持续期间内，普通攻击或重击造成元素伤害后，将使此次「焚光」效果的持续时间延长2秒，该效果每1秒至多触发一次，至多通过这种方式使持续时间延长6秒。 此外，处于夜魂加持状态下时，「焚光」效果提高75%，且「焚光」效果在装备者处于后台时不进行计时。",
+                "1": "施放元素战技或元素爆发时，获得「焚光」效果：暴击伤害提高25%，攻击力提升35%，该效果持续6秒，每10秒至多触发一次。 持续期间内，普通攻击或重击造成元素伤害后，将使此次「焚光」效果的持续时间延长2秒，该效果每1秒至多触发一次，至多通过这种方式使持续时间延长6秒。 此外，处于夜魂加持状态下时，「焚光」效果提高75%，且「焚光」效果在装备者处于后台时不进行计时。",
+                "2": "施放元素战技或元素爆发时，获得「焚光」效果：暴击伤害提高30%，攻击力提升42%，该效果持续6秒，每10秒至多触发一次。 持续期间内，普通攻击或重击造成元素伤害后，将使此次「焚光」效果的持续时间延长2秒，该效果每1秒至多触发一次，至多通过这种方式使持续时间延长6秒。 此外，处于夜魂加持状态下时，「焚光」效果提高75%，且「焚光」效果在装备者处于后台时不进行计时。",
+                "3": "施放元素战技或元素爆发时，获得「焚光」效果：暴击伤害提高35%，攻击力提升49%，该效果持续6秒，每10秒至多触发一次。 持续期间内，普通攻击或重击造成元素伤害后，将使此次「焚光」效果的持续时间延长2秒，该效果每1秒至多触发一次，至多通过这种方式使持续时间延长6秒。 此外，处于夜魂加持状态下时，「焚光」效果提高75%，且「焚光」效果在装备者处于后台时不进行计时。",
+                "4": "施放元素战技或元素爆发时，获得「焚光」效果：暴击伤害提高40%，攻击力提升56%，该效果持续6秒，每10秒至多触发一次。 持续期间内，普通攻击或重击造成元素伤害后，将使此次「焚光」效果的持续时间延长2秒，该效果每1秒至多触发一次，至多通过这种方式使持续时间延长6秒。 此外，处于夜魂加持状态下时，「焚光」效果提高75%，且「焚光」效果在装备者处于后台时不进行计时。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "夜明けを照らす暁",
+            "upgrade": {
+                "0": "元素スキルまたは元素爆発を発動時、「焚光」効果を獲得する。会心ダメージ+20%、攻撃力+28%、継続時間6秒、10秒毎に1回のみ発動可能。 継続期間中、通常攻撃または重撃が元素ダメージを与えた後、今回の「焚光」効果の継続時間+2秒。この効果は1秒毎に1回のみ発動可能。この方法で継続時間を最大6秒延長できる。 さらに、夜魂の加護状態のとき、「焚光」効果が75%アップする。この状態のとき、装備者が待機中である間は、「焚光」効果継続時間のカウントが進まない。",
+                "1": "元素スキルまたは元素爆発を発動時、「焚光」効果を獲得する。会心ダメージ+25%、攻撃力+35%、継続時間6秒、10秒毎に1回のみ発動可能。 継続期間中、通常攻撃または重撃が元素ダメージを与えた後、今回の「焚光」効果の継続時間+2秒。この効果は1秒毎に1回のみ発動可能。この方法で継続時間を最大6秒延長できる。 さらに、夜魂の加護状態のとき、「焚光」効果が75%アップする。この状態のとき、装備者が待機中である間は、「焚光」効果継続時間のカウントが進まない。",
+                "2": "元素スキルまたは元素爆発を発動時、「焚光」効果を獲得する。会心ダメージ+30%、攻撃力+42%、継続時間6秒、10秒毎に1回のみ発動可能。 継続期間中、通常攻撃または重撃が元素ダメージを与えた後、今回の「焚光」効果の継続時間+2秒。この効果は1秒毎に1回のみ発動可能。この方法で継続時間を最大6秒延長できる。 さらに、夜魂の加護状態のとき、「焚光」効果が75%アップする。この状態のとき、装備者が待機中である間は、「焚光」効果継続時間のカウントが進まない。",
+                "3": "元素スキルまたは元素爆発を発動時、「焚光」効果を獲得する。会心ダメージ+35%、攻撃力+49%、継続時間6秒、10秒毎に1回のみ発動可能。 継続期間中、通常攻撃または重撃が元素ダメージを与えた後、今回の「焚光」効果の継続時間+2秒。この効果は1秒毎に1回のみ発動可能。この方法で継続時間を最大6秒延長できる。 さらに、夜魂の加護状態のとき、「焚光」効果が75%アップする。この状態のとき、装備者が待機中である間は、「焚光」効果継続時間のカウントが進まない。",
+                "4": "元素スキルまたは元素爆発を発動時、「焚光」効果を獲得する。会心ダメージ+40%、攻撃力+56%、継続時間6秒、10秒毎に1回のみ発動可能。 継続期間中、通常攻撃または重撃が元素ダメージを与えた後、今回の「焚光」効果の継続時間+2秒。この効果は1秒毎に1回のみ発動可能。この方法で継続時間を最大6秒延長できる。 さらに、夜魂の加護状態のとき、「焚光」効果が75%アップする。この状態のとき、装備者が待機中である間は、「焚光」効果継続時間のカウントが進まない。"
+            }
+        }
+    }
+}
