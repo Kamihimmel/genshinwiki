@@ -1,0 +1,70 @@
+{
+    "id": "15039",
+    "ENname": "Long Night's Oath",
+    "CNname": "长夜之誓",
+    "JAname": "長き夜の誓い",
+    "imageurl": "images/artifact/15039.webp",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Plunging Attack DMG increased by 25%.",
+            "DescriptionCN": "下落攻击造成的伤害提升25%。",
+            "DescriptionJP": "落下攻撃の与えるダメージ+25%。"
+        },
+        "4": {
+            "DescriptionEN": "After the equipping character's Plunging Attack/Charged Attack/Elemental Skill hits an opponent, they will gain 1/2/2 stack(s) of \"Radiance Everlasting.\" Plunging Attacks, Charged Attacks, or Elemental Skills can each trigger this effect once every 1s. Radiance Everlasting: Plunging Attacks deal 15% increased DMG for 6s. Max 5 stacks. Each stack's duration is counted independently.",
+            "DescriptionCN": "装备者的下落攻击/重击/元素战技命中敌人后，获得1/2/2层「永照的流辉」，由下落攻击、重击或元素战技产生的该效果分别每1秒至多触发一次。永照的流辉：下落攻击造成的伤害提升15%，持续6秒，至多叠加5层，每层持续时间独立计算。",
+            "DescriptionJP": "装備者の落下攻撃/重撃/元素スキルが敵に命中した後、「永遠に輝く流光」効果を1/2/2層獲得する。落下攻撃、重撃、または元素スキルによるこの効果はそれぞれ1秒毎に1回のみ発動可能。「永遠に輝く流光」：落下攻撃ダメージ+15%、継続時間6秒、最大5層まで重ね掛け可能。継続時間は層ごとに独立してカウントされる。"
+        }
+    },
+    "suit": {
+        "ring": {
+            "ENname": "A Horn Unwinded",
+            "CNname": "未吹响的号角",
+            "JAname": "未だ鳴らざる笛",
+            "DescriptionEN": "A horn that was once used to summon those who had sworn oaths. It has long since lost its purpose.",
+            "DescriptionCN": "过去曾用来召集守誓之人的号角，如今早已失去其作用。",
+            "DescriptionJP": "かつて、誓約を交わした者を召集するための角笛。今はもう使われていない。",
+            "imageurl": "images/artifact/15039-ring.webp"
+        },
+        "necklace": {
+            "ENname": "Nightingale's Tail Feather",
+            "CNname": "夜鸣莺的尾羽",
+            "JAname": "夜鳴鶯の尾羽",
+            "DescriptionEN": "A hat ornament intricately crafted from the feathers of a nightingale. They say that its form was first conceived by the original Torchforger.",
+            "DescriptionCN": "用夜莺的羽毛精心制成的帽饰，据说其形制由最初的铸灯者所定下。",
+            "DescriptionJP": "夜鳴鶯の羽根を使って作られた帽子の飾り。その形は最初の灯鋳師が決めたものらしい。",
+            "imageurl": "images/artifact/15039-necklace.webp"
+        },
+        "dress": {
+            "ENname": "Dyed Tassel",
+            "CNname": "被浸染的缨盔",
+            "JAname": "染められし羽兜",
+            "DescriptionEN": "An ancient heavy helmet. It is an heirloom that bears the mark of a venerable lineage of northern warriors.",
+            "DescriptionCN": "古老而沉重的头盔，是标识了北方古老战士家系的传承之物。",
+            "DescriptionJP": "古くて重い兜。北の古い戦士一族に受け継がれる象徴物である。",
+            "imageurl": "images/artifact/15039-dress.webp"
+        },
+        "bracer": {
+            "ENname": "Lightkeeper's Pledge",
+            "CNname": "执灯人的誓词",
+            "JAname": "ライトキーパーの誓い",
+            "DescriptionEN": "A metal flower that was worn by a Torchbearer. It symbolizes the oath of eternal vigilance taken by its original owner.",
+            "DescriptionCN": "执灯士所佩戴的铁花，象征着此人曾发下永世守望的重誓。",
+            "DescriptionJP": "ライトキーパーが身につけていた鉄の花。永遠に見守るという誓いを示している。",
+            "imageurl": "images/artifact/15039-bracer.webp"
+        },
+        "shoes": {
+            "ENname": "Undying One's Mourning Bell",
+            "CNname": "不死者的哀铃",
+            "JAname": "不死者の弔鐘",
+            "DescriptionEN": "A bronze bell that was carried by a warrior who walked through the dark abyss. Its peal can be heard on pitch-black nights.",
+            "DescriptionCN": "漫步黑渊的战士所携带的铜铃，在无光的夜里常常能听到它的哀鸣。",
+            "DescriptionJP": "黒淵を歩く戦士が携帯する銅の鈴。光のない夜に、その悲鳴がよく耳に届く。",
+            "imageurl": "images/artifact/15039-shoes.webp"
+        }
+    }
+}
