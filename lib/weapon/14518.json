@@ -1,0 +1,141 @@
+{
+    "id": "14518",
+    "ENname": "Sunny Morning Sleep-In",
+    "CNname": "寝正月初晴",
+    "JAname": "寝正月の初晴",
+    "imageurl": "images/weapon/14518.webp",
+    "type": "catalyst",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 44.33580017089844,
+            "element_mastery": 57.599998474121094
+        },
+        {
+            "level": "5",
+            "base_attack": 58.3902502203764,
+            "element_mastery": 66.93119482116708
+        },
+        {
+            "level": "10",
+            "base_attack": 75.7698821115282,
+            "element_mastery": 78.5087999526977
+        },
+        {
+            "level": "15",
+            "base_attack": 93.01651095720445,
+            "element_mastery": 90.14400090789786
+        },
+        {
+            "level": "20",
+            "base_attack": 110.17445877367209,
+            "element_mastery": 101.77919499664313
+        },
+        {
+            "level": "25",
+            "base_attack": 127.28808457387277,
+            "element_mastery": 113.41439595184329
+        },
+        {
+            "level": "30",
+            "base_attack": 144.40169980359497,
+            "element_mastery": 125.04959690704345
+        },
+        {
+            "level": "35",
+            "base_attack": 161.55965819054109,
+            "element_mastery": 136.68479099578872
+        },
+        {
+            "level": "40",
+            "base_attack": 178.7176165774872,
+            "element_mastery": 148.31999881744377
+        },
+        {
+            "level": "45",
+            "base_attack": 195.91990755117877,
+            "element_mastery": 159.95519290618904
+        },
+        {
+            "level": "50",
+            "base_attack": 213.25519628510665,
+            "element_mastery": 171.5904007278441
+        },
+        {
+            "level": "55",
+            "base_attack": 230.5905061599915,
+            "element_mastery": 183.22559481658936
+        },
+        {
+            "level": "60",
+            "base_attack": 248.0587926541557,
+            "element_mastery": 194.86078890533463
+        },
+        {
+            "level": "65",
+            "base_attack": 265.6157866037247,
+            "element_mastery": 206.4959967269897
+        },
+        {
+            "level": "70",
+            "base_attack": 283.30575717257307,
+            "element_mastery": 218.0735949920654
+        },
+        {
+            "level": "75",
+            "base_attack": 301.0844140558693,
+            "element_mastery": 229.70878908081067
+        },
+        {
+            "level": "80",
+            "base_attack": 318.95173611265636,
+            "element_mastery": 241.34399690246573
+        },
+        {
+            "level": "85",
+            "base_attack": 336.9964096573822,
+            "element_mastery": 252.9792047241208
+        },
+        {
+            "level": "90",
+            "base_attack": 355.1297695165558,
+            "element_mastery": 264.61438507995626
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Bathhouses, Hawks, and Narukami",
+            "upgrade": {
+                "0": "Elemental Mastery increases by 120 for 6s after triggering Swirl. Elemental Mastery increases by 96 for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by 32 for 30s after the wielder's Elemental Burst hits an opponent.",
+                "1": "Elemental Mastery increases by 150 for 6s after triggering Swirl. Elemental Mastery increases by 120 for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by 40 for 30s after the wielder's Elemental Burst hits an opponent.",
+                "2": "Elemental Mastery increases by 180 for 6s after triggering Swirl. Elemental Mastery increases by 144 for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by 48 for 30s after the wielder's Elemental Burst hits an opponent.",
+                "3": "Elemental Mastery increases by 210 for 6s after triggering Swirl. Elemental Mastery increases by 168 for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by 56 for 30s after the wielder's Elemental Burst hits an opponent.",
+                "4": "Elemental Mastery increases by 240 for 6s after triggering Swirl. Elemental Mastery increases by 192 for 9s after the wielder's Elemental Skill hits an opponent. Elemental Mastery increases by 64 for 30s after the wielder's Elemental Burst hits an opponent."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "一汤二鹰三鸣神",
+            "upgrade": {
+                "0": "触发扩散反应后的6秒内，元素精通提升120点；元素战技命中敌人后的9秒内，元素精通提升96点；元素爆发命中敌人后的30秒内，元素精通提升32点。",
+                "1": "触发扩散反应后的6秒内，元素精通提升150点；元素战技命中敌人后的9秒内，元素精通提升120点；元素爆发命中敌人后的30秒内，元素精通提升40点。",
+                "2": "触发扩散反应后的6秒内，元素精通提升180点；元素战技命中敌人后的9秒内，元素精通提升144点；元素爆发命中敌人后的30秒内，元素精通提升48点。",
+                "3": "触发扩散反应后的6秒内，元素精通提升210点；元素战技命中敌人后的9秒内，元素精通提升168点；元素爆发命中敌人后的30秒内，元素精通提升56点。",
+                "4": "触发扩散反应后的6秒内，元素精通提升240点；元素战技命中敌人后的9秒内，元素精通提升192点；元素爆发命中敌人后的30秒内，元素精通提升64点。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "一湯二鷹三鳴神",
+            "upgrade": {
+                "0": "拡散反応を起こした後の6秒間、元素熟知+120。元素スキルが敵に命中した後の9秒間、元素熟知+96。元素爆発が敵に命中した後の30秒間、元素熟知+32。",
+                "1": "拡散反応を起こした後の6秒間、元素熟知+150。元素スキルが敵に命中した後の9秒間、元素熟知+120。元素爆発が敵に命中した後の30秒間、元素熟知+40。",
+                "2": "拡散反応を起こした後の6秒間、元素熟知+180。元素スキルが敵に命中した後の9秒間、元素熟知+144。元素爆発が敵に命中した後の30秒間、元素熟知+48。",
+                "3": "拡散反応を起こした後の6秒間、元素熟知+210。元素スキルが敵に命中した後の9秒間、元素熟知+168。元素爆発が敵に命中した後の30秒間、元素熟知+56。",
+                "4": "拡散反応を起こした後の6秒間、元素熟知+240。元素スキルが敵に命中した後の9秒間、元素熟知+192。元素爆発が敵に命中した後の30秒間、元素熟知+64。"
+            }
+        }
+    }
+}
