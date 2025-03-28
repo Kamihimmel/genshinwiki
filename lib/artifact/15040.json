@@ -1,0 +1,70 @@
+{
+    "id": "15040",
+    "ENname": "Finale of the Deep Galleries",
+    "CNname": "深廊终曲",
+    "JAname": "深廊の終曲",
+    "imageurl": "images/artifact/15040.webp",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Cryo DMG Bonus +15%",
+            "DescriptionCN": "获得15%冰元素伤害加成。",
+            "DescriptionJP": "氷元素ダメージ+15%。"
+        },
+        "4": {
+            "DescriptionEN": "When the equipping character has 0 Elemental Energy, Normal Attack DMG is increased by 60% and Elemental Burst DMG is increased by 60%. After the equipping character deals Normal Attack DMG, the aforementioned Elemental Burst effect will stop applying for 6s. After the equipping character deals Elemental Burst DMG, the aforementioned Normal Attack effect will stop applying for 6s. This effect can trigger even if the equipping character is off the field.",
+            "DescriptionCN": "装备者的元素能量为0时，普通攻击造成的伤害提升60%，元素爆发造成的伤害提升60%。装备者的普通攻击造成伤害后，上述元素爆发伤害提升效果将失效6秒；装备者的元素爆发造成伤害后，上述普通攻击伤害提升效果将失效6秒。角色处于队伍后台也能触发。",
+            "DescriptionJP": "装備者の元素エネルギーが0の時、通常攻撃ダメージ+60%、元素爆発ダメージ+60%。装備者の通常攻撃がダメージを与えた後、上記元素爆発ダメージアップ効果は6秒間無効になる。装備者の元素爆発がダメージを与えた後、上記通常攻撃ダメージアップ効果は6秒間無効になる。キャラクターが待機中でも発動できる。"
+        }
+    },
+    "suit": {
+        "ring": {
+            "ENname": "Deep Gallery's Bestowed Banquet",
+            "CNname": "深廊的饫赐之宴",
+            "JAname": "深廊の招宴",
+            "DescriptionEN": "A cup fashioned from northland jade. They say that the people of an ancient civilization once used it as a ceremonial vessel to make offerings to the heavens.",
+            "DescriptionCN": "由北国的玉石打造而成的杯盏，据说曾是古老的文明用以向高天奉献的礼器。",
+            "DescriptionJP": "北国の宝石から作られた盃。古い文明が高天に献上していた礼器だと言われている。",
+            "imageurl": "images/artifact/15040-ring.webp"
+        },
+        "necklace": {
+            "ENname": "Deep Gallery's Distant Pact",
+            "CNname": "深廊的漫远之约",
+            "JAname": "深廊の遥かな契り",
+            "DescriptionEN": "A feathered accessory fashioned from northland jade that shimmers with an otherworldly glow.",
+            "DescriptionCN": "由北国的玉石打造而成的羽饰，折射出的幽光仿佛不应属于这个世界。",
+            "DescriptionJP": "北国の宝石から作られた羽飾り。この世のものとは思えない幽かな光をちらつかせている。",
+            "imageurl": "images/artifact/15040-necklace.webp"
+        },
+        "dress": {
+            "ENname": "Deep Gallery's Lost Crown",
+            "CNname": "深廊的遂失之冕",
+            "JAname": "深廊の失われた冠",
+            "DescriptionEN": "A helmet steeped in obsession, just like the mind of its previous owner. Its jade ornamentation seems to come from an age more ancient still.",
+            "DescriptionCN": "如同其旧主的心神一般，为「执念」所浸染的盔面。其上装饰的玉石似乎来自更古老的时代。",
+            "DescriptionJP": "かつての持ち主の心のように「執念」に染まった兜。額の部分に飾られている宝石は、さらに古い時代のものらしい。",
+            "imageurl": "images/artifact/15040-dress.webp"
+        },
+        "bracer": {
+            "ENname": "Deep Gallery's Echoing Song",
+            "CNname": "深廊的回奏之歌",
+            "JAname": "深廊に響く歌",
+            "DescriptionEN": "An icy flower fashioned from northland jade. Over the course of its long life, its petals have crumbled to dust.",
+            "DescriptionCN": "由北国的玉石打造而成的冰之花，花瓣已然在漫长的岁月中湮落成尘。",
+            "DescriptionJP": "北国の宝石から作られた氷の花。花びらは長い年月の中で粉々になった。",
+            "imageurl": "images/artifact/15040-bracer.webp"
+        },
+        "shoes": {
+            "ENname": "Deep Gallery's Moment of Oblivion",
+            "CNname": "深廊的湮落之刻",
+            "JAname": "深廊が埋もれる刻",
+            "DescriptionEN": "A pocket watch fashioned from northland jade. Its hands are forever frozen in the moment of its destruction.",
+            "DescriptionCN": "由北国的玉石打造而成的怀表，指针已永久停驻于湮灭的那一刻。",
+            "DescriptionJP": "北国の宝石から作られた懐中時計。針は消え去る瞬間に、永久に止まることとなった。",
+            "imageurl": "images/artifact/15040-shoes.webp"
+        }
+    }
+}
