@@ -1,0 +1,141 @@
+{
+    "id": "13514",
+    "ENname": "Symphonist of Scents",
+    "CNname": "香韵奏者",
+    "JAname": "芳香のシンフォニストJP0B",
+    "imageurl": "images/weapon/13514.webp",
+    "type": "pole",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 45.9364013671875,
+            "critical_hurt": 0.14399999380111694
+        },
+        {
+            "level": "5",
+            "base_attack": 61.692589533209684,
+            "critical_hurt": 0.16732798428249396
+        },
+        {
+            "level": "10",
+            "base_attack": 81.53711133154866,
+            "critical_hurt": 0.19627199663209893
+        },
+        {
+            "level": "15",
+            "base_attack": 101.56538184575038,
+            "critical_hurt": 0.22535999853849376
+        },
+        {
+            "level": "20",
+            "base_attack": 121.73146800388349,
+            "critical_hurt": 0.2544479832787516
+        },
+        {
+            "level": "25",
+            "base_attack": 142.08128644974204,
+            "critical_hurt": 0.28353598518514644
+        },
+        {
+            "level": "30",
+            "base_attack": 162.56892601557774,
+            "critical_hurt": 0.31262398709154127
+        },
+        {
+            "level": "35",
+            "base_attack": 183.24030882123043,
+            "critical_hurt": 0.34171197183179913
+        },
+        {
+            "level": "40",
+            "base_attack": 204.09542391460855,
+            "critical_hurt": 0.3707999909043309
+        },
+        {
+            "level": "45",
+            "base_attack": 225.08837108005537,
+            "critical_hurt": 0.3998879756445888
+        },
+        {
+            "level": "50",
+            "base_attack": 246.21911746129626,
+            "critical_hurt": 0.42897599471712056
+        },
+        {
+            "level": "55",
+            "base_attack": 267.57952920219395,
+            "critical_hurt": 0.4580639794573784
+        },
+        {
+            "level": "60",
+            "base_attack": 289.03182899113744,
+            "critical_hurt": 0.4871519641976363
+        },
+        {
+            "level": "65",
+            "base_attack": 310.66788297198946,
+            "critical_hurt": 0.5162399832701681
+        },
+        {
+            "level": "70",
+            "base_attack": 332.4876692405669,
+            "critical_hurt": 0.5451839784536361
+        },
+        {
+            "level": "75",
+            "base_attack": 354.49120970105287,
+            "critical_hurt": 0.574271963193894
+        },
+        {
+            "level": "80",
+            "base_attack": 376.632571281516,
+            "critical_hurt": 0.6033599822664257
+        },
+        {
+            "level": "85",
+            "base_attack": 398.9117101735901,
+            "critical_hurt": 0.6324480013389575
+        },
+        {
+            "level": "90",
+            "base_attack": 421.37462516175583,
+            "critical_hurt": 0.6615359517469415
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Seasoned Symphony",
+            "upgrade": {
+                "0": "ATK is increased by 12%. When the equipping character is off-field, ATK is increased by an additional 12%. When initiating healing, the equipping character and healed character(s) will obtain the \"Chanson de Baies\" effect, increasing their ATK by 32% for 3s. This effect can be triggered even if the equipping character is off-field.",
+                "1": "ATK is increased by 15%. When the equipping character is off-field, ATK is increased by an additional 15%. When initiating healing, the equipping character and healed character(s) will obtain the \"Chanson de Baies\" effect, increasing their ATK by 40% for 3s. This effect can be triggered even if the equipping character is off-field.",
+                "2": "ATK is increased by 18%. When the equipping character is off-field, ATK is increased by an additional 18%. When initiating healing, the equipping character and healed character(s) will obtain the \"Chanson de Baies\" effect, increasing their ATK by 48% for 3s. This effect can be triggered even if the equipping character is off-field.",
+                "3": "ATK is increased by 21%. When the equipping character is off-field, ATK is increased by an additional 21%. When initiating healing, the equipping character and healed character(s) will obtain the \"Chanson de Baies\" effect, increasing their ATK by 56% for 3s. This effect can be triggered even if the equipping character is off-field.",
+                "4": "ATK is increased by 24%. When the equipping character is off-field, ATK is increased by an additional 24%. When initiating healing, the equipping character and healed character(s) will obtain the \"Chanson de Baies\" effect, increasing their ATK by 64% for 3s. This effect can be triggered even if the equipping character is off-field."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "百味交响",
+            "upgrade": {
+                "0": "攻击力提升12%；当装备此武器的角色处于队伍后台时，攻击力额外提升12%。进行治疗时，装备者与受到治疗的角色会获得「莓色香颂」的效果，攻击力提升32%，持续3秒。装备者处于队伍后台时，依然能触发上述效果。",
+                "1": "攻击力提升15%；当装备此武器的角色处于队伍后台时，攻击力额外提升15%。进行治疗时，装备者与受到治疗的角色会获得「莓色香颂」的效果，攻击力提升40%，持续3秒。装备者处于队伍后台时，依然能触发上述效果。",
+                "2": "攻击力提升18%；当装备此武器的角色处于队伍后台时，攻击力额外提升18%。进行治疗时，装备者与受到治疗的角色会获得「莓色香颂」的效果，攻击力提升48%，持续3秒。装备者处于队伍后台时，依然能触发上述效果。",
+                "3": "攻击力提升21%；当装备此武器的角色处于队伍后台时，攻击力额外提升21%。进行治疗时，装备者与受到治疗的角色会获得「莓色香颂」的效果，攻击力提升56%，持续3秒。装备者处于队伍后台时，依然能触发上述效果。",
+                "4": "攻击力提升24%；当装备此武器的角色处于队伍后台时，攻击力额外提升24%。进行治疗时，装备者与受到治疗的角色会获得「莓色香颂」的效果，攻击力提升64%，持续3秒。装备者处于队伍后台时，依然能触发上述效果。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "百味のシンフォニーJP0B",
+            "upgrade": {
+                "0": "攻撃力+12%。この武器を装備したキャラクターが待機中の時、攻撃力がさらに+12%。治療を行う時、装備者と治療を受けるキャラクターに「シャンソン・ドゥ・ベ」効果を付与し、攻撃力+32%、継続時間3秒。装備したキャラクターが待機している場合にも効果を発動できる。JP0B",
+                "1": "攻撃力+15%。この武器を装備したキャラクターが待機中の時、攻撃力がさらに+15%。治療を行う時、装備者と治療を受けるキャラクターに「シャンソン・ドゥ・ベ」効果を付与し、攻撃力+40%、継続時間3秒。装備したキャラクターが待機している場合にも効果を発動できる。JP0B",
+                "2": "攻撃力+18%。この武器を装備したキャラクターが待機中の時、攻撃力がさらに+18%。治療を行う時、装備者と治療を受けるキャラクターに「シャンソン・ドゥ・ベ」効果を付与し、攻撃力+48%、継続時間3秒。装備したキャラクターが待機している場合にも効果を発動できる。JP0B",
+                "3": "攻撃力+21%。この武器を装備したキャラクターが待機中の時、攻撃力がさらに+21%。治療を行う時、装備者と治療を受けるキャラクターに「シャンソン・ドゥ・ベ」効果を付与し、攻撃力+56%、継続時間3秒。装備したキャラクターが待機している場合にも効果を発動できる。JP0B",
+                "4": "攻撃力+24%。この武器を装備したキャラクターが待機中の時、攻撃力がさらに+24%。治療を行う時、装備者と治療を受けるキャラクターに「シャンソン・ドゥ・ベ」効果を付与し、攻撃力+64%、継続時間3秒。装備したキャラクターが待機している場合にも効果を発動できる。JP0B"
+            }
+        }
+    }
+}
