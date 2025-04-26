@@ -1,0 +1,141 @@
+{
+    "id": "11516",
+    "ENname": "Peak Patrol Song",
+    "CNname": "岩峰巡歌",
+    "JAname": "岩峰を巡る歌",
+    "imageurl": "images/weapon/11516.webp",
+    "type": "sword",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 44.3358,
+            "defense_percent": 0.18
+        },
+        {
+            "level": "5",
+            "base_attack": 58.3902486,
+            "defense_percent": 0.20915999999999998
+        },
+        {
+            "level": "10",
+            "base_attack": 75.7698822,
+            "defense_percent": 0.24534
+        },
+        {
+            "level": "15",
+            "base_attack": 93.01650839999999,
+            "defense_percent": 0.2817
+        },
+        {
+            "level": "20",
+            "base_attack": 110.17446299999999,
+            "defense_percent": 0.31805999999999995
+        },
+        {
+            "level": "25",
+            "base_attack": 127.2880818,
+            "defense_percent": 0.35442
+        },
+        {
+            "level": "30",
+            "base_attack": 144.4017006,
+            "defense_percent": 0.39077999999999996
+        },
+        {
+            "level": "35",
+            "base_attack": 161.5596552,
+            "defense_percent": 0.42714
+        },
+        {
+            "level": "40",
+            "base_attack": 178.7176098,
+            "defense_percent": 0.4635
+        },
+        {
+            "level": "45",
+            "base_attack": 195.91990019999997,
+            "defense_percent": 0.49986
+        },
+        {
+            "level": "50",
+            "base_attack": 213.25519799999998,
+            "defense_percent": 0.53622
+        },
+        {
+            "level": "55",
+            "base_attack": 230.59049579999999,
+            "defense_percent": 0.57258
+        },
+        {
+            "level": "60",
+            "base_attack": 248.058801,
+            "defense_percent": 0.6089399999999999
+        },
+        {
+            "level": "65",
+            "base_attack": 265.6157778,
+            "defense_percent": 0.6453
+        },
+        {
+            "level": "70",
+            "base_attack": 283.30576199999996,
+            "defense_percent": 0.68148
+        },
+        {
+            "level": "75",
+            "base_attack": 301.0844178,
+            "defense_percent": 0.7178399999999999
+        },
+        {
+            "level": "80",
+            "base_attack": 318.9517452,
+            "defense_percent": 0.7542000000000001
+        },
+        {
+            "level": "85",
+            "base_attack": 336.99641579999997,
+            "defense_percent": 0.79056
+        },
+        {
+            "level": "90",
+            "base_attack": 355.129758,
+            "defense_percent": 0.82692
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Halcyon Years Unending",
+            "upgrade": {
+                "0": "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by 8% and gain a 10% All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack's duration is refreshed, increase all nearby party members' All Elemental DMG Bonus by 8% for every 1,000 DEF the equipping character has, up to a maximum of 25.6%, for 15s.",
+                "1": "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by 10% and gain a 12.5% All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack's duration is refreshed, increase all nearby party members' All Elemental DMG Bonus by 10% for every 1,000 DEF the equipping character has, up to a maximum of 32%, for 15s.",
+                "2": "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by 12% and gain a 15% All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack's duration is refreshed, increase all nearby party members' All Elemental DMG Bonus by 12% for every 1,000 DEF the equipping character has, up to a maximum of 38.4%, for 15s.",
+                "3": "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by 14% and gain a 17.5% All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack's duration is refreshed, increase all nearby party members' All Elemental DMG Bonus by 14% for every 1,000 DEF the equipping character has, up to a maximum of 44.8%, for 15s.",
+                "4": "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by 16% and gain a 20% All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack's duration is refreshed, increase all nearby party members' All Elemental DMG Bonus by 16% for every 1,000 DEF the equipping character has, up to a maximum of 51.2%, for 15s."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "不凋的盛年",
+            "upgrade": {
+                "0": "普通攻击或下落攻击命中敌人后，将获得「荣花之歌」：防御力提高8%，并获得10%所有元素伤害加成，该效果持续6秒，至多叠加2层，每0.1秒至多触发一次。该效果叠加至2层或2层的持续时间刷新时，基于装备者的防御力，每1000点使队伍中附近所有角色的所有元素伤害加成提高8%，至多提高25.6%，持续15秒。",
+                "1": "普通攻击或下落攻击命中敌人后，将获得「荣花之歌」：防御力提高10%，并获得12.5%所有元素伤害加成，该效果持续6秒，至多叠加2层，每0.1秒至多触发一次。该效果叠加至2层或2层的持续时间刷新时，基于装备者的防御力，每1000点使队伍中附近所有角色的所有元素伤害加成提高10%，至多提高32%，持续15秒。",
+                "2": "普通攻击或下落攻击命中敌人后，将获得「荣花之歌」：防御力提高12%，并获得15%所有元素伤害加成，该效果持续6秒，至多叠加2层，每0.1秒至多触发一次。该效果叠加至2层或2层的持续时间刷新时，基于装备者的防御力，每1000点使队伍中附近所有角色的所有元素伤害加成提高12%，至多提高38.4%，持续15秒。",
+                "3": "普通攻击或下落攻击命中敌人后，将获得「荣花之歌」：防御力提高14%，并获得17.5%所有元素伤害加成，该效果持续6秒，至多叠加2层，每0.1秒至多触发一次。该效果叠加至2层或2层的持续时间刷新时，基于装备者的防御力，每1000点使队伍中附近所有角色的所有元素伤害加成提高14%，至多提高44.8%，持续15秒。",
+                "4": "普通攻击或下落攻击命中敌人后，将获得「荣花之歌」：防御力提高16%，并获得20%所有元素伤害加成，该效果持续6秒，至多叠加2层，每0.1秒至多触发一次。该效果叠加至2层或2层的持续时间刷新时，基于装备者的防御力，每1000点使队伍中附近所有角色的所有元素伤害加成提高16%，至多提高51.2%，持续15秒。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "枯れぬ盛年",
+            "upgrade": {
+                "0": "通常攻撃または落下攻撃が敵に命中した後、「栄華の歌」効果を獲得し、防御力+8%、全元素ダメージ+10%、継続時間6秒、最大2層まで。0.1秒毎に1回のみ発動可能。この効果を2層まで重ねた時、または2層の継続時間がリセットされた時、装備者の防御力1000につき、周囲チーム全員の全元素ダメージ+8%、最大25.6%まで。継続時間15秒。",
+                "1": "通常攻撃または落下攻撃が敵に命中した後、「栄華の歌」効果を獲得し、防御力+10%、全元素ダメージ+12.5%、継続時間6秒、最大2層まで。0.1秒毎に1回のみ発動可能。この効果を2層まで重ねた時、または2層の継続時間がリセットされた時、装備者の防御力1000につき、周囲チーム全員の全元素ダメージ+10%、最大32%まで。継続時間15秒。",
+                "2": "通常攻撃または落下攻撃が敵に命中した後、「栄華の歌」効果を獲得し、防御力+12%、全元素ダメージ+15%、継続時間6秒、最大2層まで。0.1秒毎に1回のみ発動可能。この効果を2層まで重ねた時、または2層の継続時間がリセットされた時、装備者の防御力1000につき、周囲チーム全員の全元素ダメージ+12%、最大38.4%まで。継続時間15秒。",
+                "3": "通常攻撃または落下攻撃が敵に命中した後、「栄華の歌」効果を獲得し、防御力+14%、全元素ダメージ+17.5%、継続時間6秒、最大2層まで。0.1秒毎に1回のみ発動可能。この効果を2層まで重ねた時、または2層の継続時間がリセットされた時、装備者の防御力1000につき、周囲チーム全員の全元素ダメージ+14%、最大44.8%まで。継続時間15秒。",
+                "4": "通常攻撃または落下攻撃が敵に命中した後、「栄華の歌」効果を獲得し、防御力+16%、全元素ダメージ+20%、継続時間6秒、最大2層まで。0.1秒毎に1回のみ発動可能。この効果を2層まで重ねた時、または2層の継続時間がリセットされた時、装備者の防御力1000につき、周囲チーム全員の全元素ダメージ+16%、最大51.2%まで。継続時間15秒。"
+            }
+        }
+    }
+}
