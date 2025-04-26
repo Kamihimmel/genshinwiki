@@ -1,0 +1,141 @@
+{
+    "id": "13514",
+    "ENname": "Symphonist of Scents",
+    "CNname": "香韵奏者",
+    "JAname": "香りのシンフォニスト",
+    "imageurl": "images/weapon/13514.webp",
+    "type": "pole",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 45.9364,
+            "critical_hurt": 0.144
+        },
+        {
+            "level": "5",
+            "base_attack": 61.692585199999996,
+            "critical_hurt": 0.16732799999999998
+        },
+        {
+            "level": "10",
+            "base_attack": 81.53711,
+            "critical_hurt": 0.19627199999999997
+        },
+        {
+            "level": "15",
+            "base_attack": 101.5653804,
+            "critical_hurt": 0.22535999999999998
+        },
+        {
+            "level": "20",
+            "base_attack": 121.73146,
+            "critical_hurt": 0.25444799999999995
+        },
+        {
+            "level": "25",
+            "base_attack": 142.0812852,
+            "critical_hurt": 0.283536
+        },
+        {
+            "level": "30",
+            "base_attack": 162.56891960000002,
+            "critical_hurt": 0.31262399999999996
+        },
+        {
+            "level": "35",
+            "base_attack": 183.2402996,
+            "critical_hurt": 0.341712
+        },
+        {
+            "level": "40",
+            "base_attack": 204.09542519999997,
+            "critical_hurt": 0.3708
+        },
+        {
+            "level": "45",
+            "base_attack": 225.08836000000002,
+            "critical_hurt": 0.39988799999999997
+        },
+        {
+            "level": "50",
+            "base_attack": 246.21910400000002,
+            "critical_hurt": 0.42897599999999997
+        },
+        {
+            "level": "55",
+            "base_attack": 267.57953,
+            "critical_hurt": 0.45806399999999997
+        },
+        {
+            "level": "60",
+            "base_attack": 289.03182879999997,
+            "critical_hurt": 0.487152
+        },
+        {
+            "level": "65",
+            "base_attack": 310.6678732,
+            "critical_hurt": 0.5162399999999999
+        },
+        {
+            "level": "70",
+            "base_attack": 332.4876632,
+            "critical_hurt": 0.545184
+        },
+        {
+            "level": "75",
+            "base_attack": 354.49119879999995,
+            "critical_hurt": 0.574272
+        },
+        {
+            "level": "80",
+            "base_attack": 376.63254359999996,
+            "critical_hurt": 0.60336
+        },
+        {
+            "level": "85",
+            "base_attack": 398.91169759999997,
+            "critical_hurt": 0.632448
+        },
+        {
+            "level": "90",
+            "base_attack": 421.3745972,
+            "critical_hurt": 0.661536
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Seasoned Symphony",
+            "upgrade": {
+                "0": "ATK is increased by 12%. When the equipping character is off-field, ATK is increased by an additional 12%. After healing, the equipping character and healed character(s) will obtain the \"Sweet Echoes\" effect, increasing their ATK by 32% for 3s. This effect can be triggered even if the equipping character is off-field.",
+                "1": "ATK is increased by 15%. When the equipping character is off-field, ATK is increased by an additional 15%. After healing, the equipping character and healed character(s) will obtain the \"Sweet Echoes\" effect, increasing their ATK by 40% for 3s. This effect can be triggered even if the equipping character is off-field.",
+                "2": "ATK is increased by 18%. When the equipping character is off-field, ATK is increased by an additional 18%. After healing, the equipping character and healed character(s) will obtain the \"Sweet Echoes\" effect, increasing their ATK by 48% for 3s. This effect can be triggered even if the equipping character is off-field.",
+                "3": "ATK is increased by 21%. When the equipping character is off-field, ATK is increased by an additional 21%. After healing, the equipping character and healed character(s) will obtain the \"Sweet Echoes\" effect, increasing their ATK by 56% for 3s. This effect can be triggered even if the equipping character is off-field.",
+                "4": "ATK is increased by 24%. When the equipping character is off-field, ATK is increased by an additional 24%. After healing, the equipping character and healed character(s) will obtain the \"Sweet Echoes\" effect, increasing their ATK by 64% for 3s. This effect can be triggered even if the equipping character is off-field."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "百味交响",
+            "upgrade": {
+                "0": "攻击力提升12%；当装备此武器的角色处于队伍后台时，攻击力额外提升12%。进行治疗后，装备者与受到治疗的角色会获得「甘美回奏」的效果，攻击力提升32%，持续3秒。装备者处于队伍后台时，依然能触发上述效果。",
+                "1": "攻击力提升15%；当装备此武器的角色处于队伍后台时，攻击力额外提升15%。进行治疗后，装备者与受到治疗的角色会获得「甘美回奏」的效果，攻击力提升40%，持续3秒。装备者处于队伍后台时，依然能触发上述效果。",
+                "2": "攻击力提升18%；当装备此武器的角色处于队伍后台时，攻击力额外提升18%。进行治疗后，装备者与受到治疗的角色会获得「甘美回奏」的效果，攻击力提升48%，持续3秒。装备者处于队伍后台时，依然能触发上述效果。",
+                "3": "攻击力提升21%；当装备此武器的角色处于队伍后台时，攻击力额外提升21%。进行治疗后，装备者与受到治疗的角色会获得「甘美回奏」的效果，攻击力提升56%，持续3秒。装备者处于队伍后台时，依然能触发上述效果。",
+                "4": "攻击力提升24%；当装备此武器的角色处于队伍后台时，攻击力额外提升24%。进行治疗后，装备者与受到治疗的角色会获得「甘美回奏」的效果，攻击力提升64%，持续3秒。装备者处于队伍后台时，依然能触发上述效果。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "饗宴のシンフォニア",
+            "upgrade": {
+                "0": "攻撃力+12%。この武器を装備したキャラクターが待機中の時、攻撃力がさらに+12%。治療を行った後、装備者と治療を受けたキャラクターに「甘美なメロディー」効果を付与し、攻撃力+32%、継続時間3秒。装備したキャラクターが待機している場合にも効果を発動できる。",
+                "1": "攻撃力+15%。この武器を装備したキャラクターが待機中の時、攻撃力がさらに+15%。治療を行った後、装備者と治療を受けたキャラクターに「甘美なメロディー」効果を付与し、攻撃力+40%、継続時間3秒。装備したキャラクターが待機している場合にも効果を発動できる。",
+                "2": "攻撃力+18%。この武器を装備したキャラクターが待機中の時、攻撃力がさらに+18%。治療を行った後、装備者と治療を受けたキャラクターに「甘美なメロディー」効果を付与し、攻撃力+48%、継続時間3秒。装備したキャラクターが待機している場合にも効果を発動できる。",
+                "3": "攻撃力+21%。この武器を装備したキャラクターが待機中の時、攻撃力がさらに+21%。治療を行った後、装備者と治療を受けたキャラクターに「甘美なメロディー」効果を付与し、攻撃力+56%、継続時間3秒。装備したキャラクターが待機している場合にも効果を発動できる。",
+                "4": "攻撃力+24%。この武器を装備したキャラクターが待機中の時、攻撃力がさらに+24%。治療を行った後、装備者と治療を受けたキャラクターに「甘美なメロディー」効果を付与し、攻撃力+64%、継続時間3秒。装備したキャラクターが待機している場合にも効果を発動できる。"
+            }
+        }
+    }
+}
