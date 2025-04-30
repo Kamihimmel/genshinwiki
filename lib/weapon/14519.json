@@ -1,0 +1,141 @@
+{
+    "id": "14519",
+    "ENname": "Vivid Notions",
+    "CNname": "溢彩心念",
+    "JAname": "ヴィヴィッド・ハート",
+    "imageurl": "images/weapon/14519.webp",
+    "type": "catalyst",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 47.537,
+            "critical_hurt": 0.096
+        },
+        {
+            "level": "5",
+            "base_attack": 65.03061600000001,
+            "critical_hurt": 0.111552
+        },
+        {
+            "level": "10",
+            "base_attack": 87.325469,
+            "critical_hurt": 0.130848
+        },
+        {
+            "level": "15",
+            "base_attack": 110.143229,
+            "critical_hurt": 0.15023999999999998
+        },
+        {
+            "level": "20",
+            "base_attack": 133.293748,
+            "critical_hurt": 0.169632
+        },
+        {
+            "level": "25",
+            "base_attack": 156.8721,
+            "critical_hurt": 0.18902400000000003
+        },
+        {
+            "level": "30",
+            "base_attack": 180.783211,
+            "critical_hurt": 0.208416
+        },
+        {
+            "level": "35",
+            "base_attack": 204.979544,
+            "critical_hurt": 0.22780800000000004
+        },
+        {
+            "level": "40",
+            "base_attack": 229.461099,
+            "critical_hurt": 0.24720000000000003
+        },
+        {
+            "level": "45",
+            "base_attack": 254.22787599999998,
+            "critical_hurt": 0.266592
+        },
+        {
+            "level": "50",
+            "base_attack": 279.23233799999997,
+            "critical_hurt": 0.285984
+        },
+        {
+            "level": "55",
+            "base_attack": 304.522022,
+            "critical_hurt": 0.30537600000000004
+        },
+        {
+            "level": "60",
+            "base_attack": 330.001854,
+            "critical_hurt": 0.324768
+        },
+        {
+            "level": "65",
+            "base_attack": 355.766908,
+            "critical_hurt": 0.34416
+        },
+        {
+            "level": "70",
+            "base_attack": 381.72211,
+            "critical_hurt": 0.363456
+        },
+        {
+            "level": "75",
+            "base_attack": 407.86746,
+            "critical_hurt": 0.382848
+        },
+        {
+            "level": "80",
+            "base_attack": 434.250495,
+            "critical_hurt": 0.40224000000000004
+        },
+        {
+            "level": "85",
+            "base_attack": 460.82367800000003,
+            "critical_hurt": 0.42163200000000006
+        },
+        {
+            "level": "90",
+            "base_attack": 487.63454599999994,
+            "critical_hurt": 0.441024
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Falling Rainbow's Wish",
+            "upgrade": {
+                "0": "ATK is increased by 28%. When you use a Plunging Attack, you will gain the \"Dawn's First Hue\" effect: Plunging Attack CRIT DMG is increased by 28%. When you use an Elemental Skill or Burst, you will gain the \"Twilight's Splendor\" effect: Plunging Attack CRIT DMG is increased by 40%. The two effects above each last for 15s, and will be canceled 0.1s after the ground impact hits a target.",
+                "1": "ATK is increased by 35%. When you use a Plunging Attack, you will gain the \"Dawn's First Hue\" effect: Plunging Attack CRIT DMG is increased by 35%. When you use an Elemental Skill or Burst, you will gain the \"Twilight's Splendor\" effect: Plunging Attack CRIT DMG is increased by 50%. The two effects above each last for 15s, and will be canceled 0.1s after the ground impact hits a target.",
+                "2": "ATK is increased by 42%. When you use a Plunging Attack, you will gain the \"Dawn's First Hue\" effect: Plunging Attack CRIT DMG is increased by 42%. When you use an Elemental Skill or Burst, you will gain the \"Twilight's Splendor\" effect: Plunging Attack CRIT DMG is increased by 60%. The two effects above each last for 15s, and will be canceled 0.1s after the ground impact hits a target.",
+                "3": "ATK is increased by 49%. When you use a Plunging Attack, you will gain the \"Dawn's First Hue\" effect: Plunging Attack CRIT DMG is increased by 49%. When you use an Elemental Skill or Burst, you will gain the \"Twilight's Splendor\" effect: Plunging Attack CRIT DMG is increased by 70%. The two effects above each last for 15s, and will be canceled 0.1s after the ground impact hits a target.",
+                "4": "ATK is increased by 56%. When you use a Plunging Attack, you will gain the \"Dawn's First Hue\" effect: Plunging Attack CRIT DMG is increased by 56%. When you use an Elemental Skill or Burst, you will gain the \"Twilight's Splendor\" effect: Plunging Attack CRIT DMG is increased by 80%. The two effects above each last for 15s, and will be canceled 0.1s after the ground impact hits a target."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "落虹之愿",
+            "upgrade": {
+                "0": "攻击力提升28%；进行下落攻击时，获得「初霞之彩」效果：下落攻击造成的暴击伤害提升28%；施放元素战技或元素爆发时，获得「苍暮之辉」效果：下落攻击造成的暴击伤害提升40%；上述两种效果各自持续15秒，并将在坠地冲击命中后的0.1秒后解除。",
+                "1": "攻击力提升35%；进行下落攻击时，获得「初霞之彩」效果：下落攻击造成的暴击伤害提升35%；施放元素战技或元素爆发时，获得「苍暮之辉」效果：下落攻击造成的暴击伤害提升50%；上述两种效果各自持续15秒，并将在坠地冲击命中后的0.1秒后解除。",
+                "2": "攻击力提升42%；进行下落攻击时，获得「初霞之彩」效果：下落攻击造成的暴击伤害提升42%；施放元素战技或元素爆发时，获得「苍暮之辉」效果：下落攻击造成的暴击伤害提升60%；上述两种效果各自持续15秒，并将在坠地冲击命中后的0.1秒后解除。",
+                "3": "攻击力提升49%；进行下落攻击时，获得「初霞之彩」效果：下落攻击造成的暴击伤害提升49%；施放元素战技或元素爆发时，获得「苍暮之辉」效果：下落攻击造成的暴击伤害提升70%；上述两种效果各自持续15秒，并将在坠地冲击命中后的0.1秒后解除。",
+                "4": "攻击力提升56%；进行下落攻击时，获得「初霞之彩」效果：下落攻击造成的暴击伤害提升56%；施放元素战技或元素爆发时，获得「苍暮之辉」效果：下落攻击造成的暴击伤害提升80%；上述两种效果各自持续15秒，并将在坠地冲击命中后的0.1秒后解除。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "墜ちる虹の願い",
+            "upgrade": {
+                "0": "攻撃力+28%。落下攻撃を行う際、「初霞の彩り」効果を獲得し、落下攻撃の会心ダメージ+28%。元素スキルまたは元素爆発を発動する際、「薄暮の輝き」効果を獲得し、落下攻撃の会心ダメージ+40%。上記二つの効果はそれぞれ継続時間15秒、着地時の衝撃が命中した0.1秒後に解除される。",
+                "1": "攻撃力+35%。落下攻撃を行う際、「初霞の彩り」効果を獲得し、落下攻撃の会心ダメージ+35%。元素スキルまたは元素爆発を発動する際、「薄暮の輝き」効果を獲得し、落下攻撃の会心ダメージ+50%。上記二つの効果はそれぞれ継続時間15秒、着地時の衝撃が命中した0.1秒後に解除される。",
+                "2": "攻撃力+42%。落下攻撃を行う際、「初霞の彩り」効果を獲得し、落下攻撃の会心ダメージ+42%。元素スキルまたは元素爆発を発動する際、「薄暮の輝き」効果を獲得し、落下攻撃の会心ダメージ+60%。上記二つの効果はそれぞれ継続時間15秒、着地時の衝撃が命中した0.1秒後に解除される。",
+                "3": "攻撃力+49%。落下攻撃を行う際、「初霞の彩り」効果を獲得し、落下攻撃の会心ダメージ+49%。元素スキルまたは元素爆発を発動する際、「薄暮の輝き」効果を獲得し、落下攻撃の会心ダメージ+70%。上記二つの効果はそれぞれ継続時間15秒、着地時の衝撃が命中した0.1秒後に解除される。",
+                "4": "攻撃力+56%。落下攻撃を行う際、「初霞の彩り」効果を獲得し、落下攻撃の会心ダメージ+56%。元素スキルまたは元素爆発を発動する際、「薄暮の輝き」効果を獲得し、落下攻撃の会心ダメージ+80%。上記二つの効果はそれぞれ継続時間15秒、着地時の衝撃が命中した0.1秒後に解除される。"
+            }
+        }
+    }
+}
