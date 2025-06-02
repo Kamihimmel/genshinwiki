@@ -1,0 +1,141 @@
+{
+    "id": "14430",
+    "ENname": "Waveriding Whirl",
+    "CNname": "乘浪的回旋",
+    "JAname": "波乗りの旋回",
+    "imageurl": "images/weapon/14430.webp",
+    "type": "catalyst",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 41.0671,
+            "charge_efficiency": 0.133333
+        },
+        {
+            "level": "5",
+            "base_attack": 53.633632600000006,
+            "charge_efficiency": 0.154932946
+        },
+        {
+            "level": "10",
+            "base_attack": 69.0748622,
+            "charge_efficiency": 0.181732879
+        },
+        {
+            "level": "15",
+            "base_attack": 84.2696892,
+            "charge_efficiency": 0.208666145
+        },
+        {
+            "level": "20",
+            "base_attack": 99.2591807,
+            "charge_efficiency": 0.235599411
+        },
+        {
+            "level": "25",
+            "base_attack": 114.0844038,
+            "charge_efficiency": 0.26253267700000005
+        },
+        {
+            "level": "30",
+            "base_attack": 128.78642560000003,
+            "charge_efficiency": 0.289465943
+        },
+        {
+            "level": "35",
+            "base_attack": 143.32417900000002,
+            "charge_efficiency": 0.31639920900000007
+        },
+        {
+            "level": "40",
+            "base_attack": 157.77979820000002,
+            "charge_efficiency": 0.343332475
+        },
+        {
+            "level": "45",
+            "base_attack": 172.15328320000003,
+            "charge_efficiency": 0.37026574100000004
+        },
+        {
+            "level": "50",
+            "base_attack": 186.444634,
+            "charge_efficiency": 0.39719900700000005
+        },
+        {
+            "level": "55",
+            "base_attack": 200.65385060000003,
+            "charge_efficiency": 0.424132273
+        },
+        {
+            "level": "60",
+            "base_attack": 214.82200010000003,
+            "charge_efficiency": 0.451065539
+        },
+        {
+            "level": "65",
+            "base_attack": 228.9080154,
+            "charge_efficiency": 0.477998805
+        },
+        {
+            "level": "70",
+            "base_attack": 242.95296360000003,
+            "charge_efficiency": 0.5047987380000001
+        },
+        {
+            "level": "75",
+            "base_attack": 256.95684470000003,
+            "charge_efficiency": 0.531732004
+        },
+        {
+            "level": "80",
+            "base_attack": 270.96072580000003,
+            "charge_efficiency": 0.5586652700000001
+        },
+        {
+            "level": "85",
+            "base_attack": 284.88247270000005,
+            "charge_efficiency": 0.5855985360000001
+        },
+        {
+            "level": "90",
+            "base_attack": 298.76315250000005,
+            "charge_efficiency": 0.6125318020000001
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Fangs Flying To and Fro",
+            "upgrade": {
+                "0": "Decreases Swimming Stamina consumption by 15%. In addition, for 10s after using an Elemental Skill, Max HP is increased by 20%. For every Hydro Elemental Type character in the party, Max HP is increased by another 12%, and the maximum increase that can be achieved in this way is 24%. Can be triggered once every 15s.",
+                "1": "Decreases Swimming Stamina consumption by 15%. In addition, for 10s after using an Elemental Skill, Max HP is increased by 25%. For every Hydro Elemental Type character in the party, Max HP is increased by another 15%, and the maximum increase that can be achieved in this way is 30%. Can be triggered once every 15s.",
+                "2": "Decreases Swimming Stamina consumption by 15%. In addition, for 10s after using an Elemental Skill, Max HP is increased by 30%. For every Hydro Elemental Type character in the party, Max HP is increased by another 18%, and the maximum increase that can be achieved in this way is 36%. Can be triggered once every 15s.",
+                "3": "Decreases Swimming Stamina consumption by 15%. In addition, for 10s after using an Elemental Skill, Max HP is increased by 35%. For every Hydro Elemental Type character in the party, Max HP is increased by another 21%, and the maximum increase that can be achieved in this way is 42%. Can be triggered once every 15s.",
+                "4": "Decreases Swimming Stamina consumption by 15%. In addition, for 10s after using an Elemental Skill, Max HP is increased by 40%. For every Hydro Elemental Type character in the party, Max HP is increased by another 24%, and the maximum increase that can be achieved in this way is 48%. Can be triggered once every 15s."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "长牙飞去来",
+            "upgrade": {
+                "0": "游泳消耗的体力降低15%。此外，施放元素战技后的10秒内，生命值上限提升20%，队伍中每存在一位水元素类型的角色，生命值上限将进一步提升12%，至多通过这种方式提升24%，该效果每15秒至多触发一次。",
+                "1": "游泳消耗的体力降低15%。此外，施放元素战技后的10秒内，生命值上限提升25%，队伍中每存在一位水元素类型的角色，生命值上限将进一步提升15%，至多通过这种方式提升30%，该效果每15秒至多触发一次。",
+                "2": "游泳消耗的体力降低15%。此外，施放元素战技后的10秒内，生命值上限提升30%，队伍中每存在一位水元素类型的角色，生命值上限将进一步提升18%，至多通过这种方式提升36%，该效果每15秒至多触发一次。",
+                "3": "游泳消耗的体力降低15%。此外，施放元素战技后的10秒内，生命值上限提升35%，队伍中每存在一位水元素类型的角色，生命值上限将进一步提升21%，至多通过这种方式提升42%，该效果每15秒至多触发一次。",
+                "4": "游泳消耗的体力降低15%。此外，施放元素战技后的10秒内，生命值上限提升40%，队伍中每存在一位水元素类型的角色，生命值上限将进一步提升24%，至多通过这种方式提升48%，该效果每15秒至多触发一次。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "飛び回る長牙",
+            "upgrade": {
+                "0": "泳ぎに消費するスタミナ-15%。元素スキル発動後の10秒間、HP上限+20%。同時に、チームに水元素タイプのキャラクターが1名いる毎に、HP上限がさらに+12%、この方法でアップできるHP上限は最大24%まで。上記効果は15秒毎に1回のみ発動可能。",
+                "1": "泳ぎに消費するスタミナ-15%。元素スキル発動後の10秒間、HP上限+25%。同時に、チームに水元素タイプのキャラクターが1名いる毎に、HP上限がさらに+15%、この方法でアップできるHP上限は最大30%まで。上記効果は15秒毎に1回のみ発動可能。",
+                "2": "泳ぎに消費するスタミナ-15%。元素スキル発動後の10秒間、HP上限+30%。同時に、チームに水元素タイプのキャラクターが1名いる毎に、HP上限がさらに+18%、この方法でアップできるHP上限は最大36%まで。上記効果は15秒毎に1回のみ発動可能。",
+                "3": "泳ぎに消費するスタミナ-15%。元素スキル発動後の10秒間、HP上限+35%。同時に、チームに水元素タイプのキャラクターが1名いる毎に、HP上限がさらに+21%、この方法でアップできるHP上限は最大42%まで。上記効果は15秒毎に1回のみ発動可能。",
+                "4": "泳ぎに消費するスタミナ-15%。元素スキル発動後の10秒間、HP上限+40%。同時に、チームに水元素タイプのキャラクターが1名いる毎に、HP上限がさらに+24%、この方法でアップできるHP上限は最大48%まで。上記効果は15秒毎に1回のみ発動可能。"
+            }
+        }
+    }
+}
