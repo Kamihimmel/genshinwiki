@@ -1,0 +1,141 @@
+{
+    "id": "11517",
+    "ENname": "Azurelight",
+    "CNname": "苍耀",
+    "JAname": "蒼耀",
+    "imageurl": "images/weapon/11517.webp",
+    "type": "sword",
+    "rarity": 5,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 47.537,
+            "critical": 0.048
+        },
+        {
+            "level": "5",
+            "base_attack": 65.03061600000001,
+            "critical": 0.055776
+        },
+        {
+            "level": "10",
+            "base_attack": 87.325469,
+            "critical": 0.065424
+        },
+        {
+            "level": "15",
+            "base_attack": 110.143229,
+            "critical": 0.07511999999999999
+        },
+        {
+            "level": "20",
+            "base_attack": 133.293748,
+            "critical": 0.084816
+        },
+        {
+            "level": "25",
+            "base_attack": 156.8721,
+            "critical": 0.09451200000000001
+        },
+        {
+            "level": "30",
+            "base_attack": 180.783211,
+            "critical": 0.104208
+        },
+        {
+            "level": "35",
+            "base_attack": 204.979544,
+            "critical": 0.11390400000000002
+        },
+        {
+            "level": "40",
+            "base_attack": 229.461099,
+            "critical": 0.12360000000000002
+        },
+        {
+            "level": "45",
+            "base_attack": 254.22787599999998,
+            "critical": 0.133296
+        },
+        {
+            "level": "50",
+            "base_attack": 279.23233799999997,
+            "critical": 0.142992
+        },
+        {
+            "level": "55",
+            "base_attack": 304.522022,
+            "critical": 0.15268800000000002
+        },
+        {
+            "level": "60",
+            "base_attack": 330.001854,
+            "critical": 0.162384
+        },
+        {
+            "level": "65",
+            "base_attack": 355.766908,
+            "critical": 0.17208
+        },
+        {
+            "level": "70",
+            "base_attack": 381.72211,
+            "critical": 0.181728
+        },
+        {
+            "level": "75",
+            "base_attack": 407.86746,
+            "critical": 0.191424
+        },
+        {
+            "level": "80",
+            "base_attack": 434.250495,
+            "critical": 0.20112000000000002
+        },
+        {
+            "level": "85",
+            "base_attack": 460.82367800000003,
+            "critical": 0.21081600000000003
+        },
+        {
+            "level": "90",
+            "base_attack": 487.63454599999994,
+            "critical": 0.220512
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "White Mountain's Bounty",
+            "upgrade": {
+                "0": "Within 12s after an Elemental Skill is used, ATK is increased by 24%. During this time, when the equipping character has 0 Energy, ATK will be further increased by 24%, and CRIT DMG will be increased by 40%.",
+                "1": "Within 12s after an Elemental Skill is used, ATK is increased by 30%. During this time, when the equipping character has 0 Energy, ATK will be further increased by 30%, and CRIT DMG will be increased by 50%.",
+                "2": "Within 12s after an Elemental Skill is used, ATK is increased by 36%. During this time, when the equipping character has 0 Energy, ATK will be further increased by 36%, and CRIT DMG will be increased by 60%.",
+                "3": "Within 12s after an Elemental Skill is used, ATK is increased by 42%. During this time, when the equipping character has 0 Energy, ATK will be further increased by 42%, and CRIT DMG will be increased by 70%.",
+                "4": "Within 12s after an Elemental Skill is used, ATK is increased by 48%. During this time, when the equipping character has 0 Energy, ATK will be further increased by 48%, and CRIT DMG will be increased by 80%."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "白山的馈赐",
+            "upgrade": {
+                "0": "施放元素战技后的12秒内，攻击力提升24%。持续期间，装备者的元素能量为0时，攻击力还会提升24%，且暴击伤害提升40%。",
+                "1": "施放元素战技后的12秒内，攻击力提升30%。持续期间，装备者的元素能量为0时，攻击力还会提升30%，且暴击伤害提升50%。",
+                "2": "施放元素战技后的12秒内，攻击力提升36%。持续期间，装备者的元素能量为0时，攻击力还会提升36%，且暴击伤害提升60%。",
+                "3": "施放元素战技后的12秒内，攻击力提升42%。持续期间，装备者的元素能量为0时，攻击力还会提升42%，且暴击伤害提升70%。",
+                "4": "施放元素战技后的12秒内，攻击力提升48%。持续期间，装备者的元素能量为0时，攻击力还会提升48%，且暴击伤害提升80%。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "白山の贈り物",
+            "upgrade": {
+                "0": "元素スキルを発動した後の12秒間、攻撃力+24%。継続中、装備者の元素エネルギーが0の時、攻撃力がさらに+24%、会心ダメージ+40%。",
+                "1": "元素スキルを発動した後の12秒間、攻撃力+30%。継続中、装備者の元素エネルギーが0の時、攻撃力がさらに+30%、会心ダメージ+50%。",
+                "2": "元素スキルを発動した後の12秒間、攻撃力+36%。継続中、装備者の元素エネルギーが0の時、攻撃力がさらに+36%、会心ダメージ+60%。",
+                "3": "元素スキルを発動した後の12秒間、攻撃力+42%。継続中、装備者の元素エネルギーが0の時、攻撃力がさらに+42%、会心ダメージ+70%。",
+                "4": "元素スキルを発動した後の12秒間、攻撃力+48%。継続中、装備者の元素エネルギーが0の時、攻撃力がさらに+48%、会心ダメージ+80%。"
+            }
+        }
+    }
+}
