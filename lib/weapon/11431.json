@@ -1,0 +1,141 @@
+{
+    "id": "11431",
+    "ENname": "Flute of Ezpitzal",
+    "CNname": "息燧之笛",
+    "JAname": "エズピツァルの笛",
+    "imageurl": "images/weapon/11431.webp",
+    "type": "sword",
+    "rarity": 4,
+    "leveldata": [
+        {
+            "level": "1",
+            "base_attack": 41.0671,
+            "defense_percent": 0.150133
+        },
+        {
+            "level": "5",
+            "base_attack": 53.633632600000006,
+            "defense_percent": 0.174454546
+        },
+        {
+            "level": "10",
+            "base_attack": 69.0748622,
+            "defense_percent": 0.20463127899999997
+        },
+        {
+            "level": "15",
+            "base_attack": 84.2696892,
+            "defense_percent": 0.23495814499999998
+        },
+        {
+            "level": "20",
+            "base_attack": 99.2591807,
+            "defense_percent": 0.26528501099999996
+        },
+        {
+            "level": "25",
+            "base_attack": 114.0844038,
+            "defense_percent": 0.29561187699999997
+        },
+        {
+            "level": "30",
+            "base_attack": 128.78642560000003,
+            "defense_percent": 0.325938743
+        },
+        {
+            "level": "35",
+            "base_attack": 143.32417900000002,
+            "defense_percent": 0.356265609
+        },
+        {
+            "level": "40",
+            "base_attack": 157.77979820000002,
+            "defense_percent": 0.386592475
+        },
+        {
+            "level": "45",
+            "base_attack": 172.15328320000003,
+            "defense_percent": 0.416919341
+        },
+        {
+            "level": "50",
+            "base_attack": 186.444634,
+            "defense_percent": 0.447246207
+        },
+        {
+            "level": "55",
+            "base_attack": 200.65385060000003,
+            "defense_percent": 0.47757307299999996
+        },
+        {
+            "level": "60",
+            "base_attack": 214.82200010000003,
+            "defense_percent": 0.507899939
+        },
+        {
+            "level": "65",
+            "base_attack": 228.9080154,
+            "defense_percent": 0.538226805
+        },
+        {
+            "level": "70",
+            "base_attack": 242.95296360000003,
+            "defense_percent": 0.568403538
+        },
+        {
+            "level": "75",
+            "base_attack": 256.95684470000003,
+            "defense_percent": 0.598730404
+        },
+        {
+            "level": "80",
+            "base_attack": 270.96072580000003,
+            "defense_percent": 0.62905727
+        },
+        {
+            "level": "85",
+            "base_attack": 284.88247270000005,
+            "defense_percent": 0.659384136
+        },
+        {
+            "level": "90",
+            "base_attack": 298.76315250000005,
+            "defense_percent": 0.689711002
+        }
+    ],
+    "refinement": {
+        "en": {
+            "id": 0,
+            "name": "Smoke-and-Mirror Mystery",
+            "upgrade": {
+                "0": "Using an Elemental Skill increases DEF by 16% for 15s.",
+                "1": "Using an Elemental Skill increases DEF by 20% for 15s.",
+                "2": "Using an Elemental Skill increases DEF by 24% for 15s.",
+                "3": "Using an Elemental Skill increases DEF by 28% for 15s.",
+                "4": "Using an Elemental Skill increases DEF by 32% for 15s."
+            }
+        },
+        "chs": {
+            "id": 0,
+            "name": "镜与烟色的隐谜",
+            "upgrade": {
+                "0": "施放元素战技时，防御力提升16%，持续15秒。",
+                "1": "施放元素战技时，防御力提升20%，持续15秒。",
+                "2": "施放元素战技时，防御力提升24%，持续15秒。",
+                "3": "施放元素战技时，防御力提升28%，持续15秒。",
+                "4": "施放元素战技时，防御力提升32%，持续15秒。"
+            }
+        },
+        "jp": {
+            "id": 0,
+            "name": "鏡と煙色の謎",
+            "upgrade": {
+                "0": "元素スキル発動時、防御力+16%、継続時間15秒。",
+                "1": "元素スキル発動時、防御力+20%、継続時間15秒。",
+                "2": "元素スキル発動時、防御力+24%、継続時間15秒。",
+                "3": "元素スキル発動時、防御力+28%、継続時間15秒。",
+                "4": "元素スキル発動時、防御力+32%、継続時間15秒。"
+            }
+        }
+    }
+}
