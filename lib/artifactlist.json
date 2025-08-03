@@ -458,6 +458,60 @@
             "imageurl": "images/artifact/15036.webp",
             "spoiler": true,
             "order": 999
+        },
+        {
+            "id": "15037",
+            "ENname": "Scroll of the Hero of Cinder City",
+            "CNname": "烬城勇者绘卷",
+            "JAname": "灰燼の都に立つ英雄の絵巻",
+            "imageurl": "images/artifact/15037.webp",
+            "spoiler": true,
+            "order": 999
+        },
+        {
+            "id": "15038",
+            "ENname": "Obsidian Codex",
+            "CNname": "黑曜秘典",
+            "JAname": "黒曜の秘典",
+            "imageurl": "images/artifact/15038.webp",
+            "spoiler": true,
+            "order": 999
+        },
+        {
+            "id": "15039",
+            "ENname": "Long Night's Oath",
+            "CNname": "长夜之誓",
+            "JAname": "長き夜の誓い",
+            "imageurl": "images/artifact/15039.webp",
+            "spoiler": true,
+            "order": 999
+        },
+        {
+            "id": "15040",
+            "ENname": "Finale of the Deep Galleries",
+            "CNname": "深廊终曲",
+            "JAname": "深廊の終曲",
+            "imageurl": "images/artifact/15040.webp",
+            "spoiler": true,
+            "order": 999
+        },
+        {
+            "id": "15041",
+            "ENname": "Night of the Sky's Unveiling",
+            "CNname": "穹境示现之夜",
+            "JAname": "穹境示現の夜JP0B",
+            "imageurl": "images/artifact/15041.webp",
+            "spoiler": true,
+            "order": 999
+        },
+        {
+            "id": "15042",
+            "ENname": "6.0 Set 2",
+            "CNname": "纺月的夜歌",
+            "JAname": "Ver.6.0セット2",
+            "imageurl": "images/artifact/15042.webp",
+            "spoiler": true,
+            "order": 999
         }
     ]
 }
