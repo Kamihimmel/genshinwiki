@@ -1,0 +1,70 @@
+{
+    "id": "15042",
+    "ENname": "Silken Moon's Serenade",
+    "CNname": "纺月的夜歌",
+    "JAname": "月を紡ぐ夜の歌JP0B",
+    "imageurl": "images/artifact/15042.webp",
+    "level": [
+        4,
+        5
+    ],
+    "skill": {
+        "2": {
+            "DescriptionEN": "Energy Recharge +20%.",
+            "DescriptionCN": "元素充能效率提高20%。",
+            "DescriptionJP": "元素チャージ効率+20%。"
+        },
+        "4": {
+            "DescriptionEN": "When dealing Elemental DMG, gain the Gleaming Moon: Devotion effect for 8s: Increases all party members' Elemental Mastery by 60/120 when the party's Moonsign is Nascent Gleam/Ascendant Gleam. All party members' Lunar Reaction DMG is increased by 10% for each different Gleaming Moon effect that party members have. Effects from Gleaming Moon cannot stack. The equipping character can trigger this effect while off-field.",
+            "DescriptionCN": "造成元素伤害时，获得持续8秒的「月辉明光·崇信」效果：队伍的月兆为初辉/满辉时，队伍中的所有角色的元素精通提高60点/120点。装备者处于后台时也能触发上述效果。队伍中的角色每拥有一种不同的「月辉明光」效果，队伍中的所有角色触发的月曜反应造成的伤害提升10%。由「月辉明光」产生的效果无法叠加。",
+            "DescriptionJP": "元素ダメージを与えた時、8秒間継続する「月輝明光・崇拝」効果を獲得する。「月輝明光・崇拝」：チームの月兆が初光/満光の時、チーム全員の元素熟知+60/120。チーム内キャラクターの「月輝明光」効果が1種類存在するごとに、チーム内キャラクターが起こす月照反応のダメージ+10%。「月輝明光」によって生じた効果は重ね掛け不可。装備者が待機中でも、上記効果を発動できる。JP0D"
+        }
+    },
+    "suit": {
+        "ring": {
+            "ENname": "Joyous Glory of the Pure",
+            "CNname": "至纯者的欢荣",
+            "JAname": "純粋なる者の歓喜",
+            "DescriptionEN": "An immaculate silver cup said to have been used in the bygone rituals of the Frostmoon Scions. Their modern rites have no need for such a vessel.",
+            "DescriptionCN": "纯净无垢的银杯，据说在霜月之子过去的仪式中曾被用作圣器。如今的仪式早已用不到这样的银杯了。",
+            "DescriptionJP": "純粋無垢な銀の盃。霜月の子の儀式では、過去に聖器として使われていたらしい。今の儀式ではとうに使われなくなっている。JP0D",
+            "imageurl": "images/artifact/15042-ring.webp"
+        },
+        "necklace": {
+            "ENname": "Pristine Plume of the Blessed",
+            "CNname": "受福者的白羽",
+            "JAname": "祝福されし者の白羽",
+            "DescriptionEN": "An immaculate feathered accessory said to have been forged by the first Moonchanter herself.",
+            "DescriptionCN": "纯净无垢的羽饰，据说是由最初的咏月使亲手锻造而成。",
+            "DescriptionJP": "純粋無垢な羽飾り。最初の詠月使が自ら手作りしたと言われている。JP0D",
+            "imageurl": "images/artifact/15042-necklace.webp"
+        },
+        "dress": {
+            "ENname": "Holy Crown of the Believer",
+            "CNname": "司信者的圣冕",
+            "JAname": "神託者の聖冠",
+            "DescriptionEN": "An immaculate adornment created in imitation of the envoy of the grove's antlers.",
+            "DescriptionCN": "纯净无垢的头饰，形貌似乎是仿照苍林灵使的角冠打造而成。",
+            "DescriptionJP": "純粋無垢な頭飾り。その形は、蒼林の霊使いの角を模して作られたようだ。JP0D",
+            "imageurl": "images/artifact/15042-dress.webp"
+        },
+        "bracer": {
+            "ENname": "Crystal Tear of the Wanderer",
+            "CNname": "流离者的晶泪",
+            "JAname": "彷徨える者の涙晶",
+            "DescriptionEN": "An immaculate flower whose beauty is said to have been preserved for eternity by the icy wind.",
+            "DescriptionCN": "纯净无垢的花朵，传说是因冰风而保持了永恒的美丽。",
+            "DescriptionJP": "純潔無垢な花。氷風によって永遠の美しさが保たれていると言われている。JP0D",
+            "imageurl": "images/artifact/15042-bracer.webp"
+        },
+        "shoes": {
+            "ENname": "Frost Devotee's Delirium",
+            "CNname": "祭霜者的迷狂",
+            "JAname": "霜祀者の狂宴",
+            "DescriptionEN": "An immaculate timepiece that long ago ceased turning, along with the delusions of its former owner.",
+            "DescriptionCN": "纯净无垢的时计，如今早已伴着其旧主的妄执一同停转。",
+            "DescriptionJP": "純粋無垢な時計。かつての持ち主の執念に伴い、動きを止めている。JP0D",
+            "imageurl": "images/artifact/15042-shoes.webp"
+        }
+    }
+}
